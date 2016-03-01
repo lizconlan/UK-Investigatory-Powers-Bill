@@ -1,4 +1,4 @@
-Part 4 Retention of communications data General 78 Powers to require retention of certain data 
+Part 4 Retention of communications data General 78 Powers to require retention of certain data
 (1) The Secretary of State may by notice (a “retention notice”) require a telecommunications operator to retain relevant communications data if the Secretary of State considers that the requirement is necessary and proportionate for one or more of the purposes falling within paragraphs (a) to (j) of section 53(7) (purposes for which communications data may be obtained).
 
 (2) A retention notice may—
@@ -19,7 +19,7 @@ Part 4 Retention of communications data General 78 Powers to require retention o
 
   (a) in the case of communications data relating to a specific communication, the day of the communication concerned,
 
-  (b) in the case of entity data which does not fall within paragraph (a) above but does fall within paragraph (a)(i) of the definition of “communications data” in section 223(5), the day on which the entity concerned ceases to be associated with the telecommunications service concerned or (if earlier) the day on which the data is changed, and 
+  (b) in the case of entity data which does not fall within paragraph (a) above but does fall within paragraph (a)(i) of the definition of “communications data” in section 223(5), the day on which the entity concerned ceases to be associated with the telecommunications service concerned or (if earlier) the day on which the data is changed, and
   (c) in any other case, the day on which the data is first held by the operator concerned.
 
 (4) A retention notice which relates to data already in existence when the notice comes into force imposes a requirement to retain the data for only so much of a period of retention as occurs on or after the coming into force of the notice.
@@ -27,7 +27,7 @@ Part 4 Retention of communications data General 78 Powers to require retention o
 (5) A retention notice comes into force—
 
   (a) when the notice is given to the operator (or description of operators)
-concerned, or 
+concerned, or
   (b) (if later) at the time or times specified in the notice.
 
 (6) A retention notice is given to an operator (or description of operators) by giving, or publishing, it in such manner as the Secretary of State considers appropriate for bringing it to the attention of the operator (or description of operators) to whom it relates.
@@ -49,7 +49,7 @@ concerned, or
   (a) a requirement to retain the data in such a way that it can be transmitted efficiently and effectively in response to requests,
 
   (b) requirements or restrictions in relation to the obtaining (whether by collection, generation or otherwise), generation or processing of—
-    (i) data for retention, or 
+    (i) data for retention, or
     (ii) retained data.
 
 (9) In this Part “relevant communications data” means communications data which may be used to identify, or assist in identifying, any of the following—
@@ -60,11 +60,11 @@ concerned, or
 
   (c) the type, method or pattern, or fact, of communication,
 
-  (d) the telecommunication system (or any part of it) from, to or through which, or by means of which, a communication is or may be transmitted, or 
+  (d) the telecommunication system (or any part of it) from, to or through which, or by means of which, a communication is or may be transmitted, or
   (e) the location of any such system,
 
 and this expression therefore includes, in particular, internet connection records.
-Safeguards 79 Matters to be taken into account before giving retention notices 
+Safeguards 79 Matters to be taken into account before giving retention notices
 (1) Before giving a retention notice, the Secretary of State must, among other matters, take into account—
 
   (a) the likely benefits of the notice,
@@ -73,11 +73,11 @@ Safeguards 79 Matters to be taken into account before giving retention notices
 
   (c) the technical feasibility of complying with the notice,
 
-  (d) the likely cost of complying with the notice, and 
+  (d) the likely cost of complying with the notice, and
   (e) any other effect of the notice on the telecommunications operator (or description of operators) to whom it relates.
 
 (2) Before giving such a notice, the Secretary of State must take reasonable steps to consult any operator to whom it relates.
-80 Review by the Secretary of State 
+80 Review by the Secretary of State
 (1) A telecommunications operator to whom a retention notice is given may,
 within such period or circumstances as may be provided for by regulations made by the Secretary of State, refer the notice back to the Secretary of State.
 
@@ -85,7 +85,7 @@ within such period or circumstances as may be provided for by regulations made b
 
 (3) In the case of a notice given to a description of operators—
 
-  (a) each operator falling within that description may make a reference under subsection (1), but 
+  (a) each operator falling within that description may make a reference under subsection (1), but
   (b) each such reference may only be in relation to the notice, or aspect of the notice, so far as it applies to that operator.
 
 (4) There is no requirement for an operator who has referred a retention notice under subsection (1) to comply with the notice, so far as referred, until the Secretary of State has reviewed the notice in accordance with subsection (5).
@@ -94,7 +94,7 @@ within such period or circumstances as may be provided for by regulations made b
 
 (6) Before deciding the review, the Secretary of State must consult—
 
-  (a) the Technical Advisory Board, and 
+  (a) the Technical Advisory Board, and
   (b) the Investigatory Powers Commissioner.
 
 (7) The Board must consider the technical requirements and the financial consequences, for the operator who has made the reference, of the notice so far as referred.
@@ -106,39 +106,39 @@ within such period or circumstances as may be provided for by regulations made b
   (a) give the operator concerned and the Secretary of State the opportunity to provide evidence, or make representations, to them before reaching their conclusions,
 
   (b) report their conclusions to—
-    (i) the operator, and 
+    (i) the operator, and
     (ii) the Secretary of State.
 
 (10) The Secretary of State may, after considering the conclusions of the Board and the Commissioner—
 
-  (a) vary or revoke the retention notice under section 83, or 
+  (a) vary or revoke the retention notice under section 83, or
   (b) give a notice under this section to the operator concerned confirming its effect.
 
 (11) A report or notice under this section is given to an operator by giving or publishing it in such manner as the Secretary of State considers appropriate for bringing it to the attention of the operator.
 
 (12) The Secretary of State must keep a retention notice under review (whether or not referred under subsection (1)).
-81 Data integrity and security 
+81 Data integrity and security
 (1) A telecommunications operator who retains relevant communications data by virtue of this Part must—
 
   (a) secure that the data is of the same integrity, and subject to at least the same security and protection, as the data on any system from which it is derived,
 
-  (b) secure, by appropriate technical and organisational measures, that the data can be accessed only by specially authorised personnel, and 
+  (b) secure, by appropriate technical and organisational measures, that the data can be accessed only by specially authorised personnel, and
   (c) protect, by appropriate technical and organisational measures, the data against accidental or unlawful destruction, accidental loss or alteration,
 or unauthorised or unlawful retention, processing, access or disclosure.
 
 (2) A telecommunications operator who retains relevant communications data by virtue of this Part must destroy the data if the retention of the data ceases to be authorised by virtue of this Part and is not otherwise authorised by law.
 
 (3) The destruction of the data may take place at such monthly or shorter intervals as appear to the operator to be practicable.
-82 Disclosure of retained data 
+82 Disclosure of retained data
 A telecommunications operator must put in place adequate security systems (including technical and organisational measures) governing access to relevant communications data retained by virtue of this Part in order to protect against any unlawful disclosure.
-Variation or revocation of notices 83 Variation or revocation of notices 
+Variation or revocation of notices 83 Variation or revocation of notices
 (1) The Secretary of State may vary a retention notice.
 
 (2) The Secretary of State must give, or publish, notice of the variation in such manner as the Secretary of State considers appropriate for bringing the variation to the attention of the telecommunications operator (or description of operators) to whom it relates.
 
 (3) A variation comes into force—
 
-  (a) when notice of it is given or published in accordance with subsection (2), or 
+  (a) when notice of it is given or published in accordance with subsection (2), or
   (b) (if later) at the time or times specified in the notice of variation.
 
 (4) A retention notice may not be varied so as to require the retention of additional relevant communications data unless the Secretary of State considers that the requirement is necessary and proportionate for one or more of the purposes falling within paragraphs (a) to (j) of section 53(7) (purposes for which communications data may be obtained).
@@ -153,19 +153,19 @@ Variation or revocation of notices 83 Variation or revocation of notices
 
 (9) The Secretary of State may revoke (whether wholly or in part) a retention notice.
 
-(10) The Secretary of State must give or publish notice of the revocation in such manner as the Secretary of State considers appropriate for bringing the 
+(10) The Secretary of State must give or publish notice of the revocation in such manner as the Secretary of State considers appropriate for bringing the
 revocation to the attention of the operator (or description of operators) to whom it relates.
 
 (11) A revocation comes into force—
 
-  (a) when notice of it is given or published in accordance with subsection (10), or 
+  (a) when notice of it is given or published in accordance with subsection (10), or
   (b) (if later) at the time or times specified in the notice of revocation.
 
 (12) The fact that a retention notice has been revoked in relation to a particular description of communications data and a particular operator (or description of operators) does not prevent the giving of another retention notice in relation to the same description of data and the same operator (or description of operators).
-Enforcement 84 Enforcement of notices and certain other requirements and restrictions 
+Enforcement 84 Enforcement of notices and certain other requirements and restrictions
 (1) It is the duty of a telecommunications operator on whom a requirement or restriction is imposed by—
 
-  (a) a retention notice, or 
+  (a) a retention notice, or
   (b) section 81 or 82,
 
 to comply with the requirement or restriction.
@@ -177,7 +177,7 @@ to comply with the requirement or restriction.
 (4) Subsections (2) and (3) do not apply to a disclosure made with the permission of the Secretary of State.
 
 (5) The duty under subsection (1) or (2) is enforceable by civil proceedings by the Secretary of State for an injunction, or for specific performance of a statutory duty under section 45 of the Court of Session Act 1988, or for any other appropriate relief.
-Further and supplementary provision 85 Application of Part 4 to postal operators and postal services 
+Further and supplementary provision 85 Application of Part 4 to postal operators and postal services
 (1) This Part applies to postal operators and postal services as it applies to telecommunications operators and telecommunications services.
 
 (2) In its application by virtue of subsection (1), this Part has effect as if—
@@ -193,11 +193,11 @@ Further and supplementary provision 85 Application of Part 4 to postal operators
 “(b) in the case of communications data which does not fall within paragraph (a) above but does fall within paragraph (c) of the definition of “communications data” in section 224(3), the day on which the person concerned leaves the postal service concerned or (if earlier) the day on which the data is changed,”, and”
 
   (e) in section 78(9), the words from “and this expression” to the end were omitted.
-86 Extra-territorial application of Part 4 
+86 Extra-territorial application of Part 4
 (1) A retention notice, and any requirement or restriction imposed by virtue of a retention notice or by section 81, 82 or 84(1) to (3), may relate to conduct outside the United Kingdom and persons outside the United Kingdom.
 
 (2) But section 84(5), so far as relating to those requirements or restrictions, does not apply to a person outside the United Kingdom.
-87 Part 4: interpretation 
+87 Part 4: interpretation
 (1) In this Part—
 
     “notice” means notice in writing,

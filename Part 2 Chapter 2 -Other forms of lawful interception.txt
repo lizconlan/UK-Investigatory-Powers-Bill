@@ -1,16 +1,16 @@
-CHAPTER 2 Other forms of lawful interception Interception with consent 37 Interception with the consent of the sender or recipient 
+CHAPTER 2 Other forms of lawful interception Interception with consent 37 Interception with the consent of the sender or recipient
 (1) The interception of a communication is authorised by this section if the sender and the intended recipient of the communication have each consented to its interception.
 
 (2) The interception of a communication is authorised by this section if—
 
-  (a) the communication is one sent by, or intended for, a person who has consented to the interception, and 
+  (a) the communication is one sent by, or intended for, a person who has consented to the interception, and
   (b) surveillance by means of that interception has been authorised under—
-    (i) Part 2 of the Regulation of Investigatory Powers Act 2000, or 
+    (i) Part 2 of the Regulation of Investigatory Powers Act 2000, or
     (ii) the Regulation of Investigatory Powers (Scotland) Act 2000 (2000 asp 112000 asp 11).
-Interception for administrative or enforcement purposes 38 Interception by providers of postal or telecommunications services 
+Interception for administrative or enforcement purposes 38 Interception by providers of postal or telecommunications services
 (1) The interception of a communication is authorised by this section if the interception is carried out—
 
-  (a) by, or on behalf of, a person who provides a postal service or a telecommunications service, and 
+  (a) by, or on behalf of, a person who provides a postal service or a telecommunications service, and
   (b) for any of the purposes in subsection (2).
 
 (2) The purposes referred to in subsection (1) are—
@@ -18,22 +18,22 @@ Interception for administrative or enforcement purposes 38 Interception by provi
   (a) purposes relating to the provision or operation of the service;
 
   (b) purposes relating to the enforcement, in relation to the service, of any enactment relating to—
-    (i) the use of postal or telecommunications services, or 
+    (i) the use of postal or telecommunications services, or
     (ii) the content of communications transmitted by means of such services;
 
   (c) purposes relating to the provision of services or facilities aimed at preventing or restricting the viewing or publication of the content of communications transmitted by means of postal or telecommunications services.
 
 (3) A reference in this section to anything carried out for purposes relating to the provision or operation of a telecommunications service includes, among other things, a reference to anything done for the purposes of identifying, combating or preventing anything which could affect—
 
-  (a) any telecommunication system by means of which the service is provided, or 
+  (a) any telecommunication system by means of which the service is provided, or
   (b) any apparatus attached to such a system.
-39 Interception by businesses etc. for monitoring and record-keeping purposes 
+39 Interception by businesses etc. for monitoring and record-keeping purposes
 (1) Conduct is authorised by this section if it is authorised by regulations made under subsection (2).
 
 (2) The Secretary of State may by regulations authorise conduct of a description specified in the regulations if that conduct appears to the Secretary of State to constitute a legitimate practice reasonably required for the purpose, in connection with the carrying on of any relevant activities (see subsection (4)),
 of monitoring or keeping a record of—
 
-  (a) communications by means of which transactions are entered into in the course of the relevant activities, or 
+  (a) communications by means of which transactions are entered into in the course of the relevant activities, or
   (b) other communications relating to the relevant activities or taking place in the course of the carrying on of those activities.
 
 (3) But nothing in any regulations under subsection (2) may authorise the interception of any communication except in the course of its transmission using apparatus or services provided by or to the person carrying on the relevant activities for use (whether wholly or partly) in connection with those activities.
@@ -44,16 +44,16 @@ of monitoring or keeping a record of—
 
   (b) any activities of a government department, the Welsh Government, a Northern Ireland department or any part of the Scottish Administration,
 
-  (c) any activities of a public authority, and 
+  (c) any activities of a public authority, and
   (d) any activities of any person or office holder on whom functions are conferred by or under any enactment.
-40 Postal services: interception for enforcement purposes 
+40 Postal services: interception for enforcement purposes
 (1) The interception of a communication in the course of its transmission by means of a public postal service is authorised by this section if it is carried out by an officer of Revenue and Customs under section 159 of the Customs and Excise Management Act 1979, as applied by virtue of—
 
-  (a) section 105 of the Postal Services Act 2000 (power to open postal items etc.), or 
+  (a) section 105 of the Postal Services Act 2000 (power to open postal items etc.), or
   (b) that section and another enactment.
 
 (2) The interception of a communication in the course of its transmission by means of a public postal service is authorised by this section if it is carried out under paragraph 9 of Schedule 7 to the Terrorism Act 2000 (port and border controls).
-41 Interception by OFCOM in connection with wireless telegraphy 
+41 Interception by OFCOM in connection with wireless telegraphy
 (1) Conduct falling within subsection (2) is authorised by this section if it is carried out by OFCOM for purposes connected with a relevant matter (see subsection (3)).
 
 (2) The conduct referred to in subsection (1) is—
@@ -71,7 +71,7 @@ of monitoring or keeping a record of—
   (b) the prevention or detection of anything which constitutes interference with wireless telegraphy;
 
   (c) the enforcement of—
-    (i) any provision of Part 2 (other than Chapter 2 and sections 27 to 31) or Part 3 of the 2006 Act, or 
+    (i) any provision of Part 2 (other than Chapter 2 and sections 27 to 31) or Part 3 of the 2006 Act, or
     (ii) any enactment not falling within sub-paragraph (i) that relates to interference with wireless telegraphy.
 
 (4) In this section—
@@ -82,21 +82,21 @@ of monitoring or keeping a record of—
 
     “wireless telegraphy” has the same meaning as in the Wireless Telegraphy Act 2006 (see section 116 of that Act).
 
-Interception taking place in certain institutions 42 Interception in prisons 
+Interception taking place in certain institutions 42 Interception in prisons
 (1) Conduct taking place in a prison is authorised by this section if it is conduct in exercise of any power conferred by or under prison rules.
 
 (2) In this section “prison rules” means any rules made under—
 
   (a) section 47 of the Prison Act 1952,
 
-  (b) section 39 of the Prisons (Scotland) Act 1989, or 
+  (b) section 39 of the Prisons (Scotland) Act 1989, or
   (c) section 13 of the Prison Act (Northern Ireland) 1953.
 
 (3) In this section “prison” means—
 
   (a) any prison, young offender institution, young offenders centre, secure training centre, secure college or remand centre which—
-    (i) is under the general superintendence of, or is provided by, the Secretary of State under the Prison Act 1952, or 
-    (ii) is under the general superintendence of, or is provided by, the Department of Justice in Northern Ireland under the Prison Act (Northern Ireland) 1953, or 
+    (i) is under the general superintendence of, or is provided by, the Secretary of State under the Prison Act 1952, or
+    (ii) is under the general superintendence of, or is provided by, the Department of Justice in Northern Ireland under the Prison Act (Northern Ireland) 1953, or
   (b) any prison, young offenders institution or remand centre which is under the general superintendence of the Scottish Ministers under the Prisons (Scotland) Act 1989,
 
 and includes any contracted out prison, within the meaning of Part 4 of the Criminal Justice Act 1991 or section 106(4) of the Criminal Justice and Public Order Act 1994, and any legalised police cells within the meaning of section 14 of the Prisons (Scotland) Act 1989.
@@ -104,25 +104,25 @@ and includes any contracted out prison, within the meaning of Part 4 of the Crim
 
 (1) Conduct is authorised by this section if—
 
-  (a) it takes place in any hospital premises where high security psychiatric services are provided, and 
+  (a) it takes place in any hospital premises where high security psychiatric services are provided, and
   (b) it is conduct in pursuance of, and in accordance with, any relevant direction given to the body providing those services at those premises.
 
 (2) “Relevant direction” means—
 
-  (a) a direction under section 4(3A)(a) of the National Health Service Act 2006, or 
+  (a) a direction under section 4(3A)(a) of the National Health Service Act 2006, or
   (b) a direction under section 19 or 23 of the National Health Service (Wales)
 Act 2006.
 
 (3) Conduct is authorised by this section if—
 
-  (a) it takes place in a state hospital, and 
+  (a) it takes place in a state hospital, and
   (b) it is conduct in pursuance of, and in accordance with, any direction given to the State Hospitals Board for Scotland under section 2(5) of the National Health Service (Scotland) Act 1978 (regulations and directions as to the exercise of their functions by health boards).
 
 The reference to section 2(5) of that Act is to that provision as applied by Article 5(1) of, and the Schedule to, the State Hospitals Board for Scotland Order 1995 (which applies certain provisions of that Act to the State Hospitals Board).
 
 (4) Conduct is authorised by this section if it is conduct in exercise of any power conferred by or under—
 
-  (a) section 281 of the Mental Health (Care and Treatment) (Scotland) Act 2003 (2003 asp 132003 asp 13) (power to withhold correspondence of certain persons detained in hospital), or 
+  (a) section 281 of the Mental Health (Care and Treatment) (Scotland) Act 2003 (2003 asp 132003 asp 13) (power to withhold correspondence of certain persons detained in hospital), or
   (b) section 284 of that Act (powers relating to the use of telephones by certain persons detained in hospital).
 
 (5) In this section—
@@ -133,7 +133,7 @@ The reference to section 2(5) of that Act is to that provision as applied by Art
 
     “state hospital” has the same meaning as in the National Health Service (Scotland) Act 1978.
 
-44 Interception in immigration detention facilities 
+44 Interception in immigration detention facilities
 (1) Conduct taking place in immigration detention facilities is authorised by this section if it is conduct in exercise of any power conferred by or under relevant rules.
 
 (2) In this section—
@@ -148,12 +148,12 @@ The reference to section 2(5) of that Act is to that provision as applied by Art
     (c) in the case of pre-departure accommodation, rules made under,
     or having effect by virtue of, section 157A of that Act.
 
-Interception in accordance with overseas requests 45 Interception in accordance with overseas requests 
+Interception in accordance with overseas requests 45 Interception in accordance with overseas requests
 (1) The interception of a communication in the course of its transmission by means of a telecommunication system is authorised by this section if conditions A to C are met.
 
 (2) Condition A is that the interception—
 
-  (a) is carried out by or on behalf of a telecommunications operator, and 
+  (a) is carried out by or on behalf of a telecommunications operator, and
   (b) relates to the use of a telecommunications service provided by the telecommunications operator.
 
 (3) Condition B is that the interception is carried out in response to a request made in accordance with a relevant international agreement by the competent authorities of a country or territory outside the United Kingdom.

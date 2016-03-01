@@ -1,11 +1,11 @@
-SCHEDULES 
-Section 6 SCHEDULE 1 Monetary penalty notices Part 1 Monetary penalty notices Payment of monetary penalties 
+SCHEDULES
+Section 6 SCHEDULE 1 Monetary penalty notices Part 1 Monetary penalty notices Payment of monetary penalties
 1 (1) A monetary penalty imposed by a monetary penalty notice must be paid to the Commissioner within the period specified in the notice.
 
 (2) The period specified under sub-paragraph (1) must not be less than 28 days beginning with the day after the day on which the notice is served.
 
 (3) Any sum received by the Commissioner by virtue of a monetary penalty notice must be paid into the Consolidated Fund.
-Contents of monetary penalty notices 
+Contents of monetary penalty notices
 2 A monetary penalty notice must, in particular—
 
   (a) state the name and address of the person on whom it is to be served,
@@ -23,7 +23,7 @@ Contents of monetary penalty notices
   (g) provide details of the person’s rights of appeal under paragraph 8 in respect of the monetary penalty notice,
 
   (h) provide details of the Commissioner’s rights of enforcement under paragraph 9 in respect of the monetary penalty notice.
-Enforcement obligations 
+Enforcement obligations
 3 (1) The Commissioner may include an enforcement obligation, or enforcement obligations, in a monetary penalty notice if the Commissioner considers that the interception to which the notice relates is continuing.
 
 (2) Each of the following is an enforcement obligation—
@@ -35,7 +35,7 @@ Enforcement obligations
 (3) An enforcement obligation may not have effect before the end of the period of 7 days beginning with the day after the day on which the notice is served.
 
 (4) Where an enforcement obligation is included in a monetary penalty notice under this paragraph, the notice must state what the obligation is and the grounds for including it.
-Consultation requirements before service of monetary penalty notices 
+Consultation requirements before service of monetary penalty notices
 4 (1) The Commissioner must proceed in accordance with sub-paragraphs (2) to (7) before serving a monetary penalty notice on a person.
 
 (2) The Commissioner must serve a notice of intent on the person.
@@ -54,16 +54,16 @@ Consultation requirements before service of monetary penalty notices
 
   (e) state the date on which the Commissioner proposes to serve the monetary penalty notice,
 
-  (f) inform the person that the person may make written representations in relation to the Commissioner’s proposal within a period specified in the notice, and 
+  (f) inform the person that the person may make written representations in relation to the Commissioner’s proposal within a period specified in the notice, and
   (g) inform the person that the person may, within a period specified in the notice, request an oral hearing before the Commissioner in order to make representations of the kind mentioned in sub-paragraph (6)(b).
 
 (5) No period specified as mentioned in sub-paragraph (4)(f) or (g) may be less than 21 days beginning with the day after the day on which the notice is served.
 
 (6) Where the person has requested an oral hearing within the period specified for the purpose in the notice—
 
-  (a) the Commissioner must arrange such a hearing, and 
+  (a) the Commissioner must arrange such a hearing, and
   (b) the person may make representations at the hearing about—
-    (i) any matter falling within section 6(3)(c), or 
+    (i) any matter falling within section 6(3)(c), or
     (ii) any other matter relating to the Commissioner’s proposal which, by virtue of section 48, the person would be unable to raise on an appeal under paragraph 8.
 
 (7) The Commissioner must consider any representations which have been made by the person in accordance with the notice or sub-paragraph (6).
@@ -86,9 +86,9 @@ paragraph (2).
 (2) But the Commissioner may serve a monetary penalty notice on a person where the service of the notice would otherwise be prevented by sub-
 paragraph (1) if the Commissioner—
 
-  (a) considers it reasonable to do so, and 
+  (a) considers it reasonable to do so, and
   (b) includes the reasons for doing so in the monetary penalty notice.
-Variation or cancellation of monetary penalty notices 
+Variation or cancellation of monetary penalty notices
 7 (1) The Commissioner may vary or cancel a monetary penalty notice.
 
 (2) But the Commissioner may not vary a monetary penalty notice in a way that is detrimental to the person on whom it was served (whether by increasing the amount of the monetary penalty, by reducing the period specified in the notice as the period within which the penalty must be paid, by imposing a new enforcement obligation or making an existing enforcement obligation effective earlier or otherwise more onerous, or otherwise).
@@ -96,7 +96,7 @@ Variation or cancellation of monetary penalty notices
 (3) The Commissioner must—
 
   (a) in the case of a variation which reduces the amount of a monetary penalty, repay any excess already paid in accordance with the notice,
-and 
+and
   (b) in the case of a cancellation, repay any amount already paid in accordance with the notice.
 
 (4) A variation or cancellation of a monetary penalty notice is effected by serving on the person on whom the monetary penalty notice was served a notice setting out the variation or cancellation.
@@ -104,10 +104,10 @@ and
 (5) The Commissioner may not serve another monetary penalty notice on a person in respect of an interception if the Commissioner has cancelled a previous notice served on the person in respect of the same interception.
 
 (6) If the Commissioner refuses a request by a person to vary or cancel a monetary penalty notice which has been served on the person, the Commissioner must inform the person of that fact.
-Appeals in relation to monetary penalty notices 
+Appeals in relation to monetary penalty notices
 8 (1) A person on whom a monetary penalty notice is served may appeal to the First-tier Tribunal against—
 
-  (a) the monetary penalty notice or any provision of it, or 
+  (a) the monetary penalty notice or any provision of it, or
   (b) any refusal of a request by the person to serve a notice of variation or cancellation in relation to the monetary penalty notice.
 
 (2) Where there is an appeal under sub-paragraph (1)(a) in relation to a monetary penalty notice or any provision of it, any requirement in the notice or (as the case may be) provision which does not relate to the imposition of an enforcement obligation need not be complied with until the appeal is withdrawn or finally determined.
@@ -116,7 +116,7 @@ Appeals in relation to monetary penalty notices
 
 (4) The First-tier Tribunal must allow the appeal or substitute such other monetary penalty notice as could have been served by the Commissioner if the Tribunal considers—
 
-  (a) that the notice to which the appeal relates is not in accordance with the law, or 
+  (a) that the notice to which the appeal relates is not in accordance with the law, or
   (b) to the extent that the notice involved an exercise of discretion by the Commissioner, that the Commissioner ought to have exercised the discretion differently.
 
 (5) In any other case, the First-tier Tribunal must dismiss the appeal.
@@ -131,12 +131,12 @@ paragraph (1)(b).
 (9) In any other case, the First-tier Tribunal must dismiss the appeal.
 
 (10) The First-tier Tribunal may review any determination of fact on which the refusal to serve the notice of variation or cancellation was based.
-Enforcement of monetary penalty notices 
+Enforcement of monetary penalty notices
 9 (1) This paragraph applies in relation to any penalty payable to the Commissioner by virtue of a monetary penalty notice.
 
 (2) In England and Wales or Northern Ireland, the penalty is recoverable—
 
-  (a) if the county court in England and Wales or a county court in Northern Ireland so orders, as if it were payable under an order of that court, and 
+  (a) if the county court in England and Wales or a county court in Northern Ireland so orders, as if it were payable under an order of that court, and
   (b) if the High Court so orders, as if it were payable under an order of that court.
 
 (3) In Scotland, the penalty is recoverable as if it were payable under an extract registered decree arbitral bearing a warrant for execution issued by the sheriff for any sheriffdom in Scotland.
@@ -144,18 +144,18 @@ Enforcement of monetary penalty notices
 10 (1) A person on whom a monetary penalty notice containing an enforcement obligation is served must comply with the obligation.
 
 (2) The duty imposed by sub-paragraph (1) is enforceable by civil proceedings by the Commissioner for an injunction, or for specific performance of a statutory duty under section 45 of the Court of Session Act 1988, or for any other appropriate relief.
-Guidance 
+Guidance
 11 (1) The Commissioner must prepare and issue guidance on how the Commissioner proposes to exercise the Commissioner’s functions under section 6 and this Schedule.
 
 (2) The guidance must, in particular, deal with—
 
-  (a) the manner in which the Commissioner is to deal with claims of a description specified in the guidance which may give rise to grounds for serving a monetary penalty notice, 
+  (a) the manner in which the Commissioner is to deal with claims of a description specified in the guidance which may give rise to grounds for serving a monetary penalty notice,
 
 
   (b) the circumstances in which the Commissioner would consider it appropriate to serve a monetary penalty notice,
 
   (c) how the Commissioner will determine the amount of the penalty,
-and 
+and
   (d) the circumstances in which the Commissioner would consider it appropriate to impose an enforcement obligation.
 
 (3) The Commissioner may alter or replace the guidance.
@@ -163,7 +163,7 @@ and
 (4) If the guidance is altered or replaced, the Commissioner must issue the altered or replacement guidance.
 
 (5) The Commissioner must arrange for the publication, in such form and manner as the Commissioner considers appropriate, of any guidance issued under this paragraph.
-Interpretation of Part 1 
+Interpretation of Part 1
 12 In this Part of this Schedule—
 
     “address” means—
@@ -183,7 +183,7 @@ Interpretation of Part 1
 
     “registered company” means a company registered under the enactments relating to companies for the time being in force in the United Kingdom.
 
-Part 2 Information provisions Information notices 
+Part 2 Information provisions Information notices
 13 (1) The Commissioner may by notice (an “information notice”) request any person on whom the Commissioner is considering whether to serve a Part 1 notice of intent or a Part 1 monetary penalty notice to provide such information as the Commissioner reasonably requires for the purpose of deciding whether to serve it.
 
 (2) Where the Commissioner requests that documents be produced, the Commissioner may take copies of, or extracts from, any document so produced.
@@ -196,12 +196,12 @@ Part 2 Information provisions Information notices
 
   (c) state that the Commissioner considers that the information is information which the Commissioner reasonably requires for the purpose of deciding whether to serve a Part 1 notice of intent or (as the case may be) a Part 1 monetary penalty notice,
 
-  (d) state the Commissioner’s grounds for this view, and 
+  (d) state the Commissioner’s grounds for this view, and
   (e) provide details of the rights of appeal under paragraph 15 in respect of the information notice.
 
 (4) For the purposes of sub-paragraph (3)(b)—
 
-  (a) specifying the manner in which the information is to be provided may include specifying the form in which it is to be provided, and 
+  (a) specifying the manner in which the information is to be provided may include specifying the form in which it is to be provided, and
   (b) the specified period within which the information is to be provided must not be less than 28 days beginning with the day after the day on which the information notice is served.
 
 14 (1) The Commissioner may not vary an information notice except as set out in sub-paragraph (2).
@@ -213,11 +213,11 @@ Part 2 Information provisions Information notices
 (4) The Commissioner may cancel an information notice.
 
 (5) A variation or cancellation of an information notice is effected by serving on the person on whom the notice was served a notice setting out the variation or cancellation.
-Appeals in relation to information notices 
+Appeals in relation to information notices
 15 (1) A person on whom an information notice is served may appeal to the First-
 tier Tribunal against—
 
-  (a) the information notice or any provision of it, or 
+  (a) the information notice or any provision of it, or
   (b) any refusal of a request by the person to serve a notice of variation or cancellation in relation to the information notice.
 
 (2) Subject to paragraph 14(2), an appeal under this paragraph does not affect the need to comply with the information notice while the appeal has not been withdrawn or finally determined.
@@ -226,7 +226,7 @@ tier Tribunal against—
 
 (4) The First-tier Tribunal must allow the appeal or substitute such other information notice as could have been served by the Commissioner if the Tribunal considers—
 
-  (a) that the notice to which the appeal relates is not in accordance with the law, or 
+  (a) that the notice to which the appeal relates is not in accordance with the law, or
   (b) to the extent that the notice involved an exercise of discretion by the Commissioner, that the Commissioner ought to have exercised the discretion differently.
 
 (5) In any other case, the First-tier Tribunal must dismiss the appeal.
@@ -241,10 +241,10 @@ paragraph (1)(b).
 (9) In any other case, the First-tier Tribunal must dismiss the appeal.
 
 (10) The First-tier Tribunal may review any determination of fact on which the refusal to serve the notice of variation or cancellation was based.
-Enforcement of information notices 
+Enforcement of information notices
 16 (1) The Commissioner may serve a Part 2 monetary penalty notice on a person if the person—
 
-  (a) without reasonable excuse fails to comply with an information notice, or 
+  (a) without reasonable excuse fails to comply with an information notice, or
   (b) knowingly or recklessly gives any information which is false in a material particular in response to an information notice.
 
 (2) A Part 2 monetary penalty notice is a notice requiring the person on whom it is served to pay to the Commissioner a monetary penalty of an amount determined by the Commissioner and specified in the notice.
@@ -253,16 +253,16 @@ Enforcement of information notices
 
   (a) a fixed amount,
 
-  (b) an amount calculated by reference to a daily rate, or 
+  (b) an amount calculated by reference to a daily rate, or
   (c) a fixed amount and an amount calculated by reference to a daily rate.
 
 (4) But the total amount payable must not exceed £10,000.
 
 (5) In the case of an amount calculated by reference to a daily rate—
 
-  (a) no account is to be taken of the day on which the Part 2 monetary penalty notice is served or any day before that day, and 
+  (a) no account is to be taken of the day on which the Part 2 monetary penalty notice is served or any day before that day, and
   (b) the Part 2 monetary penalty notice must specify—
-    (i) the day on which the amount first starts to accumulate and the circumstances in which it is to cease to accumulate, and 
+    (i) the day on which the amount first starts to accumulate and the circumstances in which it is to cease to accumulate, and
     (ii) the period or periods within which the amount, or any part or parts so far accumulated, must be paid to the Commissioner.
 
 Any period falling within paragraph (b)(ii) must not be less than 28 days beginning with the day after the day on which the notice is served.
@@ -278,13 +278,13 @@ This is subject to the following modifications.
 (4) Paragraph 6 has effect in relation to a Part 2 monetary penalty notice as if the references in sub-paragraph (1) to an interception were references to conduct falling within paragraph 16(1)(a) or (b).
 
 (5) Paragraph 7(5) has effect in relation to a Part 2 monetary penalty notice as if the references to an interception were references to conduct falling within paragraph 16(1)(a) or (b).
-Technical assistance for the Commissioner 
+Technical assistance for the Commissioner
 18 (1) OFCOM must comply with any reasonable request made by the Commissioner, in connection with the Commissioner’s functions under section 6 and this Schedule, for advice on technical and similar matters relating to electronic communications.
 
 (2) For this purpose, the Commissioner may disclose to OFCOM any information obtained by the Commissioner under this Schedule.
 
 (3) In this paragraph “OFCOM” means the Office of Communications established by section 1 of the Office of Communications Act 2002.
-Interpretation of Part 2 
+Interpretation of Part 2
 19 In this Part of this Schedule—
 
     “the Commissioner” means the Investigatory Powers Commissioner;
@@ -304,38 +304,38 @@ Interpretation of Part 2
     “Part 2 monetary penalty notice” means a monetary penalty notice under paragraph 16.
 
 Section 10(1)
-SCHEDULE 2 Abolition of disclosure powers Health and Safety at Work etc. Act 1974 
+SCHEDULE 2 Abolition of disclosure powers Health and Safety at Work etc. Act 1974
 1 In section 20 of the Health and Safety at Work etc. Act 1974 (powers of inspectors), at end, insert—
 
 “(9) Nothing in this section is to be read as enabling an inspector to secure the disclosure by a telecommunications operator or postal operator of communications data without the consent of the operator.
 
 (10) In subsection (9) “communications data”, “postal operator” and “telecommunications operator” have the same meanings as in the Investigatory Powers Act 2016 (see sections 223 and 224 of that Act).”
-Criminal Justice Act 1987 
+Criminal Justice Act 1987
 2 In section 2 of the Criminal Justice Act 1987 (investigation powers of Director of Serious Fraud Office), after subsection (10), insert—
 
 “(10A) Nothing in this section is to be read as enabling a person to secure the disclosure by a telecommunications operator or postal operator of communications data without the consent of the operator.
 
 (10B) In subsection (10A) “communications data”, “postal operator” and “telecommunications operator” have the same meanings as in the Investigatory Powers Act 2016 (see sections 223 and 224 of that Act).”
-Consumer Protection Act 1987 
+Consumer Protection Act 1987
 3 In section 29 of the Consumer Protection Act 1987 (powers of search etc.), at end, insert—
 
 “(8) The officer may not exercise a power under this section to secure the disclosure by a telecommunications operator or postal operator of communications data without the consent of the operator.
 
 (9) In subsection (8) “communications data”, “postal operator” and “telecommunications operator” have the same meanings as in the Investigatory Powers Act 2016 (see sections 223 and 224 of that Act).”
-Environmental Protection Act 1990 
+Environmental Protection Act 1990
 4 In section 71 of the Environmental Protection Act 1990 (obtaining of information from persons and authorities), at end, insert—
 
 “(5) Nothing in this section is to be read as enabling a person to secure the disclosure by a telecommunications operator or postal operator of communications data without the consent of the operator.
 
 (6) In subsection (5) “communications data”, “postal operator” and “telecommunications operator” have the same meanings as in the Investigatory Powers Act 2016 (see sections 223 and 224 of that Act).”
-Social Security Administration Act 1992 
+Social Security Administration Act 1992
 5 In section 109B of the Social Security Administration Act 1992 (power to require information)—
 
   (a) in subsection (2A) omit paragraph (j),
 
   (b) in subsection (2E) for the words from “for” to the end of the subsection substitute “so as to secure the disclosure by a telecommunications operator or postal operator of communications data without the consent of the operator.”,
 
-  (c) omit subsection (2F), and 
+  (c) omit subsection (2F), and
   (d) in subsection (7)—
     (i) after the definition of “bank” insert—
 
@@ -351,14 +351,14 @@ substitute—
 6 In section 109C of the Social Security Administration Act 1992 (powers of entry) for subsection (6) substitute—
 
 “(6) Subsections (2E) and (5) of section 109B apply for the purposes of this section as they apply for the purposes of that section.”
-Social Security Administration (Northern Ireland) Act 1992 
+Social Security Administration (Northern Ireland) Act 1992
 7 In section 103B of the Social Security Administration (Northern Ireland) Act 1992 (power to require information)—
 
   (a) in subsection (2A) omit paragraph (i),
 
   (b) in subsection (2E) for the words from “for” to the end of the subsection substitute “so as to secure the disclosure by a telecommunications operator or postal operator of communications data without the consent of the operator.”,
 
-  (c) omit subsection (2F), and 
+  (c) omit subsection (2F), and
   (d) in subsection (7)—
     (i) after the definition of “bank” insert—
 
@@ -374,14 +374,14 @@ substitute—
 8 In section 103C of the Social Security Administration (Northern Ireland) Act 1992 (powers of entry) for subsection (6) substitute—
 
 “(6) Subsections (2E) and (5) of section 103B apply for the purposes of this section as they apply for the purposes of that section.”
-Financial Services and Markets Act 2000 
+Financial Services and Markets Act 2000
 9 In section 175 of the Financial Services and Markets Act 2000 (information gathering and investigations: supplemental provision), after subsection (5),
 insert—
 
 “(5A) Nothing in this Part is to be read as enabling a person to secure the disclosure by a telecommunications operator or postal operator of communications data without the consent of the operator.
 
 (5B) In subsection (5A) “communications data”, “postal operator” and “telecommunications operator” have the same meanings as in the Investigatory Powers Act 2016 (see sections 223 and 224 of that Act).”
-Finance Act 2008 
+Finance Act 2008
 10 In Schedule 36 to the Finance Act 2008 (information and inspection powers),
 in paragraph 19 (restrictions on powers: types of information), at end,
 insert—
@@ -416,12 +416,12 @@ substitute—
 
     “““telecommunications operator” has the same meaning as in the Investigatory Powers Act 2016 (see section 223 of that Act).”
 
-Section 48 SCHEDULE 3 Exceptions to section 48 Introductory 
+Section 48 SCHEDULE 3 Exceptions to section 48 Introductory
 1 This Schedule contains—
 
-  (a) exceptions to the exclusion by section 48(1) of certain matters from legal proceedings, and 
+  (a) exceptions to the exclusion by section 48(1) of certain matters from legal proceedings, and
   (b) limitations on those exceptions where that exclusion will still apply.
-Disclosures of lawfully intercepted communications 
+Disclosures of lawfully intercepted communications
 2 (1) Section 48(1)(a) does not prohibit the disclosure of any content of a communication, or any secondary data obtained from a communication, if the interception of that communication was lawful by virtue of any of the following provisions—
 
   (a) sections 5(1)(c) and 37 to 45;
@@ -431,12 +431,12 @@ Disclosures of lawfully intercepted communications
   (c) section 1(2)(b) and (3) of the Interception of Communications Act 1985.
 
 (2) Where any disclosure is proposed to be, or has been, made on the grounds that it is authorised by sub-paragraph (1), section 48(1) does not prohibit the doing of anything in, or for the purposes of, so much of any proceedings as relates to the question whether that disclosure is or was so authorised.
-Disclosures of convictions for certain offences 
+Disclosures of convictions for certain offences
 3 Section 48(1)(b) does not prohibit the doing of anything that discloses any conduct of a person for which that person has been convicted of—
 
   (a) an offence under section 2(1), 36(7) or 51,
 
-  (b) an offence under section 1(1) or (2), 11(7) or 19 of the Regulation of Investigatory Powers Act 2000, or 
+  (b) an offence under section 1(1) or (2), 11(7) or 19 of the Regulation of Investigatory Powers Act 2000, or
   (c) an offence under section 1 of the Interception of Communications Act 1985.
 Proceedings before the Investigatory Powers Tribunal etc.
 
@@ -444,24 +444,24 @@ Proceedings before the Investigatory Powers Tribunal etc.
 
   (a) any proceedings before the Investigatory Powers Tribunal,
 
-  (b) any proceedings on an appeal under section 67A of the Regulation of Investigatory Powers Act 2000 (appeal against decisions of the Tribunal etc.), or 
+  (b) any proceedings on an appeal under section 67A of the Regulation of Investigatory Powers Act 2000 (appeal against decisions of the Tribunal etc.), or
   (c) any proceedings arising out of such an appeal.
-Proceedings before Special Immigration Appeals Commission 
+Proceedings before Special Immigration Appeals Commission
 5 (1) Section 48(1) does not apply in relation to—
 
-  (a) any proceedings before the Special Immigration Appeals Commission, or 
+  (a) any proceedings before the Special Immigration Appeals Commission, or
   (b) any proceedings arising out of proceedings before that Commission.
 
 (2) But sub-paragraph (1) does not permit the disclosure of anything to—
 
-  (a) the appellant or (as the case may be) applicant to the Special Immigration Appeals Commission, or 
+  (a) the appellant or (as the case may be) applicant to the Special Immigration Appeals Commission, or
   (b) any person who—
-    (i) represents that appellant or applicant for the purposes of the proceedings, and 
+    (i) represents that appellant or applicant for the purposes of the proceedings, and
     (ii) does so otherwise than by virtue of appointment under section 6 of the Special Immigration Appeals Commission Act 1997.
-Proceedings before Proscribed Organisations Appeal Commission 
+Proceedings before Proscribed Organisations Appeal Commission
 6 (1) Section 48(1) does not apply in relation to—
 
-  (a) any proceedings before the Proscribed Organisations Appeal Commission, or 
+  (a) any proceedings before the Proscribed Organisations Appeal Commission, or
   (b) any proceedings arising out of proceedings before that Commission.
 
 (2) But sub-paragraph (1) does not permit the disclosure of anything to any of the following—
@@ -473,56 +473,56 @@ Proceedings before Proscribed Organisations Appeal Commission
   (c) any person designated under paragraph 6 of Schedule 3 to the Terrorism Act 2000 to conduct the proceedings on behalf of that organisation;
 
   (d) any person who—
-    (i) represents that appellant or that organisation for the purposes of the proceedings, and 
+    (i) represents that appellant or that organisation for the purposes of the proceedings, and
     (ii) does so otherwise than by virtue of an appointment under paragraph 7 of that Schedule.
-Closed material proceedings 
+Closed material proceedings
 7 (1) Section 48(1) does not apply in relation to any section 6 proceedings within the meaning given by section 14(1) of the Justice and Security Act 2013 (certain civil proceedings in which closed material applications may be made).
 
 (2) But sub-paragraph (1) does not permit a prohibited section 6 disclosure.
 
 (3) In the case of section 6 proceedings where the only relevant person is the Secretary of State, a “prohibited section 6 disclosure” means a disclosure of anything to—
 
-  (a) any person, other than the Secretary of State, who is or was a party to the proceedings, or 
+  (a) any person, other than the Secretary of State, who is or was a party to the proceedings, or
   (b) any person who—
     (i) represents such a person for the purposes of the proceedings,
-and 
+and
     (ii) does so otherwise than by virtue of appointment as a special advocate.
 
 (4) In the case of section 6 proceedings where the Secretary of State is not the only relevant person, or is not a relevant person but is a party to the proceedings, a “prohibited section 6 disclosure” means a disclosure of anything to—
 
-  (a) any person, other than the relevant person concerned or the Secretary of State, who is or was a party to the proceedings, or 
+  (a) any person, other than the relevant person concerned or the Secretary of State, who is or was a party to the proceedings, or
   (b) any person who—
-    (i) represents a person within paragraph (a) for the purposes of the proceedings, and 
+    (i) represents a person within paragraph (a) for the purposes of the proceedings, and
     (ii) does so otherwise than by virtue of appointment as a special advocate.
 
 (5) In this paragraph “relevant person”, in relation to section 6 proceedings, has the meaning given by section 14(1) of the Justice and Security Act 2013.
-TPIM proceedings 
+TPIM proceedings
 8 (1) Section 48(1) does not apply in relation to—
 
-  (a) any TPIM proceedings, or 
+  (a) any TPIM proceedings, or
   (b) any proceedings arising out of any TPIM proceedings.
 
 (2) But sub-paragraph (1) does not permit the disclosure of anything to—
 
-  (a) any person, other than the Secretary of State, who is or was a party to the proceedings, or 
+  (a) any person, other than the Secretary of State, who is or was a party to the proceedings, or
   (b) any person who—
     (i) represents such a person for the purposes of the proceedings,
-and 
+and
     (ii) does so otherwise than by virtue of appointment as a special advocate under Schedule 4 to the Terrorism Prevention and Investigation Measures Act 2011.
 
 (3) In this paragraph “TPIM proceedings” has the same meaning as in the Terrorism Prevention and Investigation Measures Act 2011.
-TEO proceedings 
+TEO proceedings
 9 (1) Section 48(1) does not apply in relation to—
 
-  (a) any TEO proceedings, or 
+  (a) any TEO proceedings, or
   (b) any proceedings arising out of any TEO proceedings.
 
 (2) But sub-paragraph (1) does not permit the disclosure of anything to—
 
-  (a) any person, other than the Secretary of State, who is or was a party to the proceedings, or 
+  (a) any person, other than the Secretary of State, who is or was a party to the proceedings, or
   (b) any person who—
     (i) represents such a person for the purposes of the proceedings,
-and 
+and
     (ii) does so otherwise than by virtue of appointment as a special advocate under Schedule 3 to the Counter-Terrorism and Security Act 2015.
 
 (3) In this paragraph “TEO proceedings” has the meaning given by paragraph 1 of Schedule 3 to the Counter-Terrorism and Security Act 2015 (temporary exclusion orders: proceedings).
@@ -530,84 +530,84 @@ Proceedings relating to freezing of terrorist assets etc.
 
 10 (1) Section 48(1) does not apply in relation to—
 
-  (a) any financial restrictions proceedings, or 
+  (a) any financial restrictions proceedings, or
   (b) any proceedings arising out of such proceedings.
 
 (2) In this paragraph “financial restrictions proceedings” has the meaning given by section 65 of the Counter-Terrorism Act 2008.
 
 11 Section 48(1) does not apply in relation to any proceedings—
 
-  (a) on an appeal under section 26, or an application under section 27, of the Terrorist Asset-Freezing etc. Act 2010 (appeals and reviews by the court), or 
+  (a) on an appeal under section 26, or an application under section 27, of the Terrorist Asset-Freezing etc. Act 2010 (appeals and reviews by the court), or
   (b) on a claim arising from any matter to which such an appeal or application relates,
 
 or any proceedings arising out of such proceedings.
 
 12 But neither paragraph 10 nor paragraph 11 permits the disclosure of anything to—
 
-  (a) any person, other than the Treasury, who is or was a party to the proceedings, or 
+  (a) any person, other than the Treasury, who is or was a party to the proceedings, or
   (b) any person who—
     (i) represents such a person for the purposes of the proceedings,
-and 
+and
     (ii) does so otherwise than by virtue of appointment as a special advocate.
-Proceedings relating to release of prisoners etc. in Northern Ireland 
+Proceedings relating to release of prisoners etc. in Northern Ireland
 13 (1) Section 48(1) does not apply in relation to—
 
   (a) any proceedings before—
-    (i) the Parole Commissioners for Northern Ireland, or 
-    (ii) any Sentence Review Commissioners appointed under section 1 of the Northern Ireland (Sentences) Act 1998, or 
+    (i) the Parole Commissioners for Northern Ireland, or
+    (ii) any Sentence Review Commissioners appointed under section 1 of the Northern Ireland (Sentences) Act 1998, or
   (b) any proceedings arising out of such proceedings.
 
 (2) But sub-paragraph (1) does not permit the disclosure of anything to—
 
-  (a) any person, other than the Secretary of State, who is or was a party to the proceedings, or 
+  (a) any person, other than the Secretary of State, who is or was a party to the proceedings, or
   (b) any person who—
     (i) represents such a person for the purposes of the proceedings,
-and 
+and
     (ii) does so otherwise than by virtue of appointment as a special advocate.
-Employment or industrial tribunal proceedings 
+Employment or industrial tribunal proceedings
 14 (1) Section 48(1) does not apply in relation to any proceedings before an employment tribunal where the applicant, or the applicant’s representatives, are excluded for all or part of the proceedings pursuant to—
 
-  (a) a direction to the tribunal by virtue of section 10(5)(b) or (c) of the Employment Tribunals Act 1996 (exclusion from Crown employment proceedings by direction of Minister in interests of national security), or 
+  (a) a direction to the tribunal by virtue of section 10(5)(b) or (c) of the Employment Tribunals Act 1996 (exclusion from Crown employment proceedings by direction of Minister in interests of national security), or
   (b) a determination of the tribunal by virtue of section 10(6) of that Act (determination by tribunal in interests of national security).
 
 (2) Section 48(1) does not apply in relation to any proceedings before an industrial tribunal in Northern Ireland where the applicant, or the applicant’s representatives, are excluded for all or part of the proceedings pursuant to—
 
-  (a) a direction to the tribunal by virtue of Article 12(5)(b) or (c) of the Industrial Tribunals (Northern Ireland) Order 1996 (S.I. 1996/1921S.I. 1996/1921 (N.I. 18)) (exclusion from Crown employment proceedings by direction of Minister in interests of national security), or 
+  (a) a direction to the tribunal by virtue of Article 12(5)(b) or (c) of the Industrial Tribunals (Northern Ireland) Order 1996 (S.I. 1996/1921S.I. 1996/1921 (N.I. 18)) (exclusion from Crown employment proceedings by direction of Minister in interests of national security), or
   (b) a determination of the tribunal by virtue of Article 12(6) of that Order (determination by tribunal in interests of national security).
 
 (3) Section 48(1) does not apply in relation to any proceedings arising out of proceedings within sub-paragraph (1) or (2).
 
 15 But paragraph 14 does not permit the disclosure of anything to—
 
-  (a) the person who is or was the applicant in the proceedings before the employment or industrial tribunal, or 
+  (a) the person who is or was the applicant in the proceedings before the employment or industrial tribunal, or
   (b) any person who—
-    (i) represents that person for the purposes of any proceedings within paragraph 14, and 
+    (i) represents that person for the purposes of any proceedings within paragraph 14, and
     (ii) does so otherwise than by virtue of appointment as a special advocate.
-Proceedings relating to dismissal for certain offences 
+Proceedings relating to dismissal for certain offences
 16 Section 48(1) does not prohibit anything done in, for the purposes of, or in connection with, so much of any legal proceedings as relates to the fairness or unfairness of a dismissal on the following grounds—
 
   (a) any conduct constituting an offence under section 2(1), 36(7) or 51;
 
   (b) any conduct taking place before the coming into force of this paragraph and constituting—
-    (i) an offence under section 1(1) or (2), 11(7) or 19 of the Regulation of Investigatory Powers Act 2000, or 
+    (i) an offence under section 1(1) or (2), 11(7) or 19 of the Regulation of Investigatory Powers Act 2000, or
     (ii) an offence under section 1 of the Interception of Communications Act 1985.
-Proceedings on appeals relating to claims of discrimination in Northern Ireland 
+Proceedings on appeals relating to claims of discrimination in Northern Ireland
 17 (1) Section 48(1) does not apply in relation to any proceedings on an appeal under Article 80(2) of the Fair Employment and Treatment (Northern Ireland) Order 1998 (S.I. 1998/3162 (N.I. 21)S.I. 1998/3162 (N.I. 21)) where—
 
-  (a) the appeal relates to a claim of discrimination in contravention of Part 3 of that Order (employment cases) and to a certificate of the Secretary of State that the act concerned was justified for the purpose of safeguarding national security, and 
+  (a) the appeal relates to a claim of discrimination in contravention of Part 3 of that Order (employment cases) and to a certificate of the Secretary of State that the act concerned was justified for the purpose of safeguarding national security, and
   (b) a party to the appeal, or the party’s representatives, are excluded for all or part of the proceedings by virtue of section 91(4)(b) of the Northern Ireland Act 1998.
 
 (2) Section 48(1) does not apply in relation to any proceedings arising out of proceedings within sub-paragraph (1).
 
 18 But paragraph 17 does not permit the disclosure of anything to—
 
-  (a) any person who is or was excluded from all or part of the proceedings mentioned in paragraph 17(1), or 
+  (a) any person who is or was excluded from all or part of the proceedings mentioned in paragraph 17(1), or
   (b) any person who—
-    (i) represents such a person for the purposes of any proceedings within paragraph 17, and 
+    (i) represents such a person for the purposes of any proceedings within paragraph 17, and
     (ii) does so otherwise than by virtue of appointment as a special advocate.
-Civil proceedings for enforcement of duty to assist with implementation of warrants 
+Civil proceedings for enforcement of duty to assist with implementation of warrants
 19 Section 48(1) does not apply in relation to any civil proceedings under section 36(8) of this Act or section 11(8) of the Regulation of Investigatory Powers Act 2000 (enforcement of duty of operators to assist with implementation of warrants).
-Proceedings for certain offences 
+Proceedings for certain offences
 20 (1) Section 48(1) does not apply in relation to any proceedings for a relevant offence.
 
 (2) “Relevant offence” means—
@@ -625,7 +625,7 @@ Proceedings for certain offences
   (f) an offence under section 4 of the Official Secrets Act 1989 relating to any such information, document or article as is mentioned in subsection (3)(a) or (c) of that section;
 
   (g) an offence under section 1 or 2 of the Official Secrets Act 1911 relating to any sketch, plan, model, article, note, document or information which—
-    (i) incorporates, or relates to, the content of any intercepted communication or any secondary data obtained from a communication, or 
+    (i) incorporates, or relates to, the content of any intercepted communication or any secondary data obtained from a communication, or
     (ii) tends to suggest that any interception-related conduct has or may have occurred or may be going to occur;
 
   (h) an offence of perjury committed in the course of any relevant proceedings;
@@ -643,17 +643,17 @@ Proceedings for certain offences
 
     “relevant proceedings” means any proceedings mentioned in paragraphs 4 to 19.
 
-Disclosures to prosecutors and judges 
+Disclosures to prosecutors and judges
 21 (1) Nothing in section 48(1) prohibits—
 
-  (a) a disclosure to a person (“P”) conducting a criminal prosecution that is made for the purpose only of enabling P to determine what is required of P by P’s duty to secure the fairness of the prosecution, or 
+  (a) a disclosure to a person (“P”) conducting a criminal prosecution that is made for the purpose only of enabling P to determine what is required of P by P’s duty to secure the fairness of the prosecution, or
   (b) a disclosure to a relevant judge in a case in which the judge has ordered the disclosure to be made to the judge alone.
 
 (2) A relevant judge may order a disclosure under sub-paragraph (1)(b) only if the judge considers that the exceptional circumstances of the case make the disclosure essential in the interests of justice.
 
 (3) Where in any criminal proceedings—
 
-  (a) a relevant judge orders a disclosure under sub-paragraph (1)(b), and 
+  (a) a relevant judge orders a disclosure under sub-paragraph (1)(b), and
   (b) in consequence of that disclosure, the judge considers that there are exceptional circumstances requiring the judge to make a direction under this sub-paragraph,
 
 the judge may direct the person conducting the prosecution to make for the purposes of the proceedings any admission of fact which the judge considers essential in the interests of justice.
@@ -666,12 +666,12 @@ the judge may direct the person conducting the prosecution to make for the purpo
 
   (b) any judge of the High Court of Justiciary or any sheriff,
 
-  (c) in relation to proceedings before the Court Martial, the judge advocate for those proceedings, or 
+  (c) in relation to proceedings before the Court Martial, the judge advocate for those proceedings, or
   (d) any person holding a judicial office that entitles the person to exercise the jurisdiction of a judge falling within paragraph (a) or (b).
-Disclosures to inquiries and inquests 
+Disclosures to inquiries and inquests
 22 (1) Nothing in section 48(1) prohibits—
 
-  (a) a disclosure to the panel of an inquiry held under the Inquiries Act 2005, or 
+  (a) a disclosure to the panel of an inquiry held under the Inquiries Act 2005, or
   (b) a disclosure to a person appointed as legal adviser to such an inquiry,
 
 where, in the course of the inquiry, the panel has ordered the disclosure to be made to the panel alone or (as the case may be) to the panel and any person appointed as legal adviser to the inquiry.
@@ -690,14 +690,14 @@ for the purposes of this paragraph if any restrictions imposed under section 19 
 
 24 (1) Nothing in section 48(1) prohibits—
 
-  (a) a disclosure to a person (the “nominated person”) nominated under paragraph 3(1) of Schedule 10 to the Coroners and Justice Act 2009 (investigation by judge or former judge) to conduct an investigation into a person’s death, or 
+  (a) a disclosure to a person (the “nominated person”) nominated under paragraph 3(1) of Schedule 10 to the Coroners and Justice Act 2009 (investigation by judge or former judge) to conduct an investigation into a person’s death, or
   (b) a disclosure to a person appointed as legal adviser to an inquest forming part of an investigation conducted by the nominated person,
 
 where, in the course of the investigation, the nominated person has ordered the disclosure to be made to the nominated person alone or (as the case may be) to the nominated person and any person appointed as legal adviser to the inquest.
 
 (2) The nominated person may order a disclosure under sub-paragraph (1) only if the person considers that the exceptional circumstances of the case make the disclosure essential in the interests of justice.
 
-(3) Nothing in section 48(1) prohibits a disclosure to any other person conducting an investigation under Part 1 of the Coroners and Justice Act 
+(3) Nothing in section 48(1) prohibits a disclosure to any other person conducting an investigation under Part 1 of the Coroners and Justice Act
 2009 into a person’s death that there is intercepted material in existence which is, or may be, relevant to the investigation.
 
 (4) Any reference in this paragraph to a person appointed as legal adviser to an inquest is a reference to a person appointed as solicitor or counsel to the inquest.
@@ -861,26 +861,26 @@ Type of communications data that may be obtained by DSO 	(4)
 Paragraphs of section 53(7)
 specified for DSO Serious Fraud Office 	Grade 6 	All 	(b)
 Welsh Ambulance Services National Health Service Trust 	Watch Manager (Control) 	All 	(g)
-Part 2 Interpretation of table 
+Part 2 Interpretation of table
 1 In the table in Part 1 of this Schedule “entity data” means any communications data which is entity data.
 
 Section 74(5)
-SCHEDULE 5 Transfer and agency arrangements with public authorities: further provisions Particular safeguards in connection with operation of section 60 
+SCHEDULE 5 Transfer and agency arrangements with public authorities: further provisions Particular safeguards in connection with operation of section 60
 1 (1) The following provisions apply where the functions of the Secretary of State under section 58 are exercisable by a public authority by virtue of regulations under section 74(1).
 
 (2) The measures adopted or arrangements made by the public authority for the purpose of complying with the requirements of section 60 must be such as are approved by the Secretary of State.
 
 (3) Any report required by section 60(6)(b) or (8) must be made to the Secretary of State as well as to the Investigatory Powers Commissioner.
-Requirement for public authority to provide reports to Secretary of State 
+Requirement for public authority to provide reports to Secretary of State
 2 (1) A public authority, when exercising functions by virtue of regulations under section 74(1), must at least once in each calendar year make a report to the Secretary of State on—
 
-  (a) the discharge of the functions, and 
+  (a) the discharge of the functions, and
   (b) such other matters as the Secretary of State may by regulations require.
 
 (2) Regulations under section 74(1) may, in particular, modify sub-paragraph (1) as it has effect in relation to the calendar year in which the regulations come into force or are revoked.
 
 (3) The Secretary of State may agree to a report under this paragraph being combined with any other report which the public authority concerned is required to, or may, make to the Secretary of State.
-Transfer schemes in connection with transfer of functions 
+Transfer schemes in connection with transfer of functions
 3 (1) The Secretary of State may, in connection with regulations under section 74(1), make a scheme for the transfer of property, rights or liabilities.
 
 (2) The things that may be transferred under a transfer scheme include—
@@ -916,18 +916,18 @@ transitional, transitory or saving provision and may, in particular—
 
 (7) For the purposes of this paragraph references to rights and liabilities include references to—
 
-  (a) rights and liabilities relating to a contract of employment, and 
+  (a) rights and liabilities relating to a contract of employment, and
   (b) rights and liabilities of the Crown relating to the terms of employment of individuals in the civil service.
 
 (8) Accordingly, a transfer scheme may, in particular, provide—
 
   (a) for—
-    (i) an individual employed in the civil service to become an employee of the transferee, or 
+    (i) an individual employed in the civil service to become an employee of the transferee, or
     (ii) an employee of the transferor to become an employee of the transferee or an individual employed in the civil service,
 
   (b) for—
-    (i) the individual’s terms of employment in the civil service to have effect (subject to any necessary modifications) as the terms of the individual’s contract of employment with the transferee, or 
-    (ii) (as the case may be) the individual’s contract of employment to have effect (subject to any necessary modifications) as the terms of the individual’s contract of employment with the 
+    (i) the individual’s terms of employment in the civil service to have effect (subject to any necessary modifications) as the terms of the individual’s contract of employment with the transferee, or
+    (ii) (as the case may be) the individual’s contract of employment to have effect (subject to any necessary modifications) as the terms of the individual’s contract of employment with the
 
 
 transferee or, where the transferee is the Secretary of State,
@@ -942,10 +942,10 @@ the individual’s terms of employment with the civil service,
     “TUPE regulations” means the Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246S.I. 2006/246),
 
 and references to the transfer of property include the grant of a lease.
-Tax in connection with transfer schemes 
+Tax in connection with transfer schemes
 4 (1) The Treasury may by regulations make provision varying the way in which a relevant tax has effect in relation to—
 
-  (a) anything transferred under a transfer scheme, or 
+  (a) anything transferred under a transfer scheme, or
   (b) anything done for the purposes of, or in relation to, a transfer under a transfer scheme.
 
 (2) The provision which may be made under sub-paragraph (1)(a) includes, in particular, provision for—
@@ -974,7 +974,7 @@ Tax in connection with transfer schemes
     “transfer scheme” means a transfer scheme under paragraph 3,
 
 and references to the transfer of property include the grant of a lease.
-Supplementary and other general provision 
+Supplementary and other general provision
 5 The power to make regulations under section 74(1) includes, in particular,
 power to—
 
@@ -984,7 +984,7 @@ power to—
 
 6 The power to make regulations under—
 
-  (a) section 74, or 
+  (a) section 74, or
   (b) paragraph 4 above,
 
 including that power as extended (whether by section 228(1) or otherwise)
@@ -1053,24 +1053,24 @@ Law enforcement chiefs 	Appropriate delegates 	Appropriate law enforcement offic
 The Police Investigations and Review Commissioner. 	A staff officer of the Police Investigations and Review Commissioner who is designated by the Commissioner for the purpose. 	A staff officer of the Police Investigations and Review Commissioner.
 
 
-Part 3 Interpretation of the table 
+Part 3 Interpretation of the table
 1 (1) This paragraph applies for the purposes of the first three entries in Part 1 of the table.
 
 (2) A police force (police force 1) is a collaborative force in relation to another police force (police force 2) if—
 
-  (a) the chief officers of both police forces are parties to the same agreement under section 22A of the Police Act 1996, and 
+  (a) the chief officers of both police forces are parties to the same agreement under section 22A of the Police Act 1996, and
   (b) the members of police force 1 are permitted by the terms of the agreement to make applications under section 96 to the chief officer of police force 2.
 
 (3) A National Crime Agency officer is included in a collaboration agreement with a police force if—
 
-  (a) the Director General of the National Crime Agency and the chief officer of the police force are parties to the same agreement under section 22A of the Police Act 1996, and 
+  (a) the Director General of the National Crime Agency and the chief officer of the police force are parties to the same agreement under section 22A of the Police Act 1996, and
   (b) the National Crime Agency officer is permitted by the terms of the agreement to make applications under section 96 to the chief officer of the police force.
 
 2 (1) This paragraph applies for the purposes of the sixth entry in Part 1 of the table (which relates to the National Crime Agency).
 
 (2) A police force is a collaborative police force in relation to the National Crime Agency if—
 
-  (a) the chief officer of the police force and the Director General of the National Crime Agency are parties to the same agreement under section 22A of the Police Act 1996, and 
+  (a) the chief officer of the police force and the Director General of the National Crime Agency are parties to the same agreement under section 22A of the Police Act 1996, and
   (b) the members of the police force are permitted by the terms of the agreement to make applications under section 96 to the Director General of the National Crime Agency.
 
 3 In this Schedule, “police force” means—
@@ -1081,7 +1081,7 @@ Part 3 Interpretation of the table
 
   (c) the City of London police force.
 
-Section 207 SCHEDULE 7 Codes of practice Scope of codes 
+Section 207 SCHEDULE 7 Codes of practice Scope of codes
 1 (1) The Secretary of State must issue one or more codes of practice about the exercise of functions conferred by virtue of this Act.
 
 (2) Sub-paragraph (1) does not apply in relation to—
@@ -1090,7 +1090,7 @@ Section 207 SCHEDULE 7 Codes of practice Scope of codes
     (i) the Investigatory Powers Commissioner or any other Judicial Commissioner,
     (ii) the Information Commissioner,
     (iii) the Investigatory Powers Tribunal,
-    (iv) any other court or tribunal, or 
+    (iv) any other court or tribunal, or
     (v) the Technical Advisory Board,
 
   (b) any function to make subordinate legislation which is conferred by virtue of this Act on the Secretary of State or the Treasury.
@@ -1099,7 +1099,7 @@ Section 207 SCHEDULE 7 Codes of practice Scope of codes
 
 2 (1) Each code must include—
 
-  (a) provision designed to protect the public interest in the confidentiality of sources of journalistic information, and 
+  (a) provision designed to protect the public interest in the confidentiality of sources of journalistic information, and
   (b) provision about particular considerations applicable to any data which relates to a member of a profession which routinely holds items subject to legal privilege or relevant confidential information.
 
 (2) In this paragraph—
@@ -1125,10 +1125,10 @@ profession or other occupation or for the purposes of any paid or unpaid office.
   (e) the processing of the data together with other data,
 
   (f) the processes for determining how long the data should be held and for the destruction of the data.
-Procedural requirements 
+Procedural requirements
 4 (1) Before issuing a code the Secretary of State must—
 
-  (a) prepare and publish a draft of the code, and 
+  (a) prepare and publish a draft of the code, and
   (b) consider any representations made about it,
 
 and may modify the draft.
@@ -1143,12 +1143,12 @@ and may modify the draft.
 
 (6) No draft instrument may be laid until the consultation required by sub-
 paragraphs (1) and (2) has taken place.
-Revision of codes 
+Revision of codes
 5 (1) The Secretary of State may from time to time revise the whole or part of a code.
 
 (2) Before issuing any revision of a code the Secretary of State must—
 
-  (a) prepare and publish a draft, and 
+  (a) prepare and publish a draft, and
   (b) consider any representations made about it,
 
 and may modify the draft.
@@ -1162,7 +1162,7 @@ and may modify the draft.
 (6) When an instrument or draft instrument is laid, the revision of a code to which it relates must also be laid.
 
 (7) No instrument or draft instrument may be laid until the consultation required by sub-paragraphs (2) and (3) has taken place.
-Effect of codes 
+Effect of codes
 6 (1) A person must have regard to a code when exercising any functions to which the code relates.
 
 (2) A failure on the part of a person to comply with any provision of a code does not of itself make that person liable to criminal or civil proceedings.
@@ -1177,10 +1177,10 @@ Effect of codes
 
   (a) the Investigatory Powers Commissioner or any other Judicial Commissioner,
 
-  (b) the Information Commissioner, or 
+  (b) the Information Commissioner, or
   (c) the Investigatory Powers Tribunal.
 
-Section 212 SCHEDULE 8 Combination of warrants and authorisations Part 1 Combinations with targeted interception warrants Warrants that may be issued by Secretary of State 
+Section 212 SCHEDULE 8 Combination of warrants and authorisations Part 1 Combinations with targeted interception warrants Warrants that may be issued by Secretary of State
 1 The Secretary of State may, on an application made by or on behalf of the head of an intelligence service, issue a warrant that combines a targeted interception warrant which the Secretary of State has power to issue under section 17(1) with one or more of the following—
 
   (a) a targeted examination warrant which the Secretary of State has power to issue under section 17(2);
@@ -1224,7 +1224,7 @@ Section 212 SCHEDULE 8 Combination of warrants and authorisations Part 1 Combina
   (d) the chief constable of the Police Service of Scotland;
 
   (e) the Commissioners for Her Majesty’s Revenue and Customs.
-Warrants that may be issued by Scottish Ministers 
+Warrants that may be issued by Scottish Ministers
 4 The Scottish Ministers may, on an application made by or on behalf of the head of an intelligence service, issue a warrant that combines a targeted interception warrant which the Scottish Ministers have power to issue under section 19(1) with one or more of the following—
 
   (a) a targeted examination warrant which the Scottish Ministers have power to issue under section 19(2);
@@ -1270,7 +1270,7 @@ Warrants that may be issued by Scottish Ministers
   (c) the Chief Constable of the Police Service of Northern Ireland;
 
   (d) the Commissioners for Her Majesty’s Revenue and Customs.
-Part 2 Other combinations involving targeted equipment interference warrants Warrants that may be issued by Secretary of State 
+Part 2 Other combinations involving targeted equipment interference warrants Warrants that may be issued by Secretary of State
 8 The Secretary of State may, on an application made by or on behalf of the head of an intelligence service, issue a warrant that combines a targeted equipment interference warrant which the Secretary of State has power to issue under section 91(1) with one or more of the following—
 
   (a) a targeted examination warrant which the Secretary of State has power to issue under section 91(3);
@@ -1287,7 +1287,7 @@ Part 2 Other combinations involving targeted equipment interference warrants War
   (a) an authorisation under section 28 of the Regulation of Investigatory Powers Act 2000 (authorisation of directed surveillance);
 
   (b) an authorisation under section 32 of that Act (authorisation of intrusive surveillance).
-Warrants that may be issued by Scottish Ministers 
+Warrants that may be issued by Scottish Ministers
 10 The Scottish Ministers may, on an application made by or on behalf of the head of an intelligence service, issue a warrant that combines a targeted equipment interference warrant which the Scottish Ministers have power to issue under section 92(1) with one or more of the following—
 
   (a) a targeted examination warrant which the Scottish Ministers have power to issue under section 92(2);
@@ -1295,7 +1295,7 @@ Warrants that may be issued by Scottish Ministers
   (b) a targeted examination warrant which the Scottish Ministers have power to issue under section 19(2);
 
   (c) a warrant which the Scottish Ministers have power to issue under section 5 of the Intelligence Services Act 1994 (warrants for entry or interference with property or wireless telegraphy).
-Warrants that may be issued by other persons 
+Warrants that may be issued by other persons
 11 (1) A law enforcement chief may, on an application made by a person who is an appropriate law enforcement officer in relation to the chief, issue a warrant that combines a targeted equipment interference warrant which the law enforcement chief has power to issue under section 96 with one or more of the following—
 
   (a) an authorisation under section 93 of the Police Act 1997 (authorisations to interfere with property);
@@ -1317,29 +1317,29 @@ and an “appropriate law enforcement officer” are to be read in accordance wi
 
 (2) The law enforcement chiefs mentioned in sub-paragraph (1) are—
 
-  (a) the chief constable of the Police Service of Scotland, and 
+  (a) the chief constable of the Police Service of Scotland, and
   (b) the Police Investigations and Review Commissioner.
 
 (3) For the purposes of this paragraph, references to a “law enforcement chief”
 and an “appropriate law enforcement officer” are to be read in accordance with section 96(4).
-Part 3 Combinations involving targeted examination warrants only 
+Part 3 Combinations involving targeted examination warrants only
 13 The Secretary of State may, on an application made by or on behalf of the head of an intelligence service, issue a warrant that combines—
 
-  (a) a targeted examination warrant which the Secretary of State has power to issue under section 17(2), with 
+  (a) a targeted examination warrant which the Secretary of State has power to issue under section 17(2), with
   (b) a targeted examination warrant which the Secretary of State has power to issue under section 91(3).
 
 14 The Scottish Ministers may, on an application made by or on behalf of the head of an intelligence service, issue a warrant that combines—
 
-  (a) a targeted examination warrant which the Scottish Ministers have power to issue under section 19(2), with 
+  (a) a targeted examination warrant which the Scottish Ministers have power to issue under section 19(2), with
   (b) a targeted examination warrant which the Scottish Ministers have power to issue under section 92(2).
-Part 4 Combined warrants: supplementary provision Introductory 
+Part 4 Combined warrants: supplementary provision Introductory
 15 In this Part of this Schedule “combined warrant” means a warrant issued under any of Parts 1 to 3 of this Schedule.
-General 
+General
 16 (1) Where Part 1, 2 or 3 of this Schedule provides for a person to have power, on an application made by or on behalf of any person (“the applicant”), to issue a combined warrant that includes any warrant or other authorisation, the person may issue a combined warrant containing that warrant or authorisation, whether or not that person would have power, on an application made by or on behalf of the applicant, to issue that warrant, or to give that authorisation, as a single instrument.
 
 (2) Where Part 1, 2 or 3 of this Schedule provides for a person to have power to apply for a combined warrant, the person may apply for a combined warrant containing any warrant or other authorisation that may be included in it, provided that—
 
-  (a) the person could apply for that warrant or authorisation as a single instrument, or 
+  (a) the person could apply for that warrant or authorisation as a single instrument, or
   (b) the organisation on whose behalf the person is acting, or another person who is a member of staff or an officer of the organisation or who is otherwise acting on its behalf, could apply for that warrant or authorisation as a single instrument.
 
 17 (1) A combined warrant must be addressed to the person by whom, or on whose behalf, the application for the combined warrant was made.
@@ -1349,7 +1349,7 @@ General
 18 A combined warrant must contain a provision stating which warrants or other authorisations are included in the combined warrant.
 
 19 Any reference in any enactment to a warrant or other authorisation of a particular description issued or given under any enactment includes, in the case of a combined warrant containing a warrant or authorisation of that description, a reference to so much of the combined warrant as consists of such a warrant or authorisation.
-Rules about issue etc. applying separately in relation to each part of a combined warrant 
+Rules about issue etc. applying separately in relation to each part of a combined warrant
 20 (1) The law about the following matters, so far as relating to a warrant or other authorisation that may be included in a combined warrant, applies in relation to so much of a combined warrant as consists of such a warrant or authorisation—
 
   (a) any conditions that must be met before such a warrant or authorisation may be issued or given;
@@ -1379,7 +1379,7 @@ Rules about issue etc. applying separately in relation to each part of a combine
   (d) urgent cases.
 
 (3) Sub-paragraph (1) is subject to paragraphs 21 to 26.
-Rules about issue etc. applying in relation to combined warrants 
+Rules about issue etc. applying in relation to combined warrants
 21 (1) A combined warrant under Part 1 of this Schedule addressed to any person may only be issued, renewed or cancelled in accordance with the procedural rules that would apply to the issue, renewal or cancellation of a targeted interception warrant addressed to that person (see Chapter 1 of Part 2 of this Act).
 
 (2) In sub-paragraph (1) “procedural rules”, in relation to a warrant, means the law about any of the following matters—
@@ -1435,7 +1435,7 @@ Rules about issue etc. applying in relation to combined warrants
   (c) section 15(1) to (3) (power to quash or cancel authorisations);
 
   (d) section 16 (appeals to Investigatory Powers Commissioner).
-Modification of rules as to duration 
+Modification of rules as to duration
 27 (1) Where a combined warrant includes warrants or authorisations which (as single instruments) would cease to have effect at the end of different periods,
 the combined warrant is to cease to have effect at the end of the shortest of the periods (unless renewed).
 
@@ -1443,30 +1443,30 @@ the combined warrant is to cease to have effect at the end of the shortest of th
 
   (a) includes an authorisation under section 28 of the Regulation of Investigatory Powers Act 2000 (authorisation of directed surveillance),
 
-  (b) is addressed to the head of an intelligence service, and 
+  (b) is addressed to the head of an intelligence service, and
   (c) is issued with the approval of a Judicial Commissioner.
 
 (3) In such a case, the combined warrant (unless it is renewed) is to cease to have effect at the end of the period of 6 months beginning with the day on which it is issued.
-Special rules about the application of this Act to combined warrants 
+Special rules about the application of this Act to combined warrants
 28 (1) This paragraph applies where under section 22(3) a Judicial Commissioner refuses to approve a decision to issue a combined warrant under Part 1 or 3 of this Schedule.
 
 (2) Section 23 has effect in relation to the combined warrant as if—
 
-  (a) any reference in subsection (3) of that section to a targeted interception warrant or targeted examination warrant were a reference to so much of the combined warrant as consisted of such a warrant, and 
+  (a) any reference in subsection (3) of that section to a targeted interception warrant or targeted examination warrant were a reference to so much of the combined warrant as consisted of such a warrant, and
   (b) any other reference in that section to a warrant were a reference to the combined warrant.
 
 (3) Where the combined warrant included a targeted equipment interference warrant or targeted examination warrant which the person who issued the combined warrant has power to issue under Part 5 of this Act, section 99 has effect in relation to the combined warrant as if—
 
   (a) any reference in subsection (3)(b) or (c) of that section to a targeted equipment interference warrant were a reference to so much of the combined warrant as consisted of such a warrant,
 
-  (b) any reference in subsection (4) of that section to a targeted examination warrant were a reference to so much of the combined warrant as consisted of such a warrant, and 
+  (b) any reference in subsection (4) of that section to a targeted examination warrant were a reference to so much of the combined warrant as consisted of such a warrant, and
   (c) any other reference in that section to a warrant were a reference to the combined warrant.
 
 29 Where under section 98(3) a Judicial Commissioner refuses to approve the decision to issue a combined warrant under Part 2 of this Schedule, section 99 has effect in relation to the combined warrant as if—
 
   (a) any reference in subsection (3)(b) or (c) of that section to a targeted equipment interference warrant were a reference to so much of the combined warrant as consisted of such a warrant,
 
-  (b) any reference in subsection (4) of that section to a targeted examination warrant were a reference to so much of the combined warrant as consisted of such a warrant, and 
+  (b) any reference in subsection (4) of that section to a targeted examination warrant were a reference to so much of the combined warrant as consisted of such a warrant, and
   (c) any other reference in that section to a warrant were a reference to the combined warrant.
 
 30 (1) This paragraph applies to any provision in Part 2 or 5 of this Act that enables a person to whom a warrant is addressed to require the provision of assistance in giving effect to the warrant.
@@ -1477,33 +1477,33 @@ Special rules about the application of this Act to combined warrants
 
 31 Any reference in section 48 (exclusion of matters from legal proceedings) to the making of an application for a warrant, or the issue of a warrant, under Chapter 1 of Part 2 of this Act includes a reference to—
 
-  (a) the making of an application for a combined warrant that includes a warrant under that Chapter, so far as relating to disclosing or suggesting the inclusion of such a warrant, or 
+  (a) the making of an application for a combined warrant that includes a warrant under that Chapter, so far as relating to disclosing or suggesting the inclusion of such a warrant, or
   (b) the inclusion of a warrant under that Chapter in a combined warrant.
 
 32 (1) The reference in section 50(6) to the provisions of Part 2 of this Act is to be read, in the case of a combined warrant containing a targeted interception warrant or targeted examination warrant which the person who issued the combined warrant has power to issue under that Part, as including a reference to this Schedule.
 
-(2) The reference in section 115(4) to the provisions of Part 5 of this Act is to be read, in the case of a combined warrant containing a targeted equipment interference warrant or targeted examination warrant which the person who 
+(2) The reference in section 115(4) to the provisions of Part 5 of this Act is to be read, in the case of a combined warrant containing a targeted equipment interference warrant or targeted examination warrant which the person who
 issued the combined warrant has power to issue under that Part, as including a reference to this Schedule.
-Power to make consequential amendments 
+Power to make consequential amendments
 33 The Secretary of State may by regulations make such provision modifying any provision made by or under an enactment (including this Schedule) as the Secretary of State considers appropriate in consequence of any provision made by this Schedule.
 
 Section 231(1)
-SCHEDULE 9 Transitional, transitory and saving provision Lawful interception of communications 
+SCHEDULE 9 Transitional, transitory and saving provision Lawful interception of communications
 1 Any agreement which, immediately before the day on which section 8 comes into force, is designated for the purposes of section 1(4) of the Regulation of Investigatory Powers Act 2000 is to be treated, on and after that day, as designated as an international mutual assistance agreement by regulations under section 8 of this Act.
-Authorisations for obtaining communications data 
+Authorisations for obtaining communications data
 2 The reference to the Gangmasters and Labour Abuse Authority in the table in Part 1 of Schedule 4 is to be read, in relation to any time before the day on which section 8(1) of the Immigration Act 2016 (renaming of Gangmasters Licensing Authority) comes into force, as a reference to the Gangmasters Licensing Authority.
-Retention of communications data 
+Retention of communications data
 3 (1) A retention notice under section 1 of the Data Retention and Investigatory Powers Act 2014 which is in force immediately before the commencement day is to be treated, on or after that day, as a retention notice under section 78 of this Act; and Part 4 of this Act is to be read accordingly but as if section 80(1) to (11) were omitted.
 
 (2) In particular—
 
-  (a) anything which, immediately before the commencement day, is in the process of being done by virtue of, or in relation to, a retention notice under section 1 of the Act of 2014 may be continued as if being done by virtue of, or in relation to, a retention notice under section 78 of this Act, and 
+  (a) anything which, immediately before the commencement day, is in the process of being done by virtue of, or in relation to, a retention notice under section 1 of the Act of 2014 may be continued as if being done by virtue of, or in relation to, a retention notice under section 78 of this Act, and
   (b) anything done by virtue of, or in relation to, a retention notice under section 1 of the Act of 2014 is, if in force or effective immediately before the commencement day, to have effect as if done by virtue of,
 or in relation to, a retention notice under section 78 of this Act so far as that is required for continuing its effect on or after the commencement day.
 
 (3) Sub-paragraphs (1) and (2) cease to apply, in relation to any retention notice under section 1 of the Act of 2014—
 
-  (a) at the end of the period of six months beginning with the commencement day, or 
+  (a) at the end of the period of six months beginning with the commencement day, or
   (b) if earlier, on the revocation in full of the notice.
 
 (4) Section 213 applies in relation to costs incurred in complying with a retention notice under section 1 of the Act of 2014 which has continued in force on or after the commencement day as it applies in relation to costs incurred in complying with retention notices under section 78 of this Act but as if section 213(7) were omitted.
@@ -1520,42 +1520,42 @@ of the Act of 2014 is repealed.
 (2) The transitional period mentioned in this sub-paragraph is the period of six months beginning with the day on which section 1(7) of the Act of 2014 is repealed.
 
 (3) In their continued operation by virtue of sub-paragraph (1), the regulations made under section 1(7) of the Act of 2014 have effect subject to such modifications (if any) as may be specified in regulations under section 231(2).
-Savings for particular purposes 
+Savings for particular purposes
 5 Nothing in this Act affects any power conferred on a postal operator by or under any enactment to open, detain or delay any postal packet (within the meaning given by section 125(1) of the Postal Services Act 2000) or to deliver any such packet to a person other than the person to whom it is addressed.
 
 6 Nothing in Part 4 of this Act prevents the retention of data for the purposes of, or in connection with, legal proceedings (including proceedings which might arise in the future).
 
 7 The amendments made to the Regulation of Investigatory Powers Act 2000 by sections 3 to 6 of the Data Retention and Investigatory Powers Act 2014 (and those sections) continue to have effect despite section 8(3) of the Act of 2014 (sunset provision for that Act) until the provisions they amend (and those sections) are repealed by this Act in connection with the coming into force of provisions of this Act.
-General saving for lawful conduct 
-8 Nothing in any of the provisions of this Act by virtue of which conduct of any description is or may be authorised by any warrant, authorisation or 
+General saving for lawful conduct
+8 Nothing in any of the provisions of this Act by virtue of which conduct of any description is or may be authorised by any warrant, authorisation or
 notice, or by virtue of which information may be obtained in any manner, is to be read—
 
   (a) as making it unlawful to engage in any conduct of that description which is not otherwise unlawful under this Act and would not be unlawful apart from this Act,
 
   (b) as otherwise requiring—
-    (i) the issue, grant or giving of such a warrant, authorisation or notice, or 
+    (i) the issue, grant or giving of such a warrant, authorisation or notice, or
     (ii) the taking of any step for or towards obtaining the authority of such a warrant, authorisation or notice,
 
-before any such conduct of that description is engaged in, or 
+before any such conduct of that description is engaged in, or
   (c) as prejudicing any power to obtain information by any means not involving conduct that may be authorised under this Act.
 
 Section 232(1)
-SCHEDULE 10 Minor and consequential provision Part 1 General amendments Police Act 1997 
+SCHEDULE 10 Minor and consequential provision Part 1 General amendments Police Act 1997
 1 In section 93(1A) of the Police Act 1997 (authorisations to interfere with property etc.) after “this Part” insert “or the Investigatory Powers Act 2016”.
-Northern Ireland Act 1998 
+Northern Ireland Act 1998
 2 In paragraph 9(1) of Schedule 3 to the Northern Ireland Act 1998 (reserved matters) for paragraph (a) substitute—
 
 “(a) the subject-matter of Parts 2 and 3 of the Regulation of Investigatory Powers Act 2000, so far as relating to the prevention or detection of crime (within the meaning of that Act) or the prevention of disorder;
 
 (aa) the subject-matter of the following provisions of the Investigatory Powers Act 2016, so far as relating to the prevention or detection of serious crime (within the meaning of that Act)—
     (i) sections 2 to 8 and Schedule 1,
-    (ii) Part 2, and 
+    (ii) Part 2, and
     (iii) Chapter 1 of Part 6;
 
 (ab) the subject-matter of section 9, Parts 3 and 4 and Chapter 2 of Part 6 of the Investigatory Powers Act 2016, so far as relating to the prevention or detection of crime (within the meaning of that Act) or the prevention of disorder;
 
 (ac) the subject-matter of section 10 of, and Schedule 2 to, the Investigatory Powers Act 2016, so far as relating to the prevention or detection of crime (within the meaning of that Act);”.
-Regulation of Investigatory Powers Act 2000 
+Regulation of Investigatory Powers Act 2000
 3 The Regulation of Investigatory Powers Act 2000 is amended as follows.
 
 4 In section 27(4)(a) (lawful surveillance etc: conduct to be dealt with under other enactments) after “Act” insert “or the Investigatory Powers Act 2016”.
@@ -1591,7 +1591,7 @@ substitute—
 
 (7) In the definitions of “telecommunication system” and “telecommunications service”, for “the meanings given by section 2(1)” substitute “the same meanings as in the Investigatory Powers Act 2016 (see section 223(11) to (13)
 of that Act)”.
-Political Parties, Elections and Referendums Act 2000 
+Political Parties, Elections and Referendums Act 2000
 7 In paragraph 28(4) of Schedule 19C to the Political Parties, Elections and Referendums Act 2000 (civil sanctions: disclosure of information) for paragraph (b) substitute—
 
 “(b) any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016.”
@@ -1601,19 +1601,19 @@ Public Finance and Accountability (Scotland) Act 2000 (2000 asp 12000 asp 1)
 
 (2) In section 26B(3) (voluntary disclosure of data to Audit Scotland) for paragraph (b) substitute—
 
-“(b) which is prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016,”. 
+“(b) which is prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016,”.
  (3) In section 26C(3) (power to require disclosure of data) for paragraph (b)
 substitute—
 
 “(b) the disclosure is prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016.”
-Social Security Fraud Act 2001 
+Social Security Fraud Act 2001
 9 In section 4(1)(b) of the Social Security Fraud Act 2001 (arrangements for payments in relation to persons providing a telecommunications service etc.) for “the Regulation of Investigatory Powers Act 2000 (c. 23)2000 (c. 23)” substitute “the Investigatory Powers Act 2016”.
-Social Security Fraud Act (Northern Ireland) 2001 
+Social Security Fraud Act (Northern Ireland) 2001
 10 In section 4(1)(b) of the Social Security Fraud Act (Northern Ireland) 2001 (arrangements for payments in relation to persons providing a telecommunications service etc.) for “the Regulation of Investigatory Powers Act 2000 (c. 23)2000 (c. 23)” substitute “the Investigatory Powers Act 2016”.
-Justice (Northern Ireland) Act 2002 
+Justice (Northern Ireland) Act 2002
 11 In section 5A(3)(b) of the Justice (Northern Ireland) Act 2002 (disclosure of information to the Northern Ireland Judicial Appointments Commission)
 for “Part 1 of the Regulation of Investigatory Powers Act 2000” substitute “any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016”.
-Proceeds of Crime Act 2002 
+Proceeds of Crime Act 2002
 12 (1) The Proceeds of Crime Act 2002 is amended as follows.
 
 (2) In section 436(3)(b) (disclosure of information to certain Directors) for “Part 1 of the Regulation of Investigatory Powers Act 2000 (c. 23)2000 (c. 23)” substitute “any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016”.
@@ -1623,7 +1623,7 @@ Proceeds of Crime Act 2002
 (4) In section 439(3)(b) (disclosure of information to Lord Advocate and to Scottish Ministers) for “Part 1 of the Regulation of Investigatory Powers Act 2000” substitute “any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016”.
 
 (5) In section 441(7)(b) (disclosure of information by Lord Advocate and by Scottish Ministers) for “Part 1 of the Regulation of Investigatory Powers Act 2000 (c. 23)2000 (c. 23)” substitute “any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016”.
-Police Reform Act 2002 
+Police Reform Act 2002
 13 In paragraph 19ZA(2)(c) of Schedule 3 to the Police Reform Act 2002 (handling of complaints and conduct matters etc: power to serve information notice) for “Part 1 of the Regulation of Investigatory Powers Act 2000” substitute “any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016”.
 Privacy and Electronic Communications (EC Directive) Regulations 2003 (S.I. 2003/2426S.I. 2003/2426)
 
@@ -1633,30 +1633,30 @@ Privacy and Electronic Communications (EC Directive) Regulations 2003 (S.I. 2003
 Audit and Accountability (Northern Ireland) Order 2003 (S.I. 2003/418 (N.I. 5)S.I. 2003/418 (N.I. 5))
 
 15 In Article 4C(3)(b) of the Audit and Accountability (Northern Ireland) Order 2003 (voluntary provision of data) for “Part 1 of the Regulation of Investigatory Powers Act 2000 (c. 23)2000 (c. 23)” substitute “any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016”.
-Public Audit (Wales) Act 2004 
+Public Audit (Wales) Act 2004
 16 In section 64C(3)(b) of the Public Audit (Wales) Act 2004 (voluntary provision of data) for “Part 1 of the Regulation of Investigatory Powers Act 2000 (c. 23)2000 (c. 23)” substitute “any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016”.
-Constitutional Reform Act 2005 
+Constitutional Reform Act 2005
 17 In section 107(3)(b) of the Constitutional Reform Act 2005 (disclosure of information to the Judicial Appointments Commission) for “Part 1 of the Regulation of Investigatory Powers Act 2000 (c. 23)2000 (c. 23)” substitute “any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016”.
-Commissioners for Revenue and Customs Act 2005 
+Commissioners for Revenue and Customs Act 2005
 18 In section 22(b) of the Commissioners for Revenue and Customs Act 2005 (data protection, etc) for “Part 1 of the Regulation of Investigatory Powers Act 2000 (c. 23)2000 (c. 23)” substitute “any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016”.
-Serious Crime Act 2007 
+Serious Crime Act 2007
 19 (1) The Serious Crime Act 2007 is amended as follows.
 
 (2) In section 68(4)(b) (disclosure of information to prevent fraud) for “Part 1 of the Regulation of Investigatory Powers Act 2000 (c. 23)2000 (c. 23)” substitute “any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016”.
 
 (3) In section 85(8)(b) (disclosure of information by Revenue and Customs) for “Part 1 of the Regulation of Investigatory Powers Act 2000 (c. 23)2000 (c. 23)” substitute “any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016”.
-Legal Services Act 2007 
-20 In section 169(3)(b) of the Legal Services Act 2007 (disclosure of information to the Legal Services Board) for “Part 1 of the Regulation of Investigatory 
+Legal Services Act 2007
+20 In section 169(3)(b) of the Legal Services Act 2007 (disclosure of information to the Legal Services Board) for “Part 1 of the Regulation of Investigatory
 Powers Act 2000 (c. 23)2000 (c. 23)” substitute “any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016”.
-Regulatory Enforcement and Sanctions Act 2008 
+Regulatory Enforcement and Sanctions Act 2008
 21 In section 70(4) of the Regulatory Enforcement and Sanctions Act 2008 (disclosure of information) for paragraph (b) substitute—
 
 “(b) any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016.”
-Counter-Terrorism Act 2008 
+Counter-Terrorism Act 2008
 22 In section 20(2)(b) of the Counter-Terrorism Act 2008 (disclosure and the intelligence services: supplementary provisions) for “Part 1 of the Regulation of Investigatory Powers Act 2000 (c. 23)2000 (c. 23)” substitute “any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016”.
-Borders, Citizenship and Immigration Act 2009 
+Borders, Citizenship and Immigration Act 2009
 23 In section 19(1)(b) of the Borders, Citizenship and Immigration Act 2009 (application of statutory provisions) for “Part 1 of the Regulation of Investigatory Powers Act 2000 (c. 23)2000 (c. 23)” substitute “any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016”.
-Marine and Coastal Access Act 2009 
+Marine and Coastal Access Act 2009
 24 (1) The Marine and Coastal Access Act 2009 is amended as follows.
 
 (2) In paragraph 13(5) of Schedule 7 (further provision about civil sanctions under Part 4: disclosure of information) for paragraph (b) substitute—
@@ -1667,7 +1667,7 @@ Marine and Coastal Access Act 2009
 substitute—
 
 “(b) any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016.”
-Terrorist Asset-Freezing etc. Act 2010 
+Terrorist Asset-Freezing etc. Act 2010
 25 In section 25(2)(b) of the Terrorist Asset-Freezing etc. Act 2010 (application of provisions) for “Part 1 of the Regulation of Investigatory Powers Act 2000”
 substitute “any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016”.
 Marine (Scotland) Act 2010 (2010 asp 52010 asp 5)
@@ -1675,11 +1675,11 @@ Marine (Scotland) Act 2010 (2010 asp 52010 asp 5)
 26 In paragraph 12(5) of Schedule 2 to the Marine (Scotland) Act 2010 (further provision about civil sanctions under Part 4: disclosure of information) for paragraph (b) substitute—
 
 “(b) any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016.”
-Charities Act 2011 
+Charities Act 2011
 27 In section 59(b) of the Charities Act 2011 (disclosure: supplementary) for “Part 1 of the Regulation of Investigatory Powers Act 2000” substitute “any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016”.
-Prisons (Interference with Wireless Telegraphy) Act 2012 
+Prisons (Interference with Wireless Telegraphy) Act 2012
 28 In section 4(6) of the Prisons (Interference with Wireless Telegraphy) Act 2012 (meaning of “telecommunication system”) for “Regulation of Investigatory Powers Act 2000” substitute “Investigatory Powers Act 2016 (see section 223(13) of that Act)”.
-Crime and Courts Act 2013 
+Crime and Courts Act 2013
 29 In paragraph 1(b) of Schedule 7 to the Crime and Courts Act 2013 (information: restrictions on disclosure) for “Part 1 of the Regulation of Investigatory Powers Act 2000” substitute “any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016”.
 Marine Act (Northern Ireland) 2013 (c. 10 (N.I.))
 
@@ -1687,19 +1687,19 @@ Marine Act (Northern Ireland) 2013 (c. 10 (N.I.))
 disclosure of information) for paragraph (b) substitute—
 
 “(b) any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016.”
-Local Audit and Accountability Act 2014 
+Local Audit and Accountability Act 2014
 31 In paragraph 3(3)(b) of Schedule 9 to the Local Audit and Accountability Act 2014 (data matching: voluntary provision of data) for “Part 1 of the Regulation of Investigatory Powers Act 2000” substitute “any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016”.
-Anti-social Behaviour, Crime and Policing Act 2014 
+Anti-social Behaviour, Crime and Policing Act 2014
 32 In paragraph 7(4)(b) of Schedule 4 to the Anti-social Behaviour, Crime and Policing Act 2014 (ASB case reviews: information) for “Part 1 of the Regulation of Investigatory Powers Act 2000” substitute “any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016”.
-Immigration Act 2014 
+Immigration Act 2014
 33 In paragraph 6(b) of Schedule 6 to the Immigration Act 2014 (information)
 for “Part 1 of the Regulation of Investigatory Powers Act 2000” substitute “any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016”.
-Data Retention and Investigatory Powers Act 2014 
+Data Retention and Investigatory Powers Act 2014
 34 Omit sections 4(1), 7 and 8 of the Data Retention and Investigatory Powers Act 2014 (introductory, review and final provisions).
-Part 2 Lawful interception of communications Official Secrets Act 1989 
-35 In section 4(3) of the Official Secrets Act 1989 (crime and special investigation powers) omit the “and” after paragraph (a) and after paragraph (b) insert “and 
+Part 2 Lawful interception of communications Official Secrets Act 1989
+35 In section 4(3) of the Official Secrets Act 1989 (crime and special investigation powers) omit the “and” after paragraph (a) and after paragraph (b) insert “and
   (c) any information obtained under a warrant under Chapter 1 of Part 2 or Chapter 1 of Part 6 of the Investigatory Powers Act 2016, any information relating to the obtaining of information under such a warrant and any document or other article which is or has been used or held for use in, or has been obtained by reason of, the obtaining of information under such a warrant.”
-Criminal Procedure and Investigations Act 1996 
+Criminal Procedure and Investigations Act 1996
 36 (1) The Criminal Procedure and Investigations Act 1996 is amended as follows.
 
 (2) In section 3(7) (initial duty of prosecutor to disclose) for “section 17 of the Regulation of Investigatory Powers Act 2000” substitute “section 48 of the Investigatory Powers Act 2016”.
@@ -1719,16 +1719,16 @@ Criminal Procedure and Investigations Act 1996
   (c) material obtained under the authority of a warrant issued under Chapter 1 of Part 2 of the Investigatory Powers Act 2016;
 
   (d) material obtained under the authority of a warrant issued under Chapter 1 of Part 6 of that Act.”
-Scotland Act 1998 
+Scotland Act 1998
 37 In Section B8 of Part 2 of Schedule 5 to the Scotland Act 1998 (reserved matters: national security, interception of communications etc.), in the definition of “private telecommunication system”, for “section 2(1) of the Regulation of Investigatory Powers Act 2000” substitute “section 223(14) of the Investigatory Powers Act 2016”.
-Northern Ireland Act 1998 
+Northern Ireland Act 1998
 38 In paragraph 17 of Schedule 2 to the Northern Ireland Act 1998 (excepted matters) for paragraph (b) substitute—
 
 “(b) the subject-matter of sections 2 to 8, Schedule 1, Part 2 and Chapter 1 of Part 6 of the Investigatory Powers Act 2016,
 except so far as relating to the prevention or detection of serious crime (within the meaning of that Act);”.
-Financial Services and Markets Act 2000 
+Financial Services and Markets Act 2000
 39 In section 394(7)(a) of the Financial Services and Markets Act 2000 (access to FCA or PRA material) for “section 17 of the Regulation of Investigatory Powers Act 2000” substitute “section 48 of the Investigatory Powers Act 2016”.
-Regulation of Investigatory Powers Act 2000 
+Regulation of Investigatory Powers Act 2000
 40 The Regulation of Investigatory Powers Act 2000 is amended as follows.
 
 41 Omit Chapter 1 of Part 1 (interception of communications).
@@ -1741,10 +1741,10 @@ Regulation of Investigatory Powers Act 2000
 
 (2) In subsection (1)—
 
-  (a) in the definition of “criminal”, omit “or prosecution”, and 
+  (a) in the definition of “criminal”, omit “or prosecution”, and
   (b) in the definition of “interception warrant”, for “a warrant under section 5” substitute “—
 
-  (a) a targeted interception warrant or mutual assistance warrant under Chapter 1 of Part 2 of the Investigatory Powers Act 2016, or 
+  (a) a targeted interception warrant or mutual assistance warrant under Chapter 1 of Part 2 of the Investigatory Powers Act 2016, or
   (b) a bulk interception warrant under Chapter 1 of Part 6 of that Act”.
 
 (3) In subsection (4) omit the words from “; and references” to the end.
@@ -1752,7 +1752,7 @@ Regulation of Investigatory Powers Act 2000
 (4) In subsection (5) omit the words from “, except that” to the end.
 
 45 In section 82 (amendments, repeals and savings etc.) omit subsections (4) to (6).
-Police Reform Act 2002 
+Police Reform Act 2002
 46 (1) Paragraph 19ZD of Schedule 3 to the Police Reform Act 2002 (handling of complaints and conduct matters etc: restriction on further disclosure of sensitive information) is amended as follows.
 
 (2) In sub-paragraph (2)(b) for “intercept information” substitute “protected information relating to a relevant warrant”.
@@ -1779,19 +1779,19 @@ Criminal Justice and Licensing (Scotland) Act 2010 (2010 asp 132010 asp 13)
 
 47 In section 159 of the Criminal Justice and Licensing (Scotland) Act 2010, for “section 17 of the Regulation of Investigatory Powers Act 2000 (c. 23)2000 (c. 23)”
 substitute “section 48 of the Investigatory Powers Act 2016”.
-Justice and Security Act 2013 
+Justice and Security Act 2013
 48 In section 6(4)(b) of the Justice and Security Act 2013 (declaration permitting closed material applications in proceedings) for sub-paragraph (iii)
 substitute—
 
 “(“iii) section 48(1) of the Investigatory Powers Act 2016 (exclusion for intercept material),”.
-Part 3 Acquisition of communications data Regulation of Investigatory Powers Act 2000 
+Part 3 Acquisition of communications data Regulation of Investigatory Powers Act 2000
 49 The Regulation of Investigatory Powers Act 2000 is amended as follows.
 
 50 Omit Chapter 2 of Part 1 (acquisition and disclosure of communications data).
 
 51 In section 49(1)(c) (investigation of electronic data protected by encryption etc: powers under which data obtained)—
 
-  (a) for the words from “section 22(3)” to “Part II” substitute “Part 3 of the Investigatory Powers Act 2016 or Part 2 of this Act”, and 
+  (a) for the words from “section 22(3)” to “Part II” substitute “Part 3 of the Investigatory Powers Act 2016 or Part 2 of this Act”, and
   (b) for “under section 22(4)” substitute “in pursuance of an authorisation under Part 3 of the Act of 2016 or as the result of the issue of a warrant under Chapter 2 of Part 6 of the Act of 2016”.
 
 52 In section 71(2) (issue and revision of codes of practice) omit “23A or”.
@@ -1814,21 +1814,21 @@ substitute “section 32A of this Act or section 66 of the Investigatory Powers 
 55 In section 78(3)(a) (affirmative orders) omit “22(9), 23A(6), 25(5),”.
 
 56 In section 81(9) (general interpretation: certain references relating to Northern Ireland) omit “23A(7)(b),”.
-Police Reform Act 2002 
+Police Reform Act 2002
 57 (1) Paragraph 19ZA of Schedule 3 to the Police Reform Act 2002 (investigations by the IPCC: information notices) is amended as follows.
 
 (2) In sub-paragraph (3) omit—
 
-  (a) the words from “(within the meaning of Chapter 2” to “2000)”, and 
+  (a) the words from “(within the meaning of Chapter 2” to “2000)”, and
   (b) the words “(within the meaning of that Chapter)”.
 
 (3) After sub-paragraph (3) insert—
 
 “(3A) In sub-paragraph (3) “communications data”, “postal operator”
 and “telecommunications operator” have the same meanings as in the Investigatory Powers Act 2016 (see sections 223 and 224 of that Act).”
-Part 4 Retention of communications data Anti-terrorism, Crime and Security Act 2001 
+Part 4 Retention of communications data Anti-terrorism, Crime and Security Act 2001
 58 Omit Part 11 of the Anti-terrorism, Crime and Security Act 2001 (retention of communications data).
-Data Retention and Investigatory Powers Act 2014 
+Data Retention and Investigatory Powers Act 2014
 59 Omit sections 1 and 2 of the Data Retention and Investigatory Powers Act 2014 (retention of relevant communications data).
 Part 5 Equipment interference Regulation of Investigatory Powers (Scotland) Act 2000 (2000 asp 112000 asp 11)
 
@@ -1842,7 +1842,7 @@ Part 5 Equipment interference Regulation of Investigatory Powers (Scotland) Act 
 (and before the “and” at the end of the paragraph), insert—
 
 “(aa) Part 5, or Chapter 3 of Part 6, of the Investigatory Powers Act 2016 (equipment interference) so far as relating to the Police Service or the Police Investigations and Review Commissioner;”.
-Crime and Courts Act 2013 
+Crime and Courts Act 2013
 63 (1) In Schedule 1 to the Crime and Courts Act 2013 (the NCA and NCA officers),
 paragraph 6A (investigatory activity in Northern Ireland) is amended as follows.
 
@@ -1862,7 +1862,7 @@ paragraph 6A (investigatory activity in Northern Ireland) is amended as follows.
 
 “(4) For the purpose of sub-paragraph (1), a relevant investigatory activity falling within sub-paragraph (3)(za) is to be regarded as carried out in Northern Ireland if (and to the extent that)—
 
-  (a) the equipment that is being interfered with under the warrant is in Northern Ireland, and 
+  (a) the equipment that is being interfered with under the warrant is in Northern Ireland, and
   (b) at the time of the carrying out of the activity, the NCA officer knows that the equipment is in Northern Ireland.
 
 (5) Sub-paragraph (6) applies where—
@@ -1870,13 +1870,13 @@ paragraph 6A (investigatory activity in Northern Ireland) is amended as follows.
   (a) in the carrying out by an NCA officer of a relevant investigatory activity falling within sub-paragraph (3)(za),
 equipment in Northern Ireland is interfered with under the warrant,
 
-  (b) at the time the interference begins, the NCA officer does not know that the equipment is in Northern Ireland, and 
+  (b) at the time the interference begins, the NCA officer does not know that the equipment is in Northern Ireland, and
   (c) at any time while the interference is continuing, the NCA officer becomes aware that the equipment is in Northern Ireland.
 
 (6) The NCA officer is not to be regarded as in breach of sub-
 paragraph (1) if the interference continues after the NCA officer becomes aware that the equipment is in Northern Ireland,
 provided that the officer informs the Chief Constable of the Police Service of Northern Ireland about the interference as soon as reasonably practicable.”
-Part 6 Judicial Commissioners Police Act 1997 
+Part 6 Judicial Commissioners Police Act 1997
 64 The Police Act 1997 is amended as follows.
 
 65 In section 103(8) (appeals) for “the period” substitute “any period”.
@@ -1888,7 +1888,7 @@ substitute “section 201 of the Investigatory Powers Act 2016”.
 
     “““the Investigatory Powers Commissioner” and “Judicial Commissioner” have the same meanings as in the Investigatory Powers Act 2016 (see section 225(1) of that Act);”.
 
-Regulation of Investigatory Powers Act 2000 
+Regulation of Investigatory Powers Act 2000
 68 The Regulation of Investigatory Powers Act 2000 is amended as follows.
 
 69 In section 37(9)(a) (appeals against decisions of ordinary Surveillance Commissioners) for “the period” substitute “any period”.
@@ -1896,17 +1896,17 @@ Regulation of Investigatory Powers Act 2000
 70 In section 39(3) (appeals: reports of Chief Surveillance Commissioner)—
 
   (a) for “Subsections (3) and (4) of section 107 of the Police Act 1997”
-substitute “Subsections (6) to (9) of section 201 of the Investigatory Powers Act 2016”, and 
+substitute “Subsections (6) to (9) of section 201 of the Investigatory Powers Act 2016”, and
   (b) for “subsection (2) of that section” substitute “subsection (1) of that section”.
 
 71 Omit section 40 (information to be provided to Surveillance Commissioners).
 
 72 In section 50(7)(b) (notification to Intelligence Services Commissioner or Chief Surveillance Commissioner of certain directions relating to the disclosure of a key to protected information) for “the Commissioner in question” substitute “the Investigatory Powers Commissioner”.
 
-73 In section 71(2) (issue and revision of codes of practice) for “the Surveillance Commissioners” substitute “a Judicial Commissioner”. 
+73 In section 71(2) (issue and revision of codes of practice) for “the Surveillance Commissioners” substitute “a Judicial Commissioner”.
  74 (1) Section 72 (effect of codes of practice) is amended as follows.
 
-(2) In subsection (4) for paragraphs (c) to (e) (and the word “or” between paragraphs (d) and (e)) substitute “, or 
+(2) In subsection (4) for paragraphs (c) to (e) (and the word “or” between paragraphs (d) and (e)) substitute “, or
 (ba) the Investigatory Powers Commissioner or any other Judicial Commissioner carrying out functions under this Act, the Investigatory Powers Act 2016 or the Police Act 1997,”.
 
 (3) Omit subsection (5).
@@ -1927,7 +1927,7 @@ Regulation of Investigatory Powers (Scotland) Act 2000 (2000 asp 112000 asp 11)
 
 78 In section 2(10) (restrictions on appeals against Commissioners)—
 
-  (a) for “Chief Surveillance Commissioner” substitute “Investigatory Powers Commissioner”, and 
+  (a) for “Chief Surveillance Commissioner” substitute “Investigatory Powers Commissioner”, and
   (b) for “other Surveillance Commissioner” substitute “other Judicial Commissioner”.
 
 79 In the heading of section 16 for “Surveillance Commissioners” substitute “Judicial Commissioners”.
@@ -1946,14 +1946,14 @@ Regulation of Investigatory Powers (Scotland) Act 2000 (2000 asp 112000 asp 11)
 
 (4) In subsection (3)—
 
-  (a) for “Chief Surveillance Commissioner” substitute “Investigatory Powers Commissioner”, and 
+  (a) for “Chief Surveillance Commissioner” substitute “Investigatory Powers Commissioner”, and
   (b) after “under” insert “, and in relation to,”.
 
 84 In section 24(2) (issue and revision of codes of practice) for “the Surveillance Commissioners appointed under this Act or the Commissioners holding office under section 91 of that Act” substitute “the Judicial Commissioners”.
 
 85 In section 26(4) (effect of codes of practice)—
 
-  (a) in paragraph (b) for “Chief Surveillance Commissioner” substitute “Investigatory Powers Commissioner”, and 
+  (a) in paragraph (b) for “Chief Surveillance Commissioner” substitute “Investigatory Powers Commissioner”, and
   (b) in paragraph (c) for “a Surveillance Commissioner” substitute “a Judicial Commissioner (other than the Investigatory Powers Commissioner)”.
 
 86 (1) Section 31(1) (interpretation) is amended as follows.
@@ -1964,9 +1964,9 @@ Regulation of Investigatory Powers (Scotland) Act 2000 (2000 asp 112000 asp 11)
 
 (3) Omit the definitions of “ordinary Surveillance Commissioner”,
 “Surveillance Commissioner” and “Chief Surveillance Commissioner”.
-Terrorism Prevention and Investigation Measures Act 2011 
+Terrorism Prevention and Investigation Measures Act 2011
 87 In section 21(3)(b) of the Terrorism Prevention and Investigation Measures Act 2011 (duty to consult certain persons before making an order for the continuation, repeal etc. of TPIM powers) for “the Intelligence Services Commissioner” substitute “the Investigatory Powers Commissioner”.
-Protection of Freedoms Act 2012 
+Protection of Freedoms Act 2012
 88 The Protection of Freedoms Act 2012 is amended as follows.
 
 89 (1) Section 29 (code of practice for surveillance camera systems) is amended as follows.
@@ -1977,11 +1977,11 @@ Protection of Freedoms Act 2012
 
 90 In section 33(8)(d) (duty to consult before making an order identifying who must have regard to the code) for “the Chief Surveillance Commissioner”
 substitute “the Investigatory Powers Commissioner”.
-Part 7 Other minor and consequential provision Telecommunications Act 1984 
+Part 7 Other minor and consequential provision Telecommunications Act 1984
 91 Omit section 94 of the Telecommunications Act 1984 (directions in the interests of national security etc.).
-Northern Ireland Act 1998 
+Northern Ireland Act 1998
 92 In paragraph 17 of Schedule 2 to the Northern Ireland Act 1998 (excepted matters) after “subversion;” insert “the Technical Advisory Board provided for by section 211 of the Investigatory Powers Act 2016;”.
-Communications Act 2003 
+Communications Act 2003
 93 (1) The Communications Act 2003 is amended as follows.
 
 (2) In section 401(5)(g), for “sections 47 to 49” substitute “section 47 or 48”.
