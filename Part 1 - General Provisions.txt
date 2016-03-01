@@ -40,11 +40,9 @@ Prohibitions against unlawful interception 2 Offence of unlawful interception
 (1) A person commits an offence if—
 
   (a) the person intentionally intercepts a communication in the course of its transmission by means of—
-
-  (i) a public telecommunication system,
-
-(ii) a private telecommunication system, or 
-(iii) a public postal service,
+    (i) a public telecommunication system,
+    (ii) a private telecommunication system, or 
+    (iii) a public postal service,
 
   (b) the interception is carried out in the United Kingdom, and 
   (c) the person does not have lawful authority to carry out the interception.
@@ -117,9 +115,8 @@ Interception carried out in the United Kingdom
 
   (a) the relevant act or, in the case of a postal item, the interception is carried out by conduct within the United Kingdom, and 
   (b) the communication is intercepted—
-
-  (i) in the course of its transmission by means of a public telecommunication system or a public postal service, or 
-(ii) in the course of its transmission by means of a private telecommunication system in a case where the sender or intended recipient of the communication is in the United Kingdom.
+    (i) in the course of its transmission by means of a public telecommunication system or a public postal service, or 
+    (ii) in the course of its transmission by means of a private telecommunication system in a case where the sender or intended recipient of the communication is in the United Kingdom.
 4 Conduct that is not interception 
 (1) References in this Act to the interception of a communication do not include references to the interception of any communication broadcast for general reception.
 
@@ -135,17 +132,14 @@ For the meaning of “postal data”, see section 224.
 (1) For the purposes of this Act, a person has lawful authority to carry out an interception if, and only if—
 
   (a) the interception is carried out in accordance with—
-
-  (i) a targeted interception warrant or mutual assistance warrant under Chapter 1 of Part 2, or 
-(ii) a bulk interception warrant under Chapter 1 of Part 6,
+    (i) a targeted interception warrant or mutual assistance warrant under Chapter 1 of Part 2, or 
+    (ii) a bulk interception warrant under Chapter 1 of Part 6,
 
   (b) the interception is authorised by any of sections 37 to 45, or 
   (c) in the case of a communication stored in or by a telecommunication system, the interception—
-
-  (i) is carried out in accordance with a targeted equipment interference warrant under Part 5 or a bulk equipment interference warrant under Chapter 3 of Part 6,
-
-(ii) is in the exercise of any statutory power that is exercised for the purpose of obtaining information or taking possession of any document or other property, or 
-(iii) is carried out in accordance with a court order made for that purpose.
+    (i) is carried out in accordance with a targeted equipment interference warrant under Part 5 or a bulk equipment interference warrant under Chapter 3 of Part 6,
+    (ii) is in the exercise of any statutory power that is exercised for the purpose of obtaining information or taking possession of any document or other property, or 
+    (iii) is carried out in accordance with a court order made for that purpose.
 
 (2) Conduct which has lawful authority for the purposes of this Act by virtue of subsection (1)(a) or (b) is to be treated as lawful for all other purposes.
 
@@ -231,23 +225,20 @@ Prohibition against unlawful obtaining of communications data 9 Offence of unlaw
 (4) A person guilty of an offence under this section is liable—
 
   (a) on summary conviction in England and Wales—
-
-  (i) to imprisonment for a term not exceeding 12 months (or 6 months, if the offence was committed before the commencement of section 154(1) of the Criminal Justice Act 2003), or 
-(ii) to a fine,
+    (i) to imprisonment for a term not exceeding 12 months (or 6 months, if the offence was committed before the commencement of section 154(1) of the Criminal Justice Act 2003), or 
+    (ii) to a fine,
 
 or to both;
 
   (b) on summary conviction in Scotland—
-
-  (i) to imprisonment for a term not exceeding 12 months, or 
-(ii) to a fine not exceeding the statutory maximum,
+    (i) to imprisonment for a term not exceeding 12 months, or 
+    (ii) to a fine not exceeding the statutory maximum,
 
 or to both;
 
   (c) on summary conviction in Northern Ireland—
-
-  (i) to imprisonment for a term not exceeding 6 months, or 
-(ii) to a fine not exceeding the statutory maximum,
+    (i) to imprisonment for a term not exceeding 6 months, or 
+    (ii) to a fine not exceeding the statutory maximum,
 
 or to both;
 
@@ -270,13 +261,11 @@ is to be read as not enabling the public authority to secure such a disclosure.
 (5) In this section “general information power” means—
 
   (a) in relation to disclosure by a telecommunications operator, any power to obtain information or documents (however expressed) which—
-
-  (i) is conferred by or under an enactment other than this Act or the Regulation of Investigatory Powers Act 2000, and 
-(ii) does not deal (whether alone or with other matters) specifically with telecommunications operators or any class of telecommunications operators, and 
+    (i) is conferred by or under an enactment other than this Act or the Regulation of Investigatory Powers Act 2000, and 
+    (ii) does not deal (whether alone or with other matters) specifically with telecommunications operators or any class of telecommunications operators, and 
   (b) in relation to disclosure by a postal operator, any power to obtain information or documents (however expressed) which—
-
-  (i) is conferred by or under an enactment other than this Act or the Regulation of Investigatory Powers Act 2000, and 
-(ii) does not deal (whether alone or with other matters) specifically with postal operators or any class of postal operators.
+    (i) is conferred by or under an enactment other than this Act or the Regulation of Investigatory Powers Act 2000, and 
+    (ii) does not deal (whether alone or with other matters) specifically with postal operators or any class of postal operators.
 
 (6) In this section—
 
@@ -311,11 +300,9 @@ and
 
   (b) the intelligence service believes that any of the equipment which would, or may, be interfered with would, or may, be in the British Islands at some time while the interference is taking place, or 
   (c) a purpose of the interference is to obtain—
-
-  (i) communications sent by, or to, a person who is, or whom the intelligence service believes to be, for the time being in the British Islands,
-
-(ii) private information relating to an individual who is, or whom the intelligence service believes to be, for the time being in the British Islands, or 
-(iii) equipment data which forms part of, or is connected with,
+    (i) communications sent by, or to, a person who is, or whom the intelligence service believes to be, for the time being in the British Islands,
+    (ii) private information relating to an individual who is, or whom the intelligence service believes to be, for the time being in the British Islands, or 
+    (iii) equipment data which forms part of, or is connected with,
 communications or private information falling within sub-
 paragraph (i) or (ii).
 

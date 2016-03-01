@@ -63,9 +63,8 @@ Consultation requirements before service of monetary penalty notices
 
   (a) the Commissioner must arrange such a hearing, and 
   (b) the person may make representations at the hearing about—
-
-  (i) any matter falling within section 6(3)(c), or 
-(ii) any other matter relating to the Commissioner’s proposal which, by virtue of section 48, the person would be unable to raise on an appeal under paragraph 8.
+    (i) any matter falling within section 6(3)(c), or 
+    (ii) any other matter relating to the Commissioner’s proposal which, by virtue of section 48, the person would be unable to raise on an appeal under paragraph 8.
 
 (7) The Commissioner must consider any representations which have been made by the person in accordance with the notice or sub-paragraph (6).
 
@@ -269,9 +268,8 @@ Enforcement of information notices
 
   (a) no account is to be taken of the day on which the Part 2 monetary penalty notice is served or any day before that day, and 
   (b) the Part 2 monetary penalty notice must specify—
-
-  (i) the day on which the amount first starts to accumulate and the circumstances in which it is to cease to accumulate, and 
-(ii) the period or periods within which the amount, or any part or parts so far accumulated, must be paid to the Commissioner.
+    (i) the day on which the amount first starts to accumulate and the circumstances in which it is to cease to accumulate, and 
+    (ii) the period or periods within which the amount, or any part or parts so far accumulated, must be paid to the Commissioner.
 
 Any period falling within paragraph (b)(ii) must not be less than 28 days beginning with the day after the day on which the notice is served.
 
@@ -345,16 +343,13 @@ Social Security Administration Act 1992
 
   (c) omit subsection (2F), and 
   (d) in subsection (7)—
-
-  (i) after the definition of “bank” insert—
+    (i) after the definition of “bank” insert—
 
     “““communications data” has the same meaning as in the     Investigatory Powers Act 2016 (see sections 223 and     224 of that Act);”,”
-
-(ii) after the definition of “insurer” insert—
+    (ii) after the definition of “insurer” insert—
 
     “““postal operator” has the same meaning as in the     Investigatory Powers Act 2016 (see section 224 of that     Act);”, and”
-
-(iii) for the definition of “telecommunications service”
+    (iii) for the definition of “telecommunications service”
 substitute—
 
     “““telecommunications operator” has the same meaning     as in the Investigatory Powers Act 2016 (see section     223 of that Act).”
@@ -371,16 +366,13 @@ Social Security Administration (Northern Ireland) Act 1992
 
   (c) omit subsection (2F), and 
   (d) in subsection (7)—
-
-  (i) after the definition of “bank” insert—
+    (i) after the definition of “bank” insert—
 
     “““communications data” has the same meaning as in the     Investigatory Powers Act 2016 (see sections 223 and     224 of that Act);”,”
-
-(ii) after the definition of “insurer” insert—
+    (ii) after the definition of “insurer” insert—
 
     “““postal operator” has the same meaning as in the     Investigatory Powers Act 2016 (see section 224 of that     Act);”, and”
-
-(iii) for the definition of “telecommunications service”
+    (iii) for the definition of “telecommunications service”
 substitute—
 
     “““telecommunications operator” has the same meaning     as in the Investigatory Powers Act 2016 (see section     223 of that Act).”.
@@ -419,16 +411,13 @@ Prevention of Social Housing Fraud (Power to Require Information) (England) Regu
 “(10A) Nothing in this regulation is to be read as enabling a person to secure the disclosure by a telecommunications operator or postal operator of communications data without the consent of the operator.”, and”
 
   (e) in paragraph (11)—
-
-  (i) after the definition of “bank” insert—
+    (i) after the definition of “bank” insert—
 
     “““communications data” has the same meaning as in the     Investigatory Powers Act 2016 (see sections 223 and 224 of that     Act);”,”
-
-(ii) after the definition of “family” insert—
+    (ii) after the definition of “family” insert—
 
     “““postal operator” has the same meaning as in the Investigatory     Powers Act 2016 (see section 224 of that Act);”, and”
-
-(iii) for the definition of “telecommunications service”
+    (iii) for the definition of “telecommunications service”
 substitute—
 
     “““telecommunications operator” has the same meaning as in the     Investigatory Powers Act 2016 (see section 223 of that Act).”
@@ -473,9 +462,8 @@ Proceedings before Special Immigration Appeals Commission
 
   (a) the appellant or (as the case may be) applicant to the Special Immigration Appeals Commission, or 
   (b) any person who—
-
-  (i) represents that appellant or applicant for the purposes of the proceedings, and 
-(ii) does so otherwise than by virtue of appointment under section 6 of the Special Immigration Appeals Commission Act 1997.
+    (i) represents that appellant or applicant for the purposes of the proceedings, and 
+    (ii) does so otherwise than by virtue of appointment under section 6 of the Special Immigration Appeals Commission Act 1997.
 Proceedings before Proscribed Organisations Appeal Commission 
 6 (1) Section 48(1) does not apply in relation to—
 
@@ -491,9 +479,8 @@ Proceedings before Proscribed Organisations Appeal Commission
   (c) any person designated under paragraph 6 of Schedule 3 to the Terrorism Act 2000 to conduct the proceedings on behalf of that organisation;
 
   (d) any person who—
-
-  (i) represents that appellant or that organisation for the purposes of the proceedings, and 
-(ii) does so otherwise than by virtue of an appointment under paragraph 7 of that Schedule.
+    (i) represents that appellant or that organisation for the purposes of the proceedings, and 
+    (ii) does so otherwise than by virtue of an appointment under paragraph 7 of that Schedule.
 Closed material proceedings 
 7 (1) Section 48(1) does not apply in relation to any section 6 proceedings within the meaning given by section 14(1) of the Justice and Security Act 2013 (certain civil proceedings in which closed material applications may be made).
 
@@ -503,18 +490,16 @@ Closed material proceedings
 
   (a) any person, other than the Secretary of State, who is or was a party to the proceedings, or 
   (b) any person who—
-
-  (i) represents such a person for the purposes of the proceedings,
+    (i) represents such a person for the purposes of the proceedings,
 and 
-(ii) does so otherwise than by virtue of appointment as a special advocate.
+    (ii) does so otherwise than by virtue of appointment as a special advocate.
 
 (4) In the case of section 6 proceedings where the Secretary of State is not the only relevant person, or is not a relevant person but is a party to the proceedings, a “prohibited section 6 disclosure” means a disclosure of anything to—
 
   (a) any person, other than the relevant person concerned or the Secretary of State, who is or was a party to the proceedings, or 
   (b) any person who—
-
-  (i) represents a person within paragraph (a) for the purposes of the proceedings, and 
-(ii) does so otherwise than by virtue of appointment as a special advocate.
+    (i) represents a person within paragraph (a) for the purposes of the proceedings, and 
+    (ii) does so otherwise than by virtue of appointment as a special advocate.
 
 (5) In this paragraph “relevant person”, in relation to section 6 proceedings, has the meaning given by section 14(1) of the Justice and Security Act 2013.
 TPIM proceedings 
@@ -527,10 +512,9 @@ TPIM proceedings
 
   (a) any person, other than the Secretary of State, who is or was a party to the proceedings, or 
   (b) any person who—
-
-  (i) represents such a person for the purposes of the proceedings,
+    (i) represents such a person for the purposes of the proceedings,
 and 
-(ii) does so otherwise than by virtue of appointment as a special advocate under Schedule 4 to the Terrorism Prevention and Investigation Measures Act 2011.
+    (ii) does so otherwise than by virtue of appointment as a special advocate under Schedule 4 to the Terrorism Prevention and Investigation Measures Act 2011.
 
 (3) In this paragraph “TPIM proceedings” has the same meaning as in the Terrorism Prevention and Investigation Measures Act 2011.
 TEO proceedings 
@@ -543,10 +527,9 @@ TEO proceedings
 
   (a) any person, other than the Secretary of State, who is or was a party to the proceedings, or 
   (b) any person who—
-
-  (i) represents such a person for the purposes of the proceedings,
+    (i) represents such a person for the purposes of the proceedings,
 and 
-(ii) does so otherwise than by virtue of appointment as a special advocate under Schedule 3 to the Counter-Terrorism and Security Act 2015.
+    (ii) does so otherwise than by virtue of appointment as a special advocate under Schedule 3 to the Counter-Terrorism and Security Act 2015.
 
 (3) In this paragraph “TEO proceedings” has the meaning given by paragraph 1 of Schedule 3 to the Counter-Terrorism and Security Act 2015 (temporary exclusion orders: proceedings).
 Proceedings relating to freezing of terrorist assets etc.
@@ -569,26 +552,24 @@ or any proceedings arising out of such proceedings.
 
   (a) any person, other than the Treasury, who is or was a party to the proceedings, or 
   (b) any person who—
-
-  (i) represents such a person for the purposes of the proceedings,
+    (i) represents such a person for the purposes of the proceedings,
 and 
-(ii) does so otherwise than by virtue of appointment as a special advocate.
+    (ii) does so otherwise than by virtue of appointment as a special advocate.
 Proceedings relating to release of prisoners etc. in Northern Ireland 
 13 (1) Section 48(1) does not apply in relation to—
 
   (a) any proceedings before—
- (i) the Parole Commissioners for Northern Ireland, or 
-(ii) any Sentence Review Commissioners appointed under section 1 of the Northern Ireland (Sentences) Act 1998, or 
+    (i) the Parole Commissioners for Northern Ireland, or 
+    (ii) any Sentence Review Commissioners appointed under section 1 of the Northern Ireland (Sentences) Act 1998, or 
   (b) any proceedings arising out of such proceedings.
 
 (2) But sub-paragraph (1) does not permit the disclosure of anything to—
 
   (a) any person, other than the Secretary of State, who is or was a party to the proceedings, or 
   (b) any person who—
-
-  (i) represents such a person for the purposes of the proceedings,
+    (i) represents such a person for the purposes of the proceedings,
 and 
-(ii) does so otherwise than by virtue of appointment as a special advocate.
+    (ii) does so otherwise than by virtue of appointment as a special advocate.
 Employment or industrial tribunal proceedings 
 14 (1) Section 48(1) does not apply in relation to any proceedings before an employment tribunal where the applicant, or the applicant’s representatives, are excluded for all or part of the proceedings pursuant to—
 
@@ -606,18 +587,16 @@ Employment or industrial tribunal proceedings
 
   (a) the person who is or was the applicant in the proceedings before the employment or industrial tribunal, or 
   (b) any person who—
-
-  (i) represents that person for the purposes of any proceedings within paragraph 14, and 
-(ii) does so otherwise than by virtue of appointment as a special advocate.
+    (i) represents that person for the purposes of any proceedings within paragraph 14, and 
+    (ii) does so otherwise than by virtue of appointment as a special advocate.
 Proceedings relating to dismissal for certain offences 
 16 Section 48(1) does not prohibit anything done in, for the purposes of, or in connection with, so much of any legal proceedings as relates to the fairness or unfairness of a dismissal on the following grounds—
 
   (a) any conduct constituting an offence under section 2(1), 36(7) or 51;
 
   (b) any conduct taking place before the coming into force of this paragraph and constituting—
-
-  (i) an offence under section 1(1) or (2), 11(7) or 19 of the Regulation of Investigatory Powers Act 2000, or 
-(ii) an offence under section 1 of the Interception of Communications Act 1985.
+    (i) an offence under section 1(1) or (2), 11(7) or 19 of the Regulation of Investigatory Powers Act 2000, or 
+    (ii) an offence under section 1 of the Interception of Communications Act 1985.
 Proceedings on appeals relating to claims of discrimination in Northern Ireland 
 17 (1) Section 48(1) does not apply in relation to any proceedings on an appeal under Article 80(2) of the Fair Employment and Treatment (Northern Ireland) Order 1998 (S.I. 1998/3162 (N.I. 21)S.I. 1998/3162 (N.I. 21)) where—
 
@@ -630,9 +609,8 @@ Proceedings on appeals relating to claims of discrimination in Northern Ireland
 
   (a) any person who is or was excluded from all or part of the proceedings mentioned in paragraph 17(1), or 
   (b) any person who—
-
-  (i) represents such a person for the purposes of any proceedings within paragraph 17, and 
-(ii) does so otherwise than by virtue of appointment as a special advocate.
+    (i) represents such a person for the purposes of any proceedings within paragraph 17, and 
+    (ii) does so otherwise than by virtue of appointment as a special advocate.
 Civil proceedings for enforcement of duty to assist with implementation of warrants 
 19 Section 48(1) does not apply in relation to any civil proceedings under section 36(8) of this Act or section 11(8) of the Regulation of Investigatory Powers Act 2000 (enforcement of duty of operators to assist with implementation of warrants).
 Proceedings for certain offences 
@@ -653,13 +631,11 @@ Proceedings for certain offences
   (f) an offence under section 4 of the Official Secrets Act 1989 relating to any such information, document or article as is mentioned in subsection (3)(a) or (c) of that section;
 
   (g) an offence under section 1 or 2 of the Official Secrets Act 1911 relating to any sketch, plan, model, article, note, document or information which—
-
-  (i) incorporates, or relates to, the content of any intercepted communication or any secondary data obtained from a communication, or 
-(ii) tends to suggest that any interception-related conduct has or may have occurred or may be going to occur;
+    (i) incorporates, or relates to, the content of any intercepted communication or any secondary data obtained from a communication, or 
+    (ii) tends to suggest that any interception-related conduct has or may have occurred or may be going to occur;
 
   (h) an offence of perjury committed in the course of any relevant proceedings;
-
-  (i) an offence of attempting or conspiring to commit an offence falling within any of paragraphs (a) to (h);
+    (i) an offence of attempting or conspiring to commit an offence falling within any of paragraphs (a) to (h);
 
   (j) an offence under Part 2 of the Serious Crime Act 2007 in relation to an offence falling within any of those paragraphs;
 
@@ -952,14 +928,12 @@ transitional, transitory or saving provision and may, in particular—
 (8) Accordingly, a transfer scheme may, in particular, provide—
 
   (a) for—
-
-  (i) an individual employed in the civil service to become an employee of the transferee, or 
-(ii) an employee of the transferor to become an employee of the transferee or an individual employed in the civil service,
+    (i) an individual employed in the civil service to become an employee of the transferee, or 
+    (ii) an employee of the transferor to become an employee of the transferee or an individual employed in the civil service,
 
   (b) for—
-
-  (i) the individual’s terms of employment in the civil service to have effect (subject to any necessary modifications) as the terms of the individual’s contract of employment with the transferee, or 
-(ii) (as the case may be) the individual’s contract of employment to have effect (subject to any necessary modifications) as the terms of the individual’s contract of employment with the 
+    (i) the individual’s terms of employment in the civil service to have effect (subject to any necessary modifications) as the terms of the individual’s contract of employment with the transferee, or 
+    (ii) (as the case may be) the individual’s contract of employment to have effect (subject to any necessary modifications) as the terms of the individual’s contract of employment with the 
 
 
 transferee or, where the transferee is the Secretary of State,
@@ -1123,15 +1097,11 @@ Section 207 SCHEDULE 7 Codes of practice Scope of codes
 (2) Sub-paragraph (1) does not apply in relation to—
 
   (a) any functions conferred by virtue of this Act on—
-
-  (i) the Investigatory Powers Commissioner or any other Judicial Commissioner,
-
-(ii) the Information Commissioner,
-
-(iii) the Investigatory Powers Tribunal,
-
-(iv) any other court or tribunal, or 
-  (v) the Technical Advisory Board,
+    (i) the Investigatory Powers Commissioner or any other Judicial Commissioner,
+    (ii) the Information Commissioner,
+    (iii) the Investigatory Powers Tribunal,
+    (iv) any other court or tribunal, or 
+    (v) the Technical Advisory Board,
 
   (b) any function to make subordinate legislation which is conferred by virtue of this Act on the Secretary of State or the Treasury.
 
@@ -1577,9 +1547,8 @@ notice, or by virtue of which information may be obtained in any manner, is to b
   (a) as making it unlawful to engage in any conduct of that description which is not otherwise unlawful under this Act and would not be unlawful apart from this Act,
 
   (b) as otherwise requiring—
-
-  (i) the issue, grant or giving of such a warrant, authorisation or notice, or 
-(ii) the taking of any step for or towards obtaining the authority of such a warrant, authorisation or notice,
+    (i) the issue, grant or giving of such a warrant, authorisation or notice, or 
+    (ii) the taking of any step for or towards obtaining the authority of such a warrant, authorisation or notice,
 
 before any such conduct of that description is engaged in, or 
   (c) as prejudicing any power to obtain information by any means not involving conduct that may be authorised under this Act.
@@ -1593,11 +1562,9 @@ Northern Ireland Act 1998
 “(a) the subject-matter of Parts 2 and 3 of the Regulation of Investigatory Powers Act 2000, so far as relating to the prevention or detection of crime (within the meaning of that Act) or the prevention of disorder;
 
 (aa) the subject-matter of the following provisions of the Investigatory Powers Act 2016, so far as relating to the prevention or detection of serious crime (within the meaning of that Act)—
-
-  (i) sections 2 to 8 and Schedule 1,
-
-(ii) Part 2, and 
-(iii) Chapter 1 of Part 6;
+    (i) sections 2 to 8 and Schedule 1,
+    (ii) Part 2, and 
+    (iii) Chapter 1 of Part 6;
 
 (ab) the subject-matter of section 9, Parts 3 and 4 and Chapter 2 of Part 6 of the Investigatory Powers Act 2016, so far as relating to the prevention or detection of crime (within the meaning of that Act) or the prevention of disorder;
 

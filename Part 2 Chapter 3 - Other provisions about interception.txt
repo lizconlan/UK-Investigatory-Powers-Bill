@@ -103,9 +103,8 @@ as the issuing authority considers appropriate, in relation to any of the materi
 (1) No evidence may be adduced, question asked, assertion or disclosure made or other thing done in, for the purposes of or in connection with any legal proceedings or Inquiries Act proceedings which (in any manner)—
 
   (a) discloses, in circumstances from which its origin in interception-related conduct may be inferred—
-
-  (i) any content of an intercepted communication, or 
-(ii) any secondary data obtained from a communication, or 
+    (i) any content of an intercepted communication, or 
+    (ii) any secondary data obtained from a communication, or 
   (b) tends to suggest that any interception-related conduct has or may have occurred or may be going to occur.
 
 This is subject to Schedule 3 (exceptions).
@@ -139,21 +138,18 @@ This is subject to Schedule 3 (exceptions).
 (4) Any reference in subsection (1) to interception-related conduct also includes any conduct taking place before the coming into force of this section and consisting of—
 
   (a) conduct by a person within subsection (3) that—
-
-  (i) was an offence under section 1(1) or (2) of the Regulation of Investigatory Powers Act 2000 (“RIPA”), or 
-(ii) would have been such an offence in the absence of any lawful authority (within the meaning of section 1(5) of RIPA);
+    (i) was an offence under section 1(1) or (2) of the Regulation of Investigatory Powers Act 2000 (“RIPA”), or 
+    (ii) would have been such an offence in the absence of any lawful authority (within the meaning of section 1(5) of RIPA);
 
   (b) conduct by a person within subsection (3) that—
-
-  (i) was an offence under section 1 of the Interception of Communications Act 1985, or 
-(ii) would have been such an offence in the absence of subsections (2) and (3) of that section;
+    (i) was an offence under section 1 of the Interception of Communications Act 1985, or 
+    (ii) would have been such an offence in the absence of subsections (2) and (3) of that section;
 
   (c) a breach by the Secretary of State of the duty under section 1(4) of RIPA (restriction on requesting assistance under mutual assistance agreements);
 
   (d) the making of an application by any person for a warrant, or the issue of a warrant, under—
-
-  (i) Chapter 1 of Part 1 of RIPA, or 
-(ii) the Interception of Communications Act 1985;
+    (i) Chapter 1 of Part 1 of RIPA, or 
+    (ii) the Interception of Communications Act 1985;
 
   (e) the imposition of any requirement on any person to provide assistance in giving effect to a warrant under Chapter 1 of Part 1 of RIPA.
 
@@ -169,9 +165,8 @@ This is subject to Schedule 3 (exceptions).
 (2) A person makes an unauthorised disclosure for the purposes of this section if—
 
   (a) the person discloses any of the matters within subsection (4) in relation to—
-
-  (i) a warrant under Chapter 1 of this Part, or 
-(ii) a warrant under Chapter 1 of Part 1 of the Regulation of Investigatory Powers Act 2000, and 
+    (i) a warrant under Chapter 1 of this Part, or 
+    (ii) a warrant under Chapter 1 of Part 1 of the Regulation of Investigatory Powers Act 2000, and 
   (b) the disclosure is not an excepted disclosure (see section 50).
 
 (3) This section applies to the following persons—
@@ -229,14 +224,12 @@ This is subject to Schedule 3 (exceptions).
 (4) Head 3 is—
 
   (a) a disclosure made by a legal adviser—
-
-  (i) in contemplation of, or in connection with, any legal proceedings, and 
-(ii) for the purposes of those proceedings;
+    (i) in contemplation of, or in connection with, any legal proceedings, and 
+    (ii) for the purposes of those proceedings;
 
   (b) a disclosure made—
-
-  (i) by a professional legal adviser (“L”) to L’s client or a representative of L’s client, or 
-(ii) by L’s client, or by a representative of L’s client, to L,
+    (i) by a professional legal adviser (“L”) to L’s client or a representative of L’s client, or 
+    (ii) by L’s client, or by a representative of L’s client, to L,
 
 in connection with the giving, by L to L’s client, of advice about the effect of the relevant provisions (see subsection (6)).
 
@@ -251,9 +244,8 @@ in connection with the giving, by L to L’s client, of advice about the effect 
 (7) Head 4 is—
 
   (a) a disclosure that—
-
-  (i) is made by a postal operator or a telecommunications operator in accordance with a requirement imposed by regulations made by the Secretary of State, and 
-(ii) relates to the number of warrants under Chapter 1 of this Part to which the operator has given effect or has been involved in giving effect;
+    (i) is made by a postal operator or a telecommunications operator in accordance with a requirement imposed by regulations made by the Secretary of State, and 
+    (ii) relates to the number of warrants under Chapter 1 of this Part to which the operator has given effect or has been involved in giving effect;
 
   (b) a disclosure of information that does not relate to any particular warrant under Chapter 1 of this Part but relates to such warrants in general.
 
@@ -264,24 +256,21 @@ in connection with the giving, by L to L’s client, of advice about the effect 
 (2) A person who is guilty of an offence under this section is liable—
 
   (a) on summary conviction in England and Wales—
-
-  (i) to imprisonment for a term not exceeding 12 months (or 6 months, if the offence was committed before the 
+    (i) to imprisonment for a term not exceeding 12 months (or 6 months, if the offence was committed before the 
 commencement of section 154(1) of the Criminal Justice Act 2003), or 
-(ii) to a fine,
+    (ii) to a fine,
 
 or to both;
 
   (b) on summary conviction in Scotland—
-
-  (i) to imprisonment for a term not exceeding 12 months, or 
-(ii) to a fine not exceeding the statutory maximum,
+    (i) to imprisonment for a term not exceeding 12 months, or 
+    (ii) to a fine not exceeding the statutory maximum,
 
 or to both;
 
   (c) on summary conviction in Northern Ireland—
-
-  (i) to imprisonment for a term not exceeding 6 months, or 
-(ii) to a fine not exceeding the statutory maximum,
+    (i) to imprisonment for a term not exceeding 6 months, or 
+    (ii) to a fine not exceeding the statutory maximum,
 
 or to both;
 

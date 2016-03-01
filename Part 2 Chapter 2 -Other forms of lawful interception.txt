@@ -5,9 +5,8 @@ CHAPTER 2 Other forms of lawful interception Interception with consent 37 Interc
 
   (a) the communication is one sent by, or intended for, a person who has consented to the interception, and 
   (b) surveillance by means of that interception has been authorised under—
-
-  (i) Part 2 of the Regulation of Investigatory Powers Act 2000, or 
-(ii) the Regulation of Investigatory Powers (Scotland) Act 2000 (2000 asp 112000 asp 11).
+    (i) Part 2 of the Regulation of Investigatory Powers Act 2000, or 
+    (ii) the Regulation of Investigatory Powers (Scotland) Act 2000 (2000 asp 112000 asp 11).
 Interception for administrative or enforcement purposes 38 Interception by providers of postal or telecommunications services 
 (1) The interception of a communication is authorised by this section if the interception is carried out—
 
@@ -19,9 +18,8 @@ Interception for administrative or enforcement purposes 38 Interception by provi
   (a) purposes relating to the provision or operation of the service;
 
   (b) purposes relating to the enforcement, in relation to the service, of any enactment relating to—
-
-  (i) the use of postal or telecommunications services, or 
-(ii) the content of communications transmitted by means of such services;
+    (i) the use of postal or telecommunications services, or 
+    (ii) the content of communications transmitted by means of such services;
 
   (c) purposes relating to the provision of services or facilities aimed at preventing or restricting the viewing or publication of the content of communications transmitted by means of postal or telecommunications services.
 
@@ -73,9 +71,8 @@ of monitoring or keeping a record of—
   (b) the prevention or detection of anything which constitutes interference with wireless telegraphy;
 
   (c) the enforcement of—
-
-  (i) any provision of Part 2 (other than Chapter 2 and sections 27 to 31) or Part 3 of the 2006 Act, or 
-(ii) any enactment not falling within sub-paragraph (i) that relates to interference with wireless telegraphy.
+    (i) any provision of Part 2 (other than Chapter 2 and sections 27 to 31) or Part 3 of the 2006 Act, or 
+    (ii) any enactment not falling within sub-paragraph (i) that relates to interference with wireless telegraphy.
 
 (4) In this section—
 
@@ -98,9 +95,8 @@ Interception taking place in certain institutions 42 Interception in prisons
 (3) In this section “prison” means—
 
   (a) any prison, young offender institution, young offenders centre, secure training centre, secure college or remand centre which—
-
-  (i) is under the general superintendence of, or is provided by, the Secretary of State under the Prison Act 1952, or 
-(ii) is under the general superintendence of, or is provided by, the Department of Justice in Northern Ireland under the Prison Act (Northern Ireland) 1953, or 
+    (i) is under the general superintendence of, or is provided by, the Secretary of State under the Prison Act 1952, or 
+    (ii) is under the general superintendence of, or is provided by, the Department of Justice in Northern Ireland under the Prison Act (Northern Ireland) 1953, or 
   (b) any prison, young offenders institution or remand centre which is under the general superintendence of the Scottish Ministers under the Prisons (Scotland) Act 1989,
 
 and includes any contracted out prison, within the meaning of Part 4 of the Criminal Justice Act 1991 or section 106(4) of the Criminal Justice and Public Order Act 1994, and any legalised police cells within the meaning of section 14 of the Prisons (Scotland) Act 1989.

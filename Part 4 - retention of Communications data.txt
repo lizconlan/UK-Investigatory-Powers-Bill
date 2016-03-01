@@ -49,9 +49,8 @@ concerned, or
   (a) a requirement to retain the data in such a way that it can be transmitted efficiently and effectively in response to requests,
 
   (b) requirements or restrictions in relation to the obtaining (whether by collection, generation or otherwise), generation or processing of—
-
-  (i) data for retention, or 
-(ii) retained data.
+    (i) data for retention, or 
+    (ii) retained data.
 
 (9) In this Part “relevant communications data” means communications data which may be used to identify, or assist in identifying, any of the following—
 
@@ -107,9 +106,8 @@ within such period or circumstances as may be provided for by regulations made b
   (a) give the operator concerned and the Secretary of State the opportunity to provide evidence, or make representations, to them before reaching their conclusions,
 
   (b) report their conclusions to—
-
-  (i) the operator, and 
-(ii) the Secretary of State.
+    (i) the operator, and 
+    (ii) the Secretary of State.
 
 (10) The Secretary of State may, after considering the conclusions of the Board and the Commissioner—
 

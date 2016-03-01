@@ -36,15 +36,11 @@ such apparatus, systems or other facilities or services as the Secretary of Stat
 (3) Such financial assistance—
 
   (a) may, in particular, be given by way of—
-
-  (i) grant,
-
-(ii) loan,
-
-(iii) guarantee or indemnity,
-
-(iv) investment, or 
-  (v) incurring expenditure for the benefit of the person assisted, and 
+    (i) grant,
+    (ii) loan,
+    (iii) guarantee or indemnity,
+    (iv) investment, or 
+    (v) incurring expenditure for the benefit of the person assisted, and 
   (b) may be given subject to terms and conditions determined by the Secretary of State.
 
 (4) Terms and conditions imposed by virtue of subsection (3)(b) may include terms and conditions as to repayment with or without interest.
@@ -71,9 +67,8 @@ Additional powers 215 Amendments of the Intelligence Services Act 1994
 (3) A national security notice may, in particular, require the operator to whom it is given—
 
   (a) to carry out any conduct, including the provision of services or facilities, for the purpose of—
-
-  (i) facilitating anything done by an intelligence service under any enactment other than this Act, or 
-(ii) dealing with an emergency (within the meaning of Part 1 of the Civil Contingencies Act 2004);
+    (i) facilitating anything done by an intelligence service under any enactment other than this Act, or 
+    (ii) dealing with an emergency (within the meaning of Part 1 of the Civil Contingencies Act 2004);
 
   (b) to provide services or facilities for the purpose of assisting an intelligence service to carry out its functions more securely or more effectively.
 
@@ -240,9 +235,8 @@ the Secretary of State must give that person notice of the variation or revocati
 
   (a) give the person concerned and the Secretary of State the opportunity to provide evidence, or make representations, to them before reaching their conclusions, and 
   (b) report their conclusions to—
-
-  (i) the person, and 
-(ii) the Secretary of State.
+    (i) the person, and 
+    (ii) the Secretary of State.
 
 (9) The Secretary of State may, after considering the conclusions of the Board and the Commissioner—
 
@@ -303,11 +297,9 @@ Entity data
 (3) “Entity data” means any data which—
 
   (a) is about—
-
-  (i) an entity,
-
-(ii) an association between a telecommunications service and an entity, or 
-(iii) an association between any part of a telecommunication system and an entity,
+    (i) an entity,
+    (ii) an association between a telecommunications service and an entity, or 
+    (iii) an association between any part of a telecommunication system and an entity,
 
   (b) consists of, or includes, data which identifies or describes the entity (whether or not by reference to the entity’s location), and 
   (c) is not events data.
@@ -320,19 +312,15 @@ Communications data
 telecommunications service or telecommunication system, means entity data or events data—
 
   (a) which is (or is to be or is capable of being) held or obtained by, or on behalf of, a telecommunications operator and—
-
-  (i) is about an entity to which a telecommunications service is provided and relates to the provision of the service,
-
-(ii) is comprised in, included as part of, attached to or logically associated with a communication (whether by the sender or otherwise) for the purposes of a telecommunication system by means of which the communication is being or may be transmitted, or 
-(iii) does not fall within sub-paragraph (i) or (ii) but does relate to the use of a telecommunications service or a telecommunication system,
+    (i) is about an entity to which a telecommunications service is provided and relates to the provision of the service,
+    (ii) is comprised in, included as part of, attached to or logically associated with a communication (whether by the sender or otherwise) for the purposes of a telecommunication system by means of which the communication is being or may be transmitted, or 
+    (iii) does not fall within sub-paragraph (i) or (ii) but does relate to the use of a telecommunications service or a telecommunication system,
 
   (b) which is available directly from a telecommunication system and falls within sub-paragraph (ii) of paragraph (a), or 
   (c) which—
-
-  (i) is (or is to be or is capable of being) held or obtained by, or on behalf of, a telecommunications operator,
-
-(ii) is about the architecture of a telecommunication system, and 
-(iii) is not about a specific person,
+    (i) is (or is to be or is capable of being) held or obtained by, or on behalf of, a telecommunications operator,
+    (ii) is about the architecture of a telecommunication system, and 
+    (iii) is not about a specific person,
 
 but does not include any content of a communication or anything which, in the absence of subsection (6)(b), would be content of a communication.
 
@@ -359,9 +347,8 @@ or
 
   (a) offers or provides a telecommunications service to persons in the United Kingdom, or 
   (b) controls or provides a telecommunication system which is (wholly or partly)—
-
-  (i) in the United Kingdom, or 
-(ii) controlled from the United Kingdom.
+    (i) in the United Kingdom, or 
+    (ii) controlled from the United Kingdom.
 
 (11) “Telecommunications service” means any service that consists in the provision of access to, and of facilities for making use of, any telecommunication system (whether or not one provided by the person providing the service).
 
@@ -698,8 +685,7 @@ transitional, transitory or saving provision.
   (g) section 211,
 
   (h) section 217,
-
-  (i) section 220(1), or 
+    (i) section 220(1), or 
   (j) paragraph 33 of Schedule 8,
 
 may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.

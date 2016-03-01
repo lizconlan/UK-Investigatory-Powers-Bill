@@ -191,17 +191,15 @@ For the power of the Scottish Ministers to issue a targeted examination warrant,
 
   (a) an application is made to the Secretary of State for a targeted equipment interference warrant, and 
   (b) the purpose of the warrant is to obtain—
-
-  (i) communications sent by, or intended for, a person who is a member of a relevant legislature, or 
-(ii) a member of a relevant legislature’s private information.
+    (i) communications sent by, or intended for, a person who is a member of a relevant legislature, or 
+    (ii) a member of a relevant legislature’s private information.
 
 (2) This section also applies where—
 
   (a) an application is made to the Secretary of State for a targeted examination warrant, and 
   (b) the purpose of the warrant is to authorise the selection for examination of protected material which consists of—
-
-  (i) communications sent by, or intended for, a person who is a member of a relevant legislature, or 
-(ii) a member of a relevant legislature’s private information.
+    (i) communications sent by, or intended for, a person who is a member of a relevant legislature, or 
+    (ii) a member of a relevant legislature’s private information.
 
 (3) Before deciding whether to issue the warrant, the Secretary of State must consult the Prime Minister.
 
@@ -279,18 +277,12 @@ relates to a matter in respect of which a designated customs official has functi
 
   (a) relates to the entitlement of one or more persons who are not nationals of the United Kingdom to enter, transit across, or be in, the United Kingdom (including conduct which relates to conditions or other controls on any such entitlement), or 
   (b) is undertaken for the purposes of or otherwise in relation to—
-
-  (i) the British Nationality Act 1981;
-
-(ii) the Hong Kong Act 1985;
-
-(iii) the Hong Kong (War Wives and Widows) Act 1996;
-
-(iv) the British Nationality (Hong Kong) Act 1997;
-
-  (v) the British Overseas Territories Act 2002;
-
-(vi) an instrument made under any of those Acts.
+    (i) the British Nationality Act 1981;
+    (ii) the Hong Kong Act 1985;
+    (iii) the Hong Kong (War Wives and Widows) Act 1996;
+    (iv) the British Nationality (Hong Kong) Act 1997;
+    (v) the British Overseas Territories Act 2002;
+    (vi) an instrument made under any of those Acts.
 
 (13) In this section—
 
@@ -381,17 +373,15 @@ the warrant—
   (a) anything done under the warrant before it ceases to have effect;
 
   (b) if anything is in the process of being done under the warrant when it ceases to have effect—
-
-  (i) anything done before that thing could be stopped, or 
-(ii) anything done that it is not reasonably practicable to stop.
+    (i) anything done before that thing could be stopped, or 
+    (ii) anything done that it is not reasonably practicable to stop.
 Additional safeguards 100 Items subject to legal privilege 
 (1) Subsections (2) and (3) apply if—
 
   (a) an application is made for a warrant under this Part, and 
   (b) the purpose, or one of the purposes, of the warrant is—
-
-  (i) in the case of a targeted equipment interference warrant, to authorise or require interference with equipment for the purpose of obtaining items subject to legal privilege, or 
-(ii) in the case of a targeted examination warrant, to authorise the selection of such items for examination.
+    (i) in the case of a targeted equipment interference warrant, to authorise or require interference with equipment for the purpose of obtaining items subject to legal privilege, or 
+    (ii) in the case of a targeted examination warrant, to authorise the selection of such items for examination.
 
 (2) The application must contain a statement that the purpose, or one of the purposes, of the warrant is to authorise or require interference with equipment for the purpose of obtaining items subject to legal privilege or (in the case of a targeted examination warrant) the selection for examination of items subject to legal privilege.
 
@@ -430,9 +420,8 @@ Further provision about warrants 101 Requirements which must be met by warrants
   (b) in the case of a warrant issued under section 93, to the Chief of Defence Intelligence;
 
   (c) in the case of a warrant issued under section 96 by a law enforcement chief (or by an appropriate delegate in relation to a law enforcement chief), to a person who—
-
-  (i) is an appropriate law enforcement officer in relation to the law enforcement chief, and 
-(ii) is named or described in the warrant.
+    (i) is an appropriate law enforcement officer in relation to the law enforcement chief, and 
+    (ii) is named or described in the warrant.
 
 (3) In the case of a targeted equipment interference warrant which relates to a matter described in the first column of the Table below, the warrant must include the details specified in the second column.
 Matter 	Details to be included in the warrant Equipment belonging to,
@@ -469,9 +458,8 @@ or a description of, as many of the persons or organisations as it is reasonably
   (a) in the case of an urgent warrant which has not been renewed, means the period ending with the fifth working day after the day on which the warrant was issued;
 
   (b) in any other case, means the period of 6 months beginning with—
-
-  (i) the day on which the warrant was issued, or 
-(ii) in the case of a warrant which has been renewed, the day after the day at the end of which the warrant would have ceased to have effect if it had not been renewed.
+    (i) the day on which the warrant was issued, or 
+    (ii) in the case of a warrant which has been renewed, the day after the day at the end of which the warrant would have ceased to have effect if it had not been renewed.
 
 (3) For the purposes of subsection (2)(a), a warrant is an “urgent warrant” if—
 
@@ -497,9 +485,8 @@ authorise the selection of protected material for examination in breach of the p
   (b) in the case of a warrant issued under section 92, a member of the Scottish Government;
 
   (c) in the case of a warrant issued under section 96 by a law enforcement chief or by an appropriate delegate in relation to the law enforcement chief, either—
-
-  (i) the law enforcement chief, or 
-(ii) if the warrant was issued by an appropriate delegate, that person.
+    (i) the law enforcement chief, or 
+    (ii) if the warrant was issued by an appropriate delegate, that person.
 
 (4) In subsection (2)(a), “relevant grounds” means—
 
@@ -561,15 +548,12 @@ and (2)), by including the details required in relation to that matter by sectio
 (6) The persons who may make modifications under this section of a warrant are (subject to subsection (7))—
 
   (a) in the case of a warrant issued by the Secretary of State under section 91 or 93—
-
-  (i) the Secretary of State,
-
-(ii) a senior official acting on behalf of the Secretary of State,
+    (i) the Secretary of State,
+    (ii) a senior official acting on behalf of the Secretary of State,
 
   (b) in the case of a warrant issued by the Scottish Ministers under section 92—
-
-  (i) a member of the Scottish Government, or 
-(ii) a senior official acting on behalf of the Scottish Ministers.
+    (i) a member of the Scottish Government, or 
+    (ii) a senior official acting on behalf of the Scottish Ministers.
 
 (7) Any of the following persons may also make modifications under this section of a warrant, but only where the person considers that there is an urgent need to make the modification—
 
@@ -582,14 +566,12 @@ Section 105 contains provision about the approval of modifications made in urgen
 (8) For the purposes of subsection (7)(b), a person holds a senior position in a public authority if—
 
   (a) in the case of any of the intelligence services—
-
-  (i) the person is a member of the Senior Civil Service or a member of the Senior Management Structure of Her Majesty’s Diplomatic Service, or 
-(ii) the person holds a position in the intelligence service of equivalent seniority to such a person;
+    (i) the person is a member of the Senior Civil Service or a member of the Senior Management Structure of Her Majesty’s Diplomatic Service, or 
+    (ii) the person holds a position in the intelligence service of equivalent seniority to such a person;
 
   (b) in the case of the Ministry of Defence—
-
-  (i) the person is a member of the Senior Civil Service, or 
-(ii) the person is of or above the rank of brigadier, commodore or air commodore.
+    (i) the person is a member of the Senior Civil Service, or 
+    (ii) the person is of or above the rank of brigadier, commodore or air commodore.
 
 (9) Sections 94 (Members of Parliament etc.) applies in relation to a decision to make a modification of a warrant issued under section 91 or 93 which is of a kind described in subsection (2)(a), (c) or (e) as it applies in relation to a decision to issue such a warrant; and accordingly where that section applies only the Secretary of State may make the modification.
 
@@ -632,9 +614,8 @@ Section 105 contains provision about the approval of modifications made in urgen
   (a) anything done under the warrant by virtue of the modification before the modification ceases to have effect;
 
   (b) if anything is in the process of being done under the warrant by virtue of the modification when the modification ceases to have effect—
-
-  (i) anything done before that thing could be stopped, or 
-(ii) anything done which it is not reasonably practicable to stop.
+    (i) anything done before that thing could be stopped, or 
+    (ii) anything done which it is not reasonably practicable to stop.
 106 Modification of warrants issued by law enforcement chiefs 
 (1) The provisions of a warrant issued under section 96 by a law enforcement chief, or by an appropriate delegate in relation to that chief, may be modified at any time by—
 
@@ -659,9 +640,8 @@ and (2)), by including the details required in relation to that matter by sectio
 (3) A modification may be made only if—
 
   (a) the person making the modification considers that—
-
-  (i) the warrant as modified continues to be necessary on any relevant grounds (see subsection (4)), and 
-(ii) the conduct authorised by the warrant as so modified is proportionate to what is sought to be achieved by that conduct,
+    (i) the warrant as modified continues to be necessary on any relevant grounds (see subsection (4)), and 
+    (ii) the conduct authorised by the warrant as so modified is proportionate to what is sought to be achieved by that conduct,
 and 
   (b) except where the person making the modification considers that there is an urgent need to make it, the decision to make the modification has been approved by a Judicial Commissioner.
 
@@ -712,9 +692,8 @@ and
   (a) anything done under the warrant by virtue of the modification before the modification ceases to have effect;
 
   (b) if anything is in the process of being done under the warrant by virtue of the modification when the modification ceases to have effect—
-
-  (i) anything done before that thing could be stopped, or 
-(ii) anything done which it is not reasonably practicable to stop.
+    (i) anything done before that thing could be stopped, or 
+    (ii) anything done which it is not reasonably practicable to stop.
 108 Cancellation of warrants 
 (1) Any of the appropriate persons may cancel a warrant issued under this Part at any time.
 
@@ -745,9 +724,8 @@ the person must cancel the warrant.
   (b) in the case of a warrant issued by the Scottish Ministers under section 92, a member of the Scottish Government or a senior official acting on behalf of the Scottish Ministers;
 
   (c) in the case of a warrant issued under section 96 by a law enforcement chief or by an appropriate delegate in relation to the law enforcement chief, either—
-
-  (i) the law enforcement chief, or 
-(ii) if the warrant was issued by an appropriate delegate, that person.
+    (i) the law enforcement chief, or 
+    (ii) if the warrant was issued by an appropriate delegate, that person.
 
 (5) Where a warrant is cancelled under this section, the person to whom the warrant is addressed must, so far as is reasonably practicable, secure that anything in the process of being done under the warrant stops as soon as possible.
 
@@ -976,14 +954,12 @@ subsection (9)(b), the arrangements made for the purpose of this section are not
 (4) Head 3 is—
 
   (a) a disclosure made—
-
-  (i) in contemplation of, or in connection with, any legal proceedings, and 
-(ii) for the purposes of those proceedings;
+    (i) in contemplation of, or in connection with, any legal proceedings, and 
+    (ii) for the purposes of those proceedings;
 
   (b) a disclosure made—
-
-  (i) by a professional legal adviser (“L”) to L’s client or a representative of L’s client, or 
-(ii) by L’s client, or by a representative of L’s client, to L,
+    (i) by a professional legal adviser (“L”) to L’s client or a representative of L’s client, or 
+    (ii) by L’s client, or by a representative of L’s client, to L,
 
 in connection with the giving, by L to L’s client, of advice about the effect of the provisions of this Part.
 
@@ -992,9 +968,8 @@ in connection with the giving, by L to L’s client, of advice about the effect 
 (6) Head 4 is—
 
   (a) a disclosure which—
-
-  (i) is made by a telecommunications operator in accordance with a requirement imposed by regulations made by the Secretary of State, and 
-(ii) relates to the number of warrants under this Part to which the operator has given effect or has been involved in giving effect;
+    (i) is made by a telecommunications operator in accordance with a requirement imposed by regulations made by the Secretary of State, and 
+    (ii) relates to the number of warrants under this Part to which the operator has given effect or has been involved in giving effect;
 
   (b) a disclosure of information that does not relate to any particular warrant under this Part but relates to such warrants in general.
 116 Offence of making unauthorised disclosure 
@@ -1006,23 +981,20 @@ in connection with the giving, by L to L’s client, of advice about the effect 
 (2) A person who is guilty of an offence under this section is liable—
 
   (a) on summary conviction in England and Wales—
-
-  (i) to imprisonment for a term not exceeding 12 months (or 6 months, if the offence was committed before the commencement of section 154(1) of the Criminal Justice Act 2003), or 
-(ii) to a fine,
+    (i) to imprisonment for a term not exceeding 12 months (or 6 months, if the offence was committed before the commencement of section 154(1) of the Criminal Justice Act 2003), or 
+    (ii) to a fine,
 
 or to both;
 
   (b) on summary conviction in Scotland—
-
-  (i) to imprisonment for a term not exceeding 12 months, or 
-(ii) to a fine not exceeding the statutory maximum,
+    (i) to imprisonment for a term not exceeding 12 months, or 
+    (ii) to a fine not exceeding the statutory maximum,
 
 or to both;
 
   (c) on summary conviction in Northern Ireland—
-
-  (i) to imprisonment for a term not exceeding 6 months, or 
-(ii) to a fine not exceeding the statutory maximum,
+    (i) to imprisonment for a term not exceeding 6 months, or 
+    (ii) to a fine not exceeding the statutory maximum,
 
 or to both;
 
@@ -1061,11 +1033,9 @@ or may, be interfered with),
   (b) any of the equipment which would, or may, be interfered with would,
 or may, be in the British Islands at some time while the interference is taking place, or 
   (c) a purpose of the interference is to obtain—
-
-  (i) communications sent by, or to, a person who is, or whom the law enforcement officer believes to be, for the time being in the British Islands,
-
-(ii) information relating to an individual who is, or whom the law enforcement officer believes to be, for the time being in the British Islands, or 
-(iii) equipment data which forms part of, or is connected with,
+    (i) communications sent by, or to, a person who is, or whom the law enforcement officer believes to be, for the time being in the British Islands,
+    (ii) information relating to an individual who is, or whom the law enforcement officer believes to be, for the time being in the British Islands, or 
+    (iii) equipment data which forms part of, or is connected with,
 communications or information falling with sub-paragraph (i)
 or (ii).
 
