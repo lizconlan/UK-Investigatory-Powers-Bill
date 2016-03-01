@@ -71,9 +71,9 @@ of monitoring or keeping a record of—
     (ii) any enactment not falling within sub-paragraph (i) that relates to interference with wireless telegraphy.
 
 (4) In this section—
-    “interference”, in relation to wireless telegraphy, has the same meaning as in the Wireless Telegraphy Act 2006 (see section 115(3) of that Act);
-    “OFCOM” means the Office of Communications established by section 1 of the Office of Communications Act 2002;
-    “wireless telegraphy” has the same meaning as in the Wireless Telegraphy Act 2006 (see section 116 of that Act).
+  “interference”, in relation to wireless telegraphy, has the same meaning as in the Wireless Telegraphy Act 2006 (see section 115(3) of that Act);
+  “OFCOM” means the Office of Communications established by section 1 of the Office of Communications Act 2002;
+  “wireless telegraphy” has the same meaning as in the Wireless Telegraphy Act 2006 (see section 116 of that Act).
 
 Interception taking place in certain institutions
 
@@ -113,18 +113,18 @@ The reference to section 2(5) of that Act is to that provision as applied by Art
   (b) section 284 of that Act (powers relating to the use of telephones by certain persons detained in hospital).
 
 (5) In this section—
-    “high security psychiatric services” has the same meaning as in section 4 of the National Health Service Act 2006;
-    “hospital premises” has the same meaning as in section 4(3) of that Act;
-    “state hospital” has the same meaning as in the National Health Service (Scotland) Act 1978.
+  “high security psychiatric services” has the same meaning as in section 4 of the National Health Service Act 2006;
+  “hospital premises” has the same meaning as in section 4(3) of that Act;
+  “state hospital” has the same meaning as in the National Health Service (Scotland) Act 1978.
 
 44 Interception in immigration detention facilities
 
 (1) Conduct taking place in immigration detention facilities is authorised by this section if it is conduct in exercise of any power conferred by or under relevant rules.
 
 (2) In this section—
-    “immigration detention facilities” means any removal centre, short-term holding facility or pre-departure accommodation;
-    “removal centre”, “short-term holding facility” and “pre-departure accommodation” have the meaning given by section 147 of the Immigration and Asylum Act 1999;
-    “relevant rules” means—
+  “immigration detention facilities” means any removal centre, short-term holding facility or pre-departure accommodation;
+  “removal centre”, “short-term holding facility” and “pre-departure accommodation” have the meaning given by section 147 of the Immigration and Asylum Act 1999;
+  “relevant rules” means—
     (a) in the case of a removal centre, rules made under section 153 of that Act;
     (b) in the case of a short-term holding facility, rules made under, or having effect by virtue of, section 157 of that Act;
     (c) in the case of pre-departure accommodation, rules made under, or having effect by virtue of, section 157A of that Act.

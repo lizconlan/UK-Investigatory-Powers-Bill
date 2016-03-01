@@ -171,7 +171,7 @@ Further and supplementary provision
   (b) any reference to a telecommunications service were a reference to a postal service,
   (c) any reference to a telecommunication system were a reference to a postal service,
   (d) in section 78(3), for paragraph (b) there were substituted—
-    “(b) in the case of communications data which does not fall within paragraph (a) above but does fall within paragraph (c) of the definition of “communications data” in section 224(3), the day on which the person concerned leaves the postal service concerned or (if earlier) the day on which the data is changed,”, and”
+  “(b) in the case of communications data which does not fall within paragraph (a) above but does fall within paragraph (c) of the definition of “communications data” in section 224(3), the day on which the person concerned leaves the postal service concerned or (if earlier) the day on which the data is changed,”, and”
   (e) in section 78(9), the words from “and this expression” to the end were omitted.
 
 86 Extra-territorial application of Part 4

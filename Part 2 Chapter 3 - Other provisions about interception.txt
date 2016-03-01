@@ -43,10 +43,10 @@ This is subject to subsection (9).
   “copy”, in relation to material obtained under a warrant, means any of the following (whether or not in documentary form)—
   (a) any copy, extract or summary of the material which identifies the material as having been obtained under the warrant, and (b) any record which—
     (i) refers to any interception or to the obtaining of any material, and (ii) is a record of the identities of the persons to or by whom the material was sent, or to whom the material relates, and “copied” is to be read accordingly;
-      “the issuing authority” means—
+  “the issuing authority” means—
         (a) the Secretary of State, in the case of warrants issued by the Secretary of State;
         (b) the Scottish Ministers, in the case of warrants issued by the Scottish Ministers;
-      “overseas authorities” means authorities of a country or territory outside the United Kingdom.
+  “overseas authorities” means authorities of a country or territory outside the United Kingdom.
 
 47 Safeguards relating to disclosure of material overseas
 
@@ -61,11 +61,11 @@ This is subject to subsection (9).
 (3) In subsection (2)(b) “prohibited disclosure” means a disclosure which, if made in the United Kingdom, would breach the prohibition in section 48(1).
 
 (4) In this section—
-    “copy” has the same meaning as in section 46;
-    “the issuing authority” means—
+  “copy” has the same meaning as in section 46;
+  “the issuing authority” means—
       (a) the Secretary of State, in the case of warrants issued by the Secretary of State;
       (b) the Scottish Ministers, in the case of warrants issued by the Scottish Ministers;
-    “overseas authorities” means authorities of a country or territory outside the United Kingdom.
+  “overseas authorities” means authorities of a country or territory outside the United Kingdom.
 
 48 Exclusion of matters from legal proceedings
 

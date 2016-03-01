@@ -36,8 +36,8 @@ means any content of communications intercepted by an interception authorised or
   (c) any conduct for obtaining related systems data from any postal operator or telecommunications operator.
 
 (6) For the purposes of subsection (5)(c)—
-    “related systems data”, in relation to a warrant, means systems data relating to a relevant communication or to the sender or recipient, or intended recipient, of a relevant communication (whether or not a person), and
-    “relevant communication”, in relation to a warrant, means—
+  “related systems data”, in relation to a warrant, means systems data relating to a relevant communication or to the sender or recipient, or intended recipient, of a relevant communication (whether or not a person), and
+  “relevant communication”, in relation to a warrant, means—
     (a) any communication intercepted in accordance with the warrant in the course of its transmission by means of a postal service or telecommunication system, or (b) any communication from which secondary data is obtained under the warrant.
 
 (7) For provision enabling the combination of targeted interception warrants with certain other warrants or authorisations (including targeted examination warrants), see Schedule 8.
@@ -502,8 +502,8 @@ or to include, communications falling within section 27(9)(a) or (b), the person
 (2) The person who made the modification must inform a designated senior official that it has been made.
 
 (3) In this section—
-    “designated senior official” means a senior official who has been designated by the Secretary of State or (in the case of warrants issued by the Scottish Ministers) the Scottish Ministers for the purposes of this section, and
-    “senior official” has the same meaning as in section 30.
+  “designated senior official” means a senior official who has been designated by the Secretary of State or (in the case of warrants issued by the Scottish Ministers) the Scottish Ministers for the purposes of this section, and
+  “senior official” has the same meaning as in section 30.
 
 (4) In addition, the Secretary of State or (in the case of a warrant issued by the Scottish Ministers) a member of the Scottish Government must be notified personally of the modification and the reasons for making it.
 
@@ -583,10 +583,9 @@ or to include, communications falling within section 27(9)(a) or (b), the person
 (7) If the Secretary of State, or a senior official acting on behalf of the Secretary of State, believes that the person, group or organisation named or described in the warrant as the interception subject is in the United Kingdom, that person must cancel the warrant under section 32.
 
 (8) In this section—
-    “the interception subject”, in relation to a warrant, means the person,
+  “the interception subject”, in relation to a warrant, means the person,
     group of persons or organisation about whose communications information is sought by the interception to which the warrant relates;
-
-    “senior official” means a member of the Senior Civil Service or a member of the Senior Management Structure of Her Majesty’s Diplomatic Service.
+  “senior official” means a member of the Senior Civil Service or a member of the Senior Management Structure of Her Majesty’s Diplomatic Service.
 
 Implementation of warrants
 
@@ -633,8 +632,8 @@ act through, or together with, such other persons as the intercepting authority 
 This is subject to subsection (4).
 
 (2) In this section—
-    “relevant operator” means a postal operator or a telecommunications operator;
-    “the intercepting authority” has the same meaning as in section 34.
+  “relevant operator” means a postal operator or a telecommunications operator;
+  “the intercepting authority” has the same meaning as in section 34.
 
 (3) Subsection (1) applies whether or not the relevant operator is in the United Kingdom.
 

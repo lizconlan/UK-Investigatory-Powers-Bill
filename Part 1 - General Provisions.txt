@@ -175,7 +175,7 @@ For the meaning of “postal data”, see section 224.
 (2) A request to which this section applies may not be made by or on behalf of a person in the United Kingdom to the competent authorities of a country or territory outside the United Kingdom unless a mutual assistance warrant has been issued under Chapter 1 of Part 2 authorising the making of the request.
 
 (3) In this section—
-    “EU mutual assistance instrument” means an EU instrument which—
+  “EU mutual assistance instrument” means an EU instrument which—
     (a) relates to the provision of mutual assistance in connection with, or in the form of, the interception of communications,
     (b) requires the issue of a warrant, order or equivalent instrument in cases in which assistance is given, and
     (c) is designated as an EU mutual assistance instrument by regulations made by the Secretary of State; “international mutual assistance agreement” means an international agreement which—
@@ -225,10 +225,10 @@ Abolition of powers to obtain communications data
     (ii) does not deal (whether alone or with other matters) specifically with postal operators or any class of postal operators.
 
 (6) In this section—
-    “power” includes part of a power,
-    “regulatory power” means any power to obtain information or documents (however expressed) which—
+  “power” includes part of a power,
+  “regulatory power” means any power to obtain information or documents (however expressed) which—
     (a) is conferred by or under an enactment other than this Act or the Regulation of Investigatory Powers Act 2000, and (b) is exercisable for the purpose of regulatory functions,
-    “relevant postal power” means any power to obtain information or documents (however expressed) which—
+  “relevant postal power” means any power to obtain information or documents (however expressed) which—
     (a) is conferred by or under an enactment other than this Act or the Regulation of Investigatory Powers Act 2000, and (b) is exercisable in connection with the conveyance or expected conveyance of any postal item into or out of the United Kingdom, and references to powers include duties (and references to enabling and exercising are to be read as including references to requiring and performing).
 
 Restrictions on interference with equipment
@@ -253,8 +253,8 @@ private information or equipment data, engage in conduct which could be authoris
   (b) there is no British Islands connection.
 
 (4) In this section—
-    “communications”, “private information” and “equipment data” have the same meaning as in Part 5 (see section 118);
-    “equipment interference warrant” means—
+  “communications”, “private information” and “equipment data” have the same meaning as in Part 5 (see section 118);
+  “equipment interference warrant” means—
     (a) a targeted equipment interference warrant under Part 5;
     (b) a bulk equipment interference warrant under Chapter 3 of Part 6.
 
