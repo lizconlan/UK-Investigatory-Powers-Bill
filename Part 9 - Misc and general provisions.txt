@@ -74,11 +74,9 @@ Additional powers 215 Amendments of the Intelligence Services Act 1994
   (b) requiring the person to take all the steps specified in the notice for the purpose of complying with those obligations.
 
 (2) In this section—
-
-    “applicable obligation”, in relation to a relevant operator of a particular description, means an obligation specified by the Secretary of State in regulations as an obligation that may be imposed on relevant operators,
+  “applicable obligation”, in relation to a relevant operator of a particular description, means an obligation specified by the Secretary of State in regulations as an obligation that may be imposed on relevant operators,
     or on relevant operators of that description;
-
-    “relevant operator” means—
+  “relevant operator” means—
     (a) a postal operator,
     (b) a telecommunications operator, or (c) a person who is proposing to become a postal operator or a telecommunications operator.
 
@@ -344,86 +342,56 @@ or to facilitate, a means of transmission from place to place of postal items co
 (8) “Public postal service” means a postal service that is offered or provided to the public, or a substantial section of the public, in any one or more parts of the United Kingdom.
 225 General definitions
 (1) In this Act—
-
-    “apparatus” includes any equipment, machinery or device (whether physical or logical) and any wire or cable,
-
-    “civil proceedings” means any proceedings in or before any court or tribunal that are not criminal proceedings,
-
-    “crime” means conduct which—
+  “apparatus” includes any equipment, machinery or device (whether physical or logical) and any wire or cable,
+  “civil proceedings” means any proceedings in or before any court or tribunal that are not criminal proceedings,
+  “crime” means conduct which—
     (a) constitutes one or more criminal offences, or (b) is, or corresponds to, any conduct which, if it all took place in any one part of the United Kingdom, would constitute one or more criminal offences,
-
-    “criminal proceedings” includes proceedings before a court in respect of a service offence within the meaning of the Armed Forces Act 2006 (and references to criminal prosecutions are to be read accordingly),
-
-    “data” includes data which is not electronic data and any information (whether or not electronic),
-
-    “destroy”, in relation to electronic data, means delete the data in such a way as to make access to the data impossible (and related expressions are to be read accordingly),
-
-    “enactment” means an enactment whenever passed or made; and includes—
+  “criminal proceedings” includes proceedings before a court in respect of a service offence within the meaning of the Armed Forces Act 2006 (and references to criminal prosecutions are to be read accordingly),
+  “data” includes data which is not electronic data and any information (whether or not electronic),
+  “destroy”, in relation to electronic data, means delete the data in such a way as to make access to the data impossible (and related expressions are to be read accordingly),
+  “enactment” means an enactment whenever passed or made; and includes—
     (a) an enactment contained in subordinate legislation within the meaning of the Interpretation Act 1978,
     (b) an enactment contained in, or in an instrument made under, an Act of the Scottish Parliament,
     (c) an enactment contained in, or in an instrument made under, a Measure or Act of the National Assembly for Wales, and (d) an enactment contained in, or in an instrument made under,
     Northern Ireland legislation,
-
-    “enhanced affirmative procedure” is to be read in accordance with section 229,
-
-    “functions” includes powers and duties,
-
-    “GCHQ” has the same meaning as in the Intelligence Services Act 1994,
-
-    “head”, in relation to an intelligence service, means—
+  “enhanced affirmative procedure” is to be read in accordance with section 229,
+  “functions” includes powers and duties,
+  “GCHQ” has the same meaning as in the Intelligence Services Act 1994,
+  “head”, in relation to an intelligence service, means—
     (a) in relation to the Security Service, the Director-General,
     (b) in relation to the Secret Intelligence Service, the Chief, and (c) in relation to GCHQ, the Director,
-
-    “Her Majesty’s forces” has the same meaning as in the Armed Forces Act 2006,
-
-    “identifying data” has the meaning given by subsection (2),
-
-    “intelligence service” means the Security Service, the Secret Intelligence Service or GCHQ,
-
-    “the Investigatory Powers Commissioner” means the person appointed under section 194(1)(a) (and the expression is also to be read in accordance with section 194(8)(b)),
-
-    “the Investigatory Powers Tribunal” means the tribunal established under section 65 of the Regulation of Investigatory Powers Act 2000,
-
-    “items subject to legal privilege”—
+  “Her Majesty’s forces” has the same meaning as in the Armed Forces Act 2006,
+  “identifying data” has the meaning given by subsection (2),
+  “intelligence service” means the Security Service, the Secret Intelligence Service or GCHQ,
+  “the Investigatory Powers Commissioner” means the person appointed under section 194(1)(a) (and the expression is also to be read in accordance with section 194(8)(b)),
+  “the Investigatory Powers Tribunal” means the tribunal established under section 65 of the Regulation of Investigatory Powers Act 2000,
+  “items subject to legal privilege”—
     (a) in relation to England and Wales, has the same meaning as in the Police and Criminal Evidence Act 1984 (see section 10 of that Act),
     (b) in relation to Scotland, means—
     (i) communications between a professional legal adviser and the adviser’s client, or (ii) communications made in connection with, or in contemplation of, legal proceedings and for the purposes of those proceedings,
 
     which would, by virtue of any rule of law relating to the confidentiality of communications, be protected in legal proceedings from disclosure, and (c) in relation to Northern Ireland, has the same meaning as in the Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989/1341 (N.I. 12)S.I. 1989/1341 (N.I. 12)) (see Article 12 of that Order),
-
-    “Judicial Commissioner” means a person appointed under section 194(1)(a) or (b) (and the expression is therefore to be read in accordance with section 194(8)(a)),
-
-    “legal proceedings” means—
+  “Judicial Commissioner” means a person appointed under section 194(1)(a) or (b) (and the expression is therefore to be read in accordance with section 194(8)(a)),
+  “legal proceedings” means—
     (a) civil or criminal proceedings in or before a court or tribunal, or (b) proceedings before an officer in respect of a service offence within the meaning of the Armed Forces Act 2006,
-
-    “modify” includes amend, repeal or revoke (and related expressions are to be read accordingly),
-
-    “person” (other than in Parts 2 and 5) includes an organisation and any association or combination of persons,
-
-    “person holding office under the Crown” includes any servant of the Crown and any member of Her Majesty’s forces,
-
-    “primary legislation” means—
+  “modify” includes amend, repeal or revoke (and related expressions are to be read accordingly),
+  “person” (other than in Parts 2 and 5) includes an organisation and any association or combination of persons,
+  “person holding office under the Crown” includes any servant of the Crown and any member of Her Majesty’s forces,
+  “primary legislation” means—
     (a) an Act of Parliament,
     (b) an Act of the Scottish Parliament,
     (c) a Measure or Act of the National Assembly for Wales, or (d) Northern Ireland legislation,
-
-    “public authority” means a public authority within the meaning of section 6 of the Human Rights Act 1998, other than a court or tribunal,
-
-    “serious crime” means crime where—
+  “public authority” means a public authority within the meaning of section 6 of the Human Rights Act 1998, other than a court or tribunal,
+  “serious crime” means crime where—
     (a) the offence, or one of the offences, which is or would be constituted by the conduct concerned is an offence for which a person who has reached the age of 18 (or, in relation to Scotland or Northern Ireland, 21) and has no previous convictions could reasonably be expected to be sentenced to imprisonment for a term of 3 years or more, or (b) the conduct involves the use of violence, results in substantial financial gain or is conduct by a large number of persons in pursuit of a common purpose,
-
-    “specified”, in relation to an authorisation, warrant, notice or regulations,
+  “specified”, in relation to an authorisation, warrant, notice or regulations,
     means specified or described in the authorisation, warrant, notice or (as the case may be) regulations (and “specify” is to be read accordingly),
-
-    “subordinate legislation” means—
+  “subordinate legislation” means—
     (a) subordinate legislation within the meaning of the Interpretation Act 1978, or (b) an instrument made under an Act of the Scottish Parliament,
     Northern Ireland legislation or a Measure or Act of the National Assembly for Wales,
-
-    “systems data” has the meaning given by subsection (4),
-
-    “the Technical Advisory Board” means the Board provided for by section 211,
-
-    “working day” means a day other than a Saturday, a Sunday, Christmas Day, Good Friday or a bank holiday under the Banking and Financial Dealings Act 1971 in any part of the United Kingdom.
+  “systems data” has the meaning given by subsection (4),
+  “the Technical Advisory Board” means the Board provided for by section 211,
+  “working day” means a day other than a Saturday, a Sunday, Christmas Day, Good Friday or a bank holiday under the Banking and Financial Dealings Act 1971 in any part of the United Kingdom.
 
 (2) In this Act “identifying data” means—
   (a) data which may be used to identify, or assist in identifying, any person,
@@ -523,10 +491,8 @@ Supplementary provision 227 Offences by bodies corporate etc.
 the senior officer or person (as well as the body corporate or partnership) is guilty of the offence and liable to be proceeded against and punished accordingly.
 
 (3) In this section—
-
-    “director”, in relation to a body corporate whose affairs are managed by its members, means a member of the body corporate,
-
-    “senior officer” means—
+  “director”, in relation to a body corporate whose affairs are managed by its members, means a member of the body corporate,
+  “senior officer” means—
     (a) in relation to a body corporate, a director, manager, secretary or other similar officer of the body corporate, and (b) in relation to a Scottish partnership, a partner in the partnership.
 
 228 Regulations

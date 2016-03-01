@@ -24,9 +24,7 @@ of intercepted content or secondary data obtained under the warrant;
   (c) any conduct for obtaining related systems data from any telecommunications operator.
 
 (6) For the purposes of subsection (5)(c)—
-
-    “related systems data”, in relation to a warrant, means systems data relating to a relevant communication or to the sender or recipient, or intended recipient, of a relevant communication (whether or not a person), and
-    “relevant communication”, in relation to a warrant, means—
+  “related systems data”, in relation to a warrant, means systems data relating to a relevant communication or to the sender or recipient, or intended recipient, of a relevant communication (whether or not a person), and  “relevant communication”, in relation to a warrant, means—
     (a) any communication intercepted in accordance with the warrant in the course of its transmission by means of a telecommunication system, or (b) any communication from which secondary data is obtained under the warrant.
 
 120 Obtaining secondary data
@@ -289,14 +287,12 @@ This is subject to subsection (8).
 (8) To the extent that the requirements of subsections (2) and (5) relate to any of the material mentioned in subsection (7)(a), or to the copy mentioned in subsection (7)(b), the arrangements made for the purposes of this section are not required to secure that those requirements are met (see instead section 133).
 
 (9) In this section—
-
-    “copy”, in relation to material obtained under a warrant, means any of the following (whether or not in documentary form)—
+  “copy”, in relation to material obtained under a warrant, means any of the following (whether or not in documentary form)—
     (a) any copy, extract or summary of the material which identifies the material as having been obtained under the warrant, and (b) any record which—
     (i) refers to any interception or to the obtaining of any material, and (ii) is a record of the identities of the persons to or by whom the material was sent, or to whom the material relates,
 
     and “copied” is to be read accordingly;
-
-    “overseas authorities” means authorities of a country or territory outside the United Kingdom.
+  “overseas authorities” means authorities of a country or territory outside the United Kingdom.
 
 133 Safeguards relating to disclosure of material overseas
 (1) The Secretary of State must ensure, in relation to every bulk interception warrant, that arrangements are in force for securing that—
@@ -312,10 +308,8 @@ as the Secretary of State considers appropriate, in relation to any of the mater
 (3) In subsection (2)(b) “prohibited disclosure” means a disclosure which, if made in the United Kingdom, would breach the prohibition in section 48(1) (see section 136).
 
 (4) In this section—
-
-    “copy” has the same meaning as in section 132;
-
-    “overseas authorities” means authorities of a country or territory outside the United Kingdom.
+  “copy” has the same meaning as in section 132;
+  “overseas authorities” means authorities of a country or territory outside the United Kingdom.
 
 134 Safeguards relating to examination of material
 (1) For the purposes of section 132 the requirements of this section are met in relation to the intercepted content and secondary data obtained under a warrant if—
@@ -351,11 +345,9 @@ It does not matter for the purposes of this subsection whether the identity of t
   (b) a belief by the person to whom the warrant is addressed that the individual was outside the British Islands was in fact mistaken.
 
 (7) In subsection (5)—
-
-    “senior officer”, in relation to a warrant addressed to the head of an intelligence service, means a member of the intelligence service who—
+  “senior officer”, in relation to a warrant addressed to the head of an intelligence service, means a member of the intelligence service who—
     (a) is a member of the Senior Civil Service or a member of the Senior Management Structure of Her Majesty’s Diplomatic Service, or (b) holds a position in the intelligence service of equivalent seniority to such a member;
-
-    “the permitted period” means the period ending with the fifth working day after the time mentioned in subsection (5)(b).
+  “the permitted period” means the period ending with the fifth working day after the time mentioned in subsection (5)(b).
 
 (8) In a case where the selection of intercepted content for examination is authorised by subsection (5), the person to whom the warrant is addressed must notify the Secretary of State that the selection is being carried out.
 135 Additional safeguards for items subject to legal privilege
@@ -381,24 +373,16 @@ include specific arrangements for the handling, retention, use and destruction o
 (2) Sections 49 to 51 (duty not to make unauthorised disclosures) apply in relation to bulk interception warrants as they apply in relation to targeted interception warrants, but as if the reference in section 50(2)(c) to a requirement for disclosure imposed by virtue of section 34(5) were a reference to such a requirement imposed by virtue of section 131(4).
 Interpretation 137 Chapter 1: interpretation
 (1) In this Chapter—
-
-    “intercepted content”, in relation to a bulk interception warrant, means any content of communications intercepted by an interception authorised or required by the warrant;
-
-    “overseas-related communications” has the meaning given by section 119;
-
-    “secondary data” has the meaning given by section 120, and references to obtaining secondary data from a communication are to be read in accordance with that section;
-
-    “senior official” means a member of the Senior Civil Service or a member of the Senior Management Structure of Her Majesty’s Diplomatic Service;
-
-    “the specified operational purposes” has the meaning given by section 125(6).
+  “intercepted content”, in relation to a bulk interception warrant, means any content of communications intercepted by an interception authorised or required by the warrant;
+  “overseas-related communications” has the meaning given by section 119;
+  “secondary data” has the meaning given by section 120, and references to obtaining secondary data from a communication are to be read in accordance with that section;
+  “senior official” means a member of the Senior Civil Service or a member of the Senior Management Structure of Her Majesty’s Diplomatic Service;
+  “the specified operational purposes” has the meaning given by section 125(6).
 
 (2) See also—
-
-    section 223 (telecommunications definitions),
-
-    section 225 (general definitions),
-
-    section 226 (index of defined expressions).
+  section 223 (telecommunications definitions),
+  section 225 (general definitions),
+  section 226 (index of defined expressions).
 
 CHAPTER 2 Bulk acquisition warrants Bulk acquisition warrants 138 Power to issue bulk acquisition warrants
 (1) The Secretary of State may, on an application made by or on behalf of the head of an intelligence service, issue a bulk acquisition warrant if—
@@ -670,14 +654,12 @@ for securing that every copy made of any of that data is stored, for so long as 
 (9) But the Secretary of State must instead ensure that arrangements are in force for securing that communications data obtained under a bulk acquisition warrant, or any copy of such data, is handed over or given to an overseas authority only if the Secretary of State considers that requirements corresponding to the requirements of subsections (2) and (5) will apply, to such extent (if any) as the Secretary of State considers appropriate, in relation to such data or copy.
 
 (10) In this section—
-
-    “copy”, in relation to communications data obtained under a warrant,
+  “copy”, in relation to communications data obtained under a warrant,
     means any of the following (whether or not in documentary form)—
     (a) any copy, extract or summary of the data which identifies the data as having been obtained under the warrant, and (b) any record referring to the obtaining of the data which is a record of the identities of the persons to whom the data relates,
 
     and “copied” is to be read accordingly,
-
-    “overseas authorities” means authorities of a country or territory outside
+  “overseas authorities” means authorities of a country or territory outside
     the United Kingdom.
 
 151 Safeguards relating to examination of data
@@ -716,21 +698,15 @@ or to both;
   (d) on conviction on indictment, to imprisonment for a term not exceeding 2 years or to a fine, or to both.
 153 Chapter 2: interpretation
 (1) In this Chapter—
-
-    “communications data” does not include communications data within the meaning given by section 224(3),
-
-    “senior official” means—
+  “communications data” does not include communications data within the meaning given by section 224(3),
+  “senior official” means—
     (a) a member of the Senior Civil Service, or (b) a member of the Senior Management Structure of Her Majesty’s Diplomatic Service,
-
-    “the specified operational purposes” has the meaning given by section 141(6).
+  “the specified operational purposes” has the meaning given by section 141(6).
 
 (2) See also—
-
-    section 223 (telecommunications definitions),
-
-    section 225 (general definitions),
-
-    section 226 (index of defined expressions).
+  section 223 (telecommunications definitions),
+  section 225 (general definitions),
+  section 226 (index of defined expressions).
 
 CHAPTER 3 Bulk equipment interference warrants Bulk equipment interference warrants 154 Bulk equipment interference warrants: general
 (1) For the purposes of this Act, a warrant is “bulk equipment interference warrant” if—
@@ -745,11 +721,9 @@ CHAPTER 3 Bulk equipment interference warrants Bulk equipment interference warra
     (iii) overseas-related equipment data.
 
 (2) In this Chapter—
-
-    “overseas-related communications” means—
+  “overseas-related communications” means—
     (a) communications sent by individuals who are outside the British Islands, or (b) communications received by individuals who are outside the British Islands;
-
-    “overseas-related information” means information of individuals who are outside the British Islands.
+  “overseas-related information” means information of individuals who are outside the British Islands.
 
 (3) For the purpose of this Chapter, equipment data is “overseas-related equipment data” if—
   (a) it forms part of, or is connected with, overseas-related communications or overseas-related information;
@@ -1069,13 +1043,11 @@ copy made of any of that material is stored, for so long as it is retained, in a
 (8) To the extent that the requirements of subsections (2) and (5) relate to any of the material mentioned in subsection (7)(a), or to the copy mentioned in subsection (7)(b), the arrangements made for the purpose of this section are not required to secure that those requirements are met (see instead section 169).
 
 (9) In this section—
-
-    “copy”, in relation to any material obtained under a warrant, means any of the following (whether or not in documentary form)—
+  “copy”, in relation to any material obtained under a warrant, means any of the following (whether or not in documentary form)—
     (a) any copy, extract or summary of the material which identifies the material as having been obtained under the warrant, and (b) any record which is a record of the identities of persons who owned, used or were in possession of the equipment which was interfered with to obtain that material,
 
     and “copied” is to be read accordingly;
-
-    “overseas authorities” means authorities of a country or territory outside the United Kingdom.
+  “overseas authorities” means authorities of a country or territory outside the United Kingdom.
 
 169 Safeguards relating to disclosure of material or data overseas
 (1) The Secretary of State must ensure, in relation to every bulk equipment interference warrant, that arrangements are in force for securing that—
@@ -1085,10 +1057,8 @@ copy made of any of that material is stored, for so long as it is retained, in a
 (2) The requirements of this subsection are met in the case of a warrant if it appears to the Secretary of State that requirements corresponding to the requirements of section 168(2) and (5) (“the relevant requirements”) will apply, to such extent (if any) as the Secretary of State considers appropriate, in relation to any of the material which is handed over, or any copy of which is given, to the authorities in question.
 
 (3) In this section—
-
-    “copy” has the same meaning as in section 168;
-
-    “overseas authorities” means authorities of a country or territory outside the United Kingdom.
+  “copy” has the same meaning as in section 168;
+  “overseas authorities” means authorities of a country or territory outside the United Kingdom.
 
 170 Safeguards relating to examination of material etc.
 
@@ -1126,11 +1096,9 @@ the relevant material for examination would breach the prohibition in subsection
   (b) a belief by the person to whom the warrant is addressed that the individual was outside the British Islands was in fact mistaken.
 
 (7) In subsection (5)—
-
-    “senior officer”, in relation to a warrant addressed to the head of an intelligence service, means a member of the intelligence service who—
+  “senior officer”, in relation to a warrant addressed to the head of an intelligence service, means a member of the intelligence service who—
     (a) is a member of the Senior Civil Service or a member of the Senior Management Structure of Her Majesty’s Diplomatic Service, or (b) holds a position in the intelligence service of equivalent seniority to such a member;
-
-    “the permitted period” means the period ending with the fifth working day after the time permitted in subsection (5)(b).
+  “the permitted period” means the period ending with the fifth working day after the time permitted in subsection (5)(b).
 
 (8) In a case where the selection of protected material for examination is authorised by subsection (5), the person to whom the warrant is addressed must notify the Secretary of State that the selection is being carried out.
 
@@ -1160,24 +1128,15 @@ Sections 114 to 116 (duty not to make unauthorised disclosures) apply in relatio
 were a reference to such a requirement imposed by virtue of section 167(4).
 Interpretation 173 Chapter 3: interpretation
 (1) In this Chapter—
-
-    “communication” includes—
+  “communication” includes—
     (a) anything comprising speech, music, sounds, visual images or data of any description, and (b) signals serving either for the impartation of anything between persons, between a person and a thing or between things or for the actuation or control of any apparatus;
-
-    “equipment” means equipment producing electromagnetic, acoustic or other emissions or any device capable of being used in connection with such equipment;
-
-    “equipment data” has the meaning given by section 155;
-
-    “private information” includes information relating to a person’s private or family life;
-
-    “senior official” means a member of the Senior Civil Service or a member of the Senior Management Structure of Her Majesty’s Diplomatic Service;
-
-    “the specified operational purposes” has the meaning given by section 161(7).
+  “equipment” means equipment producing electromagnetic, acoustic or other emissions or any device capable of being used in connection with such equipment;
+  “equipment data” has the meaning given by section 155;
+  “private information” includes information relating to a person’s private or family life;
+  “senior official” means a member of the Senior Civil Service or a member of the Senior Management Structure of Her Majesty’s Diplomatic Service;
+  “the specified operational purposes” has the meaning given by section 161(7).
 
 (2) See also—
-
-    section 223 (telecommunications definitions);
-
-    section 225 (general definitions);
-
-    section 226 (index of defined expressions).
+  section 223 (telecommunications definitions);
+  section 225 (general definitions);
+  section 226 (index of defined expressions).

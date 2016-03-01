@@ -368,15 +368,10 @@ and
   (b) applied in relation to the retention, examination, disclosure or other use of the bulk personal dataset immediately before the giving of a direction under subsection (3).
 193 Interpretation of Part
 (1) In this Part—
-
-    “class BPD warrant” has the meaning given by section 175(3)(a);
-
-    “specific BPD warrant” has the meaning given by section 175(3)(b);
-
-    “senior official” means a member of the Senior Civil Service or a member of the Senior Management Structure of Her Majesty’s Diplomatic Service.
+  “class BPD warrant” has the meaning given by section 175(3)(a);
+  “specific BPD warrant” has the meaning given by section 175(3)(b);
+  “senior official” means a member of the Senior Civil Service or a member of the Senior Management Structure of Her Majesty’s Diplomatic Service.
 
 (2) See also—
-
-    section 225 (general definitions),
-
-    section 226 (index of defined expressions).
+  section 225 (general definitions),
+  section 226 (index of defined expressions).
