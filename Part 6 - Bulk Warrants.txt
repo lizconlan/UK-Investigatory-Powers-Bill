@@ -2,35 +2,25 @@ Part 6 Bulk warrants CHAPTER 1 Bulk interception warrants Bulk interception warr
 (1) For the purposes of this Act a “bulk interception warrant” is a warrant issued under this Chapter which meets conditions A and B.
 
 (2) Condition A is that the main purpose of the warrant is one or more of the following—
-
   (a) the interception of overseas-related communications (see subsection (3));
-
   (b) the obtaining of secondary data from such communications (see section 120).
 
 (3) In this Chapter “overseas-related communications” means—
-
   (a) communications sent by individuals who are outside the British Islands, or
   (b) communications received by individuals who are outside the British Islands.
 
 (4) Condition B is that the warrant authorises or requires the person to whom it is addressed to secure, by any conduct described in the warrant, any one or more of the following activities—
-
   (a) the interception, in the course of their transmission by means of a telecommunication system, of communications described in the warrant;
-
   (b) the obtaining of secondary data from communications transmitted by means of such a system and described in the warrant;
-
   (c) the selection for examination, in any manner described in the warrant,
 of intercepted content or secondary data obtained under the warrant;
-
   (d) the disclosure, in any manner described in the warrant, of anything obtained under the warrant to the person to whom the warrant is addressed or to any person acting on that person’s behalf.
 
 (5) A bulk interception warrant also authorises the following conduct (in addition to the conduct described in the warrant)—
-
   (a) any conduct which it is necessary to undertake in order to do what is expressly authorised or required by the warrant, including—
     (i) the interception of communications not described in the warrant, and
     (ii) conduct for obtaining secondary data from such communications;
-
   (b) conduct by any person which is conduct in pursuance of a requirement imposed by or on behalf of the person to whom the warrant is addressed to be provided with assistance in giving effect to the warrant;
-
   (c) any conduct for obtaining related systems data from any telecommunications operator.
 
 (6) For the purposes of subsection (5)(c)—
@@ -43,7 +33,6 @@ of intercepted content or secondary data obtained under the warrant;
 (1) This section has effect for the purposes of this Chapter.
 
 (2) References to obtaining secondary data from a communication transmitted by means of a telecommunication system are references to obtaining such data—
-
   (a) while the communication is being transmitted, or
   (b) at any time when the communication is stored in or by the system (whether before or after its transmission),
 
@@ -55,32 +44,24 @@ and references to secondary data obtained under a bulk interception warrant are 
 included as part of, attached to or logically associated with the communication (whether by the sender or otherwise).
 
 (5) The data falling within this subsection is identifying data which—
-
   (a) is comprised in, included as part of, attached to or logically associated with the communication (whether by the sender or otherwise),
-
   (b) is capable of being logically separated from the remainder of the communication, and
   (c) if it were so separated, would not reveal anything of what might reasonably be considered to be the meaning (if any) of the communication, disregarding any meaning arising from the fact of the communication or from any data relating to the transmission of the communication.
 
 (6) For the meaning of “systems data” and “identifying data”, see section 225.
 121 Power to issue bulk interception warrants
 (1) The Secretary of State may, on an application made by or on behalf of the head of an intelligence service, issue a bulk interception warrant if—
-
   (a) the Secretary of State considers that the main purpose of the warrant is one or more of the following—
     (i) the interception of overseas-related communications, and
     (ii) the obtaining of secondary data from such communications,
-
   (b) the Secretary of State considers that the warrant is necessary—
     (i) in the interests of national security, or
     (ii) on that ground and on any other grounds falling within subsection (2),
-
   (c) the Secretary of State considers that the conduct authorised by the warrant is proportionate to what is sought to be achieved by that conduct,
-
   (d) the Secretary of State considers that—
     (i) each of the specified operational purposes (see section 125) is a purpose for which the examination of intercepted content or secondary data obtained under the warrant is or may be necessary, and
     (ii) the examination of intercepted content or secondary data for each such purpose is necessary on any of the grounds on which the Secretary of State considers the warrant to be necessary,
-
   (e) the Secretary of State considers that satisfactory arrangements made for the purposes of sections 132 and 133 (safeguards relating to disclosure etc.) are in force in relation to the warrant,
-
   (f) in a case where the Secretary of State considers that a telecommunications operator outside the United Kingdom is likely to
 be required to provide assistance in giving effect to the warrant if it is issued, the Secretary of State has complied with section 122, and
   (g) the decision to issue the warrant has been approved by a Judicial Commissioner.
@@ -88,7 +69,6 @@ be required to provide assistance in giving effect to the warrant if it is issue
 For the meaning of “head of an intelligence service”, see section 225.
 
 (2) A warrant is necessary on grounds falling within this subsection if it is necessary—
-
   (a) for the purpose of preventing or detecting serious crime, or
   (b) in the interests of the economic well-being of the United Kingdom so far as those interests are also relevant to the interests of national security (but see subsection (3)).
 
@@ -101,7 +81,6 @@ For the meaning of “head of an intelligence service”, see section 225.
 (6) An application for the issue of a bulk interception warrant may only be made on behalf of the head of an intelligence service by a person holding office under the Crown.
 122 Additional requirements in respect of warrants affecting overseas operators
 (1) This section applies where—
-
   (a) an application for a bulk interception warrant has been made, and
   (b) the Secretary of State considers that a telecommunications operator outside the United Kingdom is likely to be required to provide assistance in giving effect to the warrant if it is issued.
 
@@ -109,23 +88,16 @@ For the meaning of “head of an intelligence service”, see section 225.
 
 (3) Before issuing the warrant, the Secretary of State must, among other matters,
 take into account—
-
   (a) the likely benefits of the warrant,
-
   (b) the likely number of users (if known) of any telecommunications service which is provided by the operator and to which the warrant relates,
-
   (c) the technical feasibility of complying with any requirement that may be imposed on the operator to provide assistance in giving effect to the warrant,
-
   (d) the likely cost of complying with any such requirement, and
   (e) any other effect of the warrant on the operator.
 123 Approval of warrants by Judicial Commissioners
 (1) In deciding whether to approve a decision to issue a warrant under section 121,
 a Judicial Commissioner must review the Secretary of State’s conclusions as to the following matters—
-
   (a) whether the warrant is necessary as mentioned in subsection (1)(b) of that section,
-
   (b) whether the conduct that would be authorised by the warrant is proportionate to what is sought to be achieved by that conduct,
-
   (c) whether—
     (i) each of the specified operational purposes (see section 125) is a purpose for which the examination of intercepted content or secondary data obtained under the warrant is or may be necessary, and
     (ii) the examination of intercepted content or secondary data for each such purpose is necessary as mentioned in section 121(1)(d)(ii), and
@@ -154,7 +126,6 @@ at the time the warrant is issued, the person to whom it is addressed considers 
 (6) In this Chapter “the specified operational purposes”, in relation to a bulk interception warrant, means the operational purposes specified in the warrant in accordance with this section.
 Duration, modification and cancellation of warrants 126 Duration of warrants
 (1) A bulk interception warrant (unless already cancelled) ceases to have effect at the end of the period of 6 months beginning with—
-
   (a) the day on which the warrant was issued, or
   (b) in the case of a warrant that has been renewed, the day after the day at the end of which the warrant would have ceased to have effect if it had not been renewed.
 
@@ -166,13 +137,10 @@ at any time before it would otherwise cease to have effect, by an instrument iss
 This is subject to subsection (5).
 
 (2) The renewal conditions are—
-
   (a) that the Secretary of State considers that the warrant continues to be necessary—
     (i) in the interests of national security, or
     (ii) on that ground and on any other grounds falling within section 121(2),
-
   (b) that the Secretary of State considers that the conduct that would be authorised by the renewed warrant continues to be proportionate to what is sought to be achieved by that conduct,
-
   (c) that the Secretary of State considers that—
     (i) each of the specified operational purposes (see section 125) is a purpose for which the examination of intercepted content or secondary data obtained under the warrant continues to be, or may be, necessary, and
     (ii) the examination of intercepted content or secondary data for each such purpose continues to be necessary on any of the grounds on which the Secretary of State considers that the warrant continues to be necessary, and
@@ -185,9 +153,7 @@ This is subject to subsection (5).
 This is subject to subsection (5).
 
 (5) In the case of the renewal of a bulk interception warrant that has been modified so that it no longer authorises or requires the interception of communications or the obtaining of secondary data—
-
   (a) the renewal condition in subsection (2)(a) is to be disregarded,
-
   (b) the reference in subsection (2)(c)(ii) to the grounds on which the Secretary of State considers the warrant to be necessary is to be read as a reference to any grounds falling within section 121(1)(b) or (2), and
   (c) section 123 has effect as if—
     (i) paragraph (a) of subsection (1) were omitted, and
@@ -196,19 +162,16 @@ This is subject to subsection (5).
 (1) The provisions of a bulk interception warrant may be modified at any time by an instrument issued by the person making the modification.
 
 (2) The only modifications that may be made under this section are—
-
   (a) adding, varying or removing any operational purpose specified in the warrant as a purpose for which any intercepted content or secondary data obtained under the warrant may be selected for examination, and
   (b) providing that the warrant no longer authorises or requires—
     (i) the interception of any communications in the course of their transmission by means of a telecommunication system, or
     (ii) the obtaining of any secondary data from communications transmitted by means of such a system.
 
 (3) In this section—
-
   (a) a modification adding or varying any operational purpose as mentioned in paragraph (a) of subsection (2) is referred to as a “major modification”, and
   (b) any other modification within that subsection is referred to as a “minor modification”.
 
 (4) A major modification—
-
   (a) must be made by the Secretary of State, and
   (b) may be made only if the Secretary of State considers that it is necessary on any of the grounds on which the Secretary of State considers the warrant to be necessary (see section 121(1)(b)).
 
@@ -219,7 +182,6 @@ This is subject to subsection (5).
 Section 129 contains provision about the approval of major modifications made in urgent cases.
 
 (7) A minor modification may be made by—
-
   (a) the Secretary of State, or
   (b) a senior official acting on behalf of the Secretary of State.
 
@@ -232,7 +194,6 @@ Section 129 contains provision about the approval of major modifications made in
 This is subject to subsection (11) (urgent cases).
 
 (11) In a case where the Secretary of State considers that there is an urgent need to make a major modification—
-
   (a) the instrument making the modification may be signed by a senior official designated by the Secretary of State for that purpose, and
   (b) the instrument must contain a statement that the case is an urgent case in which the Secretary of State has personally and expressly authorised the making of the modification.
 
@@ -241,28 +202,23 @@ This is subject to subsection (11) (urgent cases).
 (13) Nothing in this section applies in relation to modifying the provisions of a warrant in a way which does not affect the conduct authorised or required by it.
 129 Approval of major modifications made in urgent cases
 (1) This section applies where—
-
   (a) the Secretary of State makes a major modification of a bulk interception warrant without the approval of a Judicial Commissioner, and
   (b) the Secretary of State considered that there was an urgent need to make the modification.
 
 (2) The Secretary of State must inform a Judicial Commissioner that the modification has been made.
 
 (3) The Judicial Commissioner must, before the end of the relevant period—
-
   (a) decide whether to approve the decision to make the modification, and
   (b) notify the Secretary of State of the Judicial Commissioner’s decision.
 
 “The relevant period” means the period ending with the fifth working day after the day on which the modification was made.
 
 (4) If the Judicial Commissioner refuses to approve the decision to make the modification—
-
   (a) the warrant (unless it no longer has effect) has effect as if the modification had not been made, and
   (b) the person to whom the warrant is addressed must, so far as is reasonably practicable, secure that anything in the process of being done under the warrant by virtue of that modification stops as soon as possible.
 
 (5) Nothing in this section affects the lawfulness of—
-
   (a) anything done under the warrant by virtue of the modification before the modification ceases to have effect;
-
   (b) if anything is in the process of being done under the warrant by virtue of the modification when the modification ceases to have effect—
     (i) anything done before that thing could be stopped, or
     (ii) anything done which it is not reasonably practicable to stop.
@@ -272,11 +228,8 @@ This is subject to subsection (11) (urgent cases).
 (2) If the Secretary of State, or a senior official acting on behalf of the Secretary of State, considers that any of the cancellation conditions are met in relation to a bulk interception warrant, the person must cancel the warrant.
 
 (3) The cancellation conditions are—
-
   (a) that the warrant is no longer necessary in the interests of national security;
-
   (b) that the conduct authorised by the warrant is no longer proportionate to what is sought to be achieved by that conduct;
-
   (c) that the examination of intercepted content or secondary data obtained under the warrant is no longer necessary for any of the specified operational purposes (see section 125).
 
 (4) But the condition in subsection (3)(a) does not apply where the warrant has been modified so that it no longer authorises or requires the interception of communications or the obtaining of secondary data.
@@ -288,7 +241,6 @@ Implementation of warrants 131 Implementation of warrants
 (1) In giving effect to a bulk interception warrant, the person to whom it is addressed (“the implementing authority”) may (in addition to acting alone) act through, or together with, such other persons as the implementing authority may require (whether under subsection (2) or otherwise) to provide the authority with assistance in giving effect to the warrant.
 
 (2) For the purpose of requiring any person to provide assistance in relation to a bulk interception warrant, the implementing authority may—
-
   (a) serve a copy of the warrant on any person who the implementing authority considers may be able to provide such assistance, or
   (b) make arrangements for the service of a copy of the warrant on any such person.
 
@@ -299,36 +251,26 @@ Implementation of warrants 131 Implementation of warrants
 (5) Sections 35 (service of warrants outside the United Kingdom) and 36 (duty of operators to assist with implementation) apply in relation to a bulk interception warrant as they apply in relation to a targeted interception warrant.
 
 (6) References in this section (and in sections 35 and 36 as they apply in relation to bulk interception warrants) to the service of a copy of a warrant include—
-
   (a) the service of a copy of one or more schedules contained in the warrant with the omission of the remainder of the warrant, and
   (b) the service of a copy of the warrant with the omission of any schedule contained in the warrant.
 Restrictions on use or disclosure of material obtained under warrants etc.
 132 Safeguards relating to retention and disclosure of material
 (1) The Secretary of State must ensure, in relation to every bulk interception warrant, that arrangements are in force for securing—
-
   (a) that the requirements of subsections (2) and (5) are met in relation to the material obtained under the warrant, and
   (b) that the requirements of section 134 are met in relation to the intercepted content or secondary data obtained under the warrant.
 
 This is subject to subsection (8).
 
 (2) The requirements of this subsection are met in relation to the material obtained under a warrant if each of the following is limited to the minimum that is necessary for the authorised purposes (see subsection (3))—
-
   (a) the number of persons to whom any of the material is disclosed or otherwise made available;
-
   (b) the extent to which any of the material is disclosed or otherwise made available;
-
   (c) the extent to which any of the material is copied;
-
   (d) the number of copies that are made.
 
 (3) For the purposes of subsection (2) something is necessary for the authorised purposes if, and only if—
-
   (a) it is, or is likely to become, necessary in the interests of national security or on any other grounds falling within section 121(2),
-
   (b) it is necessary for facilitating the carrying out of any functions under this Act of the Secretary of State, the Scottish Ministers or the head of the intelligence service to whom the warrant is or was addressed,
-
   (c) it is necessary for facilitating the carrying out of any functions of the Judicial Commissioners or the Investigatory Powers Tribunal under or in relation to this Act,
-
   (d) it is necessary to ensure that a person (“P”) who is conducting a criminal prosecution has the information P needs to determine what is required of P by P’s duty to secure the fairness of the prosecution, or
   (e) it is necessary for the performance of any duty imposed on any person by the Public Records Act 1958 or the Public Records Act (Northern Ireland) 1923.
 
@@ -337,12 +279,10 @@ This is subject to subsection (8).
 (5) The requirements of this subsection are met in relation to the material obtained under a warrant if every copy made of any of that material (if not destroyed earlier) is destroyed as soon as there are no longer any relevant grounds for retaining it (see subsection (6)).
 
 (6) For the purposes of subsection (5), there are no longer any relevant grounds for retaining a copy of any material if, and only if—
-
   (a) its retention is not necessary, or not likely to become necessary, in the interests of national security or on any other grounds falling within section 121(2), and
   (b) its retention is not necessary for any of the purposes mentioned in paragraphs (b) to (e) of subsection (3) above.
 
 (7) Subsection (8) applies if—
-
   (a) any material obtained under the warrant has been handed over to any overseas authorities, or
   (b) a copy of any such material has been given to any overseas authorities.
 
@@ -360,12 +300,10 @@ This is subject to subsection (8).
 
 133 Safeguards relating to disclosure of material overseas
 (1) The Secretary of State must ensure, in relation to every bulk interception warrant, that arrangements are in force for securing that—
-
   (a) any material obtained under the warrant is handed over to overseas authorities only if the requirements of subsection (2) are met, and
   (b) copies of any such material are given to overseas authorities only if those requirements are met.
 
 (2) The requirements of this subsection are met in the case of a warrant if it appears to the Secretary of State—
-
   (a) that requirements corresponding to the requirements of section 132(2)
 and (5) (“the relevant requirements”) will apply, to such extent (if any)
 as the Secretary of State considers appropriate, in relation to any of the material which is handed over, or any copy of which is given, to the authorities in question, and
@@ -381,9 +319,7 @@ as the Secretary of State considers appropriate, in relation to any of the mater
 
 134 Safeguards relating to examination of material
 (1) For the purposes of section 132 the requirements of this section are met in relation to the intercepted content and secondary data obtained under a warrant if—
-
   (a) any selection of the intercepted content or secondary data for examination is carried out only for the specified purposes (see subsection (2)),
-
   (b) the selection of any of the intercepted content or secondary data for examination is necessary and proportionate in all the circumstances,
 and
   (c) the selection of any of the intercepted content for examination meets any of the selection conditions (see subsection (3)).
@@ -393,33 +329,24 @@ and
 In this subsection “specified in the warrant” means specified in the warrant at the time of the selection of the intercepted content or secondary data for examination.
 
 (3) The selection conditions referred to in subsection (1)(c) are—
-
   (a) that the selection of the intercepted content for examination does not breach the prohibition in subsection (4);
-
   (b) that the person to whom the warrant is addressed considers that the selection of the intercepted content for examination would not breach that prohibition;
-
   (c) that the selection of the intercepted content for examination in breach of that prohibition is authorised by subsection (5);
-
   (d) that the selection of the intercepted content for examination in breach of that prohibition is authorised by a targeted examination warrant issued under Chapter 1 of Part 2.
 
 (4) The prohibition referred to in subsection (3)(a) is that intercepted content may not at any time be selected for examination if—
-
   (a) any criteria used for the selection of the intercepted content for examination are referable to an individual known to be in the British Islands at that time, and
   (b) the purpose of using those criteria is to identify the content of communications sent by, or intended for, that individual.
 
 It does not matter for the purposes of this subsection whether the identity of the individual is known.
 
 (5) The selection of intercepted content (“the relevant content”) for examination is authorised by this subsection if—
-
   (a) criteria referable to an individual have been, or are being, used for the selection of intercepted content for examination in circumstances falling within subsection (3)(a) or (b),
-
   (b) at any time it appears to the person to whom the warrant is addressed that there has been a relevant change of circumstances in relation to the individual (see subsection (6)) which would mean that the selection of the relevant content for examination would breach the prohibition in subsection (4),
-
   (c) since that time, a written authorisation to examine the relevant content using those criteria has been given by a senior officer, and
   (d) the selection of the relevant content for examination is made before the end of the permitted period (see subsection (7)).
 
 (6) For the purposes of subsection (5)(b) there is a relevant change of circumstances in relation to an individual if—
-
   (a) the individual has entered the British Islands, or
   (b) a belief by the person to whom the warrant is addressed that the individual was outside the British Islands was in fact mistaken.
 
@@ -433,7 +360,6 @@ It does not matter for the purposes of this subsection whether the identity of t
 (8) In a case where the selection of intercepted content for examination is authorised by subsection (5), the person to whom the warrant is addressed must notify the Secretary of State that the selection is being carried out.
 135 Additional safeguards for items subject to legal privilege
 (1) Subsection (2) applies if, in a case where intercepted content obtained under a bulk interception warrant is to be selected for examination—
-
   (a) the selection of the intercepted content for examination meets any of the selection conditions in section 134(3)(a) to (c), and
   (b) either—
     (i) the purpose, or one of the purposes, of using the criteria to be used for the selection of the intercepted content for examination (“the relevant criteria”) is to identify any items subject to legal privilege, or
@@ -442,7 +368,6 @@ It does not matter for the purposes of this subsection whether the identity of t
 (2) The intercepted content may be selected for examination using the relevant criteria only if a senior official acting on behalf of the Secretary of State has approved the use of those criteria.
 
 (3) A senior official may give an approval under subsection (2) only if—
-
   (a) the official considers that the arrangements made for the purposes of section 132 (safeguards relating to retention and disclosure of material)
 include specific arrangements for the handling, retention, use and destruction of items subject to legal privilege, and
   (b) where subsection (1)(b)(i) applies, the official considers that there are exceptional and compelling circumstances that make it necessary to authorise the use of the relevant criteria.
@@ -477,24 +402,19 @@ Interpretation 137 Chapter 1: interpretation
 
 CHAPTER 2 Bulk acquisition warrants Bulk acquisition warrants 138 Power to issue bulk acquisition warrants
 (1) The Secretary of State may, on an application made by or on behalf of the head of an intelligence service, issue a bulk acquisition warrant if—
-
   (a) the Secretary of State considers that the warrant is necessary—
     (i) in the interests of national security, or
     (ii) on that ground and on any other grounds falling within subsection (2),
-
   (b) the Secretary of State considers that the conduct authorised by the warrant is proportionate to what is sought to be achieved by that conduct,
-
   (c) the Secretary of State considers that—
     (i) each of the specified operational purposes (see section 141) is a purpose for which the examination of communications data obtained under the warrant is or may be necessary, and
     (ii) the examination of such data for each such purpose is necessary on any of the grounds on which the Secretary of State considers the warrant to be necessary,
-
   (d) the Secretary of State considers that satisfactory arrangements made for the purposes of section 150 (general safeguards) are in force in relation to the warrant, and
   (e) the decision to issue the warrant has been approved by a Judicial Commissioner.
 
 For the meaning of “head of an intelligence service”, see section 225.
 
 (2) A warrant is necessary on grounds falling within this subsection if it is necessary—
-
   (a) for the purpose of preventing or detecting serious crime, or
  (b) in the interests of the economic well-being of the United Kingdom so far as those interests are also relevant to the interests of national security (but see subsection (3)).
 
@@ -507,19 +427,15 @@ For the meaning of “head of an intelligence service”, see section 225.
 (6) A bulk acquisition warrant is a warrant which authorises or requires the person to whom it is addressed to secure, by any conduct described in the warrant, any one or more of the activities in subsection (7).
 
 (7) The activities are—
-
   (a) requiring a telecommunications operator specified in the warrant—
     (i) to disclose to a person specified in the warrant any communications data which is specified in the warrant and is in the possession of the operator,
     (ii) to obtain any communications data specified in the warrant which is not in the possession of the operator but which the operator is capable of obtaining, or
     (iii) to disclose to a person specified in the warrant any data obtained as mentioned in sub-paragraph (ii),
-
   (b) the selection for examination, in any manner described in the warrant,
 of communications data obtained under the warrant,
-
   (c) the disclosure, in any manner described in the warrant, of such data to the person to whom the warrant is addressed or to any person acting on that person’s behalf.
 
 (8) A bulk acquisition warrant also authorises the following conduct (in addition to the conduct described in the warrant)—
-
   (a) any conduct which it is necessary to undertake in order to do what is expressly authorised or required by the warrant, and
   (b) conduct by any person which is conduct in pursuance of a requirement,
 imposed by or on behalf of the person to whom the warrant is addressed, to be provided with assistance in giving effect to the warrant.
@@ -530,9 +446,7 @@ imposed by or on behalf of the person to whom the warrant is addressed, to be pr
 139 Approval of warrants by Judicial Commissioners
 (1) In deciding whether to approve a decision to issue a warrant under section 138,
 a Judicial Commissioner must review the Secretary of State’s conclusions as to the following matters—
-
   (a) whether the warrant is necessary as mentioned in subsection (1)(a) of that section,
-
   (b) whether the conduct that would be authorised by the warrant is proportionate to what is sought to be achieved by that conduct, and
   (c) whether—
     (i) each of the specified operational purposes (see section 141) is a purpose for which the examination of communications data obtained under the warrant is or may be necessary, and
@@ -562,7 +476,6 @@ at the time the warrant is issued, the person to whom it is addressed considers 
 (6) In this Chapter “the specified operational purposes”, in relation to bulk acquisition warrants, means the operational purposes specified in the warrant in accordance with this section.
 Duration, modification and cancellation of warrants 142 Duration of warrants
 (1) A bulk acquisition warrant (unless already cancelled) ceases to have effect at the end of the period of 6 months beginning with—
-
   (a) the day on which the warrant was issued, or
   (b) in the case of a warrant that has been renewed, the day after the day at the end of which the warrant would have ceased to have effect if it had not been renewed.
 
@@ -574,13 +487,10 @@ at any time before it would otherwise cease to have effect, by an instrument iss
 This is subject to subsection (5).
 
 (2) The renewal conditions are—
-
   (a) that the Secretary of State considers that the warrant continues to be necessary—
     (i) in the interests of national security, or
     (ii) on that ground and on any other grounds falling within section 138(2),
-
   (b) that the Secretary of State considers that the conduct that would be authorised by the renewed warrant continues to be proportionate to what is sought to be achieved by that conduct,
-
   (c) that the Secretary of State considers that—
     (i) each of the specified operational purposes (see section 141) is a purpose for which the examination of communications data obtained under the warrant continues to be, or may be,
 necessary, and
@@ -594,9 +504,7 @@ necessary, and
 This is subject to subsection (5).
 
 (5) In the case of the renewal of a bulk acquisition warrant that has been modified so that it no longer authorises or requires the carrying out of one or more activities falling within section 138(7)(a)—
-
   (a) the renewal condition in subsection (2)(a) is to be disregarded,
-
   (b) the reference in subsection (2)(c)(ii) to the grounds on which the Secretary of State considers the warrant to be necessary is to be read as a reference to any grounds falling within section 138(1)(a) or (2), and
   (c) section 139 has effect as if—
     (i) paragraph (a) of subsection (1) were omitted, and
@@ -605,17 +513,14 @@ This is subject to subsection (5).
 (1) The provisions of a bulk acquisition warrant may be modified at any time by an instrument issued by the person making the modification.
 
 (2) The only modifications that may be made under this section are—
-
   (a) adding, varying or removing any operational purpose specified in the warrant as a purpose for which any communications data obtained under the warrant may be selected for examination, and
   (b) providing that the warrant no longer authorises or requires the carrying out of one or more activities falling within section 138(7)(a).
 
 (3) In this section—
-
   (a) a modification adding or varying any operational purpose as mentioned in paragraph (a) of subsection (2) is referred to as a “major modification”, and
   (b) any other modification within that subsection is referred to as a “minor modification”.
 
 (4) A major modification—
-
   (a) must be made by the Secretary of State, and
   (b) may be made only if the Secretary of State considers that it is necessary on any of the grounds on which the Secretary of State considers the warrant to be necessary (see section 138(1)(a)).
 
@@ -626,7 +531,6 @@ This is subject to subsection (5).
 Section 145 contains provision about the approval of major modifications made in urgent cases.
 
 (7) A minor modification may be made by—
-
   (a) the Secretary of State, or
   (b) a senior official acting on behalf of the Secretary of State.
 
@@ -639,35 +543,29 @@ Section 145 contains provision about the approval of major modifications made in
 This is subject to subsection (11) (urgent cases).
 
 (11) In a case where the Secretary of State considers that there is an urgent need to make a major modification—
-
   (a) the instrument making the modification may be signed by a senior official designated by the Secretary of State for that purpose, and
   (b) the instrument must contain a statement that the case is an urgent case in which the Secretary of State has personally and expressly authorised the making of the modification.
 
 (12) Nothing in this section applies in relation to modifying the provisions of a warrant in a way which does not affect the conduct authorised or required by it.
 145 Approval of major modifications made in urgent cases
 (1) This section applies where—
-
   (a) the Secretary of State makes a major modification of a bulk acquisition warrant without the approval of a Judicial Commissioner, and
   (b) the Secretary of State considered that there was an urgent need to make the modification.
 
 (2) The Secretary of State must inform a Judicial Commissioner that the modification has been made.
 
 (3) The Judicial Commissioner must, before the end of the relevant period—
-
   (a) decide whether to approve the decision to make the modification, and
   (b) notify the Secretary of State of the Judicial Commissioner’s decision.
 
 “The relevant period” means the period ending with the fifth working day after the day on which the modification was made.
 
 (4) If the Judicial Commissioner refuses to approve the decision to make the modification—
-
   (a) the warrant (unless it no longer has effect) has effect as if the modification had not been made, and
   (b) the person to whom the warrant is addressed must, so far as is reasonably practicable, secure that anything in the process of being done under the warrant by virtue of that modification stops as soon as possible.
 
 (5) Nothing in this section affects the lawfulness of—
-
   (a) anything done under the warrant by virtue of the modification before the modification ceases to have effect,
-
   (b) if anything is in the process of being done under the warrant by virtue of the modification when the modification ceases to have effect—
     (i) anything done before that thing could be stopped, or
     (ii) anything done which it is not reasonably practicable to stop.
@@ -677,11 +575,8 @@ This is subject to subsection (11) (urgent cases).
 (2) If the Secretary of State, or a senior official acting on behalf of the Secretary of State, considers that any of the cancellation conditions are met in relation to a bulk acquisition warrant, the person must cancel the warrant.
 
 (3) The cancellation conditions are—
-
   (a) that the warrant is no longer necessary in the interests of national security,
-
   (b) that the conduct authorised by the warrant is no longer proportionate to what is sought to be achieved by that conduct,
-
   (c) that the examination of communications data obtained under the warrant is no longer necessary for any of the specified operational purposes (see section 141).
 
 (4) But the condition in subsection (3)(a) does not apply where the warrant has been modified so that it no longer authorises or requires the carrying out of one or more activities falling within section 138(7)(a).
@@ -693,7 +588,6 @@ Implementation of warrants 147 Implementation of warrants
 (1) In giving effect to a bulk acquisition warrant, the person to whom it is addressed (“the implementing authority”) may (in addition to acting alone) act through, or together with, such other persons as the implementing authority may require (whether under subsection (2) or otherwise) to provide the authority with assistance in giving effect to the warrant.
 
 (2) For the purpose of requiring any person to provide assistance in relation to a bulk acquisition warrant, the implementing authority may—
-
   (a) serve a copy of the warrant on any person whom the implementing authority considers may be able to provide such assistance, or
   (b) make arrangements for the service of a copy of the warrant on any such person.
 
@@ -702,22 +596,17 @@ Implementation of warrants 147 Implementation of warrants
 (4) For the purposes of this Act, the provision of assistance in giving effect to a bulk acquisition warrant includes any disclosure to the implementing authority, or to persons acting on behalf of the implementing authority, of communications data obtained under the warrant.
 
 (5) References in this section and in sections 148 and 149 to the service of a copy of a warrant include—
-
   (a) the service of a copy of one or more schedules contained in the warrant with the omission of the remainder of the warrant, and
   (b) the service of a copy of the warrant with the omission of any schedule contained in the warrant.
 148 Service of warrants outside the United Kingdom
 (1) This section applies to the service of bulk acquisition warrants under section 147(3) on a person outside the United Kingdom.
 
 (2) A copy of a warrant may be served on the person in any of the following ways (as well as by electronic or other means of service)—
-
   (a) by serving it at the person’s principal office within the United Kingdom or, if the person has no such office in the United Kingdom, at any place in the United Kingdom where the person carries on business or conducts activities;
-
   (b) if the person has specified an address in the United Kingdom as one at which the person, or someone on the person’s behalf, will accept service of documents of the same description as a copy of a warrant, by serving it at that address;
-
   (c) by making it available for inspection (whether to the person or to someone acting on the person’s behalf) at a place in the United Kingdom (but this is subject to subsection (3)).
 
 (3) A copy of a warrant may be served on a person in the way mentioned in subsection (2)(c) only if—
-
   (a) it is not reasonably practicable for a copy to be served by any other means (whether as mentioned in subsection (2)(a) or (b) or otherwise),
 and
   (b) the implementing authority takes such steps as the authority considers appropriate for the purpose of bringing the contents of the warrant, and the availability of a copy for inspection, to the attention of the person.
@@ -744,32 +633,22 @@ subsection (3) the steps which it is reasonably practicable for P to take includ
 Restrictions on use or disclosure of data obtained under warrants etc.
 150 Safeguards relating to the retention and disclosure of data
 (1) The Secretary of State must ensure, in relation to every bulk acquisition warrant, that arrangements are in force for securing—
-
   (a) that the requirements of subsections (2) and (5) are met in relation to the communications data obtained under the warrant, and
   (b) that the requirements of section 151 are met in relation to that data.
 
 This is subject to subsection (8).
 
 (2) The requirements of this subsection are met in relation to the communications data obtained under a warrant if each of the following is limited to the minimum that is necessary for the authorised purposes (see subsection (3))—
-
   (a) the number of persons to whom any of the data is disclosed or otherwise made available,
-
   (b) the extent to which any of the data is disclosed or otherwise made available,
-
   (c) the extent to which any of the data is copied,
-
   (d) the number of copies that are made.
 
 (3) For the purposes of subsection (2) something is necessary for the authorised purposes if, and only if—
-
   (a) it is, or is likely to become, necessary in the interests of national security or on any other grounds falling within section 138(2),
-
   (b) it is necessary for facilitating the carrying out of any functions under this Act of the Secretary of State, the Scottish Ministers or the head of the intelligence service to whom the warrant is or was addressed,
-
   (c) it is necessary for facilitating the carrying out of any functions of the Judicial Commissioners or the Investigatory Powers Tribunal under or in relation to this Act,
-
   (d) it is necessary to ensure that a person (“P”) who is conducting a criminal prosecution has the information P needs to determine what is required of P by P’s duty to secure the fairness of the prosecution,
-
   (e) it is necessary for use as evidence in legal proceedings, or
   (f) it is necessary for the performance of any duty imposed on any person by the Public Records Act 1958 or the Public Records Act (Northern Ireland) 1923.
 
@@ -779,12 +658,10 @@ for securing that every copy made of any of that data is stored, for so long as 
 (5) The requirements of this subsection are met in relation to the communications data obtained under a warrant if every copy made of any of that data (if not destroyed earlier) is destroyed as soon there are no longer any relevant grounds for retaining it (see subsection (6)).
 
 (6) For the purposes of subsection (5), there are no longer any relevant grounds for retaining a copy of any data if, and only if—
-
   (a) its retention is not necessary, or not likely to become necessary, in the interests of national security or on any other grounds falling within section 138(2), and
   (b) its retention is not necessary for any of the purposes mentioned in paragraphs (b) to (f) of subsection (3) above.
 
 (7) Subsection (8) applies if—
-
   (a) any communications data obtained under the warrant has been handed over to any overseas authorities, or
   (b) a copy of any such data has been given to any overseas authorities.
 
@@ -805,7 +682,6 @@ for securing that every copy made of any of that data is stored, for so long as 
 
 151 Safeguards relating to examination of data
 (1) For the purposes of section 150 the requirements of this section are met in relation to the communications data obtained under a warrant if—
-
   (a) any selection of the data for examination is carried out only for the specified purposes (see subsection (2)), and
   (b) the selection of any of the data for examination is necessary and proportionate in all the circumstances.
 
@@ -814,7 +690,6 @@ for securing that every copy made of any of that data is stored, for so long as 
 (3) In subsection (2) “specified in the warrant” means specified in the warrant at the time of the selection of the data for examination.
 Supplementary provision 152 Offence of making unauthorised disclosure
 (1) It is an offence for—
-
   (a) a telecommunications operator who is under a duty by virtue of section 149 to assist in giving effect to a bulk acquisition warrant, or
   (b) any person employed or engaged for the purposes of the business of such an operator,
 
@@ -823,25 +698,21 @@ to disclose to any person, without reasonable excuse, the existence or contents 
 (2) For the purposes of subsection (1), it is, in particular, a reasonable excuse if the disclosure is made with the permission of the Secretary of State.
 
 (3) A person guilty of an offence under this section is liable—
-
   (a) on summary conviction in England and Wales—
     (i) to imprisonment for a term not exceeding 12 months (or 6 months, if the offence was committed before the commencement of section 154(1) of the Criminal Justice Act 2003), or
     (ii) to a fine,
 
 or to both;
-
   (b) on summary conviction in Scotland—
     (i) to imprisonment for a term not exceeding 12 months, or
     (ii) to a fine not exceeding the statutory maximum,
 
 or to both;
-
   (c) on summary conviction in Northern Ireland—
     (i) to imprisonment for a term not exceeding 6 months, or
     (ii) to a fine not exceeding the statutory maximum,
 
 or to both;
-
   (d) on conviction on indictment, to imprisonment for a term not exceeding 2 years or to a fine, or to both.
 153 Chapter 2: interpretation
 (1) In this Chapter—
@@ -863,14 +734,11 @@ or to both;
 
 CHAPTER 3 Bulk equipment interference warrants Bulk equipment interference warrants 154 Bulk equipment interference warrants: general
 (1) For the purposes of this Act, a warrant is “bulk equipment interference warrant” if—
-
   (a) it is issued under this Chapter,
-
   (b) it authorises or requires the person to whom it is addressed to secure interference with any equipment for the purpose of obtaining—
     (i) communications (see section 173);
     (ii) equipment data (see section 155);
     (iii) any other information;
-
   (c) the main purpose of the warrant is to obtain one or more of the following—
     (i) overseas-related communications;
     (ii) overseas-related information;
@@ -884,25 +752,18 @@ CHAPTER 3 Bulk equipment interference warrants Bulk equipment interference warra
     “overseas-related information” means information of individuals who are outside the British Islands.
 
 (3) For the purpose of this Chapter, equipment data is “overseas-related equipment data” if—
-
   (a) it forms part of, or is connected with, overseas-related communications or overseas-related information;
-
   (b) it would or may assist in establishing the existence of overseas-related communications or overseas-related information or in obtaining such communications or information;
-
   (c) it would or may assist in developing capabilities in relation to obtaining overseas-related communications or overseas-related information.
 
 (4) A bulk equipment interference warrant—
-
   (a) must authorise or require the person to whom it is addressed to secure the obtaining of the communications, equipment data or other information to which the warrant relates;
-
   (b) may also authorise or require the person to whom it is addressed to secure—
     (i) the selection for examination, in any manner described in the warrant, of any material obtained under the warrant by virtue of paragraph (a);
     (ii) the disclosure, in any manner described in the warrant, of any such material to the person to whom the warrant is addressed or to any person acting on that person’s behalf.
 
 (5) A bulk equipment interference warrant also authorises the following conduct (in addition to the conduct described in the warrant)—
-
   (a) any conduct which it is necessary to undertake in order to do what is expressly authorised or required by the warrant, including conduct for securing the obtaining of communications, equipment data or other information;
-
   (b) any conduct by any person which is conduct in pursuance of a requirement imposed by or on behalf of the person to whom the warrant is addressed to be provided with assistance in giving effect to the warrant.
 
 (6) A bulk equipment interference warrant may not, by virtue of subsection (4)(a),
@@ -916,15 +777,11 @@ authorise a person to engage in conduct, in relation to a communication other th
 155 Meaning of “equipment data”
 
 (1) In this Chapter, “equipment data” means—
-
   (a) systems data;
-
   (b) data which falls within subsection (2).
 
 (2) The data falling within this subsection is identifying data which—
-
   (a) is, for the purposes of a relevant system, comprised in, included as part of, attached to or logically associated with a communication (whether by the sender or otherwise) or any other item of information,
-
   (b) is capable of being logically separated from the remainder of the communication or the item of information, and
   (c) if it were so separated, would not reveal anything of what might reasonably be considered to be the meaning (if any) of the communication or the item of information, disregarding any meaning arising from the fact of the communication or the existence of the item of information or from any data relating to that fact.
 
@@ -933,26 +790,20 @@ authorise a person to engage in conduct, in relation to a communication other th
 (4) For the meaning of “systems data” and “identifying data”, see section 225.
 156 Power to issue bulk equipment interference warrants
 (1) The Secretary of State may, on an application made by or on behalf of the head of an intelligence service, issue a bulk equipment interference warrant if—
-
   (a) the Secretary of State considers that the main purpose of the warrant is to obtain overseas-related communications, overseas-related information or overseas-related equipment data,
-
   (b) the Secretary of State considers that the warrant is necessary—
     (i) in the interests of national security, or
     (ii) on that ground and on any other grounds falling within subsection (2),
-
   (c) the Secretary of State considers that the conduct authorised by the warrant is proportionate to what is sought to be achieved by that conduct,
-
   (d) the Secretary of State considers that—
     (i) each of the specified operational purposes (see section 161) is a purpose for which the examination of material obtained under the warrant is or may be necessary, and
     (ii) the examination of such material for each such purpose is necessary on any of the grounds on which the Secretary of State considers the warrant to be necessary,
-
   (e) the Secretary of State considers that satisfactory arrangements made for the purposes of sections 168 and 169 (safeguards relating to disclosure etc.) are in force in relation to the warrant, and
   (f) except where the Secretary of State considers that there is an urgent need to issue the warrant, the decision to issue the warrant has been approved by a Judicial Commissioner.
 
 For the meaning of “head of an intelligence service”, see section 225.
 
 (2) A warrant is necessary on grounds falling within this subsection if it is necessary—
-
   (a) for the purpose of preventing or detecting serious crime, or
   (b) in the interests of the economic well-being of the United Kingdom so far as those interests are also relevant to the interests of national security (but see subsection (3)).
 
@@ -964,9 +815,7 @@ For the meaning of “head of an intelligence service”, see section 225.
 157 Approval of warrants by Judicial Commissioners
 (1) In deciding whether to approve a decision to issue a warrant under section 156,
 a Judicial Commissioner must review the Secretary of State’s conclusions on the following matters—
-
   (a) whether the warrant is necessary as mentioned in subsection (1)(b) of that section,
-
   (b) whether the conduct that would be authorised by the warrant is proportionate to what is sought to be achieved by that conduct, and
   (c) whether—
     (i) each of the specified operational purposes (see section 161) is a purpose for which the examination of material obtained under the warrant is or may be necessary, and
@@ -979,14 +828,12 @@ a Judicial Commissioner must review the Secretary of State’s conclusions on th
 (4) Where a Judicial Commissioner, other than the Investigatory Powers Commissioner, refuses to approve a decision to issue a warrant under section 156, the Secretary of State may ask the Investigatory Powers Commissioner to decide whether to approve the decision to issue the warrant.
 158 Approval of warrants issued in urgent cases
 (1) This section applies where—
-
   (a) a warrant under section 156 is issued without the approval of a Judicial Commissioner, and
   (b) the Secretary of State considered that there was an urgent need to issue it.
 
 (2) The Secretary of State must inform a Judicial Commissioner that it has been issued.
 
 (3) The Judicial Commissioner must, before the end of the relevant period—
-
   (a) decide whether to approve the decision to issue the warrant, and
   (b) notify the Secretary of State of the Judicial Commissioner’s decision.
 
@@ -1002,35 +849,26 @@ the warrant (unless already cancelled) ceases to have effect.
 (2) The person to whom the warrant was addressed must, so far as is reasonably practicable, secure that anything in the process of being done under the warrant stops as soon as possible.
 
 (3) The Judicial Commissioner may—
-
   (a) authorise further interference with equipment for the purpose of enabling the person to whom the warrant is addressed to secure that anything in the process of being done under the warrant stops as soon as possible;
-
   (b) direct that any material obtained under the warrant is destroyed;
-
   (c) impose conditions as to the use or retention of any of that material.
 
 (4) The Judicial Commissioner—
-
   (a) may require an affected party to make representations about how the Judicial Commissioner should exercise any function under subsection (3), and
   (b) must have regard to any such representations made by an affected party (whether or not as a result of a requirement imposed under paragraph (a)).
 
 (5) Each of the following is an “affected party” for the purposes of subsection (4)—
-
   (a) the Secretary of State;
-
   (b) the person to whom the warrant was addressed.
 
 (6) The Secretary of State may ask the Investigatory Powers Commissioner to review a decision made by any other Judicial Commissioner under subsection (3).
 
 (7) On a review under subsection (6), the Investigatory Powers Commissioner may—
-
   (a) confirm the Judicial Commissioner’s decision, or
   (b) make a fresh determination.
 
 (8) Nothing in this section or section 158 affects the lawfulness of—
-
   (a) anything done under the warrant before it ceases to have effect;
-
   (b) if anything is in the process of being done under the warrant when it ceases to have effect—
     (i) anything done before that thing could be stopped, or
     (ii) anything done that it is not reasonably practicable to stop.
@@ -1042,7 +880,6 @@ the warrant (unless already cancelled) ceases to have effect.
 (3) If it is not reasonably practicable for a warrant to be signed by the Secretary of State, the warrant may be signed by a senior official designated by the Secretary of State for that purpose.
 
 (4) In such a case, the warrant must contain a statement that—
-
   (a) it is not reasonably practicable for the warrant to be signed by the Secretary of State, and
   (b) the Secretary of State has personally and expressly authorised the issue of the warrant.
 161 Requirements that must be met by warrants
@@ -1062,35 +899,27 @@ at the time the warrant is issued, the person to whom it is addressed considers 
 (7) In this Chapter, “the specified operational purposes”, in relation to a bulk equipment interference warrant, means the operational purposes specified in the warrant in accordance with this section.
 Duration, modification and cancellation of warrants 162 Duration of warrants
 (1) A bulk equipment interference warrant, ceases to have effect at the end of the relevant period (see subsection (2)), unless—
-
   (a) it is renewed before the end of that period (see section 163), or
-
 
   (b) it is cancelled or otherwise ceases to have effect before the end of that period (see sections 158 and 166).
 
 (2) In this section, “the relevant period”—
-
   (a) in the case of an urgent warrant (see subsection (3)), means the period ending with the fifth working day after the day on which the warrant was issued;
-
   (b) in any other case, means the period of 6 months beginning with—
     (i) the day on which the warrant was issued, or
     (ii) in the case of a warrant which has been renewed, the day after the day at the end of which the warrant would have ceased to have effect if it had not been renewed.
 
 (3) For the purposes of subsection (2)(a), a warrant is an “urgent warrant” if—
-
   (a) the warrant was issued without the approval of a Judicial Commissioner, and
   (b) the person who decided to issue the warrant considered that there was an urgent need to issue it.
 163 Renewal of warrants
 (1) If the renewal conditions are met, a bulk equipment interference warrant may be renewed, at any time before the end of the relevant period, by an instrument issued by the Secretary of State.
 
 (2) The renewal conditions are—
-
   (a) that the Secretary of State considers that the warrant continues to be necessary—
     (i) in the interests of national security, or
     (ii) on that ground and on any other grounds falling within section 156(2),
-
   (b) that the Secretary of State considers that the conduct that would be authorised by the renewed warrant continues to be proportionate to what is sought to be achieved by that conduct,
-
   (c) that the Secretary of State considers that—
     (i) each of the specified operational purposes (see section 161) is a purpose for which the examination of material obtained under the warrant continues to be or may be necessary, and
     (ii) the examination of such material for each such purpose continues to be necessary on any of the grounds on which the Secretary of State considers that the warrant continues to be necessary, and
@@ -1101,9 +930,7 @@ Duration, modification and cancellation of warrants 162 Duration of warrants
 (4) Section 157 (approval of warrants by Judicial Commissioners) applies in relation to a decision to renew a bulk equipment interference warrant as it applies in relation to a decision to issue a bulk equipment interference warrant.
 
 (5) In the case of a bulk equipment interference warrant which has been modified so that it no longer authorises or requires the securing of interference with any equipment or the obtaining of any communications, equipment data or other information—
-
   (a) the renewal condition in subsection (2)(a) is to be disregarded,
-
   (b) the reference in subsection (2)(c)(ii) to the grounds on which the Secretary of State considers the warrant to be necessary is to be read as a reference to any grounds falling within section 156(1)(b) or (2), and
   (c) section 157 has effect as if—
     (i) paragraph (a) of subsection (1) were omitted, and
@@ -1112,17 +939,14 @@ Duration, modification and cancellation of warrants 162 Duration of warrants
 (1) The provisions of a bulk equipment interference warrant may be modified at any time by an instrument issued by the person making the modification.
 
 (2) The modifications which may be made under this section are—
-
   (a) adding, varying or removing any operational purpose specified in the warrant as a purpose for which any material obtained under the warrant may be selected for examination, and
   (b) adding, varying or removing any description of conduct authorised by the warrant.
 
 (3) In this section—
-
   (a) a modification adding or varying any operational purpose, or any description of conduct, as mentioned in subsection (2) is referred to as a “major modification”, and
   (b) any other modification within that subsection is referred to as a “minor modification”.
 
 (4) A major modification—
-
   (a) must be made by the Secretary of State, and
   (b) may be made only if the Secretary of State considers that it is necessary on any of the grounds on which the Secretary of State considers the warrant to be necessary (see section 156(1)(b)).
 
@@ -1133,7 +957,6 @@ Duration, modification and cancellation of warrants 162 Duration of warrants
 Section 165 contains provision about the approval of major modifications made in urgent cases.
 
 (7) A minor modification may be made by—
-
   (a) the Secretary of State, or
   (b) a senior official acting on behalf of the Secretary of State.
 
@@ -1146,7 +969,6 @@ Section 165 contains provision about the approval of major modifications made in
 This is subject to subsection (11) (urgent cases).
 
 (11) In a case where the Secretary of State considers that there is an urgent need to make a major modification—
-
   (a) the instrument making the modification may be signed by a senior official designated by the Secretary of State for that purpose, and
   (b) the instrument must contain a statement that the case is an urgent case in which the Secretary of State has personally and expressly authorised the making of the modification.
 
@@ -1156,7 +978,6 @@ equipment data or other information does not prevent the warrant from being rega
 (13) Nothing in this section applies in relation to modifying the provisions of a warrant in a way which does not affect the conduct authorised by it.
 165 Approval of major modifications made in urgent cases
 (1) This section applies where—
-
   (a) the Secretary of State makes a major modification of a bulk equipment interference warrant without the approval of a Judicial Commissioner,
 and
   (b) the Secretary of State considered that there was an urgent need to make the modification.
@@ -1164,23 +985,19 @@ and
 (2) The Secretary of State must inform a Judicial Commissioner that the modification has been made.
 
 (3) The Judicial Commissioner must, before the end of the relevant period—
-
   (a) decide whether to approve the decision to make the modification, and
   (b) notify the Secretary of State of the Judicial Commissioner’s decision.
 
 “The relevant period” means the period ending with the fifth working day after the day on which the modification was made.
 
 (4) If the Judicial Commissioner refuses to approve the decision to make the modification—
-
   (a) the warrant (unless it no longer has effect) has effect as if the modification had not been made, and
   (b) the person to whom the warrant is addressed must, so far as is reasonably practicable, secure that anything in the process of being done under the warrant by virtue of that modification stops as soon as possible.
 
 (5) The Judicial Commissioner may authorise further interference with equipment for the purpose of enabling the person to whom the warrant is addressed to secure that anything in the process of being done under the warrant by virtue of the modification stops as soon as possible.
 
 (6) Nothing in this section affects the lawfulness of—
-
   (a) anything done under the warrant by virtue of the modification before the modification ceases to have effect;
-
   (b) if anything is in the process of being done under the warrant by virtue of the modification when the modification ceases to have effect—
     (i) anything done before that thing could be stopped, or
     (ii) anything done which it is not reasonably practicable to stop.
@@ -1190,11 +1007,8 @@ and
 (2) If the Secretary of State, or a senior official acting on behalf of the Secretary of State, considers that any of the cancellation conditions are met in relation to a bulk equipment interference warrant, the person must cancel the warrant.
 
 (3) The cancellation conditions are—
-
   (a) that the warrant is no longer necessary in the interests of national security;
-
   (b) that the conduct authorised by the warrant is no longer proportionate to what is sought to be achieved by that conduct;
-
   (c) that the examination of material obtained under the warrant is no longer necessary for any of the specified operational purposes (see section 161).
 
 (4) But the condition in subsection (3)(a) does not apply where the warrant has been modified so that it no longer authorises or requires the securing of interference with any equipment or the obtaining of any communications,
@@ -1207,7 +1021,6 @@ Implementation of warrants 167 Implementation of warrants
 (1) In giving effect to a bulk equipment interference warrant, the person to whom it is addressed (“the implementing authority”) may (in addition to acting alone) act through, or together with, such other persons as the implementing authority may require (whether under subsection (2) or otherwise) to provide the authority with assistance in giving effect to the warrant.
 
 (2) For the purpose of requiring any person to provide assistance in relation to a bulk equipment interference warrant, the implementing authority may—
-
   (a) serve a copy of the warrant on any person who the implementing authority considers may be able to provide such assistance, or
   (b) make arrangements for the service of a copy of the warrant on any such person.
 
@@ -1217,36 +1030,26 @@ Implementation of warrants 167 Implementation of warrants
  (5) Sections 110 (service of warrants outside the United Kingdom) and 111 (duty of telecommunications operators to assist with implementation) apply in relation to a bulk equipment interference warrant as they apply in relation to a targeted equipment interference warrant issued under section 91 by the Secretary of State.
 
 (6) References in this section (and in sections 110 and 111 as they apply in relation to bulk equipment interference warrants) to the service of a copy of a warrant include—
-
   (a) the service of a copy of one or more schedules contained in the warrant with the omission of the remainder of the warrant, and
   (b) the service of a copy of the warrant with the omission of any schedule contained in the warrant.
 Restrictions on use or disclosure of material obtained under warrants etc.
 168 Safeguards relating to retention and disclosure of material
 (1) The Secretary of State must ensure, in relation to every bulk equipment interference warrant, that arrangements are in force for securing—
-
   (a) that the requirements of subsections (2) and (5) are met in relation to the material obtained under the warrant, and
   (b) that the requirements of section 170 are met in relation to that material.
 
 This is subject to subsection (8).
 
 (2) The requirements of this subsection are met in relation to the material obtained under the warrant if each of the following is limited to the minimum that is necessary for the authorised purposes (see subsection (3))—
-
   (a) the number of persons to whom any of the material is disclosed or otherwise made available;
-
   (b) the extent to which any of the material is disclosed or otherwise made available;
-
   (c) the extent to which any of the material is copied;
-
   (d) the number of copies that are made.
 
 (3) For the purposes of subsection (2) something is necessary for the authorised purposes if, and only if—
-
   (a) it is, or is likely to become, necessary in the interests of national security or on any other grounds falling within section 156(2),
-
   (b) it is necessary for facilitating the carrying out of any functions under this Act of the Secretary of State, the Scottish Ministers or the head of the intelligence service to whom the warrant is or was addressed,
-
   (c) it is necessary for facilitating the carrying out of any functions of the Judicial Commissioners or of the Investigatory Powers Tribunal under or in relation to this Act,
-
   (d) it is necessary for the purpose of legal proceedings, or
   (e) it is necessary for the performance of the functions of any person by or under any enactment.
 
@@ -1256,12 +1059,10 @@ copy made of any of that material is stored, for so long as it is retained, in a
 (5) The requirements of this subsection are met in relation to the material obtained under the warrant if every copy made of any of that material (if not destroyed earlier) is destroyed as soon as there are no longer any relevant grounds for retaining it (see subsection (6)).
 
 (6) For the purposes of subsection (5), there are no longer any relevant grounds for retaining a copy of any material if, and only if—
-
   (a) its retention is not necessary, or not likely to become necessary, in the interests of national security or on any other grounds falling within section 156(2), and
   (b) its retention is not necessary for any of the purposes mentioned in paragraphs (b) to (e) of subsection (3) above.
 
 (7) Subsection (8) applies if—
-
   (a) any material obtained under the warrant has been handed over to any overseas authorities, or
   (b) a copy of any such material has been given to any overseas authorities.
 
@@ -1278,7 +1079,6 @@ copy made of any of that material is stored, for so long as it is retained, in a
 
 169 Safeguards relating to disclosure of material or data overseas
 (1) The Secretary of State must ensure, in relation to every bulk equipment interference warrant, that arrangements are in force for securing that—
-
   (a) any material obtained under the warrant is handed over to overseas authorities only if the requirements of subsection (2) are met, and
   (b) copies of any such material are given to overseas authorities only if those requirements are met.
 
@@ -1293,9 +1093,7 @@ copy made of any of that material is stored, for so long as it is retained, in a
 170 Safeguards relating to examination of material etc.
 
 (1) For the purposes of section 168, the requirements of this section are met in relation to the material obtained under a warrant if—
-
   (a) any selection of the material obtained under the warrant is carried out only for the specified purposes (see subsection (2)),
-
   (b) the selection of any of the material for examination is necessary and proportionate in all the circumstances, and
   (c) where any such material is protected material, the selection of the material for examination meets any of the selection conditions (see subsection (3)).
 
@@ -1304,17 +1102,12 @@ copy made of any of that material is stored, for so long as it is retained, in a
 In this subsection “specified in the warrant” means specified in the warrant at the time of the selection of the material for examination.
 
 (3) The selection conditions referred to in subsection (1)(c) are—
-
   (a) that the selection of the protected material for examination does not breach the prohibition in subsection (4);
-
   (b) that the person to whom the warrant is addressed reasonably considers that the selection of the protected material for examination would not breach that prohibition;
-
   (c) that the selection of the protected material for examination in breach of that prohibition is authorised by subsection (5);
-
   (d) that the selection of the protected material for examination in breach of that prohibition is authorised by a targeted examination warrant issued under Part 5.
 
 (4) The prohibition referred to in subsection (3)(a) is that the protected material may not at any time be selected for examination if—
-
   (a) any criteria used for the selection of the material for examination are referable to an individual known to be in the British Islands at that time,
 and
   (b) the purpose of using those criteria is to identify protected material consisting of communications sent by, or intended for, that individual or private information relating to that individual.
@@ -1322,17 +1115,13 @@ and
 It does not matter for the purposes of this subsection whether the identity of the individual is known.
 
 (5) The selection of protected material (“the relevant material”) for examination is authorised by this subsection if—
-
   (a) criteria referable to an individual have been, or are being, used for the selection of material for examination in circumstances falling within subsection (3)(a) or (b),
-
   (b) at any time it appears to the person to whom the warrant is addressed that there has been a relevant change of circumstances in relation to the individual (see subsection (6)) which would mean that the selection of
 the relevant material for examination would breach the prohibition in subsection (4),
-
   (c) since that time, a written authorisation to examine the relevant material using those criteria has been given by a senior officer, and
   (d) the selection of the relevant material for examination is made before the end of the permitted period (see subsection (7)).
 
 (6) For the purposes of subsection (5)(b) there is a relevant change of circumstances in relation to an individual if—
-
   (a) the individual has entered the British Islands, or
   (b) a belief by the person to whom the warrant is addressed that the individual was outside the British Islands was in fact mistaken.
 
@@ -1346,13 +1135,10 @@ the relevant material for examination would breach the prohibition in subsection
 (8) In a case where the selection of protected material for examination is authorised by subsection (5), the person to whom the warrant is addressed must notify the Secretary of State that the selection is being carried out.
 
 (9) In this section, “protected material” means any material obtained under the warrant other than material which is—
-
   (a) equipment data;
-
   (b) information (other than a communication or equipment data) which is not private information.
 171 Additional safeguards for items subject to legal privilege
 (1) Subsection (2) applies if, in a case where protected material obtained under a bulk equipment interference warrant is to be selected for examination—
-
   (a) the selection of the material for examination meets any of the selection conditions in section 170(3)(a) to (c), and
   (b) either—
     (i) the purpose, or one of the purposes, of using the criteria to be used for the selection of the material for examination (“the relevant criteria”) is to identify any items subject to legal privilege, or
@@ -1361,7 +1147,6 @@ the relevant material for examination would breach the prohibition in subsection
 (2) The material may be selected for examination using the relevant criteria only if a senior official acting on behalf of the Secretary of State has approved the use of those criteria.
 
 (3) A senior official may give an approval under subsection (2) only if—
-
   (a) the official considers that the arrangements made for the purposes of section 168 (safeguards relating to retention and disclosure of material)
 
 include specific arrangements for the handling, retention, use and destruction of items subject to legal privilege, and

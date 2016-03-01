@@ -13,7 +13,6 @@ by telecommunications operators and postal operators in complying with this Act.
 (4) Such terms and conditions may, in particular, include a condition on the operator concerned to comply with any audit that may reasonably be required to monitor the claim for costs.
 
 (5) The arrangements may provide for the Secretary of State to determine—
-
   (a) the scope and extent of the arrangements, and
   (b) the appropriate level of contribution which should be made in each case.
 
@@ -25,7 +24,6 @@ by telecommunications operators and postal operators in complying with this Act.
 214 Power to develop compliance systems etc.
 
 (1) The Secretary of State may—
-
   (a) develop, provide, maintain or improve, or
   (b) enter into financial or other arrangements with any person for the development, provision, maintenance or improvement of,
 
@@ -34,7 +32,6 @@ such apparatus, systems or other facilities or services as the Secretary of Stat
 (2) Arrangements falling within subsection (1)(b) may, in particular, include arrangements consisting of the giving of financial assistance by the Secretary of State.
 
 (3) Such financial assistance—
-
   (a) may, in particular, be given by way of—
     (i) grant,
     (ii) loan,
@@ -48,16 +45,12 @@ Additional powers 215 Amendments of the Intelligence Services Act 1994
 (1) The Intelligence Services Act 1994 is amended as follows.
 
 (2) In section 3 (the Government Communications Headquarters)—
-
   (a) in subsection (1)(a), after “monitor” insert “, make use of”, and
   (b) in the words following subsection (1)(b)(ii), for the words from “or to any other organisation” to the end substitute “or, in such cases as it considers appropriate, to other organisations or persons, or to the general public, in the United Kingdom or elsewhere.”
 
 (3) In section 5 (warrants: general)—
-
   (a) in subsection (2), omit “, subject to subsection (3) below,”
-
   (b) omit subsection (3),
-
   (c) in subsection (3A), after “1989” insert “, or on the application of the Intelligence Service or GCHQ for the purposes of the exercise of their functions by virtue of section 1(2)(c) or 3(2)(c),”.
 216 National security notices
 (1) The Secretary of State may give any telecommunications operator in the United Kingdom a notice (a “national security notice”) requiring the operator to take such specified steps as the Secretary of State considers necessary in the interests of national security.
@@ -65,11 +58,9 @@ Additional powers 215 Amendments of the Intelligence Services Act 1994
 (2) The Secretary of State may give a national security notice only if the Secretary of State considers that the conduct required by the notice is proportionate to what is sought to be achieved by that conduct.
 
 (3) A national security notice may, in particular, require the operator to whom it is given—
-
   (a) to carry out any conduct, including the provision of services or facilities, for the purpose of—
     (i) facilitating anything done by an intelligence service under any enactment other than this Act, or
     (ii) dealing with an emergency (within the meaning of Part 1 of the Civil Contingencies Act 2004);
-
   (b) to provide services or facilities for the purpose of assisting an intelligence service to carry out its functions more securely or more effectively.
 
 (4) But a national security notice may not require the taking of any steps the main purpose of which is to do something for which a warrant or authorisation is required under this Act.
@@ -79,7 +70,6 @@ Additional powers 215 Amendments of the Intelligence Services Act 1994
 (6) Sections 218 to 220 contain further provision about national security notices.
 217 Maintenance of technical capability
 (1) The Secretary of State may give a relevant operator a notice (a “technical capability notice”)—
-
   (a) imposing on the relevant operator any applicable obligations specified in the notice, and
   (b) requiring the person to take all the steps specified in the notice for the purpose of complying with those obligations.
 
@@ -93,29 +83,20 @@ Additional powers 215 Amendments of the Intelligence Services Act 1994
     (b) a telecommunications operator, or (c) a person who is proposing to become a postal operator or a telecommunications operator.
 
 (3) Regulations under this section may specify an obligation that may be imposed on any relevant operators only if the Secretary of State considers it is reasonable to do so for the purpose of securing—
-
   (a) that it is (and remains) practicable to impose requirements on those relevant operators to provide assistance in relation to relevant authorisations (see subsection (9)), and
   (b) that it is (and remains) practicable for those relevant operators to comply with those requirements.
 
 (4) The obligations that may be specified in regulations under this section include,
 among other things—
-
   (a) obligations to provide facilities or services of a specified description;
-
   (b) obligations relating to apparatus owned or operated by a relevant operator;
-
   (c) obligations relating to the removal by a relevant operator of electronic protection applied by or on behalf of that operator to any communications or data;
-
   (d) obligations relating to the security of any postal or telecommunications services provided by a relevant operator;
-
   (e) obligations relating to the handling or disclosure of any information.
 
 (5) Before making any regulations under this section, the Secretary of State must consult the following persons—
-
   (a) the Technical Advisory Board,
-
   (b) persons appearing to the Secretary of State to be likely to be subject to any obligations specified in the regulations,
-
   (c) persons representing persons falling within paragraph (b), and
   (d) persons with statutory functions in relation to persons falling within that paragraph.
 
@@ -126,27 +107,21 @@ among other things—
 (8) A technical capability notice may be given to persons outside the United Kingdom (and may require things to be done, or not to be done, outside the United Kingdom).
 
 (9) In this section “relevant authorisation” means—
-
   (a) any warrant issued under Part 2, 5 or 6, or
   (b) any authorisation or notice given under Part 3.
 
 (10) Sections 218 to 220 contain further provision about technical capability notices.
 218 Further provision about notices under section 216 or 217
 (1) In this section “relevant notice” means—
-
   (a) a national security notice under section 216, or
   (b) a technical capability notice under section 217.
 
 (2) Before giving a relevant notice to a person, the Secretary of State must consult that person.
 
 (3) Before giving a relevant notice, the Secretary of State must, among other matters, take into account—
-
   (a) the likely benefits of the notice,
-
   (b) the likely number of users (if known) of any postal or telecommunications service to which the notice relates,
-
   (c) the technical feasibility of complying with the notice,
-
   (d) the likely cost of complying with the notice, and
   (e) any other effect of the notice on the person (or description of person) to whom it relates.
 
@@ -156,9 +131,7 @@ and likely cost, of complying with those obligations.
 (5) A relevant notice must be in writing.
 
 (6) A technical capability notice may be given to a person outside the United Kingdom in any of the following ways (as well as by electronic or other means of giving a notice)—
-
   (a) by delivering it to the person’s principal office within the United Kingdom or, if the person has no such office in the United Kingdom, to any place in the United Kingdom where the person carries on business or conducts activities;
-
   (b) if the person has specified an address in the United Kingdom as one at which the person, or someone on the person’s behalf, will accept documents of the same description as a notice, by delivering it to that address.
 
 (7) The Secretary of State may by regulations make further provision about the giving of relevant notices.
@@ -168,7 +141,6 @@ and likely cost, of complying with those obligations.
 (9) A person to whom a relevant notice is given must comply with the notice.
 
 (10) The duty imposed by subsection (9) is enforceable—
-
   (a) in relation to a person in the United Kingdom, and
   (b) so far as relating to a technical capability notice within subsection (11),
 in relation to a person outside the United Kingdom,
@@ -176,24 +148,18 @@ in relation to a person outside the United Kingdom,
 by civil proceedings by the Secretary of State for an injunction, or for specific performance of a statutory duty under section 45 of the Court of Session Act 1988, or for any other appropriate relief.
 
 (11) A technical capability notice is within this subsection if it relates to any of the following—
-
   (a) a targeted interception warrant or mutual assistance warrant under Chapter 1 of Part 2;
-
   (b) a bulk interception warrant;
-
   (c) an authorisation or notice given under Part 3.
 219 Variation and revocation of notices
 (1) In this section “relevant notice” means—
-
   (a) a national security notice under section 216, or
   (b) a technical capability notice under section 217.
 
 (2) The Secretary of State must keep each relevant notice under review.
 
 (3) The Secretary of State may—
-
   (a) vary a relevant notice;
-
   (b) revoke a relevant notice (whether wholly or in part).
 4) The Secretary of State may vary a national security notice only if the Secretary of State considers that the conduct required by the notice as varied is proportionate to what is sought to be achieved by that conduct.
 
@@ -217,7 +183,6 @@ the Secretary of State must give that person notice of the variation or revocati
 (4) The Secretary of State must review any notice so far as referred to the Secretary of State under subsection (1).
 
 (5) Before deciding the review, the Secretary of State must consult—
-
   (a) the Technical Advisory Board, and
   (b) the Investigatory Powers Commissioner.
 
@@ -226,14 +191,12 @@ the Secretary of State must give that person notice of the variation or revocati
 (7) The Commissioner must consider whether the notice so far as referred is proportionate.
 
 (8) The Board and the Commissioner must—
-
   (a) give the person concerned and the Secretary of State the opportunity to provide evidence, or make representations, to them before reaching their conclusions, and
   (b) report their conclusions to—
     (i) the person, and
     (ii) the Secretary of State.
 
 (9) The Secretary of State may, after considering the conclusions of the Board and the Commissioner—
-
   (a) vary or revoke the notice under section 219, or
   (b) give a notice under this section to the person confirming its effect.
 
@@ -252,7 +215,6 @@ Wireless telegraphy 221 Amendments of the Wireless Telegraphy Act 2006
 (4) After subsection (3) insert—
 
 “(3A) A person does not commit an offence under this section consisting in any conduct if the conduct—
-
   (a) constitutes an offence under section 2 of the Investigatory Powers Act 2016 (offence of unlawful interception), or
   (b) would do so in the absence of any lawful authority (within the meaning of section 5 of that Act).”
 
@@ -261,9 +223,7 @@ Wireless telegraphy 221 Amendments of the Wireless Telegraphy Act 2006
 (6) Omit section 49 (interception authorities).
 
 (7) In consequence of the repeal made by subsection (6)—
-
   (a) in sections 50(5) and 119(2)(a), for “49” substitute “48”;
-
   (b) in section 121(2), omit paragraph (b).
 CHAPTER 2 General Review of operation of Act 222 Review of operation of Act
 (1) The Secretary of State must, within the period of 6 months beginning with the end of the initial period, prepare a report on the operation of this Act.
@@ -273,7 +233,6 @@ CHAPTER 2 General Review of operation of Act 222 Review of operation of Act
 (3) In preparing the report under subsection (1), the Secretary of State must, in particular, take account of any report on the operation of this Act made by a Select Committee of either House of Parliament (whether acting alone or jointly).
 
 (4) The Secretary of State must—
-
   (a) publish the report prepared under subsection (1), and
   (b) lay a copy of it before Parliament.
 Interpretation 223 Telecommunications definitions
@@ -282,19 +241,16 @@ Interpretation 223 Telecommunications definitions
 Communication
 (2) “Communication”, in relation to a telecommunications operator,
 telecommunications service or telecommunication system, includes—
-
   (a) anything comprising speech, music, sounds, visual images or data of any description, and
   (b) signals serving either for the impartation of anything between persons,
 between a person and a thing or between things or for the actuation or control of any apparatus.
 
 Entity data
 (3) “Entity data” means any data which—
-
   (a) is about—
     (i) an entity,
     (ii) an association between a telecommunications service and an entity, or
     (iii) an association between any part of a telecommunication system and an entity,
-
   (b) consists of, or includes, data which identifies or describes the entity (whether or not by reference to the entity’s location), and
   (c) is not events data.
 
@@ -304,12 +260,10 @@ Events data
 Communications data
 (5) “Communications data”, in relation to a telecommunications operator,
 telecommunications service or telecommunication system, means entity data or events data—
-
   (a) which is (or is to be or is capable of being) held or obtained by, or on behalf of, a telecommunications operator and—
     (i) is about an entity to which a telecommunications service is provided and relates to the provision of the service,
     (ii) is comprised in, included as part of, attached to or logically associated with a communication (whether by the sender or otherwise) for the purposes of a telecommunication system by means of which the communication is being or may be transmitted, or
     (iii) does not fall within sub-paragraph (i) or (ii) but does relate to the use of a telecommunications service or a telecommunication system,
-
   (b) which is available directly from a telecommunication system and falls within sub-paragraph (ii) of paragraph (a), or
   (c) which—
     (i) is (or is to be or is capable of being) held or obtained by, or on behalf of, a telecommunications operator,
@@ -321,7 +275,6 @@ but does not include any content of a communication or anything which, in the ab
 Content of a communication
 (6) “Content”, in relation to a communication and a telecommunications operator,
 telecommunications service or telecommunication system, means any element of the communication, or any data attached to or logically associated with the communication, which reveals anything of what might reasonably be considered to be the meaning (if any) of the communication, but—
-
   (a) any meaning arising from the fact of the communication or from any data relating to the transmission of the communication is to be disregarded, and
   (b) anything which is systems data is not content.
 
@@ -332,13 +285,11 @@ Other definitions
 in any one or more parts of the United Kingdom.
 
 (9) “Public telecommunication system” means a telecommunication system located in the United Kingdom—
-
   (a) by means of which any public telecommunications service is provided,
 or
   (b) which consists of parts of any other telecommunication system by means of which any such service is provided.
 
 (10) “Telecommunications operator” means a person who—
-
   (a) offers or provides a telecommunications service to persons in the United Kingdom, or
   (b) controls or provides a telecommunication system which is (wholly or partly)—
     (i) in the United Kingdom, or
@@ -351,9 +302,7 @@ or
 (13) “Telecommunication system” means a system (including the apparatus comprised in it) that exists (whether wholly or partly in the United Kingdom or elsewhere) for the purpose of facilitating the transmission of communications by any means involving the use of electrical or electromagnetic energy.
 
 (14) “Private telecommunication system” means any telecommunication system which—
-
   (a) is not a public telecommunication system,
-
   (b) is attached, directly or indirectly, to a public telecommunication system (whether or not for the purposes of the communication in question),
 and
   (c) includes apparatus which is both located in the United Kingdom and used (with or without other apparatus) for making the attachment to that public telecommunication system.
@@ -366,20 +315,15 @@ Communication
 Communications data
 (3) “Communications data”, in relation to a postal operator or postal service,
 means—
-
   (a) postal data comprised in, included as part of, attached to or logically associated with a communication (whether by the sender or otherwise)
 for the purposes of a postal service by means of which it is being or may be transmitted,
-
   (b) information about the use made by any person of a postal service (but excluding any content of a communication (apart from information within paragraph (a)), or
   (c) information not within paragraph (a) or (b) that is (or is to be) held or obtained by or on behalf of a person providing a postal service, is about those to whom the service is provided by that person and relates to the service so provided.
 
 Postal data
 (4) “Postal data” means data which—
-
   (a) identifies, or purports to identify, any person, apparatus or location to or from which a communication is or may be transmitted,
-
   (b) identifies or selects, or purports to identify or select, apparatus through which, or by means of which, a communication is or may be transmitted,
-
   (c) identifies, or purports to identify, the time at which an event relating to a communication occurs, or
   (d) identifies the data or other data as data comprised in, included as part of, attached to or logically associated with a particular communication.
 
@@ -387,14 +331,12 @@ For the purposes of this definition “data”, in relation to a postal item, in
 
 Other definitions
 (5) “Postal item” means—
-
   (a) any letter, postcard or other such thing in writing as may be used by the sender for imparting information to the recipient, or
   (b) any packet or parcel.
 
 (6) “Postal operator” means a person providing a postal service to persons in the United Kingdom.
 
 (7) “Postal service” means a service that—
-
   (a) consists in the following, or in any one or more of them, namely, the collection, sorting, conveyance, distribution and delivery (whether in the United Kingdom or elsewhere) of postal items, and
   (b) has as its main purpose, or one of its main purposes, to make available,
 or to facilitate, a means of transmission from place to place of postal items containing communications.
@@ -484,37 +426,26 @@ or to facilitate, a means of transmission from place to place of postal items co
     “working day” means a day other than a Saturday, a Sunday, Christmas Day, Good Friday or a bank holiday under the Banking and Financial Dealings Act 1971 in any part of the United Kingdom.
 
 (2) In this Act “identifying data” means—
-
   (a) data which may be used to identify, or assist in identifying, any person,
 apparatus, system or service,
-
   (b) data which may be used to identify any event, or
   (c) data which may be used to identify the location of any person, event or thing.
 
 (3) For the purposes of subsection (2), the reference to data which may be used to identify any event includes—
-
   (a) data relating to the fact of the event;
-
   (b) data relating to the type, method or pattern of event;
-
   (c) data relating to the time or duration of the event.
 
 (4) In this Act “systems data” means any data that enables or facilitates, or identifies or describes anything connected with enabling or facilitating, the functioning of any of the following—
-
   (a) a postal service;
-
   (b) a telecommunication system (including any apparatus forming part of the system);
-
   (c) any telecommunications service provided by means of a telecommunication system;
-
   (d) a relevant system (including any apparatus forming part of the system);
-
   (e) any service provided by means of a relevant system.
 
 (5) For the purposes of subsection (4), a system is a “relevant system” if any communications or other information are held on or by means of the system.
 
 (6) For the purposes of this Act detecting crime or serious crime is to be taken to include—
-
   (a) establishing by whom, for what purpose, by what means and generally in what circumstances any crime or (as the case may be) serious crime was committed, and
   (b) the apprehension of the person by whom any crime or (as the case may be) serious crime was committed.
 
@@ -586,7 +517,6 @@ Supplementary provision 227 Offences by bodies corporate etc.
 (1) This section applies if an offence under this Act is committed by a body corporate or a Scottish partnership.
 
 (2) If the offence is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of—
-
   (a) a senior officer of the body corporate or Scottish partnership, or
   (b) a person purporting to act in such a capacity,
 
@@ -601,9 +531,7 @@ the senior officer or person (as well as the body corporate or partnership) is g
 
 228 Regulations
 (1) Any power of the Secretary of State or the Treasury to make regulations under this Act—
-
   (a) is exercisable by statutory instrument,
-
   (b) may be exercised so as to make different provision for different purposes or different areas, and
   (c) includes power to make supplementary, incidental, consequential,
 transitional, transitory or saving provision.
@@ -611,21 +539,13 @@ transitional, transitory or saving provision.
 (2) See sections 63(3) and 64(6) for the procedure for a statutory instrument containing regulations under section 62 to which section 63 applies or (as the case may be) regulations under section 64(4) to which section 64(5) applies (enhanced affirmative procedure).
 
 (3) A statutory instrument containing regulations under—
-
   (a) section 10(4) or 232(2) which amend or repeal any provision of primary legislation,
-
   (b) section 39(2),
-
   (c) section 45(4),
-
   (d) section 74,
-
   (e) section 80(1),
-
   (f) section 205,
-
   (g) section 211,
-
   (h) section 217,
     (i) section 220(1), or
   (j) paragraph 33 of Schedule 8,
@@ -633,24 +553,17 @@ transitional, transitory or saving provision.
 may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
 
 (4) A statutory instrument containing—
-
   (a) regulations under section 10(4) or 232(2) to which subsection (3) does not apply,
-
   (b) regulations under section 56(5), or
   (c) regulations under paragraph 2(1)(b) of Schedule 5,
 
 is (if a draft of the instrument has not been laid before, and approved by a resolution of, each House of Parliament) subject to annulment in pursuance of a resolution of either House of Parliament.
 
 (5) A statutory instrument containing—
-
   (a) regulations under section 8(3),
-
   (b) regulations under section 50(7)(a),
-
   (c) regulations under section 62 to which section 63 does not apply,
-
   (d) regulations under section 64(4) to which section 64(5) does not apply,
-
   (e) regulations under section 115(6)(a), or
   (f) regulations under section 218(7),
 
@@ -663,11 +576,8 @@ is subject to annulment in pursuance of a resolution of either House of Parliame
 (8) A statutory instrument containing regulations which are subject to a particular parliamentary procedure under this Act may also include regulations which are subject to a different or no parliamentary procedure under this Act (but this subsection does not apply to regulations mentioned in subsection (2), (4), (6) or (7)).
 
 (9) A statutory instrument which, by virtue of subsection (8), contains regulations which are subject to different parliamentary procedures, or one or more parliamentary procedure and no parliamentary procedure, is subject to whichever procedure is the higher procedure; and the order is as follows (the highest first)—
-
   (a) the procedure set out in subsection (3) (the affirmative procedure),
-
   (b) the procedure set out in subsection (5) above (the negative procedure),
-
   (c) no procedure.
 
 (10) Provision is not prevented from being included in regulations made under this Act merely because the provision could have been included in other regulations made under this Act which would have been subject to a different or no parliamentary procedure.
@@ -675,28 +585,22 @@ is subject to annulment in pursuance of a resolution of either House of Parliame
 (1) For the purposes of regulations under section 62 to which section 63 applies and regulations under section 64(4) to which section 64(5) applies, the enhanced affirmative procedure is as follows.
 
 (2) Subsection (3) applies if—
-
   (a) the Secretary of State has consulted under section 63(2) or (as the case may be) 64(5) in relation to making such regulations,
-
   (b) a period of at least 12 weeks, beginning with the day on which any such consultation first began, has elapsed, and
   (c) the Secretary of State considers it appropriate to proceed with making such regulations.
 
 (3) The Secretary of State must lay before Parliament—
-
   (a) draft regulations, and
   (b) a document which explains the regulations.
 
 (4) The Secretary of State may make regulations in the terms of the draft regulations laid under subsection (3) if, after the end of the 40-day period, the draft regulations are approved by a resolution of each House of Parliament.
 
 (5) But subsections (6) to (9) apply instead of subsection (4) if—
-
   (a) either House of Parliament so resolves within the 30-day period, or
   (b) a committee of either House charged with reporting on the draft regulations so recommends within the 30-day period and the House to which the recommendation is made does not by resolution reject the recommendation within that period.
 
 (6) The Secretary of State must have regard to—
-
   (a) any representations,
-
   (b) any resolution of either House of Parliament, and
   (c) any recommendations of a committee of either House of Parliament charged with reporting on the draft regulations,
 
@@ -705,7 +609,6 @@ made during the 60-day period with regard to the draft regulations.
 (7) If after the end of the 60-day period the draft regulations are approved by a resolution of each House of Parliament, the Secretary of State may make regulations in the terms of the draft regulations.
 
 (8) If after the end of the 60-day period the Secretary of State wishes to proceed with the draft regulations but with material changes, the Secretary of State may lay before Parliament—
-
   (a) revised draft regulations, and
   (b) a statement giving a summary of the changes proposed.
 
@@ -716,7 +619,6 @@ made during the 60-day period with regard to the draft regulations.
 (11) References in this section to the “30-day”, “40-day” and “60-day” periods in relation to any draft regulations are to the periods of 30, 40 and 60 days beginning with the day on which the draft regulations were laid before Parliament; and, for this purpose, no account is to be taken of any time during which Parliament is dissolved or prorogued or during which either House is adjourned for more than four days.
 230 Financial provisions
 There is to be paid out of money provided by Parliament—
-
   (a) any expenditure incurred by a Minister of the Crown or government department by virtue of this Act, and
   (b) any increase attributable to this Act in the sums payable by virtue of any other Act out of money so provided.
 231 Transitional, transitory or saving provision
