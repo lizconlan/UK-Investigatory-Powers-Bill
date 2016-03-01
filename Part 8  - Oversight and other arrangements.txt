@@ -1,21 +1,21 @@
 Part 8 Oversight arrangements CHAPTER 1 Investigatory Powers Commissioner and other Judicial Commissioners The Commissioners 194 Investigatory Powers Commissioner and other Judicial Commissioners 
 (1) The Prime Minister must appoint—
 
-(a) the Investigatory Powers Commissioner, and 
-(b) such number of other Judicial Commissioners as the Prime Minister considers necessary for the carrying out of the functions of the Judicial Commissioners.
+  (a) the Investigatory Powers Commissioner, and 
+  (b) such number of other Judicial Commissioners as the Prime Minister considers necessary for the carrying out of the functions of the Judicial Commissioners.
 
 (2) A person is not to be appointed as the Investigatory Powers Commissioner or another Judicial Commissioner unless the person holds or has held a high judicial office (within the meaning of Part 3 of the Constitutional Reform Act 2005).
 
 (3) Before appointing any person under subsection (1), the Prime Minister must consult—
 
-(a) the Lord Chief Justice of England and Wales,
+  (a) the Lord Chief Justice of England and Wales,
 
-(b) the Lord President of the Court of Session,
+  (b) the Lord President of the Court of Session,
 
-(c) the Lord Chief Justice of Northern Ireland,
+  (c) the Lord Chief Justice of Northern Ireland,
 
-(d) the Scottish Ministers, and 
-(e) the First Minister and deputy First Minister in Northern Ireland.
+  (d) the Scottish Ministers, and 
+  (e) the First Minister and deputy First Minister in Northern Ireland.
 
 (4) Before appointing a Judicial Commissioner under subsection (1)(b), the Prime Minister must also consult the Investigatory Powers Commissioner.
 
@@ -27,8 +27,8 @@ Part 8 Oversight arrangements CHAPTER 1 Investigatory Powers Commissioner and ot
 
 (8) References in any enactment—
 
-(a) to a Judicial Commissioner are to be read as including the Investigatory Powers Commissioner, and 
-(b) to the Investigatory Powers Commissioner are to be read, so far as necessary for the purposes of subsection (7), as references to the Investigatory Powers Commissioner or any other Judicial Commissioner.
+  (a) to a Judicial Commissioner are to be read as including the Investigatory Powers Commissioner, and 
+  (b) to the Investigatory Powers Commissioner are to be read, so far as necessary for the purposes of subsection (7), as references to the Investigatory Powers Commissioner or any other Judicial Commissioner.
 195 Terms and conditions of appointment 
 (1) Subject as follows, each Judicial Commissioner holds and vacates office in accordance with their terms and conditions of appointment.
 
@@ -41,103 +41,103 @@ Part 8 Oversight arrangements CHAPTER 1 Investigatory Powers Commissioner and ot
 (5) A Judicial Commissioner may be removed from office by the Prime Minister if,
 after the appointment of the Commissioner—
 
-(a) a bankruptcy order is made against the Commissioner or the Commissioner’s estate is sequestrated or the Commissioner makes a 
+  (a) a bankruptcy order is made against the Commissioner or the Commissioner’s estate is sequestrated or the Commissioner makes a 
 
 
 composition or arrangement with, or grants a trust deed for, the Commissioner’s creditors,
 
-(b) any of the following orders is made against the Commissioner—
+  (b) any of the following orders is made against the Commissioner—
 
-(i) a disqualification order under the Company Directors Disqualification Act 1986 or the Company Directors Disqualification (Northern Ireland) Order 2002,
+  (i) a disqualification order under the Company Directors Disqualification Act 1986 or the Company Directors Disqualification (Northern Ireland) Order 2002,
 
 (ii) an order under section 429(2)(b) of the Insolvency Act 1986 (failure to pay under county court administration order),
 
 (iii) an order under section 429(2) of the Insolvency Act 1986 (disabilities on revocation of county court administration order),
 
-(c) the Commissioner’s disqualification undertaking is accepted under section 7 or 8 of the Company Directors Disqualification Act 1986 or under the Company Directors Disqualification (Northern Ireland)
+  (c) the Commissioner’s disqualification undertaking is accepted under section 7 or 8 of the Company Directors Disqualification Act 1986 or under the Company Directors Disqualification (Northern Ireland)
 Order 2002, or 
-(d) the Commissioner is convicted in the United Kingdom, the Channel Islands or the Isle of Man of an offence and receives a sentence of imprisonment (whether suspended or not).
+  (d) the Commissioner is convicted in the United Kingdom, the Channel Islands or the Isle of Man of an offence and receives a sentence of imprisonment (whether suspended or not).
 Main functions of Commissioners 196 Main oversight functions 
 (1) The Investigatory Powers Commissioner must keep under review (including by way of audit, inspection and investigation) the exercise by public authorities of statutory functions relating to—
 
-(a) the interception of communications,
+  (a) the interception of communications,
 
-(b) the acquisition or retention of communications data,
+  (b) the acquisition or retention of communications data,
 
-(c) the acquisition of secondary data or related systems data under Chapter 1 of Part 2 or Chapter 1 of Part 6, or 
-(d) equipment interference.
+  (c) the acquisition of secondary data or related systems data under Chapter 1 of Part 2 or Chapter 1 of Part 6, or 
+  (d) equipment interference.
 
 (2) Such statutory functions include, in particular, functions relating to the disclosure, retention or other use of—
 
-(a) any content of communications intercepted by an interception authorised or required by a warrant under Chapter 1 of Part 2 or Chapter 1 of Part 6,
+  (a) any content of communications intercepted by an interception authorised or required by a warrant under Chapter 1 of Part 2 or Chapter 1 of Part 6,
 
-(b) acquired or retained communications data,
+  (b) acquired or retained communications data,
 
-(c) data acquired as mentioned in subsection (1)(c), or 
-(d) communications, equipment data or other information acquired by means of equipment interference.
+  (c) data acquired as mentioned in subsection (1)(c), or 
+  (d) communications, equipment data or other information acquired by means of equipment interference.
 
 (3) The Investigatory Powers Commissioner must keep under review (including by way of audit, inspection and investigation)—
 
-(a) the acquisition, retention, use or disclosure of bulk personal datasets by an intelligence service,
+  (a) the acquisition, retention, use or disclosure of bulk personal datasets by an intelligence service,
 
-(b) the giving and operation of notices under section 216 (national security notices),
+  (b) the giving and operation of notices under section 216 (national security notices),
 
-(c) the exercise of functions by virtue of section 80 of the Serious Crime Act 2015 (prevention or restriction of use of communication devices by prisoners etc.),
+  (c) the exercise of functions by virtue of section 80 of the Serious Crime Act 2015 (prevention or restriction of use of communication devices by prisoners etc.),
 
-(d) the exercise of functions by virtue of Part 2 or 3 of the Regulation of Investigatory Powers Act 2000 (surveillance, covert human intelligence sources and investigation of electronic data protected by encryption etc.),
+  (d) the exercise of functions by virtue of Part 2 or 3 of the Regulation of Investigatory Powers Act 2000 (surveillance, covert human intelligence sources and investigation of electronic data protected by encryption etc.),
 
-(e) the adequacy of the arrangements by virtue of which the duties imposed by section 55 of that Act are sought to be discharged,
+  (e) the adequacy of the arrangements by virtue of which the duties imposed by section 55 of that Act are sought to be discharged,
 
-(f) the exercise of functions by virtue of the Regulation of Investigatory Powers (Scotland) Act 2000 (2000 asp 112000 asp 11) (surveillance and covert human intelligence sources),
+  (f) the exercise of functions by virtue of the Regulation of Investigatory Powers (Scotland) Act 2000 (2000 asp 112000 asp 11) (surveillance and covert human intelligence sources),
 
-(g) the exercise of functions under Part 3 of the Police Act 1997 (authorisation of action in respect of property),
+  (g) the exercise of functions under Part 3 of the Police Act 1997 (authorisation of action in respect of property),
 
-(h) the exercise by the Secretary of State of functions under sections 5 to 7 of the Intelligence Services Act 1994 (warrants for interference with wireless telegraphy, entry and interference with property etc.), and 
-(i) the exercise by the Scottish Ministers (by virtue of provision made under section 63 of the Scotland Act 1998) of functions under sections 5 and 6(3) and (4) of the Act of 1994.
+  (h) the exercise by the Secretary of State of functions under sections 5 to 7 of the Intelligence Services Act 1994 (warrants for interference with wireless telegraphy, entry and interference with property etc.), and 
+  (i) the exercise by the Scottish Ministers (by virtue of provision made under section 63 of the Scotland Act 1998) of functions under sections 5 and 6(3) and (4) of the Act of 1994.
 
 (4) But the Investigatory Powers Commissioner is not to keep under review—
 
-(a) the exercise of any function of a relevant Minister to make subordinate legislation,
+  (a) the exercise of any function of a relevant Minister to make subordinate legislation,
 
-(b) the exercise of any function by a judicial authority,
+  (b) the exercise of any function by a judicial authority,
 
-(c) the exercise of any function by virtue of Part 3 of the Regulation of Investigatory Powers Act 2000 which is exercisable with the permission of a judicial authority,
+  (c) the exercise of any function by virtue of Part 3 of the Regulation of Investigatory Powers Act 2000 which is exercisable with the permission of a judicial authority,
 
-(d) the exercise of any function which—
+  (d) the exercise of any function which—
 
-(i) is for the purpose of obtaining information or taking possession of any document or other property in connection with communications stored in or by a telecommunication system, or 
+  (i) is for the purpose of obtaining information or taking possession of any document or other property in connection with communications stored in or by a telecommunication system, or 
 (ii) is carried out in accordance with an order made by a judicial authority for that purpose,
 
 and is not exercisable by virtue of this Act, the Regulation of Investigatory Powers Act 2000, the Regulation of Investigatory Powers (Scotland) Act 2000 or an enactment mentioned in subsection (3)(c), (g),
-(h) or (i) above,
+  (h) or (i) above,
 
-(e) the exercise of any function where the conduct concerned is—
+  (e) the exercise of any function where the conduct concerned is—
 
-(i) conduct authorised by section 38, 40 or 43, or 
+  (i) conduct authorised by section 38, 40 or 43, or 
 (ii) conduct authorised by section 39 which is not conduct by or on behalf of an intercepting authority (within the meaning given by section 16(1)), or 
-(f) the exercise of any function which is subject to review by the Information Commissioner.
+  (f) the exercise of any function which is subject to review by the Information Commissioner.
 
 (5) In exercising functions under this Act, a Judicial Commissioner must not act in a way which the Commissioner considers to be contrary to the public interest or prejudicial to—
 
-(a) national security,
+  (a) national security,
 
-(b) the prevention or detection of serious crime, or 
-(c) the economic well-being of the United Kingdom.
+  (b) the prevention or detection of serious crime, or 
+  (c) the economic well-being of the United Kingdom.
 
 (6) A Judicial Commissioner must, in particular, ensure that the Commissioner does not—
 
-(a) jeopardise the success of an intelligence or security operation or a law enforcement operation,
+  (a) jeopardise the success of an intelligence or security operation or a law enforcement operation,
 
-(b) compromise the safety or security of those involved, or 
-(c) unduly impede the operational effectiveness of an intelligence service,
+  (b) compromise the safety or security of those involved, or 
+  (c) unduly impede the operational effectiveness of an intelligence service,
 a police force, a government department or Her Majesty’s forces.
 
 (7) Subsections (5) and (6) do not apply in relation to the functions of a Judicial Commissioner of—
 
-(a) deciding whether to approve the issue, modification or renewal of a warrant or authorisation,
+  (a) deciding whether to approve the issue, modification or renewal of a warrant or authorisation,
 
-(b) deciding what may be done with material when a warrant issued for what was considered to be an urgent need is cancelled, or 
-(c) reviewing any decision of the kind mentioned in paragraph (a) or (b).
+  (b) deciding what may be done with material when a warrant issued for what was considered to be an urgent need is cancelled, or 
+  (c) reviewing any decision of the kind mentioned in paragraph (a) or (b).
 
 (8) In this section—
 
@@ -161,10 +161,10 @@ a police force, a government department or Her Majesty’s forces.
 (1) So far as directed to do so by the Prime Minister and subject to subsection (2),
 the Investigatory Powers Commissioner must keep under review the carrying out of any aspect of the functions of—
 
-(a) an intelligence service,
+  (a) an intelligence service,
 
-(b) a head of an intelligence service, or 
-(c) any part of Her Majesty’s forces, or of the Ministry of Defence, so far as engaging in intelligence activities.
+  (b) a head of an intelligence service, or 
+  (c) any part of Her Majesty’s forces, or of the Ministry of Defence, so far as engaging in intelligence activities.
 
 (2) Subsection (1) does not apply in relation to anything which is required to be kept under review by the Investigatory Powers Commissioner under section 196.
 
@@ -172,17 +172,17 @@ the Investigatory Powers Commissioner must keep under review the carrying out of
 
 (4) The Prime Minister must publish, in a manner which the Prime Minister considers appropriate, any direction under this section (and any revocation of such a direction) except so far as it appears to the Prime Minister that such publication would be contrary to the public interest or prejudicial to—
 
-(a) national security,
+  (a) national security,
 
-(b) the prevention or detection of serious crime,
+  (b) the prevention or detection of serious crime,
 
-(c) the economic well-being of the United Kingdom, or 
-(d) the continued discharge of the functions of any public authority whose activities include activities that are subject to review by the Investigatory Powers Commissioner.
+  (c) the economic well-being of the United Kingdom, or 
+  (d) the continued discharge of the functions of any public authority whose activities include activities that are subject to review by the Investigatory Powers Commissioner.
 198 Error reporting 
 (1) The Investigatory Powers Commissioner must inform a person of any relevant error relating to that person of which the Commissioner is aware if the Commissioner considers that—
 
-(a) the error is a serious error, and 
-(b) it is in the public interest for the person to be informed of the error.
+  (a) the error is a serious error, and 
+  (b) it is in the public interest for the person to be informed of the error.
 
 (2) In making a decision under subsection (1)(a), the Investigatory Powers Commissioner may not decide that an error is a serious error unless the Commissioner considers that the error has caused significant prejudice or harm to the person concerned.
 
@@ -190,10 +190,10 @@ the Investigatory Powers Commissioner must keep under review the carrying out of
 
 (4) In making a decision under subsection (1)(b), the Investigatory Powers Commissioner must, in particular, consider—
 
-(a) the seriousness of the error and its effect on the person concerned, and 
-(b) the extent to which disclosing the error would be contrary to the public interest or prejudicial to—
+  (a) the seriousness of the error and its effect on the person concerned, and 
+  (b) the extent to which disclosing the error would be contrary to the public interest or prejudicial to—
 
-(i) national security,
+  (i) national security,
 
 (ii) the prevention or detection of serious crime,
 
@@ -204,40 +204,40 @@ the Investigatory Powers Commissioner must keep under review the carrying out of
 
 (6) When informing a person under subsection (1) of an error, the Investigatory Powers Commissioner must—
 
-(a) inform the person of any rights that the person may have to apply to the Investigatory Powers Tribunal, and 
-(b) provide such details of the error as the Commissioner considers to be necessary for the exercise of those rights, having regard in particular to the extent to which disclosing the details would be contrary to the public interest or prejudicial to anything falling within subsection (4)(b)(i) to (iv).
+  (a) inform the person of any rights that the person may have to apply to the Investigatory Powers Tribunal, and 
+  (b) provide such details of the error as the Commissioner considers to be necessary for the exercise of those rights, having regard in particular to the extent to which disclosing the details would be contrary to the public interest or prejudicial to anything falling within subsection (4)(b)(i) to (iv).
 
 (7) The Investigatory Powers Commissioner may not inform the person to whom it relates of a relevant error except as provided by this section.
 
 (8) A report under section 201(1) must include information about—
 
-(a) the number of relevant errors of which the Investigatory Powers Commissioner has become aware during the year to which the report relates,
+  (a) the number of relevant errors of which the Investigatory Powers Commissioner has become aware during the year to which the report relates,
 
-(b) the number of relevant errors which the Commissioner has decided during that year were serious errors, and 
-(c) the number of persons informed under subsection (1) during that year.
+  (b) the number of relevant errors which the Commissioner has decided during that year were serious errors, and 
+  (c) the number of persons informed under subsection (1) during that year.
 
 (9) In this section “relevant error” means an error—
 
-(a) by a public authority in complying with any requirements which are imposed on it by virtue of this Act or any other enactment and which are subject to review by a Judicial Commissioner, and 
-(b) of a description identified for this purpose in a code of practice under Schedule 7,
+  (a) by a public authority in complying with any requirements which are imposed on it by virtue of this Act or any other enactment and which are subject to review by a Judicial Commissioner, and 
+  (b) of a description identified for this purpose in a code of practice under Schedule 7,
 
 and the Investigatory Powers Commissioner must keep under review the definition of “relevant error”.
 199 Additional functions under this Part 
 (1) A Judicial Commissioner must give the Investigatory Powers Tribunal all such documents, information and other assistance (including the Commissioner’s opinion as to any issue falling to be determined by the Tribunal) as the Tribunal may require—
 
-(a) in connection with the investigation of any matter by the Tribunal, or 
-(b) otherwise for the purposes of the Tribunal’s consideration or determination of any matter.
+  (a) in connection with the investigation of any matter by the Tribunal, or 
+  (b) otherwise for the purposes of the Tribunal’s consideration or determination of any matter.
 
 (2) A Judicial Commissioner may provide advice or information to any public authority or other person in relation to matters for which a Judicial Commissioner is responsible.
 
 (3) But a Judicial Commissioner must consult the Secretary of State before providing any advice or information under subsection (2) if it appears to the Commissioner that providing the advice or information might be contrary to the public interest or prejudicial to—
 
-(a) national security,
+  (a) national security,
 
-(b) the prevention or detection of serious crime,
+  (b) the prevention or detection of serious crime,
 
-(c) the economic well-being of the United Kingdom, or 
-(d) the continued discharge of the functions of any public authority whose activities include activities that are subject to review by the Investigatory Powers Commissioner.
+  (c) the economic well-being of the United Kingdom, or 
+  (d) the continued discharge of the functions of any public authority whose activities include activities that are subject to review by the Investigatory Powers Commissioner.
 
 (4) Subsection (3) does not apply to any advice or information provided under subsection (2) to the Investigatory Powers Tribunal.
 200 Functions under other Parts and other enactments 
@@ -246,89 +246,89 @@ and the Investigatory Powers Commissioner must keep under review the definition 
 (2) In Part 3 of the Police Act 1997 (authorisations of action in respect of property:
 approval by Commissioners)—
 
-(a) in sections 96(1), 103(7)(b) and (8), 104(3) to (8) and 105(1) and (2) for “Chief Commissioner” substitute “Investigatory Powers Commissioner”,
+  (a) in sections 96(1), 103(7)(b) and (8), 104(3) to (8) and 105(1) and (2) for “Chief Commissioner” substitute “Investigatory Powers Commissioner”,
 
-(b) in sections 96(1), 97(1)(a) and 103(1), (2), (4) and (5)(b) for “a Commissioner appointed under section 91(1)(b)” substitute “a Judicial Commissioner”,
+  (b) in sections 96(1), 97(1)(a) and 103(1), (2), (4) and (5)(b) for “a Commissioner appointed under section 91(1)(b)” substitute “a Judicial Commissioner”,
 
-(c) in sections 96(4), 97(4) and (6) and 103(3) and (6) for “a Commissioner”
+  (c) in sections 96(4), 97(4) and (6) and 103(3) and (6) for “a Commissioner”
 substitute “a Judicial Commissioner”,
 
-(d) in section 103(7) for “a Commissioner” substitute “a Judicial Commissioner (other than the Investigatory Powers Commissioner)”,
+  (d) in section 103(7) for “a Commissioner” substitute “a Judicial Commissioner (other than the Investigatory Powers Commissioner)”,
 
-(e) in section 104(1) for “Chief Commissioner” substitute “Investigatory Powers Commissioner (except where the original decision was made by that Commissioner)”,
+  (e) in section 104(1) for “Chief Commissioner” substitute “Investigatory Powers Commissioner (except where the original decision was made by that Commissioner)”,
 
-(f) in section 104(3) and (8)(a) for “the Commissioner” substitute “the Judicial Commissioner concerned”,
+  (f) in section 104(3) and (8)(a) for “the Commissioner” substitute “the Judicial Commissioner concerned”,
 
-(g) in section 105(1)(a)(ii) and (b)(ii) for “the Commissioner” substitute “the Judicial Commissioner”, and 
-(h) in sections 97(5) and 103(9) for “A Commissioner” substitute “A Judicial Commissioner”.
+  (g) in section 105(1)(a)(ii) and (b)(ii) for “the Commissioner” substitute “the Judicial Commissioner”, and 
+  (h) in sections 97(5) and 103(9) for “A Commissioner” substitute “A Judicial Commissioner”.
 
 (3) In Part 2 of the Regulation of Investigatory Powers Act 2000 (surveillance and covert human intelligence sources: approval by Commissioners)—
 
-(a) in sections 35(1) and (4), 36(2)(a) and (5) and 37(2) to (6) and (8) for “an ordinary Surveillance Commissioner”, wherever it appears, substitute “a Judicial Commissioner”,
+  (a) in sections 35(1) and (4), 36(2)(a) and (5) and 37(2) to (6) and (8) for “an ordinary Surveillance Commissioner”, wherever it appears, substitute “a Judicial Commissioner”,
 
-(b) in sections 35(2)(b), 36(6)(g), 37(9)(b), 38(1) and (4) to (6) and 39(1), (2)
+  (b) in sections 35(2)(b), 36(6)(g), 37(9)(b), 38(1) and (4) to (6) and 39(1), (2)
 and (4) and in the heading of section 39 for “Chief Surveillance Commissioner”, wherever it appears, substitute “Investigatory Powers Commissioner”,
 
-(c) in sections 35(3)(a) and 36(4)(a) and (b) for “Surveillance Commissioner” substitute “Judicial Commissioner”,
+  (c) in sections 35(3)(a) and 36(4)(a) and (b) for “Surveillance Commissioner” substitute “Judicial Commissioner”,
 
-(d) in section 37(8)(b) for “Chief Surveillance Commissioner” substitute “Investigatory Powers Commissioner (if he is not that Commissioner)”,
+  (d) in section 37(8)(b) for “Chief Surveillance Commissioner” substitute “Investigatory Powers Commissioner (if he is not that Commissioner)”,
 
-(e) in section 38(1)(a) for “an ordinary Surveillance Commissioner”
+  (e) in section 38(1)(a) for “an ordinary Surveillance Commissioner”
 substitute “a Judicial Commissioner (other than the Investigatory Powers Commissioner)”,
 
-(f) in sections 38(5)(b) and 39(1)(b) for “ordinary Surveillance Commissioner” substitute “Judicial Commissioner”, and 
-(g) in the heading of section 38 for “Surveillance Commissioners”
+  (f) in sections 38(5)(b) and 39(1)(b) for “ordinary Surveillance Commissioner” substitute “Judicial Commissioner”, and 
+  (g) in the heading of section 38 for “Surveillance Commissioners”
 substitute “Judicial Commissioners”.
 
 (4) In Part 3 of the Act of 2000 (investigation of electronic data protected by encryption etc.)—
 
-(a) in section 51(6) (notification to Intelligence Services Commissioner or Chief Surveillance Commissioner of certain directions relating to the disclosure of a key to protected information) for the words from “done so” to the end substitute “done so to the Investigatory Powers Commissioner”,
+  (a) in section 51(6) (notification to Intelligence Services Commissioner or Chief Surveillance Commissioner of certain directions relating to the disclosure of a key to protected information) for the words from “done so” to the end substitute “done so to the Investigatory Powers Commissioner”,
 
-(b) in section 54(9) (tipping-off: protected disclosures to a relevant Commissioner) for “relevant Commissioner” substitute “Judicial Commissioner”,
+  (b) in section 54(9) (tipping-off: protected disclosures to a relevant Commissioner) for “relevant Commissioner” substitute “Judicial Commissioner”,
 
-(c) in section 55(7) (court to have regard to opinion of a relevant Commissioner in certain circumstances relating to a disclosed key) for “relevant Commissioner” substitute “Judicial Commissioner”, and 
-(d) omit sections 54(11) and 55(8) (definitions of “relevant Commissioner”).
+  (c) in section 55(7) (court to have regard to opinion of a relevant Commissioner in certain circumstances relating to a disclosed key) for “relevant Commissioner” substitute “Judicial Commissioner”, and 
+  (d) omit sections 54(11) and 55(8) (definitions of “relevant Commissioner”).
 
 (5) In the Regulation of Investigatory Powers (Scotland) Act 2000 (2000 asp 112000 asp 11)
 (surveillance and covert human intelligence sources: approval by Commissioners and review by the Chief Commissioner)—
 
-(a) in sections 13(1) and (4), 14(1)(a) and (4) and 15(1) to (5) and (7) for “an ordinary Surveillance Commissioner”, wherever it appears, substitute “a Judicial Commissioner”,
+  (a) in sections 13(1) and (4), 14(1)(a) and (4) and 15(1) to (5) and (7) for “an ordinary Surveillance Commissioner”, wherever it appears, substitute “a Judicial Commissioner”,
 
-(b) in sections 13(2)(b), 15(8)(b), 16(1) and (4) to (6) and 17 and in the heading of section 17 for “Chief Surveillance Commissioner”, wherever it appears, substitute “Investigatory Powers Commissioner”,
+  (b) in sections 13(2)(b), 15(8)(b), 16(1) and (4) to (6) and 17 and in the heading of section 17 for “Chief Surveillance Commissioner”, wherever it appears, substitute “Investigatory Powers Commissioner”,
 
-(c) in sections 13(3)(a) and 14(3)(a) and (b) for “Surveillance Commissioner” substitute “Judicial Commissioner”,
+  (c) in sections 13(3)(a) and 14(3)(a) and (b) for “Surveillance Commissioner” substitute “Judicial Commissioner”,
 
-(d) in section 15(7)(b) for “Chief Surveillance Commissioner” substitute “Investigatory Powers Commissioner (if the Commissioner is not that Commissioner)”,
+  (d) in section 15(7)(b) for “Chief Surveillance Commissioner” substitute “Investigatory Powers Commissioner (if the Commissioner is not that Commissioner)”,
 
-(e) in section 16(1)(a) for “an ordinary Surveillance Commissioner”
+  (e) in section 16(1)(a) for “an ordinary Surveillance Commissioner”
 substitute “a Judicial Commissioner (other than the Investigatory Powers Commissioner)”,
 
-(f) in sections 16(5)(b) and 17(1)(b) for “ordinary Surveillance Commissioner” substitute “Judicial Commissioner”, and 
-(g) in section 16(5) for “ordinary Surveillance Commissioner’s” substitute “Judicial Commissioner’s”.
+  (f) in sections 16(5)(b) and 17(1)(b) for “ordinary Surveillance Commissioner” substitute “Judicial Commissioner”, and 
+  (g) in section 16(5) for “ordinary Surveillance Commissioner’s” substitute “Judicial Commissioner’s”.
 
 (6) In Part 2 of the Regulation of Investigatory Powers (Covert Human Intelligence Sources: Relevant Sources) Order 2013 (S.I. 2013/2788S.I. 2013/2788) (notification of certain authorisations to, and approval of certain authorisations by, ordinary Surveillance Commissioner)—
 
-(a) in article 4(1), for “an ordinary Surveillance Commissioner” substitute “a Judicial Commissioner”,
+  (a) in article 4(1), for “an ordinary Surveillance Commissioner” substitute “a Judicial Commissioner”,
 
-(b) in article 5(8) and the heading of Part 2, for “ordinary Surveillance Commissioner” substitute “Judicial Commissioner”,
+  (b) in article 5(8) and the heading of Part 2, for “ordinary Surveillance Commissioner” substitute “Judicial Commissioner”,
 
-(c) in article 6(1) and (3) for “Chief Surveillance Commissioner” substitute “Investigatory Powers Commissioner”,
+  (c) in article 6(1) and (3) for “Chief Surveillance Commissioner” substitute “Investigatory Powers Commissioner”,
 
-(d) in article 6(1) for “an ordinary Surveillance Commissioner” substitute “a Judicial Commissioner (other than the Investigatory Powers Commissioner)”, and 
-(e) in the heading of article 6 for “Surveillance Commissioners” substitute “Judicial Commissioners”.
+  (d) in article 6(1) for “an ordinary Surveillance Commissioner” substitute “a Judicial Commissioner (other than the Investigatory Powers Commissioner)”, and 
+  (e) in the heading of article 6 for “Surveillance Commissioners” substitute “Judicial Commissioners”.
 Reports and investigation and information powers 201 Annual and other reports 
 (1) The Investigatory Powers Commissioner must, as soon as reasonably practicable after the end of each calendar year, make a report to the Prime Minister about the carrying out of the functions of the Judicial Commissioners.
 
 (2) A report under subsection (1) must, in particular, include—
 
-(a) statistics on the use of the investigatory powers which are subject to review by the Investigatory Powers Commissioner (including the number of warrants or authorisations issued, given, considered or approved during the year),
+  (a) statistics on the use of the investigatory powers which are subject to review by the Investigatory Powers Commissioner (including the number of warrants or authorisations issued, given, considered or approved during the year),
 
-(b) information about the results of such use (including its impact),
+  (b) information about the results of such use (including its impact),
 
-(c) the information on errors required by virtue of section 198(8),
+  (c) the information on errors required by virtue of section 198(8),
 
-(d) information about the funding, staffing and other resources of the Judicial Commissioners, and 
-(e) details of public engagements undertaken by the Judicial Commissioners or their staff.
+  (d) information about the funding, staffing and other resources of the Judicial Commissioners, and 
+  (e) details of public engagements undertaken by the Judicial Commissioners or their staff.
 
 (3) The Investigatory Powers Commissioner must, at any time, make any report to the Prime Minister which has been requested by the Prime Minister.
 
@@ -338,27 +338,27 @@ Reports and investigation and information powers 201 Annual and other reports
 
 (6) On receiving a report from the Investigatory Powers Commissioner under subsection (1), the Prime Minister must—
 
-(a) publish the report, and 
-(b) lay a copy of the published report before Parliament together with a statement as to whether any part of the report has been excluded from publication under subsection (7).
+  (a) publish the report, and 
+  (b) lay a copy of the published report before Parliament together with a statement as to whether any part of the report has been excluded from publication under subsection (7).
 
 (7) The Prime Minister may, after consultation with the Investigatory Powers Commissioner and (so far as the report relates to functions under Part 3 of the Police Act 1997) the Scottish Ministers, exclude from publication any part of a report under subsection (1) if, in the opinion of the Prime Minister, the publication of that part would be contrary to the public interest or prejudicial to—
 
-(a) national security,
+  (a) national security,
 
-(b) the prevention or detection of serious crime,
+  (b) the prevention or detection of serious crime,
 
-(c) the economic well-being of the United Kingdom, or 
-(d) the continued discharge of the functions of any public authority whose activities include activities that are subject to review by the Investigatory Powers Commissioner.
+  (c) the economic well-being of the United Kingdom, or 
+  (d) the continued discharge of the functions of any public authority whose activities include activities that are subject to review by the Investigatory Powers Commissioner.
 
 (8) The Prime Minister must send a copy of every report and statement as laid before Parliament under subsection (6)(b) to—
 
-(a) the Scottish Ministers, and 
-(b) the First Minister and the deputy First Minister in Northern Ireland.
+  (a) the Scottish Ministers, and 
+  (b) the First Minister and the deputy First Minister in Northern Ireland.
 
 (9) They must lay that copy report and statement before—
 
-(a) in the case of the Scottish Ministers, the Scottish Parliament, and 
-(b) in the case of the First Minister and the deputy First Minister in Northern Ireland, the Northern Ireland Assembly.
+  (a) in the case of the Scottish Ministers, the Scottish Parliament, and 
+  (b) in the case of the First Minister and the deputy First Minister in Northern Ireland, the Northern Ireland Assembly.
 
 (10) The Investigatory Powers Commissioner may publish any report under subsection (3) or (4), or any part of such a report, if requested to do so by the Prime Minister.
 202 Investigation and information powers 
@@ -377,18 +377,18 @@ inspection or audit for the purposes of the Commissioner’s functions.
 
 (7) In this section “relevant person” means—
 
-(a) any member of a public authority,
+  (a) any member of a public authority,
 
-(b) any telecommunications operator or postal operator who is, has been or may become subject to a requirement imposed by virtue of this Act,
+  (b) any telecommunications operator or postal operator who is, has been or may become subject to a requirement imposed by virtue of this Act,
 
-(c) any person who is, has been or may become subject to a requirement to provide assistance by virtue of section 34, 36, 109, 111, 131, 147, 149 or 167, or 
-(d) any person to whom a notice is given under section 49 of the Regulation of Investigatory Powers Act 2000.
+  (c) any person who is, has been or may become subject to a requirement to provide assistance by virtue of section 34, 36, 109, 111, 131, 147, 149 or 167, or 
+  (d) any person to whom a notice is given under section 49 of the Regulation of Investigatory Powers Act 2000.
 203 Information gateway 
 (1) A disclosure of information to the Investigatory Powers Commissioner or another Judicial Commissioner for the purposes of any function of the Commissioner does not breach—
 
-(a) an obligation of confidence owed by the person making the disclosure,
+  (a) an obligation of confidence owed by the person making the disclosure,
 or 
-(b) any other restriction on the disclosure of information (whether imposed by virtue of this Act or otherwise).
+  (b) any other restriction on the disclosure of information (whether imposed by virtue of this Act or otherwise).
 
 (2) But subsection (1) does not apply to a disclosure, in contravention of any provisions of the Data Protection Act 1998, of personal data which is not exempt from those provisions.
 Supplementary provision 204 Funding, staff and facilities 
@@ -397,8 +397,8 @@ Supplementary provision 204 Funding, staff and facilities
 (2) The Secretary of State must, after consultation with the Investigatory Powers Commissioner and subject to the approval of the Treasury as to numbers of staff,
 provide the Judicial Commissioners with—
 
-(a) such staff, and 
-(b) such accommodation, equipment and other facilities,
+  (a) such staff, and 
+  (b) such accommodation, equipment and other facilities,
 
 as the Secretary of State considers necessary for the carrying out of the Commissioners’
 functions.
@@ -407,38 +407,38 @@ functions.
 
 (2) But such regulations may not modify any function conferred by virtue of this Act on a Judicial Commissioner to approve, quash or cancel—
 
-(a) an authorisation or warrant, or 
-(b) the variation or renewal of an authorisation or warrant.
+  (a) an authorisation or warrant, or 
+  (b) the variation or renewal of an authorisation or warrant.
 
 (3) The power to make regulations under this section (including that power as extended by section 228(1)(c)) may, in particular, be exercised by modifying any provision made by or under an enactment (including this Act).
 206 Abolition of existing oversight bodies 
 (1) The offices of the following are abolished—
 
-(a) the Interception of Communications Commissioner,
+  (a) the Interception of Communications Commissioner,
 
-(b) the Intelligence Services Commissioner,
+  (b) the Intelligence Services Commissioner,
 
-(c) the Investigatory Powers Commissioner for Northern Ireland,
+  (c) the Investigatory Powers Commissioner for Northern Ireland,
 
-(d) the Chief Surveillance Commissioner,
+  (d) the Chief Surveillance Commissioner,
 
-(e) the other Surveillance Commissioners,
+  (e) the other Surveillance Commissioners,
 
-(f) the Scottish Chief Surveillance Commissioner, and 
-(g) the other Scottish Surveillance Commissioners.
+  (f) the Scottish Chief Surveillance Commissioner, and 
+  (g) the other Scottish Surveillance Commissioners.
 
 (2) Accordingly, the following enactments are repealed—
 
-(a) sections 57 and 58 of the Regulation of Investigatory Powers Act 2000 (the Interception of Communications Commissioner),
+  (a) sections 57 and 58 of the Regulation of Investigatory Powers Act 2000 (the Interception of Communications Commissioner),
 
-(b) sections 59, 59A and 60 of that Act (the Intelligence Services Commissioner),
+  (b) sections 59, 59A and 60 of that Act (the Intelligence Services Commissioner),
 
-(c) section 61 of that Act (the Investigatory Powers Commissioner for Northern Ireland),
+  (c) section 61 of that Act (the Investigatory Powers Commissioner for Northern Ireland),
 
-(d) sections 62 and 63 of that Act and sections 91 and 107 of the Police Act 1997 (the Surveillance Commissioners),
+  (d) sections 62 and 63 of that Act and sections 91 and 107 of the Police Act 1997 (the Surveillance Commissioners),
 
-(e) section 64 of the Regulation of Investigatory Powers Act 2000 (delegation of Commissioners’ functions), and 
-(f) sections 2(1) to (9), 3 and 4 of the Regulation of Investigatory Powers (Scotland) Act 2000 (2000 asp 112000 asp 11) (the Scottish Surveillance Commissioners).
+  (e) section 64 of the Regulation of Investigatory Powers Act 2000 (delegation of Commissioners’ functions), and 
+  (f) sections 2(1) to (9), 3 and 4 of the Regulation of Investigatory Powers (Scotland) Act 2000 (2000 asp 112000 asp 11) (the Scottish Surveillance Commissioners).
 
 (3) In this section—
 
@@ -462,23 +462,23 @@ Investigatory Powers Tribunal 208 Right of appeal from Tribunal
 
 (3) This court is whichever of the following courts appears to the Tribunal to be the most appropriate—
 
-(a) the Court of Appeal in England and Wales,
+  (a) the Court of Appeal in England and Wales,
 
-(b) the Court of Session,
+  (b) the Court of Session,
 
-(c) the Court of Appeal in Northern Ireland.
+  (c) the Court of Appeal in Northern Ireland.
 
 (4) The Secretary of State may by regulations specify criteria to be applied by the Tribunal in making decisions under subsection (2) as to the identity of the relevant appellate court.
 
 (5) An appeal under this section—
 
-(a) is to be heard by the relevant appellate court, but 
-(b) may not be made without the leave of the Tribunal or, if that is refused, of the relevant appellate court.
+  (a) is to be heard by the relevant appellate court, but 
+  (b) may not be made without the leave of the Tribunal or, if that is refused, of the relevant appellate court.
 
 (6) The Tribunal or relevant appellate court must not grant leave to appeal unless it considers that—
 
-(a) the appeal would raise an important point of principle or practice, or 
-(b) there is another compelling reason for granting leave.
+  (a) the appeal would raise an important point of principle or practice, or 
+  (b) there is another compelling reason for granting leave.
 
 (7) In this section—
 
@@ -496,27 +496,27 @@ Investigatory Powers Tribunal 208 Right of appeal from Tribunal
 
 (2) In section 67 of that Act (no appeal from the Investigatory Powers Tribunal except as provided by order of the Secretary of State)—
 
-(a) in subsection (8) for “Except to such extent as the Secretary of State may by order otherwise provide,” substitute “Except as provided by virtue of section 67A,”, and 
-(b) omit subsections (9) to (12).
+  (a) in subsection (8) for “Except to such extent as the Secretary of State may by order otherwise provide,” substitute “Except as provided by virtue of section 67A,”, and 
+  (b) omit subsections (9) to (12).
 
 (3) After section 68(4) of that Act (requirement to give notice of determinations to complainant) insert—
 
 “(4A) Where the Tribunal make any determination of a kind mentioned in subsection (4), they must also give notice to—
 
-(a) in the case of proceedings, the respondent,
+  (a) in the case of proceedings, the respondent,
 
-(b) in the case of a complaint, the person complained against, and 
-(c) in the case of a reference, any public authority to whom the reference relates.
+  (b) in the case of a complaint, the person complained against, and 
+  (c) in the case of a reference, any public authority to whom the reference relates.
 
 (4B) A notice under subsection (4A) is (subject to any rules made by virtue of section 69(2)(j)) to be confined, as the case may be, to either—
 
-(a) a statement that they have made a determination in the complainant’s favour, or 
-(b) a statement that no determination has been made in the complainant’s favour.
+  (a) a statement that they have made a determination in the complainant’s favour, or 
+  (b) a statement that no determination has been made in the complainant’s favour.
 
 (4C) Where the Tribunal make any decision which—
 
-(a) is a final decision of a preliminary issue in relation to any proceedings, complaint or reference brought before or made to them, and 
-(b) is neither a determination of a kind mentioned in subsection (4)
+  (a) is a final decision of a preliminary issue in relation to any proceedings, complaint or reference brought before or made to them, and 
+  (b) is neither a determination of a kind mentioned in subsection (4)
 nor a decision relating to a procedural matter,
 
 they must give notice of that decision to every person who would be entitled to receive notice of the determination under subsection (4) or (4A).
@@ -525,43 +525,43 @@ they must give notice of that decision to every person who would be entitled to 
 
 (4E) Subsections (4C) and (4D) do not apply so far as—
 
-(a) the Tribunal are prevented from giving notice of a decision to a person by rules made by virtue of section 69(4) or decide under such rules not to give such a notice, or 
-(b) the giving of such a notice is inconsistent with such rules.”
+  (a) the Tribunal are prevented from giving notice of a decision to a person by rules made by virtue of section 69(4) or decide under such rules not to give such a notice, or 
+  (b) the giving of such a notice is inconsistent with such rules.”
 
 (4) In section 69(2) of that Act (Tribunal rules)—
 
-(a) in paragraph (i), after “section 68(4)” insert “or notice under section 68(4C)”, and 
-(b) after paragraph (i), insert “;
+  (a) in paragraph (i), after “section 68(4)” insert “or notice under section 68(4C)”, and 
+  (b) after paragraph (i), insert “;
 
-(j) require information about any determination, award,
+  (j) require information about any determination, award,
 order or other decision made by the Tribunal in relation to any proceedings, complaint or reference to be provided (in addition to any statement under section 68(4A) or notice under section 68(4C)) to—
 
-(i) in the case of proceedings, the respondent,
+  (i) in the case of proceedings, the respondent,
 
 (ii) in the case of a complaint, the person complained against, and 
 (iii) in the case of a reference, any public authority to whom the reference relates,
 
 or to the person representing their interests;
 
-(k) make provision about the making and determination of applications to the Tribunal for permission to appeal”.
+  (k) make provision about the making and determination of applications to the Tribunal for permission to appeal”.
 
 (5) In section 78 of that Act (orders, regulations and rules)—
 
-(a) in subsection (4), after “applies” insert “(other than regulations under section 67A(4))”, and 
-(b) after subsection (4) insert—
+  (a) in subsection (4), after “applies” insert “(other than regulations under section 67A(4))”, and 
+  (b) after subsection (4) insert—
 
 “(4A) A statutory instrument containing regulations under section 67A(4) may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.”
 209 Functions of Tribunal in relation to this Act 
 (1) In section 65 of the Regulation of Investigatory Powers Act 2000 (the Investigatory Powers Tribunal)—
 
-(a) in subsection (2)(c) (jurisdiction of the Investigatory Powers Tribunal where possible detriment due to evidential bar) for “section 17”
+  (a) in subsection (2)(c) (jurisdiction of the Investigatory Powers Tribunal where possible detriment due to evidential bar) for “section 17”
 substitute “section 48 of the Investigatory Powers Act 2016”,
 
-(b) in subsection (5) (conduct in relation to which the Tribunal has jurisdiction) after paragraph (b) insert—
+  (b) in subsection (5) (conduct in relation to which the Tribunal has jurisdiction) after paragraph (b) insert—
 
 “(ba) conduct for or in connection with the obtaining of secondary data from communications transmitted by means of such a service or system;”,”
 
-(c) in subsection (5) for paragraph (c) substitute—
+  (c) in subsection (5) for paragraph (c) substitute—
 
 “(c) conduct of a kind which may be permitted or required by an authorisation or notice under Part 3 of the Investigatory Powers Act 2016 or a warrant under Chapter 2 of Part 6 of that Act (acquisition of communications data);
 
@@ -571,33 +571,33 @@ substitute “section 48 of the Investigatory Powers Act 2016”,
 
 (czc) the giving or varying of a retention notice under that Part of that Act;”,”
 
-(d) in subsection (7ZA) (role for Tribunal where judicial authority involved) for “under section 23A or 32A” substitute “by a Judicial Commissioner or under section 32A of this Act or section 66 of the Investigatory Powers Act 2016”,
+  (d) in subsection (7ZA) (role for Tribunal where judicial authority involved) for “under section 23A or 32A” substitute “by a Judicial Commissioner or under section 32A of this Act or section 66 of the Investigatory Powers Act 2016”,
 
-(e) after subsection (7ZA) insert—
+  (e) after subsection (7ZA) insert—
 
 “(7ZB) For the purposes of this section conduct also takes place in challengeable circumstances if it is, or purports to be, conduct falling within subsection (5)(cza) or (czc).”,”
 
-(f) in subsection (8) (matters that may be challenged before the Tribunal)
+  (f) in subsection (8) (matters that may be challenged before the Tribunal)
 for paragraphs (a) and (b) substitute—
 
 “(a) a warrant under Part 2, 5, 6 or 7 of the Investigatory Powers Act 2016;
 
-(b) an authorisation or notice under Part 3 of that Act;
+  (b) an authorisation or notice under Part 3 of that Act;
 
 (ba) a retention notice under Part 4 of that Act;”, and”
 
-(g) after subsection (9) insert—
+  (g) after subsection (9) insert—
 
 “(9A) In subsection (5)(ba) the reference to obtaining secondary data from communications transmitted by means of a postal service or telecommunication system is to be read in accordance with section 14 of the Investigatory Powers Act 2016”.
 
 (2) In section 67(7) of the Act of 2000 (powers of the Tribunal)—
 
-(a) after paragraph (a) insert—
+  (a) after paragraph (a) insert—
 
 “(aza) an order quashing or cancelling a notice under Part 3 of the Investigatory Powers Act 2016 or a retention notice under Part 4 of that Act;”,”
 
-(b) in paragraph (aa) for “section 23A or 32A” substitute “section 66 of the Investigatory Powers Act 2016 or section 32A of this Act”, and 
-(c) in paragraph (b) after “authorisation” insert “or by a notice under Part 3 of the Investigatory Powers Act 2016”.
+  (b) in paragraph (aa) for “section 23A or 32A” substitute “section 66 of the Investigatory Powers Act 2016 or section 32A of this Act”, and 
+  (c) in paragraph (b) after “authorisation” insert “or by a notice under Part 3 of the Investigatory Powers Act 2016”.
 
 (3) In section 68(5)(b) of the Act of 2000 (report of certain findings to the Prime Minister) after “permission” insert “, or notice under Part 4 of the Investigatory Powers Act 2016,”.
 
@@ -605,28 +605,28 @@ for paragraphs (a) and (b) substitute—
 
 (5) In section 68(7) of the Act of 2000 (persons subject to duty to co-operate with the Tribunal)—
 
-(a) in paragraph (e)—
+  (a) in paragraph (e)—
 
-(i) for “section 11” substitute “section 34, 109, 131, 147 or 167 of the Investigatory Powers Act 2016”, and 
+  (i) for “section 11” substitute “section 34, 109, 131, 147 or 167 of the Investigatory Powers Act 2016”, and 
 (ii) for “an interception warrant” substitute “a warrant”,
 
-(b) in paragraph (f) for “section 12” substitute “section 217 of that Act”,
+  (b) in paragraph (f) for “section 12” substitute “section 217 of that Act”,
 
-(c) for paragraphs (g) and (h) substitute—
+  (c) for paragraphs (g) and (h) substitute—
 
 “(g) every person by or to whom an authorisation under Part 3 of that Act has been granted;
 
-(h) every person to whom a notice under Part 3 of that Act has been given;
+  (h) every person to whom a notice under Part 3 of that Act has been given;
 
 (ha) every person to whom a retention notice under Part 4 of that Act has been given;”,”
 
-(d) in paragraph (k), for the words from “an authorisation” to the end substitute “—
+  (d) in paragraph (k), for the words from “an authorisation” to the end substitute “—
 
-(i) an authorisation under Part 3 of the Investigatory Powers Act 2016, Part 2 of this Act or Part 3 of the Police Act 1997, or 
+  (i) an authorisation under Part 3 of the Investigatory Powers Act 2016, Part 2 of this Act or Part 3 of the Police Act 1997, or 
 (ii) a warrant under Chapter 2 of Part 6 of the Investigatory Powers Act 2016;”,”
 
-(e) in paragraph (l) after “authorisation” insert “or warrant”, and 
-(f) in paragraph (n) after “(h)” insert “, (ha)”.
+  (e) in paragraph (l) after “authorisation” insert “or warrant”, and 
+  (f) in paragraph (n) after “(h)” insert “, (ha)”.
 
 (6) In section 68(8) of the Act of 2000 (meaning of “relevant Commissioner”) for the words from “Interception” to the end substitute “Investigatory Powers Commissioner or any other Judicial Commissioner”.
 Information Commissioner 210 Oversight by Information Commissioner in relation to Part 4 
@@ -636,11 +636,11 @@ Technical Advisory Board 211 Technical Advisory Board
 
 (2) The regulations providing for the membership of the Technical Advisory Board must also make provision which is calculated to ensure—
 
-(a) that the membership of the Board includes persons likely effectively to represent the interests of persons on whom obligations may be imposed by virtue of retention notices under Part 4 or technical capability notices under section 217,
+  (a) that the membership of the Board includes persons likely effectively to represent the interests of persons on whom obligations may be imposed by virtue of retention notices under Part 4 or technical capability notices under section 217,
 
-(b) that the membership of the Board includes persons likely effectively to represent the interests of persons entitled to apply for warrants under Part 2, 5, 6 or 7 or authorisations under Part 3,
+  (b) that the membership of the Board includes persons likely effectively to represent the interests of persons entitled to apply for warrants under Part 2, 5, 6 or 7 or authorisations under Part 3,
 
-(c) that such other persons (if any) as the Secretary of State considers appropriate may be appointed to be members of the Board, and 
-(d) that the Board is so constituted as to produce a balance between the representation of the interests mentioned in paragraph (a) and the representation of those mentioned in paragraph (b).
+  (c) that such other persons (if any) as the Secretary of State considers appropriate may be appointed to be members of the Board, and 
+  (d) that the Board is so constituted as to produce a balance between the representation of the interests mentioned in paragraph (a) and the representation of those mentioned in paragraph (b).
 
 (3) Regulations under this section may also make provision about quorum and the filling of vacancies. 
