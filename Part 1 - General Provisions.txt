@@ -10,6 +10,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 Part 1
 General privacy protections
+
 Overview of Act
 
 1 Overview of Act
@@ -18,8 +19,7 @@ Overview of Act
   (a) the unlawful interception of communications, and 
   (b) the unlawful obtaining of communications data.
 
-(2) It also abolishes and restricts various general powers to obtain communications data and restricts the circumstances in which equipment interference, and certain requests about the interception of communications,
-can take place.
+(2) It also abolishes and restricts various general powers to obtain communications data and restricts the circumstances in which equipment interference, and certain requests about the interception of communications, can take place.
 
 (3) Other protections for privacy—
   (a) can be found, in particular, in the regimes provided for by Parts 2 to 7 and in the oversight arrangements in Part 8, and 
@@ -27,11 +27,8 @@ can take place.
 
 (4) The regimes provided for by Parts 2 to 7 are as follows—
   (a) Part 2 and Chapter 1 of Part 6 set out circumstances in which the interception of communications is lawful and make further provision about the interception of communications and the treatment of material obtained in connection with it,
-
   (b) Part 3 and Chapter 2 of Part 6 set out circumstances in which the obtaining of communications data is lawful and make further provision about the obtaining and treatment of such data,
-
   (c) Part 4 makes provision for the retention of certain communications data,
-
   (d) Part 5 and Chapter 3 of Part 6 deal with equipment interference warrants, and 
   (e) Part 7 deals with bulk personal dataset warrants.
 
@@ -41,7 +38,7 @@ can take place.
 
 Prohibitions against unlawful interception
 
-2 Offence of unlawful interception 
+2 Offence of unlawful interception
 
 (1) A person commits an offence if—
   (a) the person intentionally intercepts a communication in the course of its transmission by means of—
@@ -82,8 +79,7 @@ Interception in relation to telecommunication systems
 
 For the meaning of “content” in relation to a communication, see section 223(6).
 
-(2) In this section “relevant act”, in relation to a telecommunication system,
-means—
+(2) In this section “relevant act”, in relation to a telecommunication system, means—
   (a) modifying, or interfering with, the system or its operation;
   (b) monitoring transmissions made by means of the system;
   (c) monitoring transmissions made by wireless telegraphy to or from apparatus that is part of the system.
@@ -100,7 +96,8 @@ means—
 
 (6) In this section “wireless telegraphy” and “wireless telegraphy apparatus” have the same meaning as in the Wireless Telegraphy Act 2006 (see sections 116 and 117 of that Act).
 
-Interception in relation to postal services 
+Interception in relation to postal services
+
 (7) Section 125(3) of the Postal Services Act 2000 applies for the purposes of determining for the purposes of this Act whether a postal item is in the course of its transmission by means of a postal service as it applies for the purposes of determining for the purposes of that Act whether a postal packet is in course of transmission by post.
 
 Interception carried out in the United Kingdom 
@@ -116,8 +113,7 @@ Interception carried out in the United Kingdom
 
 (2) References in this Act to the interception of a communication in the course of its transmission by means of a postal service do not include references to—
   (a) any conduct that takes place in relation only to so much of the communication as consists of any postal data comprised in, included as part of, attached to, or logically associated with a communication (whether by the sender or otherwise) for the purposes of any postal service by means of which it is being or may be transmitted, or 
-  (b) any conduct, in connection with conduct falling within paragraph (a),
-that gives a person who is neither the sender nor the intended recipient only so much access to a communication as is necessary for the purpose of identifying such postal data.
+  (b) any conduct, in connection with conduct falling within paragraph (a), that gives a person who is neither the sender nor the intended recipient only so much access to a communication as is necessary for the purpose of identifying such postal data.
 
 For the meaning of “postal data”, see section 224.
 
@@ -147,8 +143,7 @@ For the meaning of “postal data”, see section 224.
 
 (3) Condition A is that the Commissioner considers that—
   (a) the person has intercepted, in the United Kingdom, any communication in the course of its transmission by means of a public telecommunication system,
-  (b) the person did not have lawful authority to carry out the interception,
-and 
+  (b) the person did not have lawful authority to carry out the interception, and 
   (c) the person was not, at the time of the interception, making an attempt to act in accordance with an interception warrant which might, in the opinion of the Commissioner, explain the interception.
 
 (4) Condition B is that the Commissioner does not consider that the person has committed an offence under section 2.
@@ -211,8 +206,7 @@ Abolition of powers to obtain communications data
 
 10 Abolition or restriction of certain powers to obtain communications data 
 
-(1) Schedule 2 (which repeals certain information powers so far as they enable public authorities to secure the disclosure by a telecommunications operator or postal operator of communications data without the consent of the operator)
-has effect.
+(1) Schedule 2 (which repeals certain information powers so far as they enable public authorities to secure the disclosure by a telecommunications operator or postal operator of communications data without the consent of the operator) has effect.
 
 (2) Any general information power which—
   (a) would (apart from this subsection) enable a public authority to secure the disclosure by a telecommunications operator or postal operator of communications data without the consent of the operator, and 
@@ -243,8 +237,7 @@ Restrictions on interference with equipment
 
 (1) An intelligence service may not, for the purpose of obtaining communications,
 private information or equipment data, engage in conduct which could be authorised by an equipment interference warrant except under the authority of such a warrant if—
-  (a) the intelligence service considers that the conduct would (unless done under lawful authority) constitute one or more offences under sections 1 to 3A of the Computer Misuse Act 1990 (computer misuse offences),
-and 
+  (a) the intelligence service considers that the conduct would (unless done under lawful authority) constitute one or more offences under sections 1 to 3A of the Computer Misuse Act 1990 (computer misuse offences), and 
   (b) there is a British Islands connection.
 
 (2) For the purpose of this section, there is a British Islands connection if—
@@ -253,8 +246,7 @@ and
   (c) a purpose of the interference is to obtain—
     (i) communications sent by, or to, a person who is, or whom the intelligence service believes to be, for the time being in the British Islands,
     (ii) private information relating to an individual who is, or whom the intelligence service believes to be, for the time being in the British Islands, or 
-    (iii) equipment data which forms part of, or is connected with, communications or private information falling within sub-
-paragraph (i) or (ii).
+    (iii) equipment data which forms part of, or is connected with, communications or private information falling within sub-paragraph (i) or (ii).
 
 (3) This section does not restrict the ability of the head of an intelligence service to apply for an equipment interference warrant in cases where—
   (a) the intelligence service does not consider that the conduct for which it is seeking authorisation would (unless done under lawful authority) constitute one or more offences under sections 1 to 3A of the Computer Misuse Act 1990, or 
@@ -268,7 +260,6 @@ paragraph (i) or (ii).
 
 12 Restriction on use of section 93 of the Police Act 1997 
 
-(1) A person may not, for the purpose of obtaining communications, private information or equipment data, make an application under section 93 of the Police Act 1997 for authorisation to engage in conduct which could be authorised by a targeted equipment interference warrant if the applicant considers that the conduct would (unless done under lawful authority)
-constitute one or more offences under sections 1 to 3A of the Computer Misuse Act 1990 (computer misuse offences).
+(1) A person may not, for the purpose of obtaining communications, private information or equipment data, make an application under section 93 of the Police Act 1997 for authorisation to engage in conduct which could be authorised by a targeted equipment interference warrant if the applicant considers that the conduct would (unless done under lawful authority) constitute one or more offences under sections 1 to 3A of the Computer Misuse Act 1990 (computer misuse offences).
 
 (2) In this section, “communications”, “private information” and “equipment data” have the same meaning as in Part 5 (see section 118).
