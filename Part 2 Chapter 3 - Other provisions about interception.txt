@@ -46,29 +46,17 @@ This is subject to subsection (9).
 
 (10) In this section—
 
-    “copy”, in relation to material obtained under a warrant, means any of the     following (whether or not in documentary form)—
-    (a)
-
-    any copy, extract or summary of the material which identifies     the material as having been obtained under the warrant, and     (b)
-
-    any record which—
-    (i)
-
-    refers to any interception or to the obtaining of any     material, and     (ii)
-
-    is a record of the identities of the persons to or by whom     the material was sent, or to whom the material relates,
+    “copy”, in relation to material obtained under a warrant, means any of the following (whether or not in documentary form)—
+    (a) any copy, extract or summary of the material which identifies the material as having been obtained under the warrant, and (b) any record which—
+    (i) refers to any interception or to the obtaining of any material, and (ii) is a record of the identities of the persons to or by whom the material was sent, or to whom the material relates,
 
     and “copied” is to be read accordingly;
 
     “the issuing authority” means—
-    (a)
+    (a) the Secretary of State, in the case of warrants issued by the Secretary of State;
+    (b) the Scottish Ministers, in the case of warrants issued by the Scottish Ministers;
 
-    the Secretary of State, in the case of warrants issued by the     Secretary of State;
-    (b)
-
-    the Scottish Ministers, in the case of warrants issued by the     Scottish Ministers;
-
-    “overseas authorities” means authorities of a country or territory outside     the United Kingdom.
+    “overseas authorities” means authorities of a country or territory outside the United Kingdom.
 
 47 Safeguards relating to disclosure of material overseas 
 (1) The issuing authority must ensure, in relation to every targeted interception warrant or mutual assistance warrant issued by that authority, that arrangements are in force for securing that—
@@ -90,14 +78,10 @@ as the issuing authority considers appropriate, in relation to any of the materi
     “copy” has the same meaning as in section 46;
 
     “the issuing authority” means—
-    (a)
+    (a) the Secretary of State, in the case of warrants issued by the Secretary of State;
+    (b) the Scottish Ministers, in the case of warrants issued by the Scottish Ministers;
 
-    the Secretary of State, in the case of warrants issued by the     Secretary of State;
-    (b)
-
-    the Scottish Ministers, in the case of warrants issued by the     Scottish Ministers;
-
-    “overseas authorities” means authorities of a country or territory outside     the United Kingdom.
+    “overseas authorities” means authorities of a country or territory outside the United Kingdom.
 
 48 Exclusion of matters from legal proceedings 
 (1) No evidence may be adduced, question asked, assertion or disclosure made or other thing done in, for the purposes of or in connection with any legal proceedings or Inquiries Act proceedings which (in any manner)—
@@ -155,9 +139,9 @@ This is subject to Schedule 3 (exceptions).
 
 (5) In this section—
 
-    “Inquiries Act proceedings” means proceedings of an inquiry under the     Inquiries Act 2005;
+    “Inquiries Act proceedings” means proceedings of an inquiry under the Inquiries Act 2005;
 
-    “intercepted communication” means any communication intercepted in     the course of its transmission by means of a postal service or     telecommunication system.
+    “intercepted communication” means any communication intercepted in the course of its transmission by means of a postal service or telecommunication system.
 
 49 Duty not to make unauthorised disclosures 
 (1) A person to whom this section applies must not make an unauthorised disclosure to another person.
@@ -284,47 +268,27 @@ Interpretation 52 Part 2: interpretation
 
     “intercepting authority” is to be read in accordance with section 16;
 
-    “international mutual assistance agreement” has the meaning given by     section 8(3);
+    “international mutual assistance agreement” has the meaning given by section 8(3);
 
     “mutual assistance warrant” has the meaning given by section 13(4);
 
     “police force” means any of the following—
-    (a)
+    (a) any police force maintained under section 2 of the Police Act 1996;
+    (b) the metropolitan police force;
+    (c) the City of London police force;
+    (d) the Police Service of Scotland;
+    (e) the Police Service of Northern Ireland;
+    (f) the Ministry of Defence Police;
+    (g) the Royal Navy Police;
+    (h) the Royal Military Police;
+    (i) the Royal Air Force Police;
+    (j) the British Transport Police;
 
-    any police force maintained under section 2 of the Police Act     1996;
-    (b)
-
-    the metropolitan police force;
-    (c)
-
-    the City of London police force;
-    (d)
-
-    the Police Service of Scotland;
-    (e)
-
-    the Police Service of Northern Ireland;
-    (f)
-
-    the Ministry of Defence Police;
-    (g)
-
-    the Royal Navy Police;
-    (h)
-
-    the Royal Military Police;
-    (i)
-
-    the Royal Air Force Police;
-    (j)
-
-    the British Transport Police;
-
-    “relevant content”, in relation to a targeted examination warrant, has the     meaning given by section 13(3);
+    “relevant content”, in relation to a targeted examination warrant, has the meaning given by section 13(3);
 
     “relevant Scottish application” has the meaning given by section 20;
 
-    “secondary data” has the meaning given by section 14, and references to     obtaining secondary data from a communication are to be read in     accordance with that section;
+    “secondary data” has the meaning given by section 14, and references to obtaining secondary data from a communication are to be read in accordance with that section;
 
     “targeted examination warrant” has the meaning given by section 13(3).
 

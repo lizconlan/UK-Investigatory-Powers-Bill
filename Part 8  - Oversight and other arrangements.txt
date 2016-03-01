@@ -140,17 +140,17 @@ a police force, a government department or Her Majesty’s forces.
 
     “equipment data” has the same meaning as in Part 5 (see section 89),
 
-    “judicial authority” means a judge, court or tribunal or any person     exercising the functions of a judge, court or tribunal,
+    “judicial authority” means a judge, court or tribunal or any person exercising the functions of a judge, court or tribunal,
 
     “police force” has the same meaning as in Part 2 (see section 52(1)),
 
     “related systems data” has the meaning given by section 13(6),
 
-    “relevant Minister” means a Minister of the Crown or government     department, the Scottish Ministers, the Welsh Ministers or a Northern     Ireland department,
+    “relevant Minister” means a Minister of the Crown or government department, the Scottish Ministers, the Welsh Ministers or a Northern Ireland department,
 
     “secondary data” has the same meaning as in Part 2 (see section 14),
 
-    “statutory function” means any function conferred by virtue of this Act or     any other enactment.
+    “statutory function” means any function conferred by virtue of this Act or any other enactment.
 
 197 Additional directed oversight functions 
 (1) So far as directed to do so by the Prime Minister and subject to subsection (2),
@@ -435,13 +435,9 @@ functions.
 (3) In this section—
 
     “the other Scottish Surveillance Commissioners” means—
-    (a)
+    (a) the Surveillance Commissioners appointed under section 2(1)(b) of the Regulation of Investigatory Powers (Scotland) Act 2000, and (b) the Assistant Surveillance Commissioners appointed under section 3 of that Act,
 
-    the Surveillance Commissioners appointed under section     2(1)(b) of the Regulation of Investigatory Powers (Scotland) Act     2000, and     (b)
-
-    the Assistant Surveillance Commissioners appointed under     section 3 of that Act,
-
-    “the Scottish Chief Surveillance Commissioner” means the Chief     Surveillance Commissioner appointed under section 2(1)(a) of that Act.
+    “the Scottish Chief Surveillance Commissioner” means the Chief Surveillance Commissioner appointed under section 2(1)(a) of that Act.
 
 CHAPTER 2 Other arrangements Codes of practice 207 Codes of practice 
 Schedule 7 (codes of practice) has effect.
@@ -474,17 +470,11 @@ Investigatory Powers Tribunal 208 Right of appeal from Tribunal
 
 (7) In this section—
 
-    “relevant appellate court” has the meaning given by subsection     (2),
+    “relevant appellate court” has the meaning given by subsection (2),
 
-    “relevant person”, in relation to any proceedings, complaint or     reference, means the complainant or—
-    (a)
-
-    in the case of proceedings, the respondent,
-    (b)
-
-    in the case of a complaint, the person complained     against, and     (c)
-
-    in the case of a reference, any public authority to whom     the reference relates.”
+    “relevant person”, in relation to any proceedings, complaint or reference, means the complainant or—
+    (a) in the case of proceedings, the respondent,
+    (b) in the case of a complaint, the person complained against, and (c) in the case of a reference, any public authority to whom the reference relates.”
 
 (2) In section 67 of that Act (no appeal from the Investigatory Powers Tribunal except as provided by order of the Secretary of State)—
 

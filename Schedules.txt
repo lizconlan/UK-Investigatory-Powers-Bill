@@ -167,27 +167,21 @@ Interpretation of Part 1
 12 In this Part of this Schedule—
 
     “address” means—
-    (a)
-
-    in the case of a registered company, the address of its     registered office,
-    (b)
-
-    in the case of a person (other than a registered company)
-    carrying on a business, the address of the person’s principal     place of business in the United Kingdom, and     (c)
-
-    in any other case, the person’s last known address;
+    (a) in the case of a registered company, the address of its registered office,
+    (b) in the case of a person (other than a registered company)
+    carrying on a business, the address of the person’s principal place of business in the United Kingdom, and (c) in any other case, the person’s last known address;
 
     “the Commissioner” means the Investigatory Powers Commissioner;
 
     “enforcement obligation” has the meaning given by paragraph 3(2);
 
-    “monetary penalty notice” means a monetary penalty notice under     section 6;
+    “monetary penalty notice” means a monetary penalty notice under section 6;
 
     “notice” means notice in writing;
 
     “notice of intent” has the meaning given by paragraph 4(3);
 
-    “registered company” means a company registered under the     enactments relating to companies for the time being in force in the     United Kingdom.
+    “registered company” means a company registered under the enactments relating to companies for the time being in force in the United Kingdom.
 
 Part 2 Information provisions Information notices 
 13 (1) The Commissioner may by notice (an “information notice”) request any person on whom the Commissioner is considering whether to serve a Part 1 notice of intent or a Part 1 monetary penalty notice to provide such information as the Commissioner reasonably requires for the purpose of deciding whether to serve it.
@@ -297,17 +291,17 @@ Interpretation of Part 2
 
     “enforcement obligation” has the meaning given by paragraph 3(2);
 
-    “information” includes documents; and any reference to providing or     giving information includes a reference to producing a document;
+    “information” includes documents; and any reference to providing or giving information includes a reference to producing a document;
 
     “information notice” has the meaning given by paragraph 13(1);
 
     “notice” means notice in writing;
 
-    “Part 1 monetary penalty notice” means a monetary penalty notice     under section 6;
+    “Part 1 monetary penalty notice” means a monetary penalty notice under section 6;
 
-    “Part 1 notice of intent” means a notice of intent (within the meaning of     paragraph 4(3)) relating to a Part 1 monetary penalty notice;
+    “Part 1 notice of intent” means a notice of intent (within the meaning of paragraph 4(3)) relating to a Part 1 monetary penalty notice;
 
-    “Part 2 monetary penalty notice” means a monetary penalty notice     under paragraph 16.
+    “Part 2 monetary penalty notice” means a monetary penalty notice under paragraph 16.
 
 Section 10(1)
 SCHEDULE 2 Abolition of disclosure powers Health and Safety at Work etc. Act 1974 
@@ -345,14 +339,14 @@ Social Security Administration Act 1992
   (d) in subsection (7)—
     (i) after the definition of “bank” insert—
 
-    “““communications data” has the same meaning as in the     Investigatory Powers Act 2016 (see sections 223 and     224 of that Act);”,”
+    “““communications data” has the same meaning as in the Investigatory Powers Act 2016 (see sections 223 and 224 of that Act);”,”
     (ii) after the definition of “insurer” insert—
 
-    “““postal operator” has the same meaning as in the     Investigatory Powers Act 2016 (see section 224 of that     Act);”, and”
+    “““postal operator” has the same meaning as in the Investigatory Powers Act 2016 (see section 224 of that Act);”, and”
     (iii) for the definition of “telecommunications service”
 substitute—
 
-    “““telecommunications operator” has the same meaning     as in the Investigatory Powers Act 2016 (see section     223 of that Act).”
+    “““telecommunications operator” has the same meaning as in the Investigatory Powers Act 2016 (see section 223 of that Act).”
 
 6 In section 109C of the Social Security Administration Act 1992 (powers of entry) for subsection (6) substitute—
 
@@ -368,14 +362,14 @@ Social Security Administration (Northern Ireland) Act 1992
   (d) in subsection (7)—
     (i) after the definition of “bank” insert—
 
-    “““communications data” has the same meaning as in the     Investigatory Powers Act 2016 (see sections 223 and     224 of that Act);”,”
+    “““communications data” has the same meaning as in the Investigatory Powers Act 2016 (see sections 223 and 224 of that Act);”,”
     (ii) after the definition of “insurer” insert—
 
-    “““postal operator” has the same meaning as in the     Investigatory Powers Act 2016 (see section 224 of that     Act);”, and”
+    “““postal operator” has the same meaning as in the Investigatory Powers Act 2016 (see section 224 of that Act);”, and”
     (iii) for the definition of “telecommunications service”
 substitute—
 
-    “““telecommunications operator” has the same meaning     as in the Investigatory Powers Act 2016 (see section     223 of that Act).”.
+    “““telecommunications operator” has the same meaning as in the Investigatory Powers Act 2016 (see section 223 of that Act).”.
 
 8 In section 103C of the Social Security Administration (Northern Ireland) Act 1992 (powers of entry) for subsection (6) substitute—
 
@@ -413,14 +407,14 @@ Prevention of Social Housing Fraud (Power to Require Information) (England) Regu
   (e) in paragraph (11)—
     (i) after the definition of “bank” insert—
 
-    “““communications data” has the same meaning as in the     Investigatory Powers Act 2016 (see sections 223 and 224 of that     Act);”,”
+    “““communications data” has the same meaning as in the Investigatory Powers Act 2016 (see sections 223 and 224 of that Act);”,”
     (ii) after the definition of “family” insert—
 
-    “““postal operator” has the same meaning as in the Investigatory     Powers Act 2016 (see section 224 of that Act);”, and”
+    “““postal operator” has the same meaning as in the Investigatory Powers Act 2016 (see section 224 of that Act);”, and”
     (iii) for the definition of “telecommunications service”
 substitute—
 
-    “““telecommunications operator” has the same meaning as in the     Investigatory Powers Act 2016 (see section 223 of that Act).”
+    “““telecommunications operator” has the same meaning as in the Investigatory Powers Act 2016 (see section 223 of that Act).”
 
 Section 48 SCHEDULE 3 Exceptions to section 48 Introductory 
 1 This Schedule contains—
@@ -645,9 +639,9 @@ Proceedings for certain offences
 
 (3) In this paragraph—
 
-    “intercepted communication” and “interception-related conduct” have     the same meaning as in section 48;
+    “intercepted communication” and “interception-related conduct” have the same meaning as in section 48;
 
-    “relevant proceedings” means any proceedings mentioned in     paragraphs 4 to 19.
+    “relevant proceedings” means any proceedings mentioned in paragraphs 4 to 19.
 
 Disclosures to prosecutors and judges 
 21 (1) Nothing in section 48(1) prohibits—
@@ -945,7 +939,7 @@ the individual’s terms of employment with the civil service,
 
     “civil service” means the civil service of the State,
 
-    “TUPE regulations” means the Transfer of Undertakings (Protection of     Employment) Regulations 2006 (S.I. 2006/246S.I. 2006/246),
+    “TUPE regulations” means the Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246S.I. 2006/246),
 
 and references to the transfer of property include the grant of a lease.
 Tax in connection with transfer schemes 
@@ -972,14 +966,10 @@ Tax in connection with transfer schemes
 
 (4) In this paragraph—
 
-    “relevant tax” means income tax, corporation tax, capital gains tax, stamp     duty, stamp duty reserve tax or stamp duty land tax,
+    “relevant tax” means income tax, corporation tax, capital gains tax, stamp duty, stamp duty reserve tax or stamp duty land tax,
 
     “tax provision” means any provision—
-    (a)
-
-    about a relevant tax, and     (b)
-
-    made by an enactment,
+    (a) about a relevant tax, and (b) made by an enactment,
 
     “transfer scheme” means a transfer scheme under paragraph 3,
 
@@ -1114,12 +1104,8 @@ Section 207 SCHEDULE 7 Codes of practice Scope of codes
 
 (2) In this paragraph—
 
-    “relevant confidential information” means information which is held in     confidence by a member of a profession and consists of—
-    (a)
-
-    personal records or journalistic material which are (or would     be if held in England and Wales) excluded material as     defined by section 11 of the Police and Criminal Evidence Act     1984, or     (b)
-
-    communications between Members of Parliament and their     constituents,
+    “relevant confidential information” means information which is held in confidence by a member of a profession and consists of—
+    (a) personal records or journalistic material which are (or would be if held in England and Wales) excluded material as defined by section 11 of the Police and Criminal Evidence Act 1984, or (b) communications between Members of Parliament and their constituents,
 
 and the references in this paragraph to a member of a profession include references to any person acting in the course of any trade, business,
 profession or other occupation or for the purposes of any paid or unpaid office.
@@ -1586,11 +1572,11 @@ Regulation of Investigatory Powers Act 2000
 
 (2) For the definition of “apparatus” substitute—
 
-    “““apparatus” has the same meaning as in the Investigatory     Powers Act 2016 (see section 225(1) of that Act);”.
+    “““apparatus” has the same meaning as in the Investigatory Powers Act 2016 (see section 225(1) of that Act);”.
 
 (3) For the definition of “communication” substitute—
 
-    “““communication” has the same meaning as in the     Investigatory Powers Act 2016 (see sections 223(2) and 224(2)
+    “““communication” has the same meaning as in the Investigatory Powers Act 2016 (see sections 223(2) and 224(2)
     of that Act);”.
 
 (4) In the definition of “interception” and cognate expressions, for “section 2”
@@ -1599,7 +1585,7 @@ substitute “sections 3 and 4 of the Investigatory Powers Act 2016”.
 (5) For the definitions of “postal service” and “public postal service”
 substitute—
 
-    “““postal service” has the same meaning as in the Investigatory     Powers Act 2016 (see section 224(7) of that Act);”.
+    “““postal service” has the same meaning as in the Investigatory Powers Act 2016 (see section 224(7) of that Act);”.
 
 (6) Omit the definitions of “private telecommunication system”, “public telecommunications service” and “public telecommunication system”.
 
@@ -1777,7 +1763,7 @@ Police Reform Act 2002
 
   (b) after the definition of “Minister of the Crown” insert—
 
-    “““protected information”, in relation to a relevant     warrant, means information relating to any of the     matters mentioned in section 49(4) of the     Investigatory Powers Act 2016 in relation to the     warrant;”,”
+    “““protected information”, in relation to a relevant warrant, means information relating to any of the matters mentioned in section 49(4) of the Investigatory Powers Act 2016 in relation to the warrant;”,”
 
   (c) in the definition of “relevant authority”, for paragraph (e)
 substitute—
@@ -1787,11 +1773,7 @@ substitute—
   (d) at the end insert—
 
     “““relevant warrant” means—
-    (a)
-
-    a warrant under Chapter 1 of Part 2 of the     Investigatory Powers Act 2016, or     (b)
-
-    a warrant under Chapter 1 of Part 6 of that     Act.”
+    (a) a warrant under Chapter 1 of Part 2 of the Investigatory Powers Act 2016, or (b) a warrant under Chapter 1 of Part 6 of that Act.”
 
 Criminal Justice and Licensing (Scotland) Act 2010 (2010 asp 132010 asp 13)
 
@@ -1904,7 +1886,7 @@ substitute “section 201 of the Investigatory Powers Act 2016”.
 
 67 In section 108(1) (interpretation of Part 3) after the definition of “designated deputy” insert—
 
-    “““the Investigatory Powers Commissioner” and “Judicial     Commissioner” have the same meanings as in the     Investigatory Powers Act 2016 (see section 225(1) of that     Act);”.
+    “““the Investigatory Powers Commissioner” and “Judicial Commissioner” have the same meanings as in the Investigatory Powers Act 2016 (see section 225(1) of that Act);”.
 
 Regulation of Investigatory Powers Act 2000 
 68 The Regulation of Investigatory Powers Act 2000 is amended as follows.
@@ -1935,7 +1917,7 @@ substitute “Subsections (6) to (9) of section 201 of the Investigatory Powers 
 
 (3) After the definition of “interception warrant” insert—
 
-    “““the Investigatory Powers Commissioner” and “Judicial     Commissioner” have the same meanings as in the     Investigatory Powers Act 2016 (see section 225(1) of that     Act);”.
+    “““the Investigatory Powers Commissioner” and “Judicial Commissioner” have the same meanings as in the Investigatory Powers Act 2016 (see section 225(1) of that Act);”.
 
 Regulation of Investigatory Powers (Scotland) Act 2000 (2000 asp 112000 asp 11)
 
@@ -1978,7 +1960,7 @@ Regulation of Investigatory Powers (Scotland) Act 2000 (2000 asp 112000 asp 11)
 
 (2) After the definitions of “directed” and “intrusive” insert—
 
-    “““the Investigatory Powers Commissioner” and “Judicial     Commissioner” have the same meanings as in the     Investigatory Powers Act 2016 (see section 225(1) of that     Act);”.
+    “““the Investigatory Powers Commissioner” and “Judicial Commissioner” have the same meanings as in the Investigatory Powers Act 2016 (see section 225(1) of that Act);”.
 
 (3) Omit the definitions of “ordinary Surveillance Commissioner”,
 “Surveillance Commissioner” and “Chief Surveillance Commissioner”.

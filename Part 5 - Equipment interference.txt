@@ -45,7 +45,7 @@ means any material obtained under a bulk equipment interference warrant under Ch
 
     equipment data;
 
-    information (other than a communication or equipment data) which is     not private information.
+    information (other than a communication or equipment data) which is not private information.
 
 (10) For provision enabling the combination of targeted equipment interference warrants with certain other warrants or authorisations (including targeted examination warrants), see Schedule 8.
 
@@ -286,9 +286,9 @@ relates to a matter in respect of which a designated customs official has functi
 
 (13) In this section—
 
-    “designated customs official” has the same meaning as in Part 1 of the     Borders, Citizenship and Immigration Act 2009 (see section 14(6) of that     Act);
+    “designated customs official” has the same meaning as in Part 1 of the Borders, Citizenship and Immigration Act 2009 (see section 14(6) of that Act);
 
-    “immigration officer” means a person appointed as an immigration     officer under paragraph 1 of Schedule 2 to the Immigration Act 1971.
+    “immigration officer” means a person appointed as an immigration officer under paragraph 1 of Schedule 2 to the Immigration Act 1971.
 
 Approval of warrants by Judicial Commissioners 97 Approval of warrants by Judicial Commissioners 
 (1) In deciding whether to approve a person’s decision to issue a warrant under this Part, a Judicial Commissioner must review the person’s conclusions as to the following matters—
@@ -855,27 +855,17 @@ subsection (9)(b), the arrangements made for the purpose of this section are not
 
 (11) In this section—
 
-    “copy”, in relation to material obtained under a warrant, means any of the     following (whether or not in documentary form)—
-    (a)
-
-    any copy, extract or summary of the material which identifies     the material as having been obtained under the warrant, and     (b)
-
-    any record which is a record of the identities of persons who     owned, used or were in possession of the equipment which was     interfered with to obtain that material,
+    “copy”, in relation to material obtained under a warrant, means any of the following (whether or not in documentary form)—
+    (a) any copy, extract or summary of the material which identifies the material as having been obtained under the warrant, and (b) any record which is a record of the identities of persons who owned, used or were in possession of the equipment which was interfered with to obtain that material,
 
     and “copied” is to be read accordingly;
 
     “the issuing authority” means—
-    (a)
+    (a) in the case of a warrant issued under section 91 or 93, the Secretary of State;
+    (b) in the case of a warrant issued under section 92, the Scottish Ministers;
+    (c) in the case of a warrant issued under section 96, the law enforcement chief who issued the warrant (or on whose behalf it was issued);
 
-    in the case of a warrant issued under section 91 or 93, the     Secretary of State;
-    (b)
-
-    in the case of a warrant issued under section 92, the Scottish     Ministers;
-    (c)
-
-    in the case of a warrant issued under section 96, the law     enforcement chief who issued the warrant (or on whose behalf     it was issued);
-
-    “overseas authorities” means authorities of a country or territory outside     the United Kingdom.
+    “overseas authorities” means authorities of a country or territory outside the United Kingdom.
 
 113 Safeguards relating to disclosure of material or data overseas 
 (1) The issuing authority must ensure, in relation to every targeted equipment interference warrant, that arrangements are in force for securing that—
@@ -891,7 +881,7 @@ subsection (9)(b), the arrangements made for the purpose of this section are not
 
     “issuing authority” also has the same meaning as in that section;
 
-    “overseas authorities” means authorities of a country or territory outside     the United Kingdom.
+    “overseas authorities” means authorities of a country or territory outside the United Kingdom.
 
 114 Duty not to make unauthorised disclosures 
 (1) A person to whom this section applies must not make an unauthorised disclosure to another person.
@@ -1044,27 +1034,19 @@ or (ii).
 (1) In this Part—
 
     “communication” includes—
-    (a)
+    (a) anything comprising speech, music, sounds, visual images or data of any description, and (b) signals serving either for the impartation of anything between persons, between a person and a thing or between things or for the actuation or control of any apparatus;
 
-    anything comprising speech, music, sounds, visual images or     data of any description, and     (b)
-
-    signals serving either for the impartation of anything between     persons, between a person and a thing or between things or for     the actuation or control of any apparatus;
-
-    “equipment” means equipment producing electromagnetic, acoustic or     other emissions or any device capable of being used in connection with     such equipment;
+    “equipment” means equipment producing electromagnetic, acoustic or other emissions or any device capable of being used in connection with such equipment;
 
     “equipment data” has the meaning given by section 89;
 
-    “private information” includes information relating to a person’s private     or family life;
+    “private information” includes information relating to a person’s private or family life;
 
-    “protected material”, in relation to a targeted examination warrant, has     the meaning given by section 88(9);
+    “protected material”, in relation to a targeted examination warrant, has the meaning given by section 88(9);
 
     “senior official” means—
-    (a)
-
-    in the case of a targeted equipment interference warrant which     is or may be issued by the Secretary of State or a law     enforcement chief, or in the case of a targeted examination     warrant which is or may be issued by the Secretary of State, a     member of the Senior Civil Service or a member of the Senior     Management Structure of Her Majesty’s Diplomatic Service;
-    (b)
-
-    in the case of a targeted equipment interference warrant or a     targeted examination warrant which is or may be issued by the     Scottish Ministers, a member of the staff of the Scottish     Administration who is a member of the Senior Civil Service;
+    (a) in the case of a targeted equipment interference warrant which is or may be issued by the Secretary of State or a law enforcement chief, or in the case of a targeted examination warrant which is or may be issued by the Secretary of State, a member of the Senior Civil Service or a member of the Senior Management Structure of Her Majesty’s Diplomatic Service;
+    (b) in the case of a targeted equipment interference warrant or a targeted examination warrant which is or may be issued by the Scottish Ministers, a member of the staff of the Scottish Administration who is a member of the Senior Civil Service;
 
     “targeted examination warrant” has the meaning given by section 88(9).
 

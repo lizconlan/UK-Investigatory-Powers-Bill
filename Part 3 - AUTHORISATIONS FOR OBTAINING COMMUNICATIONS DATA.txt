@@ -479,9 +479,9 @@ Collaboration agreements 69 Collaboration agreements
 
 (6) In this section—
 
-    “force collaboration provision” has the meaning given by paragraph (a) of     section 22A(2) of the Police Act 1996 but as if the reference in that     paragraph to a police force included the National Crime Agency,
+    “force collaboration provision” has the meaning given by paragraph (a) of section 22A(2) of the Police Act 1996 but as if the reference in that paragraph to a police force included the National Crime Agency,
 
-    “police collaboration agreement” means a collaboration agreement under     section 22A of the Police Act 1996 which contains force collaboration     provision.
+    “police collaboration agreement” means a collaboration agreement under section 22A of the Police Act 1996 which contains force collaboration provision.
 
 70 Collaboration agreements: supplementary 
 (1) A collaboration agreement may provide for payments to be made between parties to the agreement.
@@ -535,19 +535,13 @@ or another relevant public authority, of its functions under this Part.
 
 (6) In this section—
 
-    “collaborating police force”, in relation to a police collaboration     agreement, means a police force (other than force 1) whose chief officer     of police is a party to the agreement,
+    “collaborating police force”, in relation to a police collaboration agreement, means a police force (other than force 1) whose chief officer of police is a party to the agreement,
 
     “England and Wales police force” means—
-    (a)
+    (a) any police force maintained under section 2 of the Police Act 1996 (police forces in England and Wales outside London),
+    (b) the metropolitan police force, or (c) the City of London police force,
 
-    any police force maintained under section 2 of the Police Act     1996 (police forces in England and Wales outside London),
-    (b)
-
-    the metropolitan police force, or     (c)
-
-    the City of London police force,
-
-    “police collaboration agreement” has the same meaning as in section 69     (see subsection (6) of that section),
+    “police collaboration agreement” has the same meaning as in section 69 (see subsection (6) of that section),
 
 and references in this section to an England and Wales police force or a police force include the National Crime Agency (and references to the chief officer of police include the Director General of the National Crime Agency).
 Further and supplementary provision 72 Lawfulness of conduct authorised by this Part 
@@ -649,20 +643,16 @@ or
 77 Part 3: interpretation 
 (1) In this Part—
 
-    “authorisation” means an authorisation under section 53 (including that     section as modified by sections 69 and 71),
+    “authorisation” means an authorisation under section 53 (including that section as modified by sections 69 and 71),
 
     “designated senior officer”—
-    (a)
-
-    in relation to a relevant public authority which is a local     authority, has the meaning given by section 64(2), and     (b)
-
-    in relation to any other relevant public authority, has the     meaning given by section 61(3),
+    (a) in relation to a relevant public authority which is a local authority, has the meaning given by section 64(2), and (b) in relation to any other relevant public authority, has the meaning given by section 61(3),
 
     “filtering arrangements” means any arrangements under section 58(1),
 
-    “officer”, in relation to a relevant public authority, means a person     holding an office, rank or position with that authority,
+    “officer”, in relation to a relevant public authority, means a person holding an office, rank or position with that authority,
 
-    “relevant public authority” means a public authority which is a relevant     public authority for the purposes of this Part by virtue of section 61(2)
+    “relevant public authority” means a public authority which is a relevant public authority for the purposes of this Part by virtue of section 61(2)
     or 64(1).
 
 (2) In this Part “local authority” means—
