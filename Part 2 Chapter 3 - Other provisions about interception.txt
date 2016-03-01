@@ -1,154 +1,89 @@
-CHAPTER 3 Other provisions about interception
-Restrictions on use or disclosure of material obtained under warrants etc.
-46 Safeguards relating to retention and disclosure of material
-
-(1) The issuing authority must ensure, in relation to every targeted interception
-warrant or mutual assistance warrant issued by that authority, that
-arrangements are in force for securing that the requirements of subsections (2)
+CHAPTER 3 Other provisions about interception Restrictions on use or disclosure of material obtained under warrants etc.
+46 Safeguards relating to retention and disclosure of material 
+(1) The issuing authority must ensure, in relation to every targeted interception warrant or mutual assistance warrant issued by that authority, that arrangements are in force for securing that the requirements of subsections (2)
 and (5) are met in relation to the material obtained under the warrant.
 
 This is subject to subsection (9).
 
-(2) The requirements of this subsection are met in relation to the material obtained
-under a warrant if each of the following is limited to the minimum that is
-necessary for the authorised purposes (see subsection (3))—
+(2) The requirements of this subsection are met in relation to the material obtained under a warrant if each of the following is limited to the minimum that is necessary for the authorised purposes (see subsection (3))—
 
-(a) the number of persons to whom any of the material is disclosed or
-otherwise made available;
+(a) the number of persons to whom any of the material is disclosed or otherwise made available;
 
-(b) the extent to which any of the material is disclosed or otherwise made
-available;
+(b) the extent to which any of the material is disclosed or otherwise made available;
 
 (c) the extent to which any of the material is copied;
 
 (d) the number of copies that are made.
 
-(3) For the purposes of this section something is necessary for the authorised
-purposes if, and only if—
+(3) For the purposes of this section something is necessary for the authorised purposes if, and only if—
 
-(a) it is, or is likely to become, necessary on any of the grounds falling
-within section 18 on which a warrant under Chapter 1 of this Part may
-be necessary,
+(a) it is, or is likely to become, necessary on any of the grounds falling within section 18 on which a warrant under Chapter 1 of this Part may be necessary,
 
-(b) it is necessary for facilitating the carrying out of any functions under
-this Act of the Secretary of State, the Scottish Ministers or the person to
-whom the warrant is or was addressed,
+(b) it is necessary for facilitating the carrying out of any functions under this Act of the Secretary of State, the Scottish Ministers or the person to whom the warrant is or was addressed,
 
-(c) it is necessary for facilitating the carrying out of any functions of the
-Judicial Commissioners or the Investigatory Powers Tribunal under or
-in relation to this Act,
+(c) it is necessary for facilitating the carrying out of any functions of the Judicial Commissioners or the Investigatory Powers Tribunal under or in relation to this Act,
 
-(d) it is necessary to ensure that a person (“P”) who is conducting a
-criminal prosecution has the information P needs to determine what is
-required of P by P’s duty to secure the fairness of the prosecution, or
+(d) it is necessary to ensure that a person (“P”) who is conducting a criminal prosecution has the information P needs to determine what is required of P by P’s duty to secure the fairness of the prosecution, or 
+(e) it is necessary for the performance of any duty imposed on any person by the Public Records Act 1958 or the Public Records Act (Northern Ireland) 1923.
 
-(e) it is necessary for the performance of any duty imposed on any person
-by the Public Records Act 1958 or the Public Records Act (Northern
-Ireland) 1923.
+(4) The arrangements for the time being in force under this section for securing that the requirements of subsection (2) are met in relation to the material obtained under the warrant must include arrangements for securing that every copy made of any of that material is stored, for so long as it is retained, in a secure manner.
 
-(4) The arrangements for the time being in force under this section for securing
-that the requirements of subsection (2) are met in relation to the material
-obtained under the warrant must include arrangements for securing that every
-copy made of any of that material is stored, for so long as it is retained, in a
-secure manner.
+(5) The requirements of this subsection are met in relation to the material obtained under a warrant if every copy made of any of that material (if not destroyed earlier) is destroyed as soon as there are no longer any relevant grounds for retaining it (see subsection (6)).
 
-(5) The requirements of this subsection are met in relation to the material obtained
-under a warrant if every copy made of any of that material (if not destroyed
-earlier) is destroyed as soon as there are no longer any relevant grounds for
-retaining it (see subsection (6)).
+(6) For the purposes of subsection (5), there are no longer any relevant grounds for retaining a copy of any material if, and only if—
 
-(6) For the purposes of subsection (5), there are no longer any relevant grounds for
-retaining a copy of any material if, and only if—
+(a) its retention is not necessary, or not likely to become necessary, on any of the grounds falling within section 18 on which a warrant under Chapter 1 of this Part may be necessary, and 
+(b) its retention is not necessary for any of the purposes mentioned in paragraphs (b) to (e) of subsection (3) above.
 
-(a) its retention is not necessary, or not likely to become necessary, on any
-of the grounds falling within section 18 on which a warrant under
-Chapter 1 of this Part may be necessary, and
-
-(b) its retention is not necessary for any of the purposes mentioned in
-paragraphs (b) to (e) of subsection (3) above.
-
-(7) Where an item subject to legal privilege intercepted in accordance with a
-targeted interception warrant or mutual assistance warrant is retained
-following its examination, the person to whom the warrant is addressed must
-inform the Investigatory Powers Commissioner as soon as is reasonably
-practicable.
+(7) Where an item subject to legal privilege intercepted in accordance with a targeted interception warrant or mutual assistance warrant is retained following its examination, the person to whom the warrant is addressed must inform the Investigatory Powers Commissioner as soon as is reasonably practicable.
 
 (8) Subsection (9) applies if—
 
-(a) any material obtained under the warrant has been handed over to any
-overseas authorities, or
-
+(a) any material obtained under the warrant has been handed over to any overseas authorities, or 
 (b) a copy of any such material has been given to any overseas authorities.
 
-(9) To the extent that the requirements of subsections (2) and (5) relate to any of
-the material mentioned in subsection (8)(a), or to the copy mentioned in
-subsection (8)(b), the arrangements made for the purposes of this section are
-not required to secure that those requirements are met (see instead section 47).
+(9) To the extent that the requirements of subsections (2) and (5) relate to any of the material mentioned in subsection (8)(a), or to the copy mentioned in subsection (8)(b), the arrangements made for the purposes of this section are not required to secure that those requirements are met (see instead section 47).
 
 (10) In this section—
 
-    “copy”, in relation to material obtained under a warrant, means any of the
-    following (whether or not in documentary form)—
+    “copy”, in relation to material obtained under a warrant, means any of the     following (whether or not in documentary form)—
     (a)
 
-    any copy, extract or summary of the material which identifies
-    the material as having been obtained under the warrant, and
-    (b)
+    any copy, extract or summary of the material which identifies     the material as having been obtained under the warrant, and     (b)
 
     any record which—
     (i)
 
-    refers to any interception or to the obtaining of any
-    material, and
-    (ii)
+    refers to any interception or to the obtaining of any     material, and     (ii)
 
-    is a record of the identities of the persons to or by whom
-    the material was sent, or to whom the material relates,
+    is a record of the identities of the persons to or by whom     the material was sent, or to whom the material relates,
 
     and “copied” is to be read accordingly;
 
     “the issuing authority” means—
     (a)
 
-    the Secretary of State, in the case of warrants issued by the
-    Secretary of State;
+    the Secretary of State, in the case of warrants issued by the     Secretary of State;
     (b)
 
-    the Scottish Ministers, in the case of warrants issued by the
-    Scottish Ministers;
+    the Scottish Ministers, in the case of warrants issued by the     Scottish Ministers;
 
-    “overseas authorities” means authorities of a country or territory outside
-    the United Kingdom.
+    “overseas authorities” means authorities of a country or territory outside     the United Kingdom.
 
-47 Safeguards relating to disclosure of material overseas
+47 Safeguards relating to disclosure of material overseas 
+(1) The issuing authority must ensure, in relation to every targeted interception warrant or mutual assistance warrant issued by that authority, that arrangements are in force for securing that—
 
-(1) The issuing authority must ensure, in relation to every targeted interception
-warrant or mutual assistance warrant issued by that authority, that
-arrangements are in force for securing that—
+(a) any material obtained under the warrant is handed over to overseas authorities only if the requirements of subsection (2) are met, and 
+(b) copies of any such material are given to overseas authorities only if those requirements are met.
 
-(a) any material obtained under the warrant is handed over to overseas
-authorities only if the requirements of subsection (2) are met, and
-
-(b) copies of any such material are given to overseas authorities only if
-those requirements are met.
-
-(2) The requirements of this subsection are met in the case of a warrant if it appears
-to the issuing authority—
+(2) The requirements of this subsection are met in the case of a warrant if it appears to the issuing authority—
 
 (a) that requirements corresponding to the requirements of section 46(2)
 and (5) (“the relevant requirements”) will apply, to such extent (if any)
-as the issuing authority considers appropriate, in relation to any of the
-material which is handed over, or any copy of which is given, to the
-authorities in question, and
+as the issuing authority considers appropriate, in relation to any of the material which is handed over, or any copy of which is given, to the authorities in question, and 
+(b) that restrictions are in force which would prevent, to such extent (if any) as the issuing authority considers appropriate, the doing of anything in, for the purposes of or in connection with any proceedings outside the United Kingdom which would result in a prohibited disclosure.
 
-(b) that restrictions are in force which would prevent, to such extent (if
-any) as the issuing authority considers appropriate, the doing of
-anything in, for the purposes of or in connection with any proceedings
-outside the United Kingdom which would result in a prohibited
-disclosure.
-
-(3) In subsection (2)(b) “prohibited disclosure” means a disclosure which, if made
-in the United Kingdom, would breach the prohibition in section 48(1).
+(3) In subsection (2)(b) “prohibited disclosure” means a disclosure which, if made in the United Kingdom, would breach the prohibition in section 48(1).
 
 (4) In this section—
 
@@ -157,52 +92,35 @@ in the United Kingdom, would breach the prohibition in section 48(1).
     “the issuing authority” means—
     (a)
 
-    the Secretary of State, in the case of warrants issued by the
-    Secretary of State;
+    the Secretary of State, in the case of warrants issued by the     Secretary of State;
     (b)
 
-    the Scottish Ministers, in the case of warrants issued by the
-    Scottish Ministers;
+    the Scottish Ministers, in the case of warrants issued by the     Scottish Ministers;
 
-    “overseas authorities” means authorities of a country or territory outside
-    the United Kingdom.
+    “overseas authorities” means authorities of a country or territory outside     the United Kingdom.
 
-48 Exclusion of matters from legal proceedings
+48 Exclusion of matters from legal proceedings 
+(1) No evidence may be adduced, question asked, assertion or disclosure made or other thing done in, for the purposes of or in connection with any legal proceedings or Inquiries Act proceedings which (in any manner)—
 
-(1) No evidence may be adduced, question asked, assertion or disclosure made or
-other thing done in, for the purposes of or in connection with any legal
-proceedings or Inquiries Act proceedings which (in any manner)—
+(a) discloses, in circumstances from which its origin in interception-related conduct may be inferred—
 
-(a) discloses, in circumstances from which its origin in interception-related
-conduct may be inferred—
-
-(i) any content of an intercepted communication, or
-
-(ii) any secondary data obtained from a communication, or
-
-(b) tends to suggest that any interception-related conduct has or may have
-occurred or may be going to occur.
+(i) any content of an intercepted communication, or 
+(ii) any secondary data obtained from a communication, or 
+(b) tends to suggest that any interception-related conduct has or may have occurred or may be going to occur.
 
 This is subject to Schedule 3 (exceptions).
 
 (2) “Interception-related conduct” means—
 
-(a) conduct by a person within subsection (3) that is, or in the absence of
-any lawful authority would be, an offence under section 2(1) (offence of
-unlawful interception);
+(a) conduct by a person within subsection (3) that is, or in the absence of any lawful authority would be, an offence under section 2(1) (offence of unlawful interception);
 
-(b) a breach of the prohibition imposed by section 7 (restriction on
-requesting interception by overseas authorities);
+(b) a breach of the prohibition imposed by section 7 (restriction on requesting interception by overseas authorities);
 
-(c) a breach of the prohibition imposed by section 8 (restriction on
-requesting assistance under mutual assistance agreements etc.);
+(c) a breach of the prohibition imposed by section 8 (restriction on requesting assistance under mutual assistance agreements etc.);
 
-(d) the making of an application by any person for a warrant, or the issue
-of a warrant, under Chapter 1 of this Part;
+(d) the making of an application by any person for a warrant, or the issue of a warrant, under Chapter 1 of this Part;
 
-(e) the imposition of any requirement on any person to provide assistance
-in giving effect to a targeted interception warrant or mutual assistance
-warrant.
+(e) the imposition of any requirement on any person to provide assistance in giving effect to a targeted interception warrant or mutual assistance warrant.
 
 (3) The persons referred to in subsection (2)(a) are—
 
@@ -210,74 +128,50 @@ warrant.
 
 (b) any person holding office under the Crown;
 
-(c) any person deemed to be the proper officer of Revenue and Customs by
-virtue of section 8(2) of the Customs and Excise Management Act 1979;
+(c) any person deemed to be the proper officer of Revenue and Customs by virtue of section 8(2) of the Customs and Excise Management Act 1979;
 
 (d) any person employed by, or for the purposes of, a police force;
 
 (e) any postal operator or telecommunications operator;
 
-(f) any person employed or engaged for the purposes of the business of a
-postal operator or telecommunications operator.
+(f) any person employed or engaged for the purposes of the business of a postal operator or telecommunications operator.
 
-(4) Any reference in subsection (1) to interception-related conduct also includes
-any conduct taking place before the coming into force of this section and
-consisting of—
+(4) Any reference in subsection (1) to interception-related conduct also includes any conduct taking place before the coming into force of this section and consisting of—
 
 (a) conduct by a person within subsection (3) that—
 
-(i) was an offence under section 1(1) or (2) of the Regulation of
-Investigatory Powers Act 2000 (“RIPA”), or
-
-(ii) would have been such an offence in the absence of any lawful
-authority (within the meaning of section 1(5) of RIPA);
+(i) was an offence under section 1(1) or (2) of the Regulation of Investigatory Powers Act 2000 (“RIPA”), or 
+(ii) would have been such an offence in the absence of any lawful authority (within the meaning of section 1(5) of RIPA);
 
 (b) conduct by a person within subsection (3) that—
 
-(i) was an offence under section 1 of the Interception of
-Communications Act 1985, or
+(i) was an offence under section 1 of the Interception of Communications Act 1985, or 
+(ii) would have been such an offence in the absence of subsections (2) and (3) of that section;
 
-(ii) would have been such an offence in the absence of subsections
-(2) and (3) of that section;
+(c) a breach by the Secretary of State of the duty under section 1(4) of RIPA (restriction on requesting assistance under mutual assistance agreements);
 
-(c) a breach by the Secretary of State of the duty under section 1(4) of RIPA
-(restriction on requesting assistance under mutual assistance
-agreements);
+(d) the making of an application by any person for a warrant, or the issue of a warrant, under—
 
-(d) the making of an application by any person for a warrant, or the issue
-of a warrant, under—
-
-(i) Chapter 1 of Part 1 of RIPA, or
-
+(i) Chapter 1 of Part 1 of RIPA, or 
 (ii) the Interception of Communications Act 1985;
 
-(e) the imposition of any requirement on any person to provide assistance
-in giving effect to a warrant under Chapter 1 of Part 1 of RIPA.
+(e) the imposition of any requirement on any person to provide assistance in giving effect to a warrant under Chapter 1 of Part 1 of RIPA.
 
 (5) In this section—
 
-    “Inquiries Act proceedings” means proceedings of an inquiry under the
-    Inquiries Act 2005;
+    “Inquiries Act proceedings” means proceedings of an inquiry under the     Inquiries Act 2005;
 
-    “intercepted communication” means any communication intercepted in
-    the course of its transmission by means of a postal service or
-    telecommunication system.
+    “intercepted communication” means any communication intercepted in     the course of its transmission by means of a postal service or     telecommunication system.
 
-49 Duty not to make unauthorised disclosures
-
-(1) A person to whom this section applies must not make an unauthorised
-disclosure to another person.
+49 Duty not to make unauthorised disclosures 
+(1) A person to whom this section applies must not make an unauthorised disclosure to another person.
 
 (2) A person makes an unauthorised disclosure for the purposes of this section if—
 
-(a) the person discloses any of the matters within subsection (4) in relation
-to—
+(a) the person discloses any of the matters within subsection (4) in relation to—
 
-(i) a warrant under Chapter 1 of this Part, or
-
-(ii) a warrant under Chapter 1 of Part 1 of the Regulation of
-Investigatory Powers Act 2000, and
-
+(i) a warrant under Chapter 1 of this Part, or 
+(ii) a warrant under Chapter 1 of Part 1 of the Regulation of Investigatory Powers Act 2000, and 
 (b) the disclosure is not an excepted disclosure (see section 50).
 
 (3) This section applies to the following persons—
@@ -290,29 +184,24 @@ Investigatory Powers Act 2000, and
 
 (d) any postal operator or telecommunications operator;
 
-(e) any person employed or engaged for the purposes of the business of a
-postal operator or telecommunications operator;
+(e) any person employed or engaged for the purposes of the business of a postal operator or telecommunications operator;
 
-(f) any person to whom any of the matters within subsection (4) have been
-disclosed in relation to a warrant mentioned in subsection (2)(a).
+(f) any person to whom any of the matters within subsection (4) have been disclosed in relation to a warrant mentioned in subsection (2)(a).
 
 (4) The matters referred to in subsection (2)(a) are—
 
 (a) the existence or contents of the warrant;
 
-(b) the details of the issue of the warrant or of any renewal or modification
-of the warrant;
+(b) the details of the issue of the warrant or of any renewal or modification of the warrant;
 
-(c) the existence or contents of any requirement to provide assistance in
-giving effect to the warrant;
+(c) the existence or contents of any requirement to provide assistance in giving effect to the warrant;
 
 (d) the steps taken in pursuance of the warrant or of any such requirement;
 
 (e) any of the material obtained under the warrant.
 50 Section 49: meaning of “excepted disclosure”
 
-(1) For the purposes of section 49 a disclosure made in relation to a warrant is an
-“excepted disclosure” if it falls within any of the Heads set out in—
+(1) For the purposes of section 49 a disclosure made in relation to a warrant is an “excepted disclosure” if it falls within any of the Heads set out in—
 
 (a) subsection (2) (disclosures authorised by warrant etc.);
 
@@ -326,136 +215,94 @@ giving effect to the warrant;
 
 (a) a disclosure authorised by the warrant;
 
-(b) a disclosure authorised by the person to whom the warrant is or was
-addressed or under any arrangements made by that person for the
-purposes of this section;
+(b) a disclosure authorised by the person to whom the warrant is or was addressed or under any arrangements made by that person for the purposes of this section;
 
-(c) a disclosure authorised by the terms of any requirement to provide
-assistance in giving effect to the warrant (including any requirement
-for disclosure imposed by virtue of section 34(5) or, in the case of a
-warrant under Chapter 1 of Part 1 of the Regulation of Investigatory
-Powers Act 2000 (“RIPA”), section 11(9) of RIPA).
+(c) a disclosure authorised by the terms of any requirement to provide assistance in giving effect to the warrant (including any requirement for disclosure imposed by virtue of section 34(5) or, in the case of a warrant under Chapter 1 of Part 1 of the Regulation of Investigatory Powers Act 2000 (“RIPA”), section 11(9) of RIPA).
 
 (3) Head 2 is— 
- (a) in the case of a warrant under Chapter 1 of this Part, a disclosure made
-to, or authorised by, a Judicial Commissioner;
+ (a) in the case of a warrant under Chapter 1 of this Part, a disclosure made to, or authorised by, a Judicial Commissioner;
 
-(b) in the case of a warrant under Chapter 1 of Part 1 of RIPA, a disclosure
-made to, or authorised by, the Interception of Communications
-Commissioner or a Judicial Commissioner;
+(b) in the case of a warrant under Chapter 1 of Part 1 of RIPA, a disclosure made to, or authorised by, the Interception of Communications Commissioner or a Judicial Commissioner;
 
-(c) a disclosure made to the Independent Police Complaints Commission
-for the purposes of facilitating the carrying out of any of its functions.
+(c) a disclosure made to the Independent Police Complaints Commission for the purposes of facilitating the carrying out of any of its functions.
 
 (4) Head 3 is—
 
 (a) a disclosure made by a legal adviser—
 
-(i) in contemplation of, or in connection with, any legal
-proceedings, and
-
+(i) in contemplation of, or in connection with, any legal proceedings, and 
 (ii) for the purposes of those proceedings;
 
 (b) a disclosure made—
 
-(i) by a professional legal adviser (“L”) to L’s client or a
-representative of L’s client, or
-
+(i) by a professional legal adviser (“L”) to L’s client or a representative of L’s client, or 
 (ii) by L’s client, or by a representative of L’s client, to L,
 
-in connection with the giving, by L to L’s client, of advice about the
-effect of the relevant provisions (see subsection (6)).
+in connection with the giving, by L to L’s client, of advice about the effect of the relevant provisions (see subsection (6)).
 
-(5) But a disclosure within Head 3 is not an excepted disclosure if it is made with
-a view to furthering any criminal purpose.
+(5) But a disclosure within Head 3 is not an excepted disclosure if it is made with a view to furthering any criminal purpose.
 
 (6) In subsection (4)(b) “the relevant provisions” means—
 
-(a) in the case of a warrant under Chapter 1 of this Part, the provisions of
-this Part;
+(a) in the case of a warrant under Chapter 1 of this Part, the provisions of this Part;
 
-(b) in the case of a warrant under Chapter 1 of Part 1 of RIPA, the
-provisions of that Chapter.
+(b) in the case of a warrant under Chapter 1 of Part 1 of RIPA, the provisions of that Chapter.
 
 (7) Head 4 is—
 
 (a) a disclosure that—
 
-(i) is made by a postal operator or a telecommunications operator
-in accordance with a requirement imposed by regulations made
-by the Secretary of State, and
+(i) is made by a postal operator or a telecommunications operator in accordance with a requirement imposed by regulations made by the Secretary of State, and 
+(ii) relates to the number of warrants under Chapter 1 of this Part to which the operator has given effect or has been involved in giving effect;
 
-(ii) relates to the number of warrants under Chapter 1 of this Part
-to which the operator has given effect or has been involved in
-giving effect;
+(b) a disclosure of information that does not relate to any particular warrant under Chapter 1 of this Part but relates to such warrants in general.
 
-(b) a disclosure of information that does not relate to any particular
-warrant under Chapter 1 of this Part but relates to such warrants in
-general.
-
-(8) Nothing in this section affects the operation of section 48 (which, among other
-things, prohibits the making of certain disclosures in, for the purposes of or in
-connection with legal proceedings).
-51 Offence of making unauthorised disclosures
-
+(8) Nothing in this section affects the operation of section 48 (which, among other things, prohibits the making of certain disclosures in, for the purposes of or in connection with legal proceedings).
+51 Offence of making unauthorised disclosures 
 (1) A person who fails to comply with section 49(1) commits an offence.
 
 (2) A person who is guilty of an offence under this section is liable—
 
 (a) on summary conviction in England and Wales—
 
-(i) to imprisonment for a term not exceeding 12 months (or 6
-months, if the offence was committed before the
-
-commencement of section 154(1) of the Criminal Justice Act
-2003), or
-
+(i) to imprisonment for a term not exceeding 12 months (or 6 months, if the offence was committed before the 
+commencement of section 154(1) of the Criminal Justice Act 2003), or 
 (ii) to a fine,
 
 or to both;
 
 (b) on summary conviction in Scotland—
 
-(i) to imprisonment for a term not exceeding 12 months, or
-
+(i) to imprisonment for a term not exceeding 12 months, or 
 (ii) to a fine not exceeding the statutory maximum,
 
 or to both;
 
 (c) on summary conviction in Northern Ireland—
 
-(i) to imprisonment for a term not exceeding 6 months, or
-
+(i) to imprisonment for a term not exceeding 6 months, or 
 (ii) to a fine not exceeding the statutory maximum,
 
 or to both;
 
-(d) on conviction on indictment, to imprisonment for a term not exceeding
-5 years or to a fine, or to both.
+(d) on conviction on indictment, to imprisonment for a term not exceeding 5 years or to a fine, or to both.
 
-(3) In proceedings against any person for an offence under this section in respect
-of any disclosure, it is a defence for the person to show that the person could
-not reasonably have been expected, after first becoming aware of the matter
-disclosed, to take steps to prevent the disclosure.
-Interpretation
-52 Part 2: interpretation
-
+(3) In proceedings against any person for an offence under this section in respect of any disclosure, it is a defence for the person to show that the person could not reasonably have been expected, after first becoming aware of the matter disclosed, to take steps to prevent the disclosure.
+Interpretation 52 Part 2: interpretation 
 (1) In this Part—
 
     “EU mutual assistance instrument” has the meaning given by section 8(3);
 
     “intercepting authority” is to be read in accordance with section 16;
 
-    “international mutual assistance agreement” has the meaning given by
-    section 8(3);
+    “international mutual assistance agreement” has the meaning given by     section 8(3);
 
     “mutual assistance warrant” has the meaning given by section 13(4);
 
     “police force” means any of the following—
     (a)
 
-    any police force maintained under section 2 of the Police Act
-    1996;
+    any police force maintained under section 2 of the Police Act     1996;
     (b)
 
     the metropolitan police force;
@@ -484,21 +331,15 @@ Interpretation
 
     the British Transport Police;
 
-    “relevant content”, in relation to a targeted examination warrant, has the
-    meaning given by section 13(3);
+    “relevant content”, in relation to a targeted examination warrant, has the     meaning given by section 13(3);
 
     “relevant Scottish application” has the meaning given by section 20;
 
-    “secondary data” has the meaning given by section 14, and references to
-    obtaining secondary data from a communication are to be read in
-    accordance with that section;
+    “secondary data” has the meaning given by section 14, and references to     obtaining secondary data from a communication are to be read in     accordance with that section;
 
     “targeted examination warrant” has the meaning given by section 13(3).
 
-(2) In this Part references to a member of a police force, in relation to the Royal
-Navy Police, the Royal Military Police or the Royal Air Force Police, do not
-include any member of that force who is not for the time being attached to, or
-serving with, that force or another of those police forces.
+(2) In this Part references to a member of a police force, in relation to the Royal Navy Police, the Royal Military Police or the Royal Air Force Police, do not include any member of that force who is not for the time being attached to, or serving with, that force or another of those police forces.
 
 (3) See also—
 

@@ -1,163 +1,93 @@
-Part 2 Lawful interception of communications
-CHAPTER 1 Interception and examination with a warrant
-Warrants under this Chapter
-13 Warrants that may be issued under this Chapter
-
+Part 2 Lawful interception of communications CHAPTER 1 Interception and examination with a warrant Warrants under this Chapter 13 Warrants that may be issued under this Chapter 
 (1) There are three kinds of warrant that may be issued under this Chapter—
 
 (a) targeted interception warrants (see subsection (2)), 
- (b) targeted examination warrants (see subsection (3)), and
-
+ (b) targeted examination warrants (see subsection (3)), and 
 (c) mutual assistance warrants (see subsection (4)).
 
-(2) A targeted interception warrant is a warrant which authorises or requires the
-person to whom it is addressed to secure, by any conduct described in the
-warrant, any one or more of the following—
+(2) A targeted interception warrant is a warrant which authorises or requires the person to whom it is addressed to secure, by any conduct described in the warrant, any one or more of the following—
 
-(a) the interception, in the course of their transmission by means of a postal
-service or telecommunication system, of communications described in
-the warrant;
+(a) the interception, in the course of their transmission by means of a postal service or telecommunication system, of communications described in the warrant;
 
-(b) the obtaining of secondary data from communications transmitted by
-means of a postal service or telecommunication system and described
-in the warrant (see section 14);
+(b) the obtaining of secondary data from communications transmitted by means of a postal service or telecommunication system and described in the warrant (see section 14);
 
-(c) the disclosure, in any manner described in the warrant, of anything
-obtained under the warrant to the person to whom the warrant is
-addressed or to any person acting on that person’s behalf.
+(c) the disclosure, in any manner described in the warrant, of anything obtained under the warrant to the person to whom the warrant is addressed or to any person acting on that person’s behalf.
 
-(3) A targeted examination warrant is a warrant which authorises the person to
-whom it is addressed to carry out the selection of relevant content for
-examination, in breach of the prohibition in section 134(4) (prohibition on
-seeking to identify communications of individuals in the British Islands).
+(3) A targeted examination warrant is a warrant which authorises the person to whom it is addressed to carry out the selection of relevant content for examination, in breach of the prohibition in section 134(4) (prohibition on seeking to identify communications of individuals in the British Islands).
 
 In this Part “relevant content”, in relation to a targeted examination warrant,
-means any content of communications intercepted by an interception
-authorised or required by a bulk interception warrant under Chapter 1 of Part
-6.
+means any content of communications intercepted by an interception authorised or required by a bulk interception warrant under Chapter 1 of Part 6.
 
-(4) A mutual assistance warrant is a warrant which authorises or requires the
-person to whom it is addressed to secure, by any conduct described in the
-warrant, any one or more of the following—
+(4) A mutual assistance warrant is a warrant which authorises or requires the person to whom it is addressed to secure, by any conduct described in the warrant, any one or more of the following—
 
-(a) the making of a request, in accordance with an EU mutual assistance
-instrument or an international mutual assistance agreement, for the
-provision of any assistance of a kind described in the warrant in
-connection with, or in the form of, an interception of communications;
+(a) the making of a request, in accordance with an EU mutual assistance instrument or an international mutual assistance agreement, for the provision of any assistance of a kind described in the warrant in connection with, or in the form of, an interception of communications;
 
-(b) the provision to the competent authorities of a country or territory
-outside the United Kingdom, in accordance with such an instrument or
-agreement, of any assistance of a kind described in the warrant in
-connection with, or in the form of, an interception of communications;
+(b) the provision to the competent authorities of a country or territory outside the United Kingdom, in accordance with such an instrument or agreement, of any assistance of a kind described in the warrant in connection with, or in the form of, an interception of communications;
 
-(c) the disclosure, in any manner described in the warrant, of anything
-obtained under the warrant to the person to whom the warrant is
-addressed or to any person acting on that person’s behalf.
+(c) the disclosure, in any manner described in the warrant, of anything obtained under the warrant to the person to whom the warrant is addressed or to any person acting on that person’s behalf.
 
-(5) A targeted interception warrant or mutual assistance warrant also authorises
-the following conduct (in addition to the conduct described in the warrant)—
+(5) A targeted interception warrant or mutual assistance warrant also authorises the following conduct (in addition to the conduct described in the warrant)—
 
-(a) any conduct which it is necessary to undertake in order to do what is
-expressly authorised or required by the warrant, including—
+(a) any conduct which it is necessary to undertake in order to do what is expressly authorised or required by the warrant, including—
 
-(i) the interception of communications not described in the
-warrant, and
+(i) the interception of communications not described in the warrant, and 
+(ii) conduct for obtaining secondary data from such communications;
 
-(ii) conduct for obtaining secondary data from such
-communications;
+(b) any conduct by any person which is conduct in pursuance of a requirement imposed by or on behalf of the person to whom the warrant is addressed to be provided with assistance in giving effect to the warrant;
 
-(b) any conduct by any person which is conduct in pursuance of a
-requirement imposed by or on behalf of the person to whom the
-warrant is addressed to be provided with assistance in giving effect to
-the warrant;
-
-(c) any conduct for obtaining related systems data from any postal
-operator or telecommunications operator.
+(c) any conduct for obtaining related systems data from any postal operator or telecommunications operator.
 
 (6) For the purposes of subsection (5)(c)—
 
-    “related systems data”, in relation to a warrant, means systems data
-    relating to a relevant communication or to the sender or recipient, or
-    intended recipient, of a relevant communication (whether or not a
-    person), and
-
+    “related systems data”, in relation to a warrant, means systems data     relating to a relevant communication or to the sender or recipient, or     intended recipient, of a relevant communication (whether or not a     person), and 
     “relevant communication”, in relation to a warrant, means—
     (a)
 
-    any communication intercepted in accordance with the warrant
-    in the course of its transmission by means of a postal service or
-    telecommunication system, or
-    (b)
+    any communication intercepted in accordance with the warrant     in the course of its transmission by means of a postal service or     telecommunication system, or     (b)
 
-    any communication from which secondary data is obtained
-    under the warrant.
+    any communication from which secondary data is obtained     under the warrant.
 
-(7) For provision enabling the combination of targeted interception warrants with
-certain other warrants or authorisations (including targeted examination
-warrants), see Schedule 8.
-14 Obtaining secondary data
-
+(7) For provision enabling the combination of targeted interception warrants with certain other warrants or authorisations (including targeted examination warrants), see Schedule 8.
+14 Obtaining secondary data 
 (1) This section has effect for the purposes of this Part.
 
 (2) In relation to a communication transmitted by means of a postal service,
-references to obtaining secondary data from the communication are references
-to obtaining such data in the course of the transmission of the communication
-(as to which, see section 3(7)).
+references to obtaining secondary data from the communication are references to obtaining such data in the course of the transmission of the communication (as to which, see section 3(7)).
 
-(3) In relation to a communication transmitted by means of a telecommunication
-system, references to obtaining secondary data from the communication are
-references to obtaining such data—
+(3) In relation to a communication transmitted by means of a telecommunication system, references to obtaining secondary data from the communication are references to obtaining such data—
 
-(a) while the communication is being transmitted, or
-
-(b) at any time when the communication is stored in or by the system
-(whether before or after its transmission).
+(a) while the communication is being transmitted, or 
+(b) at any time when the communication is stored in or by the system (whether before or after its transmission).
 
 (4) “Secondary data”—
 
-(a) in relation to a communication transmitted by means of a postal
-service, means any data falling within subsection (5);
+(a) in relation to a communication transmitted by means of a postal service, means any data falling within subsection (5);
 
-(b) in relation to a communication transmitted by means of a
-telecommunication system, means any data falling within subsection
-(5) or (6).
+(b) in relation to a communication transmitted by means of a telecommunication system, means any data falling within subsection (5) or (6).
 
 (5) The data falling within this subsection is systems data which is comprised in,
-included as part of, attached to or logically associated with the communication
-(whether by the sender or otherwise).
+included as part of, attached to or logically associated with the communication (whether by the sender or otherwise).
 
 (6) The data falling within this subsection is identifying data which—
 
-(a) is comprised in, included as part of, attached to or logically associated
-with the communication (whether by the sender or otherwise),
+(a) is comprised in, included as part of, attached to or logically associated with the communication (whether by the sender or otherwise),
 
-(b) is capable of being logically separated from the remainder of the
-communication, and
-
-(c) if it were so separated, would not reveal anything of what might
-reasonably be considered to be the meaning (if any) of the
-communication, disregarding any meaning arising from the fact of the
-communication or from any data relating to the transmission of the
-communication.
+(b) is capable of being logically separated from the remainder of the communication, and 
+(c) if it were so separated, would not reveal anything of what might reasonably be considered to be the meaning (if any) of the communication, disregarding any meaning arising from the fact of the communication or from any data relating to the transmission of the communication.
 
 (7) For the meaning of “systems data” and “identifying data”, see section 225.
-15 Subject-matter of warrants
-
+15 Subject-matter of warrants 
 (1) A warrant under this Chapter may relate to—
 
-(a) a particular person or organisation, or
-
+(a) a particular person or organisation, or 
 (b) a single set of premises.
 
-(2) In addition, a targeted interception warrant or targeted examination warrant
-may relate to—
+(2) In addition, a targeted interception warrant or targeted examination warrant may relate to—
 
-(a) a group of persons who share a common purpose or who carry on, or
-may carry on, a particular activity;
+(a) a group of persons who share a common purpose or who carry on, or may carry on, a particular activity;
 
 (b) more than one person or organisation, or more than one set of premises,
-where the conduct authorised or required by the warrant is for the
-purposes of a single investigation or operation;
+where the conduct authorised or required by the warrant is for the purposes of a single investigation or operation;
 
 (c) testing or training activities.
 
@@ -165,29 +95,17 @@ purposes of a single investigation or operation;
 
 (a) in relation to a targeted interception warrant—
 
-(i) the testing, maintenance or development of apparatus, systems
-or other capabilities relating to the interception of
-communications in the course of their transmission by means of
-a telecommunication system or to the obtaining of secondary
-data from communications transmitted by means of such a
-system, or
-
+(i) the testing, maintenance or development of apparatus, systems or other capabilities relating to the interception of communications in the course of their transmission by means of a telecommunication system or to the obtaining of secondary data from communications transmitted by means of such a system, or 
 (ii) the training of persons who carry out, or are likely to carry out,
 such interception or the obtaining of such data;
 
 (b) in relation to a targeted examination warrant—
 
-(i) the testing, maintenance or development of apparatus, systems
-or other capabilities relating to the selection of relevant content
-for examination, or
-
+(i) the testing, maintenance or development of apparatus, systems or other capabilities relating to the selection of relevant content for examination, or 
 (ii) the training of persons who carry out, or are likely to carry out,
 the selection of relevant content for examination.
-Power to issue warrants
-16 Persons who may apply for issue of a warrant
-
-(1) Each of the following is an “intercepting authority” for the purposes of this
-Part—
+Power to issue warrants 16 Persons who may apply for issue of a warrant 
+(1) Each of the following is an “intercepting authority” for the purposes of this Part—
 
 (a) a person who is the head of an intelligence service;
 
@@ -203,352 +121,200 @@ Part—
 
 (g) the Chief of Defence Intelligence;
 
-(h) a person who is the competent authority of a country or territory
-outside the United Kingdom for the purposes of an EU mutual
-assistance instrument or an international mutual assistance agreement.
+(h) a person who is the competent authority of a country or territory outside the United Kingdom for the purposes of an EU mutual assistance instrument or an international mutual assistance agreement.
 
 (2) For the meaning of “head of an intelligence service”, see section 225.
 
-(3) An application for the issue of a warrant under this Chapter may only be made
-on behalf of an intercepting authority by a person holding office under the
-Crown.
-17 Power of Secretary of State to issue warrants
+(3) An application for the issue of a warrant under this Chapter may only be made on behalf of an intercepting authority by a person holding office under the Crown.
+17 Power of Secretary of State to issue warrants 
+(1) The Secretary of State may, on an application made by or on behalf of an intercepting authority mentioned in section 16(1)(a) to (g), issue a targeted interception warrant if—
 
-(1) The Secretary of State may, on an application made by or on behalf of an
-intercepting authority mentioned in section 16(1)(a) to (g), issue a targeted
-interception warrant if—
+(a) the Secretary of State considers that the warrant is necessary on grounds falling within section 18,
 
-(a) the Secretary of State considers that the warrant is necessary on
-grounds falling within section 18,
+(b) the Secretary of State considers that the conduct authorised by the warrant is proportionate to what is sought to be achieved by that conduct,
 
-(b) the Secretary of State considers that the conduct authorised by the
-warrant is proportionate to what is sought to be achieved by that
-conduct,
-
-(c) the Secretary of State considers that satisfactory arrangements made for
-the purposes of sections 46 and 47 (safeguards relating to disclosure
-etc.) are in force in relation to the warrant, and
-
-(d) except where the Secretary of State considers that there is an urgent
-need to issue the warrant, the decision to issue the warrant has been
-approved by a Judicial Commissioner.
+(c) the Secretary of State considers that satisfactory arrangements made for the purposes of sections 46 and 47 (safeguards relating to disclosure etc.) are in force in relation to the warrant, and 
+(d) except where the Secretary of State considers that there is an urgent need to issue the warrant, the decision to issue the warrant has been approved by a Judicial Commissioner.
 
 This is subject to subsection (5).
 
-(2) The Secretary of State may, on an application made by or on behalf of the head
-of an intelligence service, issue a targeted examination warrant if—
+(2) The Secretary of State may, on an application made by or on behalf of the head of an intelligence service, issue a targeted examination warrant if—
 
-(a) the Secretary of State considers that the warrant is necessary on
-grounds falling within section 18,
+(a) the Secretary of State considers that the warrant is necessary on grounds falling within section 18,
 
-(b) the Secretary of State considers that the conduct authorised by the
-warrant is proportionate to what is sought to be achieved by that
-conduct,
+(b) the Secretary of State considers that the conduct authorised by the warrant is proportionate to what is sought to be achieved by that conduct,
 
-(c) the Secretary of State considers that the warrant is or may be necessary
-to authorise the selection of relevant content for examination in breach
-of the prohibition in section 134(4) (prohibition on seeking to identify
-communications of individuals in the British Islands), and
-
-(d) except where the Secretary of State considers that there is an urgent
-need to issue the warrant, the decision to issue the warrant has been
-approved by a Judicial Commissioner.
+(c) the Secretary of State considers that the warrant is or may be necessary to authorise the selection of relevant content for examination in breach of the prohibition in section 134(4) (prohibition on seeking to identify communications of individuals in the British Islands), and 
+(d) except where the Secretary of State considers that there is an urgent need to issue the warrant, the decision to issue the warrant has been approved by a Judicial Commissioner.
 
 This is subject to subsection (5).
 
-(3) The Secretary of State may, on an application made by or on behalf of an
-intercepting authority, issue a mutual assistance warrant if—
+(3) The Secretary of State may, on an application made by or on behalf of an intercepting authority, issue a mutual assistance warrant if—
 
-(a) the Secretary of State considers that the warrant is necessary on
-grounds falling within section 18,
+(a) the Secretary of State considers that the warrant is necessary on grounds falling within section 18,
 
-(b) the Secretary of State considers that the conduct authorised by the
-warrant is proportionate to what is sought to be achieved by that
-conduct,
+(b) the Secretary of State considers that the conduct authorised by the warrant is proportionate to what is sought to be achieved by that conduct,
 
-(c) the Secretary of State considers that satisfactory arrangements made for
-the purposes of sections 46 and 47 (safeguards relating to disclosure
-etc.) are in force in relation to the warrant, and
-
-(d) except where the Secretary of State considers that there is an urgent
-need to issue the warrant, the decision to issue the warrant has been
-approved by a Judicial Commissioner.
+(c) the Secretary of State considers that satisfactory arrangements made for the purposes of sections 46 and 47 (safeguards relating to disclosure etc.) are in force in relation to the warrant, and 
+(d) except where the Secretary of State considers that there is an urgent need to issue the warrant, the decision to issue the warrant has been approved by a Judicial Commissioner.
 
 This is subject to subsection (5).
 
-(4) The matters to be taken into account in considering whether the conditions in
-paragraphs (a) and (b) of subsection (1) or (as the case may be) subsection (3)
-are met include whether the information which it is considered necessary to
-obtain under the warrant could reasonably be obtained by other means.
+(4) The matters to be taken into account in considering whether the conditions in paragraphs (a) and (b) of subsection (1) or (as the case may be) subsection (3)
+are met include whether the information which it is considered necessary to obtain under the warrant could reasonably be obtained by other means.
 
 (5) The Secretary of State may not issue a warrant under this section if—
 
-(a) the application is a relevant Scottish application (see section 20), and
-
-(b) in the case of an application for a targeted interception warrant or a
-targeted examination warrant, the Secretary of State considers that the
-warrant is necessary only for the purpose of preventing or detecting
-serious crime.
+(a) the application is a relevant Scottish application (see section 20), and 
+(b) in the case of an application for a targeted interception warrant or a targeted examination warrant, the Secretary of State considers that the warrant is necessary only for the purpose of preventing or detecting serious crime.
 
 For the power of the Scottish Ministers to issue warrants under this Chapter,
 see section 19.
 
-(6) But subsection (5) does not prevent the Secretary of State from doing anything
-under this section for the purposes specified in section 2(2) of the European
-Communities Act 1972.
-18 Grounds on which warrants may be issued by Secretary of State
-
+(6) But subsection (5) does not prevent the Secretary of State from doing anything under this section for the purposes specified in section 2(2) of the European Communities Act 1972.
+18 Grounds on which warrants may be issued by Secretary of State 
 (1) This section has effect for the purposes of this Part.
 
-(2) A targeted interception warrant or targeted examination warrant is necessary
-on grounds falling within this section if it is necessary—
+(2) A targeted interception warrant or targeted examination warrant is necessary on grounds falling within this section if it is necessary—
 
 (a) in the interests of national security,
 
-(b) for the purpose of preventing or detecting serious crime, or
+(b) for the purpose of preventing or detecting serious crime, or 
+(c) in the interests of the economic well-being of the United Kingdom so far as those interests are also relevant to the interests of national security (but see subsection (4)).
 
-(c) in the interests of the economic well-being of the United Kingdom so
-far as those interests are also relevant to the interests of national
-security (but see subsection (4)).
+(3) A mutual assistance warrant is necessary on grounds falling within this section if—
 
-(3) A mutual assistance warrant is necessary on grounds falling within this section
-if—
+(a) it is necessary for the purpose of giving effect to the provisions of an EU mutual assistance instrument or an international mutual assistance agreement, and 
+(b) the circumstances appear to the Secretary of State to be equivalent to those in which the Secretary of State would issue a warrant by virtue of subsection (2)(b).
 
-(a) it is necessary for the purpose of giving effect to the provisions of an EU
-mutual assistance instrument or an international mutual assistance
-agreement, and
+(4) A warrant may be considered necessary as mentioned in subsection (2)(c) only if the information which it is considered necessary to obtain is information relating to the acts or intentions of persons outside the British Islands.
 
-(b) the circumstances appear to the Secretary of State to be equivalent to
-those in which the Secretary of State would issue a warrant by virtue of
-subsection (2)(b).
-
-(4) A warrant may be considered necessary as mentioned in subsection (2)(c) only
-if the information which it is considered necessary to obtain is information
-relating to the acts or intentions of persons outside the British Islands.
-
-(5) A warrant may not be considered necessary on grounds falling within this
-section if it is considered necessary only for the purpose of gathering evidence
-for use in any legal proceedings.
-19 Power of Scottish Ministers to issue warrants
-
-(1) The Scottish Ministers may, on an application made by or on behalf of an
-intercepting authority mentioned in section 16(1)(a) to (g), issue a targeted
-interception warrant if—
+(5) A warrant may not be considered necessary on grounds falling within this section if it is considered necessary only for the purpose of gathering evidence for use in any legal proceedings.
+19 Power of Scottish Ministers to issue warrants 
+(1) The Scottish Ministers may, on an application made by or on behalf of an intercepting authority mentioned in section 16(1)(a) to (g), issue a targeted interception warrant if—
 
 (a) the application is a relevant Scottish application (see section 20),
 
-(b) the Scottish Ministers consider that the warrant is necessary on
-grounds falling within subsection (4),
+(b) the Scottish Ministers consider that the warrant is necessary on grounds falling within subsection (4),
 
-(c) the Scottish Ministers consider that the conduct authorised by the
-warrant is proportionate to what is sought to be achieved by that
-conduct,
+(c) the Scottish Ministers consider that the conduct authorised by the warrant is proportionate to what is sought to be achieved by that conduct,
 
-(d) the Scottish Ministers consider that satisfactory arrangements made for
-the purposes of sections 46 and 47 (safeguards relating to disclosure
-etc.) are in force in relation to the warrant, and
+(d) the Scottish Ministers consider that satisfactory arrangements made for the purposes of sections 46 and 47 (safeguards relating to disclosure etc.) are in force in relation to the warrant, and 
+(e) except where the Scottish Ministers consider that there is an urgent need to issue the warrant, the decision to issue the warrant has been approved by a Judicial Commissioner.
 
-(e) except where the Scottish Ministers consider that there is an urgent
-need to issue the warrant, the decision to issue the warrant has been
-approved by a Judicial Commissioner.
-
-(2) The Scottish Ministers may, on an application made by or on behalf of the head
-of an intelligence service, issue a targeted examination warrant if—
+(2) The Scottish Ministers may, on an application made by or on behalf of the head of an intelligence service, issue a targeted examination warrant if—
 
 (a) the application is a relevant Scottish application,
 
-(b) the Scottish Ministers consider that the warrant is necessary on
-grounds falling within subsection (4),
+(b) the Scottish Ministers consider that the warrant is necessary on grounds falling within subsection (4),
 
-(c) the Scottish Ministers consider that the conduct authorised by the
-warrant is proportionate to what is sought to be achieved by that
-conduct,
+(c) the Scottish Ministers consider that the conduct authorised by the warrant is proportionate to what is sought to be achieved by that conduct,
 
-(d) the Scottish Ministers consider that the warrant is or may be necessary
-to authorise the selection of relevant content for examination in breach
-of the prohibition in section 134(4) (prohibition on seeking to identify
-communications of individuals in the British Islands), and
+(d) the Scottish Ministers consider that the warrant is or may be necessary to authorise the selection of relevant content for examination in breach of the prohibition in section 134(4) (prohibition on seeking to identify communications of individuals in the British Islands), and 
+(e) except where the Scottish Ministers consider that there is an urgent need to issue the warrant, the decision to issue the warrant has been approved by a Judicial Commissioner.
 
-(e) except where the Scottish Ministers consider that there is an urgent
-need to issue the warrant, the decision to issue the warrant has been
-approved by a Judicial Commissioner.
-
-(3) The Scottish Ministers may, on an application made by or on behalf of an
-intercepting authority, issue a mutual assistance warrant if—
+(3) The Scottish Ministers may, on an application made by or on behalf of an intercepting authority, issue a mutual assistance warrant if—
 
 (a) the application is a relevant Scottish application,
 
-(b) the Scottish Ministers consider that the warrant is necessary on
-grounds falling within subsection (4),
+(b) the Scottish Ministers consider that the warrant is necessary on grounds falling within subsection (4),
 
-(c) the Scottish Ministers consider that the conduct authorised by the
-warrant is proportionate to what is sought to be achieved by that
-conduct,
+(c) the Scottish Ministers consider that the conduct authorised by the warrant is proportionate to what is sought to be achieved by that conduct,
 
-(d) the Scottish Ministers consider that satisfactory arrangements made for
-the purposes of sections 46 and 47 (safeguards relating to disclosure
-etc.) are in force in relation to the warrant, and
-
-(e) except where the Scottish Ministers consider that there is an urgent
-need to issue the warrant, the decision to issue the warrant has been
-approved by a Judicial Commissioner.
+(d) the Scottish Ministers consider that satisfactory arrangements made for the purposes of sections 46 and 47 (safeguards relating to disclosure etc.) are in force in relation to the warrant, and 
+(e) except where the Scottish Ministers consider that there is an urgent need to issue the warrant, the decision to issue the warrant has been approved by a Judicial Commissioner.
 
 (4) A warrant is necessary on grounds falling within this subsection if—
 
-(a) in the case of a targeted interception warrant or targeted examination
-warrant, it is necessary for the purposes of preventing or detecting
-serious crime, and
-
+(a) in the case of a targeted interception warrant or targeted examination warrant, it is necessary for the purposes of preventing or detecting serious crime, and 
 (b) in the case of a mutual assistance warrant—
 
-(i) it is necessary for the purpose of giving effect to the provisions
-of an EU mutual assistance instrument or an international
-mutual assistance agreement, and
+(i) it is necessary for the purpose of giving effect to the provisions of an EU mutual assistance instrument or an international mutual assistance agreement, and 
+(ii) the circumstances appear to the Scottish Ministers to be equivalent to those in which the Scottish Ministers would issue a warrant by virtue of paragraph (a).
 
-(ii) the circumstances appear to the Scottish Ministers to be
-equivalent to those in which the Scottish Ministers would issue
-a warrant by virtue of paragraph (a).
+(5) A warrant may not be considered necessary on grounds falling within subsection (4) if it is considered necessary only for the purpose of gathering evidence for use in any legal proceedings.
 
-(5) A warrant may not be considered necessary on grounds falling within
-subsection (4) if it is considered necessary only for the purpose of gathering
-evidence for use in any legal proceedings.
-
-(6) The matters to be taken into account in considering whether the conditions in
-paragraphs (b) and (c) of subsection (1) or (as the case may be) subsection (3)
-are met include whether the information which it is considered necessary to
-obtain under the warrant could reasonably be obtained by other means.
+(6) The matters to be taken into account in considering whether the conditions in paragraphs (b) and (c) of subsection (1) or (as the case may be) subsection (3)
+are met include whether the information which it is considered necessary to obtain under the warrant could reasonably be obtained by other means.
 20 “Relevant Scottish applications”
 
-(1) An application for the issue of a warrant under this Chapter is a “relevant
-Scottish application” for the purposes of this Chapter if any of conditions A to
-C is met.
+(1) An application for the issue of a warrant under this Chapter is a “relevant Scottish application” for the purposes of this Chapter if any of conditions A to C is met.
 
 In this section “the applicant” means the person by whom, or on whose behalf,
 the application is made.
 
 (2) Condition A is that—
 
-(a) the application is for the issue of a targeted interception warrant or a
-targeted examination warrant, and
-
+(a) the application is for the issue of a targeted interception warrant or a targeted examination warrant, and 
 (b) the warrant, if issued, would relate to—
 
-(i) a person who is in Scotland, or is reasonably believed by the
-applicant to be in Scotland, at the time of the issue of the
-warrant, or
-
-(ii) premises which are in Scotland, or are reasonably believed by
-the applicant to be in Scotland, at that time.
+(i) a person who is in Scotland, or is reasonably believed by the applicant to be in Scotland, at the time of the issue of the warrant, or 
+(ii) premises which are in Scotland, or are reasonably believed by the applicant to be in Scotland, at that time.
 
 (3) Condition B is that—
 
-(a) the application is for the issue of a mutual assistance warrant which, if
-issued, would authorise or require—
+(a) the application is for the issue of a mutual assistance warrant which, if issued, would authorise or require—
 
-(i) the making of a request falling within section 13(4)(a), or
-
-(ii) the making of such a request and disclosure falling within
-section 13(4)(c), and
-
+(i) the making of a request falling within section 13(4)(a), or 
+(ii) the making of such a request and disclosure falling within section 13(4)(c), and 
 (b) the application—
 
-(i) is made by, or on behalf of, the chief constable of the Police
-Service of Scotland, or
-
-(ii) is made by, or on behalf of, the Commissioners for Her
-Majesty’s Revenue and Customs or the Director General of the
-National Crime Agency for the purpose of preventing or
-detecting serious crime in Scotland.
+(i) is made by, or on behalf of, the chief constable of the Police Service of Scotland, or 
+(ii) is made by, or on behalf of, the Commissioners for Her Majesty’s Revenue and Customs or the Director General of the National Crime Agency for the purpose of preventing or detecting serious crime in Scotland.
 
 (4) Condition C is that—
 
-(a) the application is for the issue of a mutual assistance warrant which, if
-issued, would authorise or require—
+(a) the application is for the issue of a mutual assistance warrant which, if issued, would authorise or require—
 
-(i) the provision of assistance falling within section 13(4)(b), or
-
-(ii) the provision of such assistance and disclosure falling within
-section 13(4)(c), and
-
+(i) the provision of assistance falling within section 13(4)(b), or 
+(ii) the provision of such assistance and disclosure falling within section 13(4)(c), and 
 (b) the warrant, if issued, would relate to—
 
-(i) a person who is in Scotland, or is reasonably believed by the
-applicant to be in Scotland, at the time of the issue of the
-warrant, or
+(i) a person who is in Scotland, or is reasonably believed by the applicant to be in Scotland, at the time of the issue of the warrant, or 
+(ii) premises which are in Scotland, or are reasonably believed by the applicant to be in Scotland, at that time.
+Approval of warrants by Judicial Commissioners 21 Approval of warrants by Judicial Commissioners 
+(1) In deciding whether to approve a person’s decision to issue a warrant under this Chapter, a Judicial Commissioner must review the person’s conclusions as to the following matters—
 
-(ii) premises which are in Scotland, or are reasonably believed by
-the applicant to be in Scotland, at that time.
-Approval of warrants by Judicial Commissioners
-21 Approval of warrants by Judicial Commissioners
+(a) whether the warrant is necessary on relevant grounds (see subsection (3)), and 
+(b) whether the conduct that would be authorised by the warrant is proportionate to what is sought to be achieved by that conduct.
 
-(1) In deciding whether to approve a person’s decision to issue a warrant under
-this Chapter, a Judicial Commissioner must review the person’s conclusions as
-to the following matters—
-
-(a) whether the warrant is necessary on relevant grounds (see subsection
-(3)), and
-
-(b) whether the conduct that would be authorised by the warrant is
-proportionate to what is sought to be achieved by that conduct.
-
-(2) In doing so, the Judicial Commissioner must apply the same principles as
-would be applied by a court on an application for judicial review.
+(2) In doing so, the Judicial Commissioner must apply the same principles as would be applied by a court on an application for judicial review.
 
 (3) In subsection (1)(a) “relevant grounds” means—
 
-(a) in the case of a warrant to be issued by the Secretary of State, grounds
-falling within section 18;
+(a) in the case of a warrant to be issued by the Secretary of State, grounds falling within section 18;
 
-(b) in the case of a warrant to be issued by the Scottish Ministers, grounds
-falling within section 19(4).
+(b) in the case of a warrant to be issued by the Scottish Ministers, grounds falling within section 19(4).
 
-(4) Where a Judicial Commissioner refuses to approve a person’s decision to issue
-a warrant under this Chapter, the Judicial Commissioner must give the person
-written reasons for the refusal.
+(4) Where a Judicial Commissioner refuses to approve a person’s decision to issue a warrant under this Chapter, the Judicial Commissioner must give the person written reasons for the refusal.
 
-(5) Where a Judicial Commissioner, other than the Investigatory Powers
-Commissioner, refuses to approve a person’s decision to issue a warrant under
-this Chapter, the person may ask the Investigatory Powers Commissioner to
-decide whether to approve the decision to issue the warrant.
-22 Approval of warrants issued in urgent cases
-
+(5) Where a Judicial Commissioner, other than the Investigatory Powers Commissioner, refuses to approve a person’s decision to issue a warrant under this Chapter, the person may ask the Investigatory Powers Commissioner to decide whether to approve the decision to issue the warrant.
+22 Approval of warrants issued in urgent cases 
 (1) This section applies where—
 
-(a) a warrant under this Chapter is issued without the approval of a
-Judicial Commissioner, and
+(a) a warrant under this Chapter is issued without the approval of a Judicial Commissioner, and 
+(b) the person who decided to issue the warrant considered that there was an urgent need to issue it.
 
-(b) the person who decided to issue the warrant considered that there was
-an urgent need to issue it.
-
-(2) The person who decided to issue the warrant must inform a Judicial
-Commissioner that it has been issued.
+(2) The person who decided to issue the warrant must inform a Judicial Commissioner that it has been issued.
 
 (3) The Judicial Commissioner must, before the end of the relevant period—
 
-(a) decide whether to approve the decision to issue the warrant, and
-
+(a) decide whether to approve the decision to issue the warrant, and 
 (b) notify the person of the Judicial Commissioner’s decision.
 
-“The relevant period” means the period ending with the third working day
-after the day on which the warrant was issued.
+“The relevant period” means the period ending with the third working day after the day on which the warrant was issued.
 
 (4) If a Judicial Commissioner refuses to approve the decision to issue a warrant,
 the warrant—
 
-(a) ceases to have effect (unless already cancelled), and
-
+(a) ceases to have effect (unless already cancelled), and 
 (b) may not be renewed.
 
-(5) Section 23 contains further provision about what happens if a Judicial
-Commissioner refuses to approve the decision to issue a warrant.
-23 Failure to approve warrant issued in urgent case
+(5) Section 23 contains further provision about what happens if a Judicial Commissioner refuses to approve the decision to issue a warrant.
+23 Failure to approve warrant issued in urgent case 
+(1) This section applies where under section 22(3) a Judicial Commissioner refuses to approve the decision to issue a warrant.
 
-(1) This section applies where under section 22(3) a Judicial Commissioner refuses
-to approve the decision to issue a warrant.
-
-(2) The person to whom the warrant was addressed must, so far as is reasonably
-practicable, secure that anything in the process of being done under the
-warrant stops as soon as possible.
+(2) The person to whom the warrant was addressed must, so far as is reasonably practicable, secure that anything in the process of being done under the warrant stops as soon as possible.
 
 (3) The Judicial Commissioner may—
 
@@ -556,19 +322,12 @@ warrant stops as soon as possible.
 
 (b) impose conditions as to the use or retention of any of that material;
 
-(c) in the case of a targeted examination warrant, impose conditions as to
-the use of any relevant content selected for examination under the
-warrant.
+(c) in the case of a targeted examination warrant, impose conditions as to the use of any relevant content selected for examination under the warrant.
 
 (4) The Judicial Commissioner—
 
-(a) may require an affected party to make representations about how the
-Judicial Commissioner should exercise any function under subsection
-(3), and
-
-(b) must have regard to any such representations made by an affected
-party (whether or not as a result of a requirement imposed under
-paragraph (a)).
+(a) may require an affected party to make representations about how the Judicial Commissioner should exercise any function under subsection (3), and 
+(b) must have regard to any such representations made by an affected party (whether or not as a result of a requirement imposed under paragraph (a)).
 
 (5) Each of the following is an “affected party” for the purposes of subsection (4)—
 
@@ -576,47 +335,32 @@ paragraph (a)).
 
 (b) the person to whom the warrant was addressed.
 
-(6) The person who decided to issue the warrant may ask the Investigatory
-Powers Commissioner to review a decision made by any other Judicial
-Commissioner under subsection (3).
+(6) The person who decided to issue the warrant may ask the Investigatory Powers Commissioner to review a decision made by any other Judicial Commissioner under subsection (3).
 
-(7) On a review under subsection (6), the Investigatory Powers Commissioner
-may—
+(7) On a review under subsection (6), the Investigatory Powers Commissioner may—
 
-(a) confirm the Judicial Commissioner’s decision, or
-
+(a) confirm the Judicial Commissioner’s decision, or 
 (b) make a fresh determination.
 
 (8) Nothing in this section or section 22 affects the lawfulness of—
 
 (a) anything done under the warrant before it ceases to have effect;
 
-(b) if anything is in the process of being done under the warrant when it
-ceases to have effect—
+(b) if anything is in the process of being done under the warrant when it ceases to have effect—
 
-(i) anything done before that thing could be stopped, or
-
+(i) anything done before that thing could be stopped, or 
 (ii) anything done which it is not reasonably practicable to stop.
-Additional safeguards
-24 Members of Parliament etc.
+Additional safeguards 24 Members of Parliament etc.
 
 (1) This section applies where—
 
-(a) an application is made to the Secretary of State for the issue of a
-targeted interception warrant or a targeted examination warrant, and
-
+(a) an application is made to the Secretary of State for the issue of a targeted interception warrant or a targeted examination warrant, and 
 (b) the purpose of the warrant is—
 
-(i) in the case of a targeted interception warrant, to authorise or
-require the interception of communications sent by, or intended
-for, a person who is a member of a relevant legislature, or
+(i) in the case of a targeted interception warrant, to authorise or require the interception of communications sent by, or intended for, a person who is a member of a relevant legislature, or 
+(ii) in the case of a targeted examination warrant, to authorise the selection for examination of the content of such communications.
 
-(ii) in the case of a targeted examination warrant, to authorise the
-selection for examination of the content of such
-communications.
-
-(2) Before deciding whether to issue the warrant, the Secretary of State must
-consult the Prime Minister.
+(2) Before deciding whether to issue the warrant, the Secretary of State must consult the Prime Minister.
 
 (3) In this section “member of a relevant legislature” means—
 
@@ -629,761 +373,443 @@ consult the Prime Minister.
 (d) a member of the Northern Ireland Assembly;
 
 (e) a member of the European Parliament elected for the United Kingdom.
-25 Items subject to legal privilege
-
+25 Items subject to legal privilege 
 (1) Subsections (2) and (3) apply if—
 
-(a) an application is made by or on behalf of an intercepting authority for
-a warrant under this Chapter, and
-
+(a) an application is made by or on behalf of an intercepting authority for a warrant under this Chapter, and 
 (b) the purpose, or one of the purposes, of the warrant is—
 
-(i) in the case of a targeted interception warrant or mutual
-assistance warrant, to authorise or require the interception of
-items subject to legal privilege, or
+(i) in the case of a targeted interception warrant or mutual assistance warrant, to authorise or require the interception of items subject to legal privilege, or 
+(ii) in the case of a targeted examination warrant, to authorise the selection of such items for examination.
 
-(ii) in the case of a targeted examination warrant, to authorise the
-selection of such items for examination.
+(2) The application must contain a statement that the purpose, or one of the purposes, of the warrant is to authorise or require the interception, or (in the case of a targeted examination warrant) the selection for examination, of items subject to legal privilege.
 
-(2) The application must contain a statement that the purpose, or one of the
-purposes, of the warrant is to authorise or require the interception, or (in the
-case of a targeted examination warrant) the selection for examination, of items
-subject to legal privilege.
+(3) The person to whom the application is made may issue the warrant only if the person considers—
 
-(3) The person to whom the application is made may issue the warrant only if the
-person considers—
-
-(a) that there are exceptional and compelling circumstances that make it
-necessary to authorise the interception, or (in the case of a targeted
-examination warrant) the selection for examination, of items subject to
-legal privilege, and
-
-(b) that the arrangements made for the purposes of section 46 or (as the
-case may be) section 132 (safeguards relating to retention and
-disclosure of material) include specific arrangements for the handling,
+(a) that there are exceptional and compelling circumstances that make it necessary to authorise the interception, or (in the case of a targeted examination warrant) the selection for examination, of items subject to legal privilege, and 
+(b) that the arrangements made for the purposes of section 46 or (as the case may be) section 132 (safeguards relating to retention and disclosure of material) include specific arrangements for the handling,
 retention, use and destruction of such items.
 
 (4) Subsections (5) and (6) apply if—
 
-(a) an application is made by or on behalf of an intercepting authority for
-a warrant under this Chapter,
+(a) an application is made by or on behalf of an intercepting authority for a warrant under this Chapter,
 
-(b) the intercepting authority considers that the relevant communications
-are likely to include items subject to legal privilege, and
-
+(b) the intercepting authority considers that the relevant communications are likely to include items subject to legal privilege, and 
 (c) subsections (2) and (3) do not apply.
 
 (5) The application must contain— 
- (a) a statement that the intercepting authority considers that the relevant
-communications are likely to include items subject to legal privilege,
-and
+ (a) a statement that the intercepting authority considers that the relevant communications are likely to include items subject to legal privilege,
+and 
+(b) an assessment of how likely it is that the relevant communications will include such items.
 
-(b) an assessment of how likely it is that the relevant communications will
-include such items.
-
-(6) The person to whom the application is made may issue the warrant only if the
-person considers that the arrangements made for the purposes of section 46 or
-(as the case may be) section 132 include specific arrangements for the handling,
+(6) The person to whom the application is made may issue the warrant only if the person considers that the arrangements made for the purposes of section 46 or (as the case may be) section 132 include specific arrangements for the handling,
 retention, use and destruction of items subject to legal privilege.
 
 (7) In this section “relevant communications” means—
 
-(a) in relation to a targeted interception warrant or mutual assistance
-warrant, any communications the interception of which is authorised
-or required by the warrant;
+(a) in relation to a targeted interception warrant or mutual assistance warrant, any communications the interception of which is authorised or required by the warrant;
 
-(b) in relation to a targeted examination warrant, any communications the
-content of which the warrant authorises to be selected for examination.
-Further provision about warrants
-26 Decisions to issue warrants to be taken personally by Ministers
+(b) in relation to a targeted examination warrant, any communications the content of which the warrant authorises to be selected for examination.
+Further provision about warrants 26 Decisions to issue warrants to be taken personally by Ministers 
+(1) The decision to issue a warrant under this Chapter must be taken personally by—
 
-(1) The decision to issue a warrant under this Chapter must be taken personally
-by—
+(a) the Secretary of State, or 
+(b) in the case of a warrant to be issued by the Scottish Ministers, a member of the Scottish Government.
 
-(a) the Secretary of State, or
-
-(b) in the case of a warrant to be issued by the Scottish Ministers, a member
-of the Scottish Government.
-
-(2) Before a warrant under this Chapter is issued, it must be signed by the person
-who has taken the decision to issue it.
+(2) Before a warrant under this Chapter is issued, it must be signed by the person who has taken the decision to issue it.
 
 (3) Subsections (1) and (2) are subject to—
 
-(a) subsection (4), and
-
+(a) subsection (4), and 
 (b) section 33 (special rules for certain mutual assistance warrants).
 
-(4) If it is not reasonably practicable for a warrant to be signed by the person who
-has taken the decision to issue it, the warrant may be signed by a senior official
-designated by the Secretary of State or (as the case may be) the Scottish
-Ministers for that purpose.
+(4) If it is not reasonably practicable for a warrant to be signed by the person who has taken the decision to issue it, the warrant may be signed by a senior official designated by the Secretary of State or (as the case may be) the Scottish Ministers for that purpose.
 
 (5) In such a case, the warrant must contain a statement that—
 
-(a) it is not reasonably practicable for the warrant to be signed by the
-person who took the decision to issue it, and
-
-(b) the Secretary of State or (as the case may be) a member of the Scottish
-Government has personally and expressly authorised the issue of the
-warrant.
+(a) it is not reasonably practicable for the warrant to be signed by the person who took the decision to issue it, and 
+(b) the Secretary of State or (as the case may be) a member of the Scottish Government has personally and expressly authorised the issue of the warrant.
 
 (6) In this section “senior official” means—
 
-(a) in the case of a warrant to be issued by the Secretary of State, a member
-of the Senior Civil Service or a member of the Senior Management
-Structure of Her Majesty’s Diplomatic Service;
+(a) in the case of a warrant to be issued by the Secretary of State, a member of the Senior Civil Service or a member of the Senior Management Structure of Her Majesty’s Diplomatic Service;
 
-(b) in the case of a warrant to be issued by the Scottish Ministers, a member
-of the staff of the Scottish Administration who is a member of the Senior
-Civil Service.
-27 Requirements that must be met by warrants
+(b) in the case of a warrant to be issued by the Scottish Ministers, a member of the staff of the Scottish Administration who is a member of the Senior Civil Service.
+27 Requirements that must be met by warrants 
+(1) A warrant under this Chapter must contain a provision stating whether it is a targeted interception warrant, a targeted examination warrant or a mutual assistance warrant.
 
-(1) A warrant under this Chapter must contain a provision stating whether it is a
-targeted interception warrant, a targeted examination warrant or a mutual
-assistance warrant.
+(2) A warrant issued under this Chapter must be addressed to the person by whom, or on whose behalf, the application for the warrant was made.
 
-(2) A warrant issued under this Chapter must be addressed to the person by
-whom, or on whose behalf, the application for the warrant was made.
+(3) A warrant that relates to a particular person or organisation, or to a single set of premises, must name or describe that person or organisation or those premises.
 
-(3) A warrant that relates to a particular person or organisation, or to a single set
-of premises, must name or describe that person or organisation or those
-premises.
+(4) A warrant that relates to a group of persons who share a common purpose or who carry on (or may carry on) a particular activity must—
 
-(4) A warrant that relates to a group of persons who share a common purpose or
-who carry on (or may carry on) a particular activity must—
+(a) describe that purpose or activity, and 
+(b) name or describe as many of those persons as it is reasonably practicable to name or describe.
 
-(a) describe that purpose or activity, and
+(5) A warrant that relates to more than one person or organisation, or more than one set of premises, where the conduct authorised or required by the warrant is for the purposes of a single investigation or operation, must—
 
-(b) name or describe as many of those persons as it is reasonably
-practicable to name or describe.
-
-(5) A warrant that relates to more than one person or organisation, or more than
-one set of premises, where the conduct authorised or required by the warrant
-is for the purposes of a single investigation or operation, must—
-
-(a) describe the investigation or operation, and
-
-(b) name or describe as many of those persons or organisations, or as many
-of those sets of premises, as it is reasonably practicable to name or
-describe.
+(a) describe the investigation or operation, and 
+(b) name or describe as many of those persons or organisations, or as many of those sets of premises, as it is reasonably practicable to name or describe.
 
 (6) A warrant that relates to any testing or training activities must—
 
-(a) describe those activities, and
-
-(b) name or describe as many of the persons within subsection (7) as it is
-reasonably practicable to name or describe.
+(a) describe those activities, and 
+(b) name or describe as many of the persons within subsection (7) as it is reasonably practicable to name or describe.
 
 “Testing or training activities” has the meaning given by section 15(3).
 
 (7) A person is within this subsection if—
 
-(a) in the case of a targeted interception warrant, communications from, or
-intended for, the person will or may be intercepted by an interception
-authorised or required by the warrant, or
-
-(b) in the case of a targeted examination warrant, the content of
-communications from, or intended for, the person may be selected for
-examination under the warrant.
+(a) in the case of a targeted interception warrant, communications from, or intended for, the person will or may be intercepted by an interception authorised or required by the warrant, or 
+(b) in the case of a targeted examination warrant, the content of communications from, or intended for, the person may be selected for examination under the warrant.
 
 (8) Where—
 
-(a) a targeted interception warrant or mutual assistance warrant
-authorises or requires the interception of communications described in
-the warrant, or
-
-(b) a targeted examination warrant authorises the selection of the content
-of communications for examination,
+(a) a targeted interception warrant or mutual assistance warrant authorises or requires the interception of communications described in the warrant, or 
+(b) a targeted examination warrant authorises the selection of the content of communications for examination,
 
 the warrant must specify the addresses, numbers, apparatus, or other factors,
-or combination of factors, that are to be used for identifying the
-communications.
+or combination of factors, that are to be used for identifying the communications.
 
-(9) Any factor, or combination of factors, specified in accordance with subsection
-(8) must be one that identifies communications which are likely to be or to
-include—
+(9) Any factor, or combination of factors, specified in accordance with subsection (8) must be one that identifies communications which are likely to be or to include—
 
-(a) communications from, or intended for, any person named or described
-in the warrant, or
+(a) communications from, or intended for, any person named or described in the warrant, or 
+(b) communications originating on, or intended for transmission to, any premises named or described in the warrant.
+28 Duration of warrants 
+(1) A warrant under this Chapter ceases to have effect at the end of the relevant period (see subsection (2)), unless—
 
-(b) communications originating on, or intended for transmission to, any
-premises named or described in the warrant.
-28 Duration of warrants
-
-(1) A warrant under this Chapter ceases to have effect at the end of the relevant
-period (see subsection (2)), unless—
-
-(a) it is renewed before the end of that period (see section 29), or
-
-(b) it is cancelled or otherwise ceases to have effect before the end of that
-period (see sections 22 and 32).
+(a) it is renewed before the end of that period (see section 29), or 
+(b) it is cancelled or otherwise ceases to have effect before the end of that period (see sections 22 and 32).
 
 (2) In this section “the relevant period”—
 
-(a) in the case of an urgent warrant which has not been renewed, means the
-period ending with the fifth working day after the day on which the
-warrant was issued;
+(a) in the case of an urgent warrant which has not been renewed, means the period ending with the fifth working day after the day on which the warrant was issued;
 
 (b) in any other case, means the period of 6 months beginning with—
 
-(i) the day on which the warrant was issued, or
-
-(ii) in the case of a warrant that has been renewed, the day after the
-day at the end of which the warrant would have ceased to have
-effect if it had not been renewed.
+(i) the day on which the warrant was issued, or 
+(ii) in the case of a warrant that has been renewed, the day after the day at the end of which the warrant would have ceased to have effect if it had not been renewed.
 
 (3) For the purposes of subsection (2)(a) a warrant is an “urgent warrant” if—
 
-(a) the warrant was issued without the approval of a Judicial
-Commissioner, and
-
-(b) the person who decided to issue the warrant considered that there was
-an urgent need to issue it.
-29 Renewal of warrants
-
-(1) If the renewal conditions are met, a warrant issued under this Chapter may be
-renewed, at any time before the end of the relevant period, by an instrument
-issued by the appropriate person (see subsection (3)).
+(a) the warrant was issued without the approval of a Judicial Commissioner, and 
+(b) the person who decided to issue the warrant considered that there was an urgent need to issue it.
+29 Renewal of warrants 
+(1) If the renewal conditions are met, a warrant issued under this Chapter may be renewed, at any time before the end of the relevant period, by an instrument issued by the appropriate person (see subsection (3)).
 
 (2) The renewal conditions are—
 
-(a) that the appropriate person considers that the warrant continues to be
-necessary on any relevant grounds (see subsection (4)),
+(a) that the appropriate person considers that the warrant continues to be necessary on any relevant grounds (see subsection (4)),
 
-(b) that the appropriate person considers that the conduct that would be
-authorised by the renewed warrant continues to be proportionate to
-what is sought to be achieved by that conduct,
+(b) that the appropriate person considers that the conduct that would be authorised by the renewed warrant continues to be proportionate to what is sought to be achieved by that conduct,
 
-(c) that, in the case of a targeted examination warrant, the appropriate
-person considers that the warrant continues to be necessary to
-authorise the selection of relevant content for examination in breach of
-the prohibition in section 134(4), and
-
-(d) that the decision to renew the warrant has been approved by a Judicial
-Commissioner.
+(c) that, in the case of a targeted examination warrant, the appropriate person considers that the warrant continues to be necessary to authorise the selection of relevant content for examination in breach of the prohibition in section 134(4), and 
+(d) that the decision to renew the warrant has been approved by a Judicial Commissioner.
 
 (3) The appropriate person is—
 
-(a) in the case of a warrant issued by the Secretary of State, the Secretary of
-State;
+(a) in the case of a warrant issued by the Secretary of State, the Secretary of State;
 
-(b) in the case of a warrant issued by the Scottish Ministers, a member of
-the Scottish Government.
+(b) in the case of a warrant issued by the Scottish Ministers, a member of the Scottish Government.
 
 (4) “Relevant grounds” means—
 
-(a) in the case of a warrant issued by the Secretary of State, grounds falling
-within section 18;
+(a) in the case of a warrant issued by the Secretary of State, grounds falling within section 18;
 
-(b) in the case of a warrant issued by the Scottish Ministers, grounds falling
-within section 19(4).
+(b) in the case of a warrant issued by the Scottish Ministers, grounds falling within section 19(4).
 
-(5) The decision to renew a warrant must be taken personally by the appropriate
-person, and the instrument renewing the warrant must be signed by that
-person.
+(5) The decision to renew a warrant must be taken personally by the appropriate person, and the instrument renewing the warrant must be signed by that person.
 
-(6) Section 21 (approval of warrants by Judicial Commissioners) applies in relation
-to a decision to renew a warrant as it applies in relation to a decision to issue a
-warrant (and accordingly any reference in that section to the person who
-decided to issue the warrant is to be read as a reference to the person who
-decided to renew it).
+(6) Section 21 (approval of warrants by Judicial Commissioners) applies in relation to a decision to renew a warrant as it applies in relation to a decision to issue a warrant (and accordingly any reference in that section to the person who decided to issue the warrant is to be read as a reference to the person who decided to renew it).
 
-(7) Sections 24 (Members of Parliament etc.) and 25 (items subject to legal
-privilege) apply in relation to a decision to renew a warrant as they apply in
-relation to a decision to issue a warrant.
+(7) Sections 24 (Members of Parliament etc.) and 25 (items subject to legal privilege) apply in relation to a decision to renew a warrant as they apply in relation to a decision to issue a warrant.
 
 (8) In this section “the relevant period” has the same meaning as in section 28.
 
-(9) This section is subject to section 33 (special rules for certain mutual assistance
-warrants).
-30 Modification of warrants
-
-(1) The provisions of a warrant issued under this Chapter may be modified at any
-time by an instrument issued by the person making the modification.
+(9) This section is subject to section 33 (special rules for certain mutual assistance warrants).
+30 Modification of warrants 
+(1) The provisions of a warrant issued under this Chapter may be modified at any time by an instrument issued by the person making the modification.
 
 (2) The only modifications that may be made under this section are—
 
 (a) adding, varying or removing the name or description of a person,
-organisation or set of premises to which the warrant relates, and
+organisation or set of premises to which the warrant relates, and 
+(b) adding, varying or removing any factor specified in the warrant in accordance with section 27(8).
 
-(b) adding, varying or removing any factor specified in the warrant in
-accordance with section 27(8).
-
-(3) The decision to modify the provisions of a warrant must be taken personally
-by the person making the modification, and the instrument making the
-modification must be signed by that person.
+(3) The decision to modify the provisions of a warrant must be taken personally by the person making the modification, and the instrument making the modification must be signed by that person.
 
 (4) In this section—
 
-(a) a modification adding or varying a name or description as mentioned
-in paragraph (a) of subsection (2) is referred to as a “major
-modification”, and
-
-(b) any other modification within that subsection is referred to as a “minor
-modification”.
+(a) a modification adding or varying a name or description as mentioned in paragraph (a) of subsection (2) is referred to as a “major modification”, and 
+(b) any other modification within that subsection is referred to as a “minor modification”.
 
 (5) A major modification may be made by—
 
-(a) the Secretary of State, in the case of a warrant issued by the Secretary of
-State,
+(a) the Secretary of State, in the case of a warrant issued by the Secretary of State,
 
-(b) a member of the Scottish Government, in the case of a warrant issued
-by the Scottish Ministers, or
-
-(c) a senior official acting on behalf of the Secretary of State or (as the case
-may be) the Scottish Ministers.
+(b) a member of the Scottish Government, in the case of a warrant issued by the Scottish Ministers, or 
+(c) a senior official acting on behalf of the Secretary of State or (as the case may be) the Scottish Ministers.
 
 (6) A minor modification may be made by—
 
-(a) the Secretary of State, in the case of a warrant issued by the Secretary of
-State,
+(a) the Secretary of State, in the case of a warrant issued by the Secretary of State,
 
-(b) a member of the Scottish Government, in the case of a warrant issued
-by the Scottish Ministers,
+(b) a member of the Scottish Government, in the case of a warrant issued by the Scottish Ministers,
 
-(c) a senior official acting on behalf of the Secretary of State or (as the case
-may be) the Scottish Ministers,
+(c) a senior official acting on behalf of the Secretary of State or (as the case may be) the Scottish Ministers,
 
-(d) the person to whom the warrant is addressed, or
+(d) the person to whom the warrant is addressed, or 
+(e) a person who holds a senior position in the same public authority as the person mentioned in paragraph (d).
 
-(e) a person who holds a senior position in the same public authority as the
-person mentioned in paragraph (d).
+(7) But if a person within subsection (6)(d) or (e) considers that there is an urgent need to make a major modification, that person (as well as a person within subsection (5)) may do so.
 
-(7) But if a person within subsection (6)(d) or (e) considers that there is an urgent
-need to make a major modification, that person (as well as a person within
-subsection (5)) may do so.
+Section 31 contains provision about the approval of major modifications made in urgent cases.
 
-Section 31 contains provision about the approval of major modifications made
-in urgent cases.
-
-(8) For the purposes of subsection (6)(e) a person holds a senior position in a public
-authority if—
+(8) For the purposes of subsection (6)(e) a person holds a senior position in a public authority if—
 
 (a) in the case of any of the intelligence services—
 
-(i) the person is a member of the Senior Civil Service or a member
-of the Senior Management Structure of Her Majesty’s
-Diplomatic Service, or
+(i) the person is a member of the Senior Civil Service or a member of the Senior Management Structure of Her Majesty’s Diplomatic Service, or 
+(ii) the person holds a position in the intelligence service of equivalent seniority to such a person;
 
-(ii) the person holds a position in the intelligence service of
-equivalent seniority to such a person;
+(b) in the case of the National Crime Agency, the person is a National Crime Agency officer of grade 2 or above;
 
-(b) in the case of the National Crime Agency, the person is a National
-Crime Agency officer of grade 2 or above;
+(c) in the case of the metropolitan police force, the Police Service of Northern Ireland or the Police Service of Scotland, a person is of or above the rank of superintendent;
 
-(c) in the case of the metropolitan police force, the Police Service of
-Northern Ireland or the Police Service of Scotland, a person is of or
-above the rank of superintendent;
-
-(d) in the case of Her Majesty’s Revenue and Customs, the person is a
-member of the Senior Civil Service;
+(d) in the case of Her Majesty’s Revenue and Customs, the person is a member of the Senior Civil Service;
 
 (e) in the case of the Ministry of Defence—
 
-(i) the person is a member of the Senior Civil Service, or
+(i) the person is a member of the Senior Civil Service, or 
+(ii) the person is of or above the rank of brigadier, commodore or air commodore.
 
-(ii) the person is of or above the rank of brigadier, commodore or
-air commodore.
+(9) A person may make a major modification of a warrant by adding a name or description as mentioned in subsection (2)(a) only if the person considers—
 
-(9) A person may make a major modification of a warrant by adding a name or
-description as mentioned in subsection (2)(a) only if the person considers—
-
-(a) that the modification is necessary on any relevant grounds (see
-subsection (10)), and
-
-(b) that the conduct authorised by the modification is proportionate to
-what is sought to be achieved by that conduct.
+(a) that the modification is necessary on any relevant grounds (see subsection (10)), and 
+(b) that the conduct authorised by the modification is proportionate to what is sought to be achieved by that conduct.
 
 (10) In subsection (9)(a) “relevant grounds” means—
 
-(a) in the case of a warrant issued by the Secretary of State, grounds falling
-within section 18;
+(a) in the case of a warrant issued by the Secretary of State, grounds falling within section 18;
 
-(b) in the case of a warrant issued by the Scottish Ministers, grounds falling
-within section 19(4);
+(b) in the case of a warrant issued by the Scottish Ministers, grounds falling within section 19(4);
 
-and for the purposes of subsection (9) any reference to the Secretary of State in
-section 18(3)(b) or the Scottish Ministers in section 19(4)(b) is to be read as a
-reference to the person making the modification.
+and for the purposes of subsection (9) any reference to the Secretary of State in section 18(3)(b) or the Scottish Ministers in section 19(4)(b) is to be read as a reference to the person making the modification.
 
-(11) Sections 24 (Members of Parliament etc.) and 25 (items subject to legal
-privilege) apply in relation to a decision to make a major modification of a
-warrant by adding a name or description as mentioned in subsection (2)(a) as
+(11) Sections 24 (Members of Parliament etc.) and 25 (items subject to legal privilege) apply in relation to a decision to make a major modification of a warrant by adding a name or description as mentioned in subsection (2)(a) as 
+they apply in relation to a decision to issue a warrant; and accordingly where section 24 applies only the Secretary of State may make the modification.
 
-they apply in relation to a decision to issue a warrant; and accordingly where
-section 24 applies only the Secretary of State may make the modification.
+(12) Where a major modification of a warrant is made by a senior official in accordance with subsection (5), the Secretary of State or (in the case of a warrant issued by the Scottish Ministers) a member of the Scottish Government must be notified personally of the modification and the reasons for making it.
 
-(12) Where a major modification of a warrant is made by a senior official in
-accordance with subsection (5), the Secretary of State or (in the case of a
-warrant issued by the Scottish Ministers) a member of the Scottish Government
-must be notified personally of the modification and the reasons for making it.
-
-(13) If at any time a person mentioned in subsection (6) considers that any factor
-specified in a warrant in accordance with section 27(8) is no longer relevant for
-identifying communications which, in the case of that warrant, are likely to be,
-or to include, communications falling within section 27(9)(a) or (b), the person
-must modify the warrant by removing that factor.
+(13) If at any time a person mentioned in subsection (6) considers that any factor specified in a warrant in accordance with section 27(8) is no longer relevant for identifying communications which, in the case of that warrant, are likely to be,
+or to include, communications falling within section 27(9)(a) or (b), the person must modify the warrant by removing that factor.
 
 (14) In this section “senior official” means—
 
-(a) in the case of a warrant issued by the Secretary of State, a member of the
-Senior Civil Service or a member of the Senior Management Structure
-of Her Majesty’s Diplomatic Service;
+(a) in the case of a warrant issued by the Secretary of State, a member of the Senior Civil Service or a member of the Senior Management Structure of Her Majesty’s Diplomatic Service;
 
-(b) in the case of a warrant issued by the Scottish Ministers, a member of
-the staff of the Scottish Administration who is a member of the Senior
-Civil Service.
+(b) in the case of a warrant issued by the Scottish Ministers, a member of the staff of the Scottish Administration who is a member of the Senior Civil Service.
 
-(15) Nothing in this section applies in relation to modifying the provisions of a
-warrant in a way which does not affect the conduct authorised or required by
-it.
-31 Approval of major modifications made in urgent cases
+(15) Nothing in this section applies in relation to modifying the provisions of a warrant in a way which does not affect the conduct authorised or required by it.
+31 Approval of major modifications made in urgent cases 
+(1) This section applies where a person makes a major modification of a warrant under this Chapter by virtue of section 30(7).
 
-(1) This section applies where a person makes a major modification of a warrant
-under this Chapter by virtue of section 30(7).
-
-(2) The person who made the modification must inform a designated senior
-official that it has been made.
+(2) The person who made the modification must inform a designated senior official that it has been made.
 
 (3) In this section—
 
-    “designated senior official” means a senior official who has been
-    designated by the Secretary of State or (in the case of warrants issued
-    by the Scottish Ministers) the Scottish Ministers for the purposes of this
-    section, and
-
+    “designated senior official” means a senior official who has been     designated by the Secretary of State or (in the case of warrants issued     by the Scottish Ministers) the Scottish Ministers for the purposes of this     section, and 
     “senior official” has the same meaning as in section 30.
 
-(4) In addition, the Secretary of State or (in the case of a warrant issued by the
-Scottish Ministers) a member of the Scottish Government must be notified
-personally of the modification and the reasons for making it.
+(4) In addition, the Secretary of State or (in the case of a warrant issued by the Scottish Ministers) a member of the Scottish Government must be notified personally of the modification and the reasons for making it.
 
 (5) The designated senior official must, before the end of the relevant period—
 
-(a) decide whether to approve the decision to make the modification, and
-
+(a) decide whether to approve the decision to make the modification, and 
 (b) notify the person of the senior official’s decision.
 
-“The relevant period” means the period ending with the fifth working day after
-the day on which the modification was made.
+“The relevant period” means the period ending with the fifth working day after the day on which the modification was made.
 
-(6) If the designated senior official refuses to approve the decision to make the
-modification—
+(6) If the designated senior official refuses to approve the decision to make the modification—
 
-(a) the Secretary of State or (in the case of a warrant issued by the Scottish
-Ministers) a member of the Scottish Government must be notified
-personally of the refusal,
+(a) the Secretary of State or (in the case of a warrant issued by the Scottish Ministers) a member of the Scottish Government must be notified personally of the refusal,
 
-(b) the warrant (unless it no longer has effect) has effect as if the
-modification had not been made, and
-
-(c) the person to whom the warrant is addressed must, so far as is
-reasonably practicable, secure that anything in the process of being
-done under the warrant by virtue of that modification stops as soon as
-possible.
+(b) the warrant (unless it no longer has effect) has effect as if the modification had not been made, and 
+(c) the person to whom the warrant is addressed must, so far as is reasonably practicable, secure that anything in the process of being done under the warrant by virtue of that modification stops as soon as possible.
 
 (7) Nothing in this section affects the lawfulness of—
 
-(a) anything done under the warrant by virtue of the modification before
-the modification ceases to have effect;
+(a) anything done under the warrant by virtue of the modification before the modification ceases to have effect;
 
-(b) if anything is in the process of being done under the warrant by virtue
-of the modification when the modification ceases to have effect—
+(b) if anything is in the process of being done under the warrant by virtue of the modification when the modification ceases to have effect—
 
-(i) anything done before that thing could be stopped, or
-
+(i) anything done before that thing could be stopped, or 
 (ii) anything done which it is not reasonably practicable to stop.
-32 Cancellation of warrants
-
-(1) Any of the appropriate persons may cancel a warrant issued under this
-Chapter at any time.
+32 Cancellation of warrants 
+(1) Any of the appropriate persons may cancel a warrant issued under this Chapter at any time.
 
 (2) If any of the appropriate persons considers that—
 
-(a) a warrant issued under this Chapter is no longer necessary on any
-relevant grounds, or
-
-(b) the conduct authorised by the warrant is no longer proportionate to
-what is sought to be achieved by that conduct,
+(a) a warrant issued under this Chapter is no longer necessary on any relevant grounds, or 
+(b) the conduct authorised by the warrant is no longer proportionate to what is sought to be achieved by that conduct,
 
 the person must cancel the warrant.
 
 (3) In subsection (2)(a) “relevant grounds” means—
 
-(a) in the case of a warrant issued by the Secretary of State, grounds falling
-within section 18;
+(a) in the case of a warrant issued by the Secretary of State, grounds falling within section 18;
 
-(b) in the case of a warrant issued by the Scottish Ministers, grounds falling
-within section 19(4).
+(b) in the case of a warrant issued by the Scottish Ministers, grounds falling within section 19(4).
 
 (4) For the purpose of this section “the appropriate persons” are—
 
-(a) in the case of a warrant issued by the Secretary of State, the Secretary of
-State or a senior official acting on behalf of the Secretary of State;
+(a) in the case of a warrant issued by the Secretary of State, the Secretary of State or a senior official acting on behalf of the Secretary of State;
 
-(b) in the case of a warrant issued by the Scottish Ministers, a member of
-the Scottish Government or a senior official acting on behalf of the
-Scottish Ministers.
+(b) in the case of a warrant issued by the Scottish Ministers, a member of the Scottish Government or a senior official acting on behalf of the Scottish Ministers.
 
-(5) Where a warrant is cancelled under this section, the person to whom the
-warrant was addressed must, so far as is reasonably practicable, secure that
-anything in the process of being done under the warrant stops as soon as
-possible.
+(5) Where a warrant is cancelled under this section, the person to whom the warrant was addressed must, so far as is reasonably practicable, secure that anything in the process of being done under the warrant stops as soon as possible.
 
 (6) A warrant that has been cancelled under this section may not be renewed.
 
 (7) In this section “senior official” means—
 
-(a) in the case of a warrant issued by the Secretary of State, a member of the
-Senior Civil Service or a member of the Senior Management Structure
-of Her Majesty’s Diplomatic Service;
+(a) in the case of a warrant issued by the Secretary of State, a member of the Senior Civil Service or a member of the Senior Management Structure of Her Majesty’s Diplomatic Service;
 
-(b) in the case of a warrant issued by the Scottish Ministers, a member of
-the staff of the Scottish Administration who is a member of the Senior
-Civil Service.
+(b) in the case of a warrant issued by the Scottish Ministers, a member of the staff of the Scottish Administration who is a member of the Senior Civil Service.
 
-(8) See also section 33 (which imposes a duty to cancel mutual assistance warrants
-in certain circumstances).
-33 Special rules for certain mutual assistance warrants
+(8) See also section 33 (which imposes a duty to cancel mutual assistance warrants in certain circumstances).
+33 Special rules for certain mutual assistance warrants 
+(1) For the purposes of this section a warrant is a “relevant mutual assistance warrant” if—
 
-(1) For the purposes of this section a warrant is a “relevant mutual assistance
-warrant” if—
-
-(a) the warrant is for the purposes of a request for assistance made under
-an EU mutual assistance instrument or an international mutual
-assistance agreement by the competent authorities of a country or
-territory outside the United Kingdom, and
-
+(a) the warrant is for the purposes of a request for assistance made under an EU mutual assistance instrument or an international mutual assistance agreement by the competent authorities of a country or territory outside the United Kingdom, and 
 (b) either—
 
-(i) it appears that the interception subject is outside the United
-Kingdom, or
+(i) it appears that the interception subject is outside the United Kingdom, or 
+(ii) the interception to which the warrant relates is to take place in relation only to premises outside the United Kingdom.
 
-(ii) the interception to which the warrant relates is to take place in
-relation only to premises outside the United Kingdom.
-
-(2) The decision to issue a relevant mutual assistance warrant may be taken by a
-senior official designated by the Secretary of State for that purpose.
+(2) The decision to issue a relevant mutual assistance warrant may be taken by a senior official designated by the Secretary of State for that purpose.
 
 (3) In such a case, the warrant must contain—
 
-(a) a statement that the warrant is issued for the purposes of a request for
-assistance made under an EU mutual assistance instrument or an
-international mutual assistance agreement (as the case may be) by the
-competent authorities of a country or territory outside the United
-Kingdom, and
-
+(a) a statement that the warrant is issued for the purposes of a request for assistance made under an EU mutual assistance instrument or an international mutual assistance agreement (as the case may be) by the competent authorities of a country or territory outside the United Kingdom, and 
 (b) whichever of the following statements is applicable—
 
-(i) a statement that the interception subject appears to be outside
-the United Kingdom;
+(i) a statement that the interception subject appears to be outside the United Kingdom;
 
-(ii) a statement that the interception to which the warrant relates is
-to take place in relation only to premises outside the United
-Kingdom.
+(ii) a statement that the interception to which the warrant relates is to take place in relation only to premises outside the United Kingdom.
 
-(4) A relevant mutual assistance warrant may be renewed by a senior official
-designated by the Secretary of State for that purpose; and references in section
-29 to the appropriate person include, in the case of such a warrant, references
-to that senior official.
+(4) A relevant mutual assistance warrant may be renewed by a senior official designated by the Secretary of State for that purpose; and references in section 29 to the appropriate person include, in the case of such a warrant, references to that senior official.
 
-(5) Where a senior official renews a relevant mutual assistance warrant in
-accordance with subsection (4), the instrument renewing the warrant must
-contain—
+(5) Where a senior official renews a relevant mutual assistance warrant in accordance with subsection (4), the instrument renewing the warrant must contain—
 
-(a) a statement that the renewal is for the purposes of a request for
-assistance made under an EU mutual assistance instrument or an
-international mutual assistance agreement (as the case may be) by the
-competent authorities of a country or territory outside the United
-Kingdom, and
-
+(a) a statement that the renewal is for the purposes of a request for assistance made under an EU mutual assistance instrument or an international mutual assistance agreement (as the case may be) by the competent authorities of a country or territory outside the United Kingdom, and 
 (b) whichever of the following statements is applicable—
 
-(i) a statement that the interception subject appears to be outside
-the United Kingdom;
+(i) a statement that the interception subject appears to be outside the United Kingdom;
 
-(ii) a statement that the interception to which the warrant relates is
-to take place in relation only to premises outside the United
-Kingdom.
+(ii) a statement that the interception to which the warrant relates is to take place in relation only to premises outside the United Kingdom.
 
 (6) Subsection (7) applies in a case where—
 
 (a) a relevant mutual assistance warrant—
 
-(i) was issued containing the statement set out in subsection
-(3)(b)(i), or
+(i) was issued containing the statement set out in subsection (3)(b)(i), or 
+(ii) has been renewed by an instrument containing the statement set out in subsection (5)(b)(i), and 
+(b) the last renewal (if any) of the warrant was a renewal by a senior official in accordance with subsection (4).
 
-(ii) has been renewed by an instrument containing the statement
-set out in subsection (5)(b)(i), and
-
-(b) the last renewal (if any) of the warrant was a renewal by a senior official
-in accordance with subsection (4).
-
-(7) If the Secretary of State, or a senior official acting on behalf of the Secretary of
-State, believes that the person, group or organisation named or described in the
-warrant as the interception subject is in the United Kingdom, that person must
-cancel the warrant under section 32.
+(7) If the Secretary of State, or a senior official acting on behalf of the Secretary of State, believes that the person, group or organisation named or described in the warrant as the interception subject is in the United Kingdom, that person must cancel the warrant under section 32.
 
 (8) In this section—
 
     “the interception subject”, in relation to a warrant, means the person,
-    group of persons or organisation about whose communications
-    information is sought by the interception to which the warrant relates;
+    group of persons or organisation about whose communications     information is sought by the interception to which the warrant relates;
 
-    “senior official” means a member of the Senior Civil Service or a member
-    of the Senior Management Structure of Her Majesty’s Diplomatic
-    Service.
+    “senior official” means a member of the Senior Civil Service or a member     of the Senior Management Structure of Her Majesty’s Diplomatic     Service.
 
-Implementation of warrants
-34 Implementation of warrants
+Implementation of warrants 34 Implementation of warrants 
+(1) This section applies to targeted interception warrants and mutual assistance warrants.
 
-(1) This section applies to targeted interception warrants and mutual assistance
-warrants.
+(2) In giving effect to a warrant to which this section applies, the person to whom it is addressed (“the intercepting authority”) may (in addition to acting alone)
+act through, or together with, such other persons as the intercepting authority may require (whether under subsection (3) or otherwise) to provide the authority with assistance in giving effect to the warrant.
 
-(2) In giving effect to a warrant to which this section applies, the person to whom
-it is addressed (“the intercepting authority”) may (in addition to acting alone)
-act through, or together with, such other persons as the intercepting authority
-may require (whether under subsection (3) or otherwise) to provide the
-authority with assistance in giving effect to the warrant.
+(3) For the purpose of requiring any person to provide assistance in relation to a warrant to which this section applies, the intercepting authority may—
 
-(3) For the purpose of requiring any person to provide assistance in relation to a
-warrant to which this section applies, the intercepting authority may—
+(a) serve a copy of the warrant on any person who the intercepting authority considers may be able to provide such assistance, or 
+(b) make arrangements for the service of a copy of the warrant on any such person.
 
-(a) serve a copy of the warrant on any person who the intercepting
-authority considers may be able to provide such assistance, or
+(4) A copy of a warrant may be served under subsection (3) on a person outside the United Kingdom for the purpose of requiring the person to provide such assistance in the form of conduct outside the United Kingdom.
 
-(b) make arrangements for the service of a copy of the warrant on any such
-person.
+(5) For the purposes of this Act, the provision of assistance in giving effect to a warrant to which this section applies includes any disclosure to the intercepting authority, or to persons acting on behalf of the intercepting authority, of anything obtained under the warrant.
 
-(4) A copy of a warrant may be served under subsection (3) on a person outside
-the United Kingdom for the purpose of requiring the person to provide such
-assistance in the form of conduct outside the United Kingdom.
+(6) References in this section and sections 35 and 36 to the service of a copy of a warrant include—
 
-(5) For the purposes of this Act, the provision of assistance in giving effect to a
-warrant to which this section applies includes any disclosure to the
-intercepting authority, or to persons acting on behalf of the intercepting
-authority, of anything obtained under the warrant.
+(a) the service of a copy of one or more schedules contained in the warrant with the omission of the remainder of the warrant, and 
+(b) the service of a copy of the warrant with the omission of any schedule contained in the warrant.
+35 Service of warrants outside the United Kingdom 
+(1) This section applies to the service of warrants under section 34(3) on a person outside the United Kingdom.
 
-(6) References in this section and sections 35 and 36 to the service of a copy of a
-warrant include—
+(2) A copy of a warrant may be served on the person in any of the following ways (as well as by electronic or other means of service)—
 
-(a) the service of a copy of one or more schedules contained in the warrant
-with the omission of the remainder of the warrant, and
+(a) by serving it at the person’s principal office within the United Kingdom or, if the person has no such office in the United Kingdom, at any place in the United Kingdom where the person carries on business or conducts activities;
 
-(b) the service of a copy of the warrant with the omission of any schedule
-contained in the warrant.
-35 Service of warrants outside the United Kingdom
+(b) if the person has specified an address in the United Kingdom as one at which the person, or someone on the person’s behalf, will accept service of documents of the same description as a copy of a warrant, by serving it at that address;
 
-(1) This section applies to the service of warrants under section 34(3) on a person
-outside the United Kingdom.
+(c) by making it available for inspection (whether to the person or to someone acting on the person’s behalf) at a place in the United Kingdom (but this is subject to subsection (3)).
 
-(2) A copy of a warrant may be served on the person in any of the following ways
-(as well as by electronic or other means of service)—
+(3) A copy of a warrant may be served on a person in the way mentioned in subsection (2)(c) only if—
 
-(a) by serving it at the person’s principal office within the United Kingdom
-or, if the person has no such office in the United Kingdom, at any place
-in the United Kingdom where the person carries on business or
-conducts activities;
+(a) it is not reasonably practicable for a copy to be served by any other means (whether as mentioned in subsection (2)(a) or (b) or otherwise),
+and 
+(b) the intercepting authority takes such steps as the authority considers appropriate for the purpose of bringing the contents of the warrant, and the availability of a copy for inspection, to the attention of the person.
 
-(b) if the person has specified an address in the United Kingdom as one at
-which the person, or someone on the person’s behalf, will accept
-service of documents of the same description as a copy of a warrant, by
-serving it at that address;
+(4) The steps mentioned in subsection (3)(b) must be taken as soon as reasonably practicable after the copy of the warrant is made available for inspection.
 
-(c) by making it available for inspection (whether to the person or to
-someone acting on the person’s behalf) at a place in the United
-Kingdom (but this is subject to subsection (3)).
-
-(3) A copy of a warrant may be served on a person in the way mentioned in
-subsection (2)(c) only if—
-
-(a) it is not reasonably practicable for a copy to be served by any other
-means (whether as mentioned in subsection (2)(a) or (b) or otherwise),
-and
-
-(b) the intercepting authority takes such steps as the authority considers
-appropriate for the purpose of bringing the contents of the warrant, and
-the availability of a copy for inspection, to the attention of the person.
-
-(4) The steps mentioned in subsection (3)(b) must be taken as soon as reasonably
-practicable after the copy of the warrant is made available for inspection.
-
-(5) In this section “the intercepting authority” has the same meaning as in section
-34.
-36 Duty of operators to assist with implementation
-
-(1) A relevant operator that has been served with a copy of a warrant to which
-section 34 applies by (or on behalf of) the intercepting authority must take all
-steps for giving effect to the warrant that are notified to the relevant operator
-by (or on behalf of) the intercepting authority.
+(5) In this section “the intercepting authority” has the same meaning as in section 34.
+36 Duty of operators to assist with implementation 
+(1) A relevant operator that has been served with a copy of a warrant to which section 34 applies by (or on behalf of) the intercepting authority must take all steps for giving effect to the warrant that are notified to the relevant operator by (or on behalf of) the intercepting authority.
 
 This is subject to subsection (4).
 
 (2) In this section—
 
-    “relevant operator” means a postal operator or a telecommunications
-    operator;
+    “relevant operator” means a postal operator or a telecommunications     operator;
 
     “the intercepting authority” has the same meaning as in section 34.
 
-(3) Subsection (1) applies whether or not the relevant operator is in the United
-Kingdom.
+(3) Subsection (1) applies whether or not the relevant operator is in the United Kingdom.
 
-(4) The relevant operator is not required to take any steps which it is not
-reasonably practicable for the relevant operator to take. 
- (5) In determining for the purposes of subsection (4) whether it is reasonably
-practicable for a relevant operator outside the United Kingdom to take any
-steps in a country or territory outside the United Kingdom for giving effect to
-a warrant, the matters to be taken into account include the following—
+(4) The relevant operator is not required to take any steps which it is not reasonably practicable for the relevant operator to take. 
+ (5) In determining for the purposes of subsection (4) whether it is reasonably practicable for a relevant operator outside the United Kingdom to take any steps in a country or territory outside the United Kingdom for giving effect to a warrant, the matters to be taken into account include the following—
 
-(a) any requirements or restrictions under the law of that country or
-territory that are relevant to the taking of those steps, and
+(a) any requirements or restrictions under the law of that country or territory that are relevant to the taking of those steps, and 
+(b) the extent to which it is reasonably practicable to give effect to the warrant in a way that does not breach any of those requirements or restrictions.
 
-(b) the extent to which it is reasonably practicable to give effect to the
-warrant in a way that does not breach any of those requirements or
-restrictions.
+(6) Where obligations have been imposed on a relevant operator (“P”) under section 217 (maintenance of technical capability), for the purposes of subsection (4) the steps which it is reasonably practicable for P to take include every step which it would have been reasonably practicable for P to take if P had complied with all of those obligations.
 
-(6) Where obligations have been imposed on a relevant operator (“P”) under
-section 217 (maintenance of technical capability), for the purposes of
-subsection (4) the steps which it is reasonably practicable for P to take include
-every step which it would have been reasonably practicable for P to take if P
-had complied with all of those obligations.
-
-(7) A person who knowingly fails to comply with subsection (1) is guilty of an
-offence and liable—
+(7) A person who knowingly fails to comply with subsection (1) is guilty of an offence and liable—
 
 (a) on summary conviction in England and Wales—
 
-(i) to imprisonment for a term not exceeding 12 months (or 6
-months, if the offence was committed before the
-commencement of section 154(1) of the Criminal Justice Act
-2003), or
-
+(i) to imprisonment for a term not exceeding 12 months (or 6 months, if the offence was committed before the commencement of section 154(1) of the Criminal Justice Act 2003), or 
 (ii) to a fine,
 
 or to both;
 
 (b) on summary conviction in Scotland—
 
-(i) to imprisonment for a term not exceeding 12 months, or
-
+(i) to imprisonment for a term not exceeding 12 months, or 
 (ii) to a fine not exceeding the statutory maximum,
 
 or to both;
 
 (c) on summary conviction in Northern Ireland—
 
-(i) to imprisonment for a term not exceeding 6 months, or
-
+(i) to imprisonment for a term not exceeding 6 months, or 
 (ii) to a fine not exceeding the statutory maximum,
 
 or to both;
 
-(d) on conviction on indictment, to imprisonment for a term not exceeding
-2 years or to a fine, or to both.
+(d) on conviction on indictment, to imprisonment for a term not exceeding 2 years or to a fine, or to both.
 
-(8) The duty imposed by subsection (1) is enforceable (whether or not the person
-is in the United Kingdom) by civil proceedings by the Secretary of State for an
-injunction, or for specific performance of a statutory duty under section 45 of
-the Court of Session Act 1988, or for any other appropriate relief. 
+(8) The duty imposed by subsection (1) is enforceable (whether or not the person is in the United Kingdom) by civil proceedings by the Secretary of State for an injunction, or for specific performance of a statutory duty under section 45 of the Court of Session Act 1988, or for any other appropriate relief. 
