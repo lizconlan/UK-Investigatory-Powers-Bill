@@ -1,420 +1,822 @@
-CONTENTS
-
-PART 1
-GENERAL PROTECTIONS
-
-1 Overview of Act
-
-Prohibitions against unlawful interception
-2 Offence of unlawful interception
-3 Definition of “interception” etc.
-4 Conduct that is not interception
-5 Definition of “lawful authority”
-6 Monetary penalties for certain unlawful interceptions
-7 Restriction on requesting overseas interception
-
-Prohibition against unlawful obtaining of communications data
-8 Offence of unlawfully obtaining communications data
-
-Abolition of powers to obtain communications data
-9 Abolition of certain powers to obtain data
-
-Restrictions on interference with equipment
-10 Mandatory use of targeted equipment interference warrants
-11 Restriction on use of section 93 of the Police Act 1997
-
-PART 2
-LAWFUL INTERCEPTION OF COMMUNICATIONS
-
-CHAPTER 1
-INTERCEPTION AND EXAMINATION WITH A WARRANT
-
-Warrants under this Chapter
-12 Warrants that may be issued under this Chapter
-13 Subject-matter of warrants
-
-Power to issue warrants
-14 Power of Secretary of State to issue warrants
-15 Persons who may apply for issue of a warrant
-16 Additional protection for Members of Parliament etc.
-17 Power of Scottish Ministers to issue warrants
-18 “Relevant Scottish applications”
-
-Approval of warrants by Judicial Commissioners
-19 Approval of warrants by Judicial Commissioners
-20 Approval of warrants issued in urgent cases
-21 Warrants ceasing to have effect under section 20
-
-Further provision about warrants
-22 Decisions to issue warrants to be taken personally by Ministers
-23 Requirements that must be met by warrants
-24 Duration of warrants
-25 Renewal of warrants
-26 Modification of warrants
-27 Cancellation of warrants
-28 Special rules for certain mutual assistance warrants
-
-Implementation of warrants
-29 Implementation of warrants
-30 Service of warrants
-31 Duty of operators to assist with implementation
-
-CHAPTER 2
-OTHER FORMS OF LAWFUL INTERCEPTION
+EXPLANATORY NOTES
 
-Interception with consent
-32 Interception with the consent of the sender or recipient
+Explanatory notes to the Bill, prepared by the Home Office, are published separately
+as Bill 143—EN.
 
-Interception for administrative or enforcement purposes
-33 Interception by providers of postal or telecommunications services
-34 Interception by businesses etc. for monitoring and record-keeping purposes
-35 Postal services: interception for enforcement purposes
-36 Interception by OFCOM in connection with wireless telegraphy
+EUROPEAN CONVENTION ON HUMAN RIGHTS
 
-Interception taking place in certain institutions
-37 Interception in prisons
-38 Interception in psychiatric hospitals
-
-Interception in accordance with overseas requests
-39 Interception in accordance with overseas requests
-
-CHAPTER 3
-OTHER PROVISIONS ABOUT INTERCEPTION
-
-Restrictions on use of intercepted material etc.
-40 General safeguards
-41 Safeguards relating to disclosure of material or data overseas
-42 Exclusion of matters from legal proceedings
-43 Duty not to make unauthorised disclosures
-44 Offence of making unauthorised disclosures
-
-Interpretation
-45 Part 2: interpretation
-
-
-PART 3
-AUTHORISATIONS FOR OBTAINING COMMUNICATIONS DATA
-
-Targeted authorisations for obtaining data
-46 Power to grant authorisations
-47 Additional restrictions on grant of authorisations
-48 Procedure for authorisations and authorised notices
-49 Duration and cancellation of authorisations and notices
-50 Duties of telecommunications operators in relation to authorisations
-
-Filtering arrangements for obtaining data
-51 Filtering arrangements for obtaining data
-52 Use of filtering arrangements in pursuance of an authorisation
-53 Duties in connection with operation of filtering arrangements
-
-Relevant public authorities other than local authorities
-54 Relevant public authorities and designated senior officers
-55 Power to modify section 54 and Schedule 4
-56 Certain regulations under section 55: supplementary
-
-
-Local authorities
-57 Local authorities as relevant public authorities
-58 Requirement to be party to collaboration agreement J
-59 Judicial approval for local authority authorisations
-
-Additional protections
-60 Requirement to consult a single point of contact
-61 Commissioner approval for authorisations to identify or confirm journalistic sources
-
-Collaboration agreements
-62 Collaboration agreements
-63 Collaboration agreements: supplementary
-64 Police collaboration agreements
-
-Further and supplementary provision
-65 Lawfulness of conduct authorised by this Part
-66 Offence of making unauthorised disclosure
-67 Certain transfer and agency arrangements with public authorities
-68 Application of Part 3 to postal operators and postal services
-69 Extra-territorial application of Part 3
-70 Part 3: interpretation
-
-
-PART 4
-RETENTION OF COMMUNICATIONS DATA
-
-General
-
-71 Powers to require retention of certain data
-
-Safeguards
-72 Matters to be taken into account before giving retention notices
-73 Review by the Secretary of State
-74 Data integrity and security
-75 Disclosure of retained data
-
-Variation or revocation of notices
-76 Variation or revocation of notices
-
-Enforcement
-77 Enforcement of notices and certain other requirements and restrictions
-
-Further and supplementary provision
-78 Application of Part 4 to postal operators and postal services
-79 Extra-territorial application of Part 4
-80 Part 4: interpretation
-
-
-PART 5
-EQUIPMENT INTERFERENCE
-
-Warrants under this Part
-81 Warrants under this Part: general
-82 Meaning of “equipment data”
-83 Subject-matter of warrants
-
-Power to issue warrants
-84 Power to issue warrants to intelligence services: the Secretary of State
-85 Additional protection for Members of Parliament etc.
-86 Power to issue warrants to intelligences services: the Scottish Ministers
-87 Power to issue warrants to the Chief of Defence Intelligence
-88 Decision to issue warrants under sections 84 to 87 to be taken personally by Ministers
-89 Power to issue warrants to law enforcement officers
-90 Approval of warrants by Judicial Commissioners
-91 Approval of warrants issued in urgent cases
-92 Warrants ceasing to have effect under section 91
-
-Further provision about warrants
-93 Requirements that must be met by warrants
-94 Duration of warrants
-95 Renewal of warrants
-96 Modification of warrants
-97 Modification of warrants: supplementary provision
-98 Cancellation of warrants
-
-Implementation of warrants
-99 Implementation of warrants
-100 Service of warrants
-101 Duty of telecommunications providers to assist with implementation
-102 Offence of making unauthorised disclosure
-
-Supplementary provision
-103 Safeguards for material obtained
-104 Restriction on issue of targeted equipment interference warrants to certain
-law enforcement officers
-105 Part 5: interpretation
-
-PART 6
-BULK WARRANTS
-
-CHAPTER 1
-BULK INTERCEPTION WARRANTS
-
-Bulk interception warrants
-106 Bulk interception warrants
-107 Power to issue bulk interception warrants
-108 Additional requirements in respect of warrants affecting overseas operators
-109 Approval of warrants by Judicial Commissioners
-110 Decisions to issue warrants to be taken personally by Secretary of State
-111 Requirements that must be met by warrants
-
-Duration, modification and cancellation of warrants
-112 Duration of warrants
-113 Renewal of warrants
-114 Modification of warrants
-115 Cancellation of warrants
-
-Implementation of warrants
-116 Implementation of warrants
-
-Restrictions on use of intercepted material etc.
-117 General safeguards
-118 Safeguards relating to disclosure of material or data overseas
-119 Safeguards relating to examination of material or data
-120 Application of other restrictions in relation to warrants
-
-Interpretation
-121 Chapter 1: interpretation
-
-CHAPTER 2
-BULK ACQUISITION WARRANTS
-
-Bulk acquisition warrants
-122 Power to issue bulk acquisition warrants
-123 Approval of warrants by Judicial Commissioners
-124 Decisions to issue warrants to be taken personally by Secretary of State
-125 Requirements that must be met by warrants
-
-Duration, modification and cancellation of warrants
-126 Duration of warrants
-127 Renewal of warrants
-128 Modification of warrants
-129 Cancellation of warrants
-
-Implementation of warrants
-130 Implementation of warrants
-
-Restrictions on use of data obtained etc.
-131 General safeguards
-132 Safeguards relating to examination of data
-
-Supplementary provision
-133 Offence of making unauthorised disclosure
-134 Chapter 2: interpretation
-
-CHAPTER 3
-BULK EQUIPMENT INTERFERENCE WARRANTS
-
-Bulk equipment interference warrants
-135 Bulk equipment interference warrants: general
-136 Meaning of “equipment data”
-137 Power to issue bulk warrants
-138 Approval of warrants by Judicial Commissioners
-139 Decisions to issue warrants to be taken personally by Secretary of State
-140 Requirements that must be met by warrants
-
-Duration, modification and cancellation of warrants
-141 Duration of warrants
-142 Renewal of warrants
-143 Modification of warrants
-144 Cancellation of warrants
-
-Implementation of warrants
-145 Implementation of warrants
-
-Restrictions on use of material etc.
-146 General safeguards
-147 Safeguards relating to examination of material etc.
-148 Application of other restrictions in relation to warrants under this Chapter
-
-Interpretation
-149 Chapter 3: interpretation
-
-
-PART 7
-BULK PERSONAL DATASET WARRANTS
-
-Bulk personal datasets: interpretation
-150 Bulk personal datasets: interpretation
-
-Requirement for warrant
-151 Requirement for authorisation by warrant: general
-152 Exceptions to section 151(1) to (3)
-
-Issue of warrants
-153 Class BPD warrants
-154 Specific BPD warrants
-155 Approval of warrants by Judicial Commissioners
-156 Approval of warrants issued in urgent cases
-157 Warrants ceasing to have effect under section 156
-158 Decisions to issue warrants to be taken personally by Secretary of State
-159 Requirements that must be met by warrants
-
-Duration, modification and cancellation
-160 Duration of warrants
-161 Renewal of warrants
-162 Modification of warrants
-163 Cancellation of warrants
-164 Non-renewal or cancellation of class BPD warrants
-
-Further and supplementary provision
-165 Duty to have regard to code of practice
-166 Interpretation of Part
-
-PART 8
-OVERSIGHT ARRANGEMENTS
-
-CHAPTER 1
-INVESTIGATORY POWERS COMMISSIONER AND OTHER JUDICIAL COMMISSIONERS
-
-The Commissioners
-167 Investigatory Powers Commissioner and other Judicial Commissioners
-168 Terms and conditions of appointment
-
-Main functions of Commissioners
-169 Main oversight functions
-170 Additional directed oversight functions
-171 Error reporting
-172 Additional functions under this Part
-173 Functions under other enactments
-
-Reports and information and inspection powers
-174 Annual and other reports
-175 Information and inspection powers
-
-Supplementary provision
-176 Funding, staff and facilities
-177 Power to modify functions
-178 Abolition of existing oversight bodies
-   179 Codes of practice
-
-CHAPTER 2
-OTHER ARRANGEMENTS
-
-Codes of practice Investigatory Powers Tribunal
-180 Right of appeal from Tribunal
-181 Functions of Tribunal in relation to Part 4
-
-Information Commissioner
-182 Oversight by Information Commissioner in relation to Part 4
-
-Technical Advisory Board
-183 Technical Advisory Board
-
-
-PART 9
-MISCELLANEOUS AND GENERAL PROVISIONS
-
-CHAPTER 1
-MISCELLANEOUS
-
-Combined warrants and authorisations
-184 Combination of warrants and authorisations
-
-Compliance with Act
-185 Payments towards certain compliance costs
-186 Power to develop compliance systems etc.
-
-Additional powers
-187 Amendments of the Intelligence Services Act 1994
-188National security notices
-189 Maintenance of technical capability
-190 Further provision about notices under section 188 or 189
-191 Review by the Secretary of State
-
-Wireless telegraphy
-192 Amendments of the Wireless Telegraphy Act 2006
-
-CHAPTER 2
-GENERAL
-
-Interpretation
-193 Telecommunications definitions
-194 Postal definitions
-195 General definitions
-
-Supplementary provision
-196 Offences by bodies corporate etc.
-197 Regulations
-198 Enhanced affirmative procedure
-199 Financial provisions
-200 Transitional, transitory or saving provision
-201 Minor and consequential provision
-
-Final provision
-202 Commencement, extent and short title
-
-Schedule 1 — Monetary penalty notices
-Part 1 — Monetary penalty notices
-Part 2 — Information provisions
-Schedule 2 — Abolition of disclosure powers
-Schedule 3 — Exceptions to section 42
-Schedule 4 — Relevant public authorities and designated senior officers
-Part 1 — Table of authorities and officers
-Part 2 — Interpretation of table
-Schedule 5 — Transfer and agency arrangements with public authorities: further provisions
-Schedule 6 — Codes of practice
-Schedule 7 — Combination of warrants
-Part 1 — Combinations with targeted interception warrants
-Part 2 — Other combinations
-Part 3 — General
-Schedule 8 — Transitional, transitory and saving provision
-Schedule 9 — Minor and consequential provision
-Part 1 — Minor and consequential provision: general
-Part 2 — Repeals and revocations consequential on Part 1 of this Schedule
+Secretary Theresa May has made the following statement under section 19(1)(a) of
+the Human Rights Act 1998:
+
+In my view the provisions of the Investigatory Powers Bill are compatible with the
+Convention rights.
+
+Contents
+
+    Part 1
+
+    General privacy protections
+
+        Overview of Act
+
+            1. Overview of Act
+
+        Prohibitions against unlawful interception
+
+            2. Offence of unlawful interception
+
+            3. Definition of “interception” etc.
+
+            4. Conduct that is not interception
+
+            5. Definition of “lawful authority”
+
+            6. Monetary penalties for certain unlawful interceptions
+
+            7. Restriction on requesting interception by overseas authorities
+
+            8. Restriction on requesting assistance under mutual assistance agreements etc.
+
+        Prohibition against unlawful obtaining of communications data
+
+            9. Offence of unlawfully obtaining communications data
+
+        Abolition of powers to obtain communications data
+
+            10. Abolition or restriction of certain powers to obtain communications data
+
+        Restrictions on interference with equipment
+
+            11. Mandatory use of equipment interference warrants
+
+            12. Restriction on use of section 93 of the Police Act 1997
+
+    Part 2
+
+    Lawful interception of communications
+
+        Chapter 1
+
+        Interception and examination with a warrant
+
+            Warrants under this Chapter
+
+                13. Warrants that may be issued under this Chapter
+
+                14. Obtaining secondary data
+
+                15. Subject-matter of warrants
+
+            Power to issue warrants
+
+                16. Persons who may apply for issue of a warrant
+
+                17. Power of Secretary of State to issue warrants
+
+                18. Grounds on which warrants may be issued by Secretary of State
+
+                19. Power of Scottish Ministers to issue warrants
+
+                20. “Relevant Scottish applications”
+
+            Approval of warrants by Judicial Commissioners
+
+                21. Approval of warrants by Judicial Commissioners
+
+                22. Approval of warrants issued in urgent cases
+
+                23. Failure to approve warrant issued in urgent case
+
+            Additional safeguards
+
+                24. Members of Parliament etc.
+
+                25. Items subject to legal privilege
+
+            Further provision about warrants
+
+                26. Decisions to issue warrants to be taken personally by Ministers
+
+                27. Requirements that must be met by warrants
+
+                28. Duration of warrants
+
+                29. Renewal of warrants
+
+                30. Modification of warrants
+
+                31. Approval of major modifications made in urgent cases
+
+                32. Cancellation of warrants
+
+                33. Special rules for certain mutual assistance warrants
+
+            Implementation of warrants
+
+                34. Implementation of warrants
+
+                35. Service of warrants outside the United Kingdom
+
+                36. Duty of operators to assist with implementation
+
+        Chapter 2
+
+        Other forms of lawful interception
+
+            Interception with consent
+
+                37. Interception with the consent of the sender or recipient
+
+            Interception for administrative or enforcement purposes
+
+                38. Interception by providers of postal or telecommunications services
+
+                39. Interception by businesses etc. for monitoring and record-keeping purposes
+
+                40. Postal services: interception for enforcement purposes
+
+                41. Interception by OFCOM in connection with wireless telegraphy
+
+            Interception taking place in certain institutions
+
+                42. Interception in prisons
+
+                43. Interception in psychiatric hospitals etc.
+
+                44. Interception in immigration detention facilities
+
+            Interception in accordance with overseas requests
+
+                45. Interception in accordance with overseas requests
+
+        Chapter 3
+
+        Other provisions about interception
+
+            Restrictions on use or disclosure of material obtained under warrants etc.
+
+                46. Safeguards relating to retention and disclosure of material
+
+                47. Safeguards relating to disclosure of material overseas
+
+                48. Exclusion of matters from legal proceedings
+
+                49. Duty not to make unauthorised disclosures
+
+                50. Section 49: meaning of “excepted disclosure”
+
+                51. Offence of making unauthorised disclosures
+
+            Interpretation
+
+                52. Part 2: interpretation
+
+    Part 3
+
+    Authorisations for obtaining communications data
+
+        Targeted authorisations for obtaining data
+
+            53. Power to grant authorisations
+
+            54. Additional restrictions on grant of authorisations
+
+            55. Procedure for authorisations and authorised notices
+
+            56. Duration and cancellation of authorisations and notices
+
+            57. Duties of telecommunications operators in relation to authorisations
+
+        Filtering arrangements for obtaining data
+
+            58. Filtering arrangements for obtaining data
+
+            59. Use of filtering arrangements in pursuance of an authorisation
+
+            60. Duties in connection with operation of filtering arrangements
+
+        Relevant public authorities other than local authorities
+
+            61. Relevant public authorities and designated senior officers
+
+            62. Power to modify section 61 and Schedule 4
+
+            63. Certain regulations under section 62: supplementary
+
+        Local authorities
+
+            64. Local authorities as relevant public authorities
+
+            65. Requirement to be party to collaboration agreement
+
+            66. Judicial approval for local authority authorisations
+
+        Additional protections
+
+            67. Use of a single point of contact
+
+            68. Commissioner approval for authorisations to identify or confirm journalistic
+            sources
+
+        Collaboration agreements
+
+            69. Collaboration agreements
+
+            70. Collaboration agreements: supplementary
+
+            71. Police collaboration agreements
+
+        Further and supplementary provision
+
+            72. Lawfulness of conduct authorised by this Part
+
+            73. Offence of making unauthorised disclosure
+
+            74. Certain transfer and agency arrangements with public authorities
+
+            75. Application of Part 3 to postal operators and postal services
+
+            76. Extra-territorial application of Part 3
+
+            77. Part 3: interpretation
+
+    Part 4
+
+    Retention of communications data
+
+        General
+
+            78. Powers to require retention of certain data
+
+        Safeguards
+
+            79. Matters to be taken into account before giving retention notices
+
+            80. Review by the Secretary of State
+
+            81. Data integrity and security
+
+            82. Disclosure of retained data
+
+        Variation or revocation of notices
+
+            83. Variation or revocation of notices
+
+        Enforcement
+
+            84. Enforcement of notices and certain other requirements and restrictions
+
+        Further and supplementary provision
+
+            85. Application of Part 4 to postal operators and postal services
+
+            86. Extra-territorial application of Part 4
+
+            87. Part 4: interpretation
+
+    Part 5
+
+    Equipment interference
+
+        Warrants under this Part
+
+            88. Warrants under this Part: general
+
+            89. Meaning of “equipment data”
+
+            90. Subject-matter of warrants
+
+        Power to issue warrants
+
+            91. Power to issue warrants to intelligence services: the Secretary of State
+
+            92. Power to issue warrants to intelligences services: the Scottish Ministers
+
+            93. Power to issue warrants to the Chief of Defence Intelligence
+
+            94. Members of Parliament etc.
+
+            95. Decision to issue warrants under sections 91 to 93 to be taken personally by
+            Ministers
+
+            96. Power to issue warrants to law enforcement officers
+
+        Approval of warrants by Judicial Commissioners
+
+            97. Approval of warrants by Judicial Commissioners
+
+            98. Approval of warrants issued in urgent cases
+
+            99. Failure to approve warrant issued in urgent case
+
+        Additional safeguards
+
+            100. Items subject to legal privilege
+
+        Further provision about warrants
+
+            101. Requirements which must be met by warrants
+
+            102. Duration of warrants
+
+            103. Renewal of warrants
+
+            104. Modification of warrants issued by the Secretary of State or Scottish Ministers
+
+            105. Approval of modifications under section 104 made in urgent cases
+
+            106. Modification of warrants issued by law enforcement chiefs
+
+            107. Approval of modifications under section 106 in urgent cases
+
+            108. Cancellation of warrants
+
+        Implementation of warrants
+
+            109. Implementation of warrants
+
+            110. Service of warrants outside the United Kingdom
+
+            111. Duty of telecommunications operators to assist with implementation
+
+        Supplementary provision
+
+            112. Safeguards relating to retention and disclosure of material
+
+            113. Safeguards relating to disclosure of material or data overseas
+
+            114. Duty not to make unauthorised disclosures
+
+            115. Section 114: meaning of “excepted” disclosure
+
+            116. Offence of making unauthorised disclosure
+
+            117. Restriction on issue of warrants to certain law enforcement officers
+
+            118. Part 5: interpretation
+
+    Part 6
+
+    Bulk warrants
+
+        Chapter 1
+
+        Bulk interception warrants
+
+            Bulk interception warrants
+
+                119. Bulk interception warrants
+
+                120. Obtaining secondary data
+
+                121. Power to issue bulk interception warrants
+
+                122. Additional requirements in respect of warrants affecting overseas operators
+
+                123. Approval of warrants by Judicial Commissioners
+
+                124. Decisions to issue warrants to be taken personally by Secretary of State
+
+                125. Requirements that must be met by warrants
+
+            Duration, modification and cancellation of warrants
+
+                126. Duration of warrants
+
+                127. Renewal of warrants
+
+                128. Modification of warrants
+
+                129. Approval of major modifications made in urgent cases
+
+                130. Cancellation of warrants
+
+            Implementation of warrants
+
+                131. Implementation of warrants
+
+            Restrictions on use or disclosure of material obtained under warrants etc.
+
+                132. Safeguards relating to retention and disclosure of material
+
+                133. Safeguards relating to disclosure of material overseas
+
+                134. Safeguards relating to examination of material
+
+                135. Additional safeguards for items subject to legal privilege
+
+                136. Application of other restrictions in relation to warrants
+
+            Interpretation
+
+                137. Chapter 1: interpretation
+
+        Chapter 2
+
+        Bulk acquisition warrants
+
+            Bulk acquisition warrants
+
+                138. Power to issue bulk acquisition warrants
+
+                139. Approval of warrants by Judicial Commissioners
+
+                140. Decisions to issue warrants to be taken personally by Secretary of State
+
+                141. Requirements that must be met by warrants
+
+            Duration, modification and cancellation of warrants
+
+                142. Duration of warrants
+
+                143. Renewal of warrants
+
+                144. Modification of warrants
+
+                145. Approval of major modifications made in urgent cases
+
+                146. Cancellation of warrants
+
+            Implementation of warrants
+
+                147. Implementation of warrants
+
+                148. Service of warrants outside the United Kingdom
+
+                149. Duty of operators to assist with implementation
+
+            Restrictions on use or disclosure of data obtained under warrants etc.
+
+                150. Safeguards relating to the retention and disclosure of data
+
+                151. Safeguards relating to examination of data
+
+            Supplementary provision
+
+                152. Offence of making unauthorised disclosure
+
+                153. Chapter 2: interpretation
+
+        Chapter 3
+
+        Bulk equipment interference warrants
+
+            Bulk equipment interference warrants
+
+                154. Bulk equipment interference warrants: general
+
+                155. Meaning of “equipment data”
+
+                156. Power to issue bulk equipment interference warrants
+
+                157. Approval of warrants by Judicial Commissioners
+
+                158. Approval of warrants issued in urgent cases
+
+                159. Failure to approve warrant issued in urgent case
+
+                160. Decisions to issue warrants to be taken personally by Secretary of State
+
+                161. Requirements that must be met by warrants
+
+            Duration, modification and cancellation of warrants
+
+                162. Duration of warrants
+
+                163. Renewal of warrants
+
+                164. Modification of warrants
+
+                165. Approval of major modifications made in urgent cases
+
+                166. Cancellation of warrants
+
+            Implementation of warrants
+
+                167. Implementation of warrants
+
+            Restrictions on use or disclosure of material obtained under warrants etc.
+
+                168. Safeguards relating to retention and disclosure of material
+
+                169. Safeguards relating to disclosure of material or data overseas
+
+                170. Safeguards relating to examination of material etc.
+
+                171. Additional safeguards for items subject to legal privilege
+
+                172. Application of other restrictions in relation to warrants
+
+            Interpretation
+
+                173. Chapter 3: interpretation
+
+    Part 7
+
+    Bulk personal dataset warrants
+
+        Bulk personal datasets: interpretation
+
+            174. Bulk personal datasets: interpretation
+
+        Requirement for warrant
+
+            175. Requirement for authorisation by warrant: general
+
+            176. Exceptions to section 175(1) and (2)
+
+        Issue of warrants
+
+            177. Class BPD warrants
+
+            178. Specific BPD warrants
+
+            179. Approval of warrants by Judicial Commissioners
+
+            180. Approval of specific BPD warrants issued in urgent cases
+
+            181. Failure to approve specific BPD warrant issued in urgent case
+
+            182. Decisions to issue warrants to be taken personally by Secretary of State
+
+            183. Requirements that must be met by warrants
+
+        Duration, modification and cancellation
+
+            184. Duration of warrants
+
+            185. Renewal of warrants
+
+            186. Modification of warrants
+
+            187. Approval of major modifications made in urgent cases
+
+            188. Cancellation of warrants
+
+            189. Non-renewal or cancellation of BPD warrants
+
+        Further and supplementary provision
+
+            190. Initial examinations: time limits
+
+            191. Safeguards relating to examination of bulk personal datasets
+
+            192. Application of Part to bulk personal datasets obtained under this Act
+
+            193. Interpretation of Part
+
+    Part 8
+
+    Oversight arrangements
+
+        Chapter 1
+
+        Investigatory Powers Commissioner and other Judicial Commissioners
+
+            The Commissioners
+
+                194. Investigatory Powers Commissioner and other Judicial Commissioners
+
+                195. Terms and conditions of appointment
+
+            Main functions of Commissioners
+
+                196. Main oversight functions
+
+                197. Additional directed oversight functions
+
+                198. Error reporting
+
+                199. Additional functions under this Part
+
+                200. Functions under other Parts and other enactments
+
+            Reports and investigation and information powers
+
+                201. Annual and other reports
+
+                202. Investigation and information powers
+
+                203. Information gateway
+
+            Supplementary provision
+
+                204. Funding, staff and facilities
+
+                205. Power to modify functions
+
+                206. Abolition of existing oversight bodies
+
+        Chapter 2
+
+        Other arrangements
+
+            Codes of practice
+
+                207. Codes of practice
+
+            Investigatory Powers Tribunal
+
+                208. Right of appeal from Tribunal
+
+                209. Functions of Tribunal in relation to this Act
+
+            Information Commissioner
+
+                210. Oversight by Information Commissioner in relation to Part 4
+
+            Technical Advisory Board
+
+                211. Technical Advisory Board
+
+    Part 9
+
+    Miscellaneous and general provisions
+
+        Chapter 1
+
+        Miscellaneous
+
+            Combined warrants and authorisations
+
+                212. Combination of warrants and authorisations
+
+            Compliance with Act
+
+                213. Payments towards certain compliance costs
+
+                214. Power to develop compliance systems etc.
+
+            Additional powers
+
+                215. Amendments of the Intelligence Services Act 1994
+
+                216. National security notices
+
+                217. Maintenance of technical capability
+
+                218. Further provision about notices under section 216 or 217
+
+                219. Variation and revocation of notices
+
+                220. Review by the Secretary of State
+
+            Wireless telegraphy
+
+                221. Amendments of the Wireless Telegraphy Act 2006
+
+        Chapter 2
+
+        General
+
+            Review of operation of Act
+
+                222. Review of operation of Act
+
+            Interpretation
+
+                223. Telecommunications definitions
+
+                224. Postal definitions
+
+                225. General definitions
+
+                226. Index of defined expressions
+
+            Supplementary provision
+
+                227. Offences by bodies corporate etc.
+
+                228. Regulations
+
+                229. Enhanced affirmative procedure
+
+                230. Financial provisions
+
+                231. Transitional, transitory or saving provision
+
+                232. Minor and consequential provision
+
+            Final provision
+
+                233. Commencement, extent and short title
+
+        Schedule 1
+
+        Monetary penalty notices
+
+            Part 1
+
+            Monetary penalty notices
+
+            Part 2
+
+            Information provisions
+
+        Schedule 2
+
+        Abolition of disclosure powers
+
+        Schedule 3
+
+        Exceptions to section 48
+
+        Schedule 4
+
+        Relevant public authorities and designated senior officers
+
+            Part 1
+
+            Table of authorities and officers
+
+            Part 2
+
+            Interpretation of table
+
+        Schedule 5
+
+        Transfer and agency arrangements with public authorities:
+        further provisions
+
+        Schedule 6
+
+        Issue of warrants under section 96 etc: table
+
+            Part 1
+
+            Table: Part 1
+
+            Part 2
+
+            Table: Part 2
+
+            Part 3
+
+            Interpretation of the table
+
+        Schedule 7
+
+        Codes of practice
+
+        Schedule 8
+
+        Combination of warrants and authorisations
+
+            Part 1
+
+            Combinations with targeted interception warrants
+
+            Part 2
+
+            Other combinations involving targeted equipment
+            interference warrants
+
+            Part 3
+
+            Combinations involving targeted examination warrants only
+
+            Part 4
+
+            Combined warrants: supplementary provision
+
+        Schedule 9
+
+        Transitional, transitory and saving provision
+
+        Schedule 10
+
+        Minor and consequential provision
+
+            Part 1
+
+            General amendments
+
+            Part 2
+
+            Lawful interception of communications
+
+            Part 3
+
+            Acquisition of communications data
+
+            Part 4
+
+            Retention of communications data
+
+            Part 5
+
+            Equipment interference
+
+            Part 6
+
+            Judicial Commissioners
+
+            Part 7
+
+            Other minor and consequential provision
+
+            Part 8
+
+            Repeals and revocations consequential on other repeals or
+            amendments in this Act
+
