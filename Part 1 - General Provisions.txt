@@ -4,6 +4,7 @@ BILL
 
 TO
 
+
 Make provision about the interception of communications, equipment interference and the acquisition and retention of communications data, bulk personal datasets and other information; to make provision about the treatment of material held as a result of such interception, equipment interference or acquisition or retention; to establish the Investigatory Powers Commissioner and other Judicial Commissioners and make provision about them and other oversight arrangements; to make further provision about investigatory powers and national security; to amend sections 3 and 5 of the Intelligence Services Act 1994; and for connected purposes.
 
 Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
@@ -76,7 +77,6 @@ Interception in relation to telecommunication systems
 (1) For the purposes of this Act, a person intercepts a communication in the course of its transmission by means of a telecommunication system if, and only if—
   (a) the person does a relevant act in relation to the system, and
   (b) the effect of the relevant act is to make any content of the communication available, at a relevant time, to a person who is not the sender or intended recipient of the communication.
-
 For the meaning of “content” in relation to a communication, see section 223(6).
 
 (2) In this section “relevant act”, in relation to a telecommunication system, means—
@@ -114,7 +114,6 @@ Interception carried out in the United Kingdom
 (2) References in this Act to the interception of a communication in the course of its transmission by means of a postal service do not include references to—
   (a) any conduct that takes place in relation only to so much of the communication as consists of any postal data comprised in, included as part of, attached to, or logically associated with a communication (whether by the sender or otherwise) for the purposes of any postal service by means of which it is being or may be transmitted, or
   (b) any conduct, in connection with conduct falling within paragraph (a), that gives a person who is neither the sender nor the intended recipient only so much access to a communication as is necessary for the purpose of identifying such postal data.
-
 For the meaning of “postal data”, see section 224.
 
 5 Definition of “lawful authority”
@@ -158,6 +157,7 @@ For the meaning of “postal data”, see section 224.
 
 (8) For the meaning of “interception” and other key expressions used in this section, see sections 3 to 5.
 
+
 7 Restriction on requesting interception by overseas authorities
 
 (1) This section applies to a request for any authorities of a country or territory outside the United Kingdom to carry out the interception of communications sent by, or intended for, an individual who the person making the request believes will be in the British Islands at the time of the interception.
@@ -182,7 +182,9 @@ For the meaning of “postal data”, see section 224.
       (a) relates to the provision of mutual assistance in connection with, or in the form of, the interception of communications,
       (b) requires the issue of a warrant, order or equivalent instrument in cases in which assistance is given, and (c) is designated as an international mutual assistance agreement by regulations made by the Secretary of State.
 
-Prohibition against unlawful obtaining of communications data 9 Offence of unlawfully obtaining communications data
+Prohibition against unlawful obtaining of communications data
+
+9 Offence of unlawfully obtaining communications data
 
 (1) A relevant person who, without lawful authority, knowingly or recklessly obtains communications data from a telecommunications operator or a postal operator is guilty of an offence.
 
@@ -232,6 +234,7 @@ Abolition of powers to obtain communications data
     (a) is conferred by or under an enactment other than this Act or the Regulation of Investigatory Powers Act 2000, and (b) is exercisable in connection with the conveyance or expected conveyance of any postal item into or out of the United Kingdom, and references to powers include duties (and references to enabling and exercising are to be read as including references to requiring and performing).
 
 Restrictions on interference with equipment
+
 
 11 Mandatory use of equipment interference warrants
 
